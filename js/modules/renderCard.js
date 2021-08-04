@@ -12,7 +12,7 @@ const renderCard = data => {
     card.className = `books__item${shelf.includes('wishlist') ? ' item-false' : ' item-true'}${readDate ? ' books__item--read' : ''}`;
 
     card.innerHTML = `        
-        <div class="books__item-img"><img src="${img ? img : '../images/no-cover.jpg'}" alt="${author} - ${book}"></div>
+        <div class="books__item-img"><img src="${img ? img : './images/no-cover.jpg'}" alt="${author} - ${book}"></div>
         <p>${author}</p>
         <p class="book-name">${book}</p>
         ${readDate ? `<p>${showDate(readDate)}</p>` : ''}

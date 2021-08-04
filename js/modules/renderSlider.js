@@ -11,8 +11,8 @@ const renderSlider = data => {
             arrows: true,
             slidesToShow: 4,
             slidesToScroll: 1,
-            prevArrow: '<button class="slick-arrow slick-prev"><img src="/images/prev.svg" alt="prev"></button>',
-            nextArrow: '<button class="slick-arrow slick-next"><img src="/images/next.svg" alt="next"></button>',
+            prevArrow: '<button class="slick-arrow slick-prev"><img src="./images/prev.svg" alt="prev"></button>',
+            nextArrow: '<button class="slick-arrow slick-next"><img src="./images/next.svg" alt="next"></button>',
             responsive: [{
                     breakpoint: 1200,
                     settings: {
