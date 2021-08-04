@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bookshelf v2.0</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <script src="libs/jquery.min.js" defer></script>
+    <script src="libs/slick.min.js" defer></script>
+    <script src="js/index.js" type="module"></script>
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header-inner">
+                <h3>
+                    <img class="header-title" src="./images/book.svg" alt="">
+                    <span>Моя библиотека</span>
+                </h3>
+                <div class="search">
+                    <input class="search-input" name="input" type="text">
+                    <button class="search-btn"><img src="./images/search.svg" alt=""></button>
+                </div>
+                <a class="cart" href="#"><img src="./images/shopping-bag.svg"><span class="cart-count"></span></a>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <section class="book-slider">
+            <h3 class="book-slider__title">Прочитано</h3>
+            <div class="book-slider__inner"></div>
+        </section>
+        <nav class="categories"><ul class="categories__list"></ul></nav>
+    </div>
+        <div class="section-books">
+            <div class="container"></div>
+        </div>
+        <div class="pagination-nav"></div>
+        <div class="modal"></div>
+
+
+</body>
+</html>

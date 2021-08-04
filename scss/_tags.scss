@@ -1,0 +1,19 @@
+.categories {
+  margin-bottom: 30px;
+  &__list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  &__item {
+    padding: 5px 10px;
+    background: transparent;
+    transition: all 0.2s;
+    &:hover {
+      cursor: pointer;
+      color: white;
+      background: darkseagreen;
+      border-radius: 6px;
+    }
+  }
+}

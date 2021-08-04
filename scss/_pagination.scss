@@ -1,0 +1,29 @@
+.pagination-nav {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 40px;
+}
+
+.pages {
+  display: flex;
+  align-items: center;
+}
+
+.page-item {
+  padding: 10px;
+}
+
+.page-active {
+  font-weight: 600;
+  color:rgba(222, 10, 0, 0.7)
+}
+
+.prev-btn, .next-btn {
+  background-color: transparent;
+  border: none;
+  padding: 10px;
+  transition: all 0.3s;
+  &:hover {
+    color:rgba(222, 10, 0, 0.7)
+  }
+}

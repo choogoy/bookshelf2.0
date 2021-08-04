@@ -1,0 +1,126 @@
+.modal {
+  top: 0;
+  left: 0;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(4px);
+  transition: all 0.4s;
+  overflow: auto;
+  z-index: -1;
+  &-inner {
+    display: table;
+    height: 100%;
+    width: 100%;
+  }
+  &-dialog {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 50px 0;
+  }
+  &-content {
+    font-size: 14px;
+    background: #fff;
+    padding: 25px;
+    max-width: 800px;
+    min-height: 500px;
+    margin: 0 auto;
+    z-index: 10;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px -15px #000;
+    display: flex;
+    position: relative;
+    & img {
+      width: 300px;
+      height: 450px;
+      border: none;
+      object-fit: contain;
+    }
+    & p {
+      margin-bottom: 10px;
+    }
+    &__img {
+      display: flex;
+      justify-content: center;
+      width: 50%;
+    }
+    &__text {
+      width: 50%;
+      padding: 40px 5px 0;
+      display: flex;
+      flex-direction: column;
+    }
+  }
+}
+
+.close {
+  width: 20px;
+  height: 20px;
+  background-image: url('../images/close.svg');
+  background-size: cover;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+  transition: all 0.3s;
+  &:hover {
+    transform: rotate(135deg);
+    color:rgba(222, 10, 0, 0.7);
+  }
+}
+
+.add-to-cart-btn {
+  margin: auto 0 0 auto;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+  width: 200px;
+  transition: all 0.3s;
+  color: rgba(222, 10, 0, 0.7);
+  border: 1px solid rgba(222, 10, 0, 0.7);
+  &:hover {
+    background-color:rgba(222, 10, 0, 0.7);
+    color: white;
+  }
+}
+
+@media (max-width: 850px) {
+  .modal-content {
+    flex-direction: column;
+    text-align: center;
+    width: 400px;
+  }
+
+  .modal-content__img {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 0 auto;
+    & img {
+      height: 400px;
+    }
+  }
+
+  .modal-content__text {
+    width: 100%;
+    padding: 10px 25px;
+  }
+
+  .add-to-cart-btn {
+    margin: 15px auto 0;
+  }
+}
+
+@media (max-width: 400px) {
+  .modal-content {
+    width: calc(100% - 30px);
+    padding: 25px 10px 10px;
+    &_img img {
+      height: 300px;
+    }
+    &__text {
+      padding: 10px 0;
+    }
+  }
+}
