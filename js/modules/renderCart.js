@@ -20,14 +20,14 @@ const renderCart = data => {
 
                     html += `<div class="cart-item">
                                 <div class="cart-item__book">
-                                    <div class="cart-item__img"><img src="${good.img ? good.img : '../images/no-cover.jpg'}"></img></div>                            
+                                    <div class="cart-item__img"><img src="${good.img ? good.img : './images/no-cover.jpg'}"></img></div>                            
                                     <div class="cart-item__name">${good.author} - ${good.book}</div>                            
                                 </div>                
                                 <div class="cart-item__count" data-book-id="${good.bookID}">
                                     <button class="cart-item__count--minus">-</button><span>${elem.count} шт.</span><button class="cart-item__count--plus">+</button>
                                 </div>
                                 <div class="cart-item__cost" data-cost="${(good.price).toFixed(2)}">${prettify((good.price * elem.count).toFixed(2))} ₽</div>
-                                <button class="cart-item__delete" data-book-id="${good.bookID}"><img src="../images/close.svg"></button>
+                                <button class="cart-item__delete" data-book-id="${good.bookID}"><img src="./images/close.svg"></button>
                             </div>`;
     
                     total += good.price * elem.count;
