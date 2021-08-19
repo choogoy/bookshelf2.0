@@ -5665,8 +5665,10 @@
             "author": "Олег Радзинский",
             "book": "Агафонкин и Время",
             "year": "2014",
+            "buyDate": "08/23/21",
+            "price": "480",
             "publisher": "Corpus",
-            "shelf": "corpus radzinsky wishlist",
+            "shelf": "corpus radzinsky",
             "img": "https://www.corpus.ru/picts/products/agafonkin.jpg"
         },
         {
