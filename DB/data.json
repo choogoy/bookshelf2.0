@@ -1,5 +1,5 @@
 {
-    "books": [
+    "Лист1": [
         {
             "id": "255",
             "author": "Ася Казанцева",
@@ -747,6 +747,12 @@
             "img": "https://s1.livelib.ru/boocover/1000583272/o/917a/Nikolaj_Viktorovich_Kononov__Kod_Durova._Realnaya_istoriya_VKontakte_i_ee_sozdat.jpeg"
         },
         {
+            "author": "Уолтер Айзексон",
+            "book": "Бенджамин Франклин. Биография",
+            "shelf": "izakson wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000668506/o/96c8/Uolter_Ajzekson__Bendzhamin_Franklin._Biografiya.jpeg"
+        },
+        {
             "id": "n",
             "author": "Уолтер Айзексон",
             "book": "Стив Джобс",
@@ -797,10 +803,11 @@
         },
         {
             "author": "Уолтер Айзексон",
-            "book": "Бенджамин Франклин. Биография",
-            "publisher": "Corpus",
-            "shelf": "izakson corpus wishlist",
-            "img": "https://s1.livelib.ru/boocover/1000668506/o/96c8/Uolter_Ajzekson__Bendzhamin_Franklin._Biografiya.jpeg"
+            "book": "Invent and Wander. Избранные статьи создателя Amazon Джеффа Безоса",
+            "year": "2021",
+            "publisher": "Бомбора",
+            "shelf": "izakson bombora wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006270357/o/c980/Uolter_Ajzekson__Invent_and_Wander._Izbrannye_stati_sozdatelya_Amazon_Dzheffa_Be.jpeg"
         },
         {
             "author": "Фредерик Бегбедер",
@@ -2285,6 +2292,12 @@
             "publisher": "Corpus",
             "shelf": "namedni corpus",
             "img": "https://www.corpus.ru/picts/products/Parfenov-2006-2010-1000.jpg"
+        },
+        {
+            "author": "Леонид Парфенов",
+            "book": "Намедни. Наша эра. 2011-2015",
+            "year": "2021",
+            "shelf": "namedni corpus wishlist"
         },
         {
             "author": "Мишель Уэльбек",
@@ -5663,10 +5676,11 @@
             "img": "https://www.corpus.ru/picts/products/Radzinsky-Surinam-1000.jpg"
         },
         {
+            "id": "n",
             "author": "Олег Радзинский",
             "book": "Агафонкин и Время",
             "year": "2014",
-            "buyDate": "08/23/21",
+            "buyDate": "8/23/21",
             "price": "480",
             "publisher": "Corpus",
             "shelf": "corpus radzinsky",
@@ -9221,6 +9235,13 @@
             "img": "https://s1.livelib.ru/boocover/1002896100/o/34cd/Hanna_Kent__Temnaya_voda.jpeg"
         },
         {
+            "author": "Кэролайн Куни",
+            "book": "Лицо на пакете молока",
+            "publisher": "Бомбора",
+            "shelf": "bombora wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006102507/o/3847/Kerolajn_B._Kuni__Litso_na_pakete_moloka.jpeg"
+        },
+        {
             "author": "Риэко Хината",
             "book": "Книжная лавка под дождём",
             "shelf": "bookstore wishlist",
@@ -9517,27 +9538,32 @@
         {
             "author": "Энтони Бёрджесс",
             "book": "Заводной апельсин",
-            "shelf": "wishlist"
+            "shelf": "alternative wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000578787/o/c48c/Entoni_Bjordzhess__Zavodnoj_apelsin.jpeg"
         },
         {
             "author": "Алексей Иванов",
             "book": "Географ глобус пропил",
-            "shelf": "wishlist"
+            "shelf": "wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000255643/o/a360/Aleksej_Ivanov__Geograf_globus_propil.jpeg"
         },
         {
             "author": "Игорь Сахновский",
             "book": "Человек, который всё знал",
-            "shelf": "wishlist"
+            "shelf": "wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000994926/o/cd91/Igor_Sahnovskij__Chelovek_kotoryj_znal_vsjo.jpeg"
         },
         {
             "author": "Джон Бойн",
             "book": "Мальчик в полосатой пижаме",
-            "shelf": "wishlist"
+            "shelf": "wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000332454/o/0c0f/Dzhon_Bojn__Malchik_v_polosatoj_pizhame.jpeg"
         },
         {
             "author": "Дмитрий Глуховский",
             "book": "Текст",
-            "shelf": "wishlist"
+            "shelf": "wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002267379/o/db8a/Dmitrij_Gluhovskij__Tekst.jpeg"
         },
         {
             "author": "Артем Исламов",
