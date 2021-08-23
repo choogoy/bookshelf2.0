@@ -1,5 +1,5 @@
 {
-    "books": [
+    "Лист1": [
         {
             "id": "255",
             "author": "Ася Казанцева",
@@ -7653,7 +7653,7 @@
             "book": "Тюремный дневник",
             "year": "2020",
             "buyDate": "11/26/20",
-            "readDate": "08/21/21",
+            "readDate": "8/21/21",
             "price": "399",
             "publisher": "АСТ",
             "shelf": "prison ast",
@@ -8364,6 +8364,16 @@
             "publisher": "Бомбора",
             "shelf": "bombora politeh wishlist",
             "img": "https://seatracker.ru/pictures/692c5efd5b746f63fcc042a45179c799.jpg"
+        },
+        {
+            "author": "Ричард Уотсон",
+            "book": "Технологии против Человека. Как мы будем жить, любить и думать в следующие 50 лет?",
+            "year": "2021",
+            "buyDate": "8/24/21",
+            "price": "472",
+            "publisher": "Бомбора",
+            "shelf": "bombora",
+            "img": "https://s1.livelib.ru/boocover/1003171297/o/b81c/Richard_Uotson__Tehnologii_protiv_Cheloveka._Kak_my_budem_zhit_lyubit_i_dumat_v_.jpeg"
         },
         {
             "author": "Доктор Би Джей Фогг",
