@@ -805,7 +805,7 @@
             "author": "Уолтер Айзексон",
             "book": "Invent and Wander. Избранные статьи создателя Amazon Джеффа Безоса",
             "year": "2021",
-            "buyDate": "08/26/21",
+            "buyDate": "8/26/21",
             "price": "636",
             "publisher": "Бомбора",
             "shelf": "izakson bombora",
@@ -9246,6 +9246,16 @@
             "publisher": "Синдбад",
             "shelf": "kent sindbad",
             "img": "https://s1.livelib.ru/boocover/1002896100/o/34cd/Hanna_Kent__Temnaya_voda.jpeg"
+        },
+        {
+            "author": "Эрик Шмидт, Алан Игл, Джонатан Розенберг",
+            "book": "Как работает Google",
+            "year": "2015",
+            "buyDate": "8/26/21",
+            "price": "560",
+            "publisher": "Эксмо",
+            "shelf": "eksmo",
+            "img": "https://s1.livelib.ru/boocover/1002306954/o/602a/__Kak_rabotaet_Google.jpeg"
         },
         {
             "author": "Кэролайн Куни",
