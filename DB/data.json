@@ -9262,22 +9262,49 @@
         {
             "author": "Эрик Шмидт, Алан Игл, Джонатан Розенберг",
             "book": "Как работает Google",
-            "year": "2015",
+            "year": "2021",
             "buyDate": "8/28/21",
             "price": "592",
-            "publisher": "Эксмо",
-            "shelf": "eksmo",
+            "publisher": "Бомбора",
+            "shelf": "bombora",
             "img": "https://s1.livelib.ru/boocover/1002306954/o/602a/__Kak_rabotaet_Google.jpeg"
         },
         {
-            "author": "Кэролайн Куни",
+            "author": "Кэролайн Б. Куни",
             "book": "Лицо на пакете молока",
             "year": "2021",
             "buyDate": "8/28/21",
             "price": "272",
             "publisher": "Бомбора",
-            "shelf": "bombora",
+            "shelf": "bombora kuni moloko",
             "img": "https://s1.livelib.ru/boocover/1006102507/o/3847/Kerolajn_B._Kuni__Litso_na_pakete_moloka.jpeg"
+        },
+        {
+            "author": "Кэролайн Б. Куни",
+            "book": "Притворись моей сестрой",
+            "year": "2021",
+            "shelf": "bombora kuni moloko wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006300618/o/b02a/Kerolajn_B._Kuni__Pritvoris_moej_sestroj.jpeg"
+        },
+        {
+            "author": "Кэролайн Б. Куни",
+            "book": "Голос в радиоэфире",
+            "year": "2021",
+            "shelf": "bombora kuni moloko wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006468216/o/2eed/Kerolajn_B._Kuni__Golos_v_radioefire.jpeg"
+        },
+        {
+            "author": "Кэролайн Б. Куни",
+            "book": "Что Дженни обнаружила?",
+            "year": "2021",
+            "shelf": "bombora kuni moloko wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000641774/o/50d7/Caroline_B._Cooney__What_Janie_Found_.jpeg"
+        },
+        {
+            "author": "Кэролайн Б. Куни",
+            "book": "5 книга",
+            "year": "2022",
+            "shelf": "bombora kuni moloko wishlist"
         },
         {
             "author": "Риэко Хината",
