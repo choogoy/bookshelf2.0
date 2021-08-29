@@ -9207,8 +9207,17 @@
             "year": "2021",
             "buyDate": "7/22/21",
             "price": "419",
-            "shelf": "bookstore",
+            "shelf": "bookstore rina animant-kramb",
             "img": "https://s1.livelib.ru/boocover/1005605500/o/fd0b/Lin_Rina__Knizhnye_hroniki_Animant_Kramb.jpeg"
+        },
+        {
+            "author": "Лин Рина",
+            "book": "Вселенная Анимант Крамб. Лондонские хроники",
+            "year": "2021",
+            "buyDate": "8/1/21",
+            "price": "440",
+            "shelf": "bookstore rina animant-kramb",
+            "img": "https://s1.livelib.ru/boocover/1006013569/o/0847/Lin_Rina__Vselennaya_Animant_Kramb._Londonskie_hroniki.jpeg"
         },
         {
             "author": "Маттиас Энар",
@@ -9265,8 +9274,8 @@
             "year": "2021",
             "buyDate": "8/28/21",
             "price": "592",
-            "publisher": "Бомбора",
-            "shelf": "bombora",
+            "publisher": "Эксмо",
+            "shelf": "eksmo bombora",
             "img": "https://s1.livelib.ru/boocover/1002306954/o/602a/__Kak_rabotaet_Google.jpeg"
         },
         {
