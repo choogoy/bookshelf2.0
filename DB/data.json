@@ -463,6 +463,22 @@
             "img": "https://www.corpus.ru/picts/products/cover1-otchayanie.jpg"
         },
         {
+            "author": "Владимир Набоков",
+            "book": "Защита Лужина",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus nabokov wishlist",
+            "img": "https://cdn.book24.ru/v2/ASE000000000858714/COVER/cover13d__w410.webp"
+        },
+        {
+            "author": "Владимир Набоков",
+            "book": "Король, дама, валет",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus nabokov wishlist",
+            "img": "https://cdn.book24.ru/v2/ASE000000000858721/COVER/cover13d__w410.webp"
+        },
+        {
             "author": "Эрленд Лу",
             "book": "Во власти женщины",
             "year": "1993",
@@ -7577,39 +7593,6 @@
             "img": "https://www.corpus.ru/picts/products/cover1-yarnysh.jpg"
         },
         {
-            "id": "n",
-            "author": "Ханна Фрай",
-            "book": "Hello World",
-            "year": "2020",
-            "buyDate": "11/4/20",
-            "price": "459.07",
-            "publisher": "Corpus",
-            "shelf": "corpus politeh",
-            "img": "https://www.corpus.ru/picts/products/cover-frai-hello.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Оливер Мортон",
-            "book": "Луна. История будущего",
-            "year": "2020",
-            "buyDate": "11/18/20",
-            "price": "574",
-            "publisher": "Corpus",
-            "shelf": "corpus politeh space",
-            "img": "https://www.corpus.ru/picts/products/cover1-luna.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Джеймс Глик",
-            "book": "Хаос. Создание новой науки",
-            "year": "2020",
-            "buyDate": "12/8/20",
-            "price": "637",
-            "publisher": "Corpus",
-            "shelf": "corpus politeh",
-            "img": "https://www.corpus.ru/picts/products/cover1-glick.jpg"
-        },
-        {
             "author": "Келси Миллер",
             "book": "Друзья. Больше, чем просто сериал. История создания самого популярного ситкома в истории",
             "year": "2020",
@@ -8312,6 +8295,48 @@
             "img": "https://www.corpus.ru/picts/products/shpion-na-milliard-dollarov.jpg"
         },
         {
+            "id": "n",
+            "author": "Ханна Фрай",
+            "book": "Hello World",
+            "year": "2020",
+            "buyDate": "11/4/20",
+            "price": "459.07",
+            "publisher": "Corpus",
+            "shelf": "corpus politeh",
+            "img": "https://www.corpus.ru/picts/products/cover-frai-hello.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Оливер Мортон",
+            "book": "Луна. История будущего",
+            "year": "2020",
+            "buyDate": "11/18/20",
+            "price": "574",
+            "publisher": "Corpus",
+            "shelf": "corpus politeh space",
+            "img": "https://www.corpus.ru/picts/products/cover1-luna.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Джеймс Глик",
+            "book": "Хаос. Создание новой науки",
+            "year": "2020",
+            "buyDate": "12/8/20",
+            "price": "637",
+            "publisher": "Corpus",
+            "shelf": "corpus politeh",
+            "img": "https://www.corpus.ru/picts/products/cover1-glick.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Майкл Газзанига",
+            "book": "Истории от разных полушарий мозга",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus politeh wishlist",
+            "img": "https://cdn.book24.ru/v2/ASE000000000845213/COVER/cover13d__w410.webp"
+        },
+        {
             "author": "Сьюзан Хокфилд",
             "book": "Время живых машин",
             "year": "2020",
@@ -8320,16 +8345,6 @@
             "publisher": "Альпина нон-фикшн",
             "shelf": "politeh alpina",
             "img": "https://s1.livelib.ru/boocover/1005539686/o/b0f3/Syuzan_Hokfild__Vremya_zhivyh_mashin_Biologicheskaya_revolyutsiya_v_tehnologiyah.jpeg"
-        },
-        {
-            "author": "Лоуренс Бернс, Кристофер Шульган",
-            "book": "Автономия. Как появился автомобиль без водителя и что это значит для нашего будущего",
-            "year": "2020",
-            "buyDate": "12/24/20",
-            "price": "486",
-            "publisher": "Бомбора",
-            "shelf": "bombora politeh",
-            "img": "https://bombora.ru/upload/resize_cache/iblock/aea/206_323_1/cover1.jpg"
         },
         {
             "author": "Майкл Грациано",
@@ -8360,6 +8375,16 @@
             "publisher": "Альпина нон-фикшн",
             "shelf": "politeh alpina",
             "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc1200/6038144463.jpg"
+        },
+        {
+            "author": "Лоуренс Бернс, Кристофер Шульган",
+            "book": "Автономия. Как появился автомобиль без водителя и что это значит для нашего будущего",
+            "year": "2020",
+            "buyDate": "12/24/20",
+            "price": "486",
+            "publisher": "Бомбора",
+            "shelf": "bombora politeh",
+            "img": "https://bombora.ru/upload/resize_cache/iblock/aea/206_323_1/cover1.jpg"
         },
         {
             "author": "Марк Левинсон",
