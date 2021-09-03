@@ -284,7 +284,8 @@
             "book": "Сердца четырёх",
             "year": "1991",
             "publisher": "Corpus",
-            "shelf": "sorokin wishlist"
+            "shelf": "corpus sorokin wishlist",
+            "img": "https://www.corpus.ru/picts/products/Sorokin-4-1000.jpg"
         },
         {
             "author": "Владимир Сорокин",
@@ -434,16 +435,20 @@
             "author": "Владимир Набоков",
             "book": "Камера обскура",
             "year": "2021",
+            "buyDate": "9/8/21",
+            "price": "271",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist",
+            "shelf": "corpus nabokov",
             "img": "https://www.corpus.ru/picts/products/cover-nabokov-obdkur.jpg"
         },
         {
             "author": "Владимир Набоков",
             "book": "Лолита",
             "year": "2021",
+            "buyDate": "9/8/21",
+            "price": "311",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist",
+            "shelf": "corpus nabokov",
             "img": "https://www.corpus.ru/picts/products/cover1-nabokov-lolita.jpg"
         },
         {
@@ -468,7 +473,7 @@
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus nabokov wishlist",
-            "img": "https://cdn.book24.ru/v2/ASE000000000858714/COVER/cover13d__w410.webp"
+            "img": "https://www.corpus.ru/picts/products/cover1-luzhin.jpg"
         },
         {
             "author": "Владимир Набоков",
@@ -476,7 +481,7 @@
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus nabokov wishlist",
-            "img": "https://cdn.book24.ru/v2/ASE000000000858721/COVER/cover13d__w410.webp"
+            "img": "https://www.corpus.ru/picts/products/cover1-kqj.jpg"
         },
         {
             "author": "Эрленд Лу",
@@ -8234,7 +8239,7 @@
             "author": "Дэвид Граймс",
             "book": "Неразумная обезьяна. Почему мы верим в дезинформацию, теории заговора и пропаганду",
             "year": "2021",
-            "buyDate": "8/31/21",
+            "buyDate": "9/3/21",
             "price": "821",
             "publisher": "Corpus",
             "shelf": "corpus social",
@@ -8277,9 +8282,11 @@
             "author": "Бен Макинтайр",
             "book": "Шпион и предатель. Самая громкая шпионская история времен холодной войны",
             "year": "2021",
+            "buyDate": "9/8/21",
+            "price": "566",
             "publisher": "Corpus",
-            "shelf": "corpus razvedcorpus wishlist",
-            "img": "https://cdn.book24.ru/v2/ASE000000000853267/COVER/cover13d__w410.webp"
+            "shelf": "corpus razvedcorpus",
+            "img": "https://www.corpus.ru/picts/products/cover1-macintair-spion.jpg"
         },
         {
             "author": "Бен Макинтайр",
@@ -8330,11 +8337,11 @@
         {
             "id": "n",
             "author": "Майкл Газзанига",
-            "book": "Истории от разных полушарий мозга",
+            "book": "Истории от разных полушарий мозга. Жизнь в нейронауке",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus politeh wishlist",
-            "img": "https://cdn.book24.ru/v2/ASE000000000845213/COVER/cover13d__w410.webp"
+            "img": "https://www.corpus.ru/picts/products/Gazzaniga-Mozg-1000.jpg"
         },
         {
             "author": "Сьюзан Хокфилд",
@@ -9151,7 +9158,7 @@
             "author": "Яна Хлюстова",
             "book": "Шнобелевская премия. Самые нелепые изобретения и не только",
             "year": "2021",
-            "buyDate": "8/31/21",
+            "buyDate": "9/3/21",
             "price": "390",
             "publisher": "АСТ",
             "shelf": "ast",
@@ -9240,7 +9247,7 @@
             "author": "Лин Рина",
             "book": "Вселенная Анимант Крамб. Лондонские хроники",
             "year": "2021",
-            "buyDate": "9/1/21",
+            "buyDate": "9/5/21",
             "price": "440",
             "shelf": "bookstore rina animant-kramb",
             "img": "https://s1.livelib.ru/boocover/1006013569/o/0847/Lin_Rina__Vselennaya_Animant_Kramb._Londonskie_hroniki.jpeg"
