@@ -2215,8 +2215,18 @@
         {
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 1961-1970",
+            "buyDate": "9/10/21",
+            "price": "2198",
             "publisher": "КоЛибри",
-            "shelf": "namedni kolibri wishlist",
+            "shelf": "namedni kolibri",
+            "img": "https://s1.livelib.ru/boocover/1000567141/o/bac3/Parfjonov_Leonid__Namedni._Nasha_era._19611970.jpeg"
+        },
+        {
+            "author": "Леонид Парфенов",
+            "book": "Намедни. Наша эра. 1961-1970",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "namedni corpus wishlist",
             "img": "https://s1.livelib.ru/boocover/1000567141/o/bac3/Parfjonov_Leonid__Namedni._Nasha_era._19611970.jpeg"
         },
         {
@@ -2320,6 +2330,7 @@
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 2011-2015",
             "year": "2021",
+            "publisher": "Corpus",
             "shelf": "namedni corpus wishlist"
         },
         {
