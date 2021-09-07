@@ -435,7 +435,7 @@
             "author": "Владимир Набоков",
             "book": "Камера обскура",
             "year": "2021",
-            "buyDate": "9/8/21",
+            "buyDate": "9/10/21",
             "price": "271",
             "publisher": "Corpus",
             "shelf": "corpus nabokov",
@@ -445,7 +445,7 @@
             "author": "Владимир Набоков",
             "book": "Лолита",
             "year": "2021",
-            "buyDate": "9/8/21",
+            "buyDate": "9/10/21",
             "price": "311",
             "publisher": "Corpus",
             "shelf": "corpus nabokov",
@@ -8298,7 +8298,7 @@
             "author": "Бен Макинтайр",
             "book": "Шпион и предатель. Самая громкая шпионская история времен холодной войны",
             "year": "2021",
-            "buyDate": "9/8/21",
+            "buyDate": "9/10/21",
             "price": "566",
             "publisher": "Corpus",
             "shelf": "corpus razvedcorpus",
@@ -9264,7 +9264,7 @@
             "author": "Лин Рина",
             "book": "Вселенная Анимант Крамб. Лондонские хроники",
             "year": "2021",
-            "buyDate": "9/10/21",
+            "buyDate": "9/15/21",
             "price": "440",
             "shelf": "bookstore rina animant-kramb",
             "img": "https://s1.livelib.ru/boocover/1006013569/o/0847/Lin_Rina__Vselennaya_Animant_Kramb._Londonskie_hroniki.jpeg"
@@ -9337,6 +9337,16 @@
             "publisher": "Питер",
             "shelf": "piter",
             "img": "https://kniga.lv/wp-content/uploads/2021/09/44612952.jpg"
+        },
+        {
+            "author": "Марк Рэндольф",
+            "book": "That will never work. Это никогда не будет работать. История создания Netflix, рассказанная ее основателем",
+            "year": "2021",
+            "buyDate": "9/9/21",
+            "price": "560",
+            "publisher": "Бомбора",
+            "shelf": "bombora",
+            "img": "https://s1.livelib.ru/boocover/1005705988/o/c980/Mark_Rendolf__That_will_never_work._Istoriya_sozdaniya_Netflix_rasskazannaya_ee_.jpeg"
         },
         {
             "author": "Кэролайн Б. Куни",
