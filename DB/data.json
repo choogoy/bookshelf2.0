@@ -9289,6 +9289,20 @@
             "img": "https://knigid.ru/uploads/posts/2021-07/1625805889_726.jpg"
         },
         {
+            "author": "Аманда Хендрикс, Чарльз Уолфорт",
+            "book": "За пределами Земли. В поисках нового дома в Солнечной системе",
+            "buyDate": "9/9/21",
+            "price": "295",
+            "img": "https://s1.livelib.ru/boocover/1002727094/o/a639/__Za_predelami_Zemli._V_poiskah_novogo_doma_v_Solnechnoj_sisteme.jpeg"
+        },
+        {
+            "author": "Тим Фернхольц",
+            "book": "Новая космическая гонка: Как Илон Маск, Джефф Безос и Ричард Брэнсон соревнуются за первенство в космосе",
+            "buyDate": "9/9/21",
+            "price": "295",
+            "img": "https://s1.livelib.ru/boocover/1002898318/o/c449/__Novaya_kosmicheskaya_gonka._Kak_Ilon_Mask_Richard_Brenson_i_Dzheff_Bezos_sorev.jpeg"
+        },
+        {
             "author": "Рэй Коннолли",
             "book": "Быть Джоном Ленноном",
             "year": "2021",
