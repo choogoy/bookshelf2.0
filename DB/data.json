@@ -8053,6 +8053,7 @@
             "book": "Ночной цирк",
             "year": "2019",
             "buyDate": "3/31/21",
+            "readDate": "8/8/21",
             "price": "400",
             "publisher": "Corpus",
             "shelf": "corpus morgenstern",
@@ -8516,6 +8517,13 @@
             "publisher": "Иностранка",
             "shelf": "kolgan inostranka",
             "img": "https://s1.livelib.ru/boocover/1005935824/o/954e/Dzhenni_Kolgan__Bereg_schastlivyh_vstrech.jpeg"
+        },
+        {
+            "author": "Дженни Колган",
+            "book": "Встретимся в кафе «Капкейк»",
+            "year": "2021",
+            "shelf": "kolgan inostranka wishlist",
+            "img": "https://sun9-60.userapi.com/impg/2X3qUQzybaxfUTrL521K7FJkmvpAkPggLsbtTg/gqX6nm8k4t4.jpg?size=691x1080&quality=96&sign=965cd42132c9a5322555629772be7970&type=album"
         },
         {
             "author": "Билл Сэмюэл",
