@@ -432,20 +432,22 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Triumph-1000.jpg"
         },
         {
+            "id": "658",
             "author": "Владимир Набоков",
             "book": "Камера обскура",
             "year": "2021",
-            "buyDate": "9/10/21",
+            "buyDate": "9/9/21",
             "price": "271",
             "publisher": "Corpus",
             "shelf": "corpus nabokov",
             "img": "https://www.corpus.ru/picts/products/cover-nabokov-obdkur.jpg"
         },
         {
+            "id": "659",
             "author": "Владимир Набоков",
             "book": "Лолита",
             "year": "2021",
-            "buyDate": "9/10/21",
+            "buyDate": "9/9/21",
             "price": "311",
             "publisher": "Corpus",
             "shelf": "corpus nabokov",
@@ -8052,11 +8054,10 @@
             "author": "Эрин Моргенштерн",
             "book": "Ночной цирк",
             "year": "2019",
-            "buyDate": "3/31/21",
             "readDate": "9/8/21",
             "price": "400",
             "publisher": "Corpus",
-            "shelf": "corpus morgenstern",
+            "shelf": "corpus morgenstern wishlist",
             "img": "https://www.corpus.ru/picts/products/Morgenstern-Circus-obl.jpg"
         },
         {
@@ -8065,7 +8066,7 @@
             "book": "Ночной цирк",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus morgenstern wishlist",
+            "shelf": "corpus morgenstern",
             "img": "https://www.corpus.ru/picts/products/cover-cirk-new.jpg"
         },
         {
@@ -8296,10 +8297,11 @@
             "img": "https://www.corpus.ru/picts/products/MacIntyre-Shpion-1001.jpg"
         },
         {
+            "id": "662",
             "author": "Бен Макинтайр",
             "book": "Шпион и предатель. Самая громкая шпионская история времен холодной войны",
             "year": "2021",
-            "buyDate": "9/10/21",
+            "buyDate": "9/9/21",
             "price": "566",
             "publisher": "Corpus",
             "shelf": "corpus razvedcorpus",
@@ -9421,7 +9423,7 @@
         },
         {
             "author": "Кэролайн Б. Куни",
-            "book": "Что Дженни обнаружила?",
+            "book": "Ключ к прошлому",
             "year": "2021",
             "publisher": "Бомбора",
             "shelf": "bombora kuni moloko wishlist",
@@ -9429,7 +9431,7 @@
         },
         {
             "author": "Кэролайн Б. Куни",
-            "book": "5 книга",
+            "book": "Лицом к лицу",
             "year": "2022",
             "publisher": "Бомбора",
             "shelf": "bombora kuni moloko wishlist"
