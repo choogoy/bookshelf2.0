@@ -8053,9 +8053,25 @@
             "id": "n",
             "author": "Эрин Моргенштерн",
             "book": "Ночной цирк",
+            "year": "2013",
+            "publisher": "Corpus",
+            "shelf": "corpus morgenstern wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000549185/o/a781/Erin_Morgenshtern__Nochnoj_tsirk.jpeg"
+        },
+        {
+            "id": "n",
+            "author": "Эрин Моргенштерн",
+            "book": "Ночной цирк",
+            "year": "2015",
+            "publisher": "Corpus",
+            "shelf": "corpus morgenstern wishlist",
+            "img": "https://s1.livelib.ru/boocover/1001152587/o/ab36/Erin_Morgenshtern__Nochnoj_tsirk.jpeg"
+        },
+        {
+            "id": "n",
+            "author": "Эрин Моргенштерн",
+            "book": "Ночной цирк",
             "year": "2019",
-            "readDate": "9/8/21",
-            "price": "400",
             "publisher": "Corpus",
             "shelf": "corpus morgenstern wishlist",
             "img": "https://www.corpus.ru/picts/products/Morgenstern-Circus-obl.jpg"
@@ -8065,8 +8081,9 @@
             "author": "Эрин Моргенштерн",
             "book": "Ночной цирк",
             "year": "2021",
+            "readDate": "9/8/21",
             "publisher": "Corpus",
-            "shelf": "corpus morgenstern",
+            "shelf": "corpus morgenstern wishlist",
             "img": "https://www.corpus.ru/picts/products/cover-cirk-new.jpg"
         },
         {
@@ -9301,6 +9318,7 @@
         {
             "author": "Аманда Хендрикс, Чарльз Уолфорт",
             "book": "За пределами Земли. В поисках нового дома в Солнечной системе",
+            "year": "2018",
             "buyDate": "9/9/21",
             "price": "295",
             "publisher": "Альпина нон-фикшн",
@@ -9310,15 +9328,17 @@
         {
             "author": "Тим Фернхольц",
             "book": "Новая космическая гонка: Как Илон Маск, Джефф Безос и Ричард Брэнсон соревнуются за первенство в космосе",
+            "year": "2021",
             "buyDate": "9/9/21",
             "price": "295",
-            "publisher": "Альпина нон-фикшн",
+            "publisher": "Альпина паблишер",
             "shelf": "alpina space",
             "img": "https://s1.livelib.ru/boocover/1002898318/o/c449/__Novaya_kosmicheskaya_gonka._Kak_Ilon_Mask_Richard_Brenson_i_Dzheff_Bezos_sorev.jpeg"
         },
         {
             "author": "Иэн Стюарт",
             "book": "Математика космоса: Как современная наука расшифровывает Вселенную",
+            "year": "2021",
             "buyDate": "9/9/21",
             "price": "297",
             "publisher": "Альпина нон-фикшн",
@@ -9434,7 +9454,8 @@
             "book": "Лицом к лицу",
             "year": "2022",
             "publisher": "Бомбора",
-            "shelf": "bombora kuni moloko wishlist"
+            "shelf": "bombora kuni moloko wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000641776/o/50d7/Caroline_B._Cooney__Janie_Face_to_Face.jpeg"
         },
         {
             "author": "Риэко Хината",
@@ -9747,6 +9768,12 @@
             "book": "Человек, который всё знал",
             "shelf": "wishlist",
             "img": "https://s1.livelib.ru/boocover/1000994926/o/cd91/Igor_Sahnovskij__Chelovek_kotoryj_znal_vsjo.jpeg"
+        },
+        {
+            "author": "Харпер Ли",
+            "book": "Убить пересмешника",
+            "shelf": "wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002723093/o/5fc4/Harper_Li__Ubit_peresmeshnika.jpeg"
         },
         {
             "author": "Джон Бойн",
