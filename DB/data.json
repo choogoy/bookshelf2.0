@@ -8014,6 +8014,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-motorov.jpg"
         },
         {
+            "id": "665",
             "author": "Алексей Моторов",
             "book": "Юные годы медбрата Паровозова",
             "year": "2021",
@@ -8022,6 +8023,7 @@
             "img": "https://cdn.book24.ru/v2/ASE000000000860429/COVER/cover13d__w410.webp"
         },
         {
+            "id": "666",
             "author": "Алексей Моторов",
             "book": "Преступление доктора Паровозова",
             "year": "2021",
@@ -8030,11 +8032,14 @@
             "img": "https://cdn.book24.ru/v2/ASE000000000860432/COVER/cover13d__w410.webp"
         },
         {
+            "id": "667",
             "author": "Алексей Моторов",
             "book": "Шестая койка и другие истории из жизни Паровозова",
             "year": "2021",
+            "buyDate": "9/18/21",
+            "price": "410",
             "publisher": "Corpus",
-            "shelf": "corpus motorov wishlist",
+            "shelf": "corpus motorov",
             "img": "https://cdn.book24.ru/v2/ASE000000000858103/COVER/cover13d__w410.webp"
         },
         {
@@ -8117,6 +8122,16 @@
             "img": "https://cdn1.ozone.ru/multimedia/wc1200/1011334022.jpg"
         },
         {
+            "id": "402",
+            "author": "Максим Кронгауз",
+            "book": "Русский язык на грани нервного срыва",
+            "buyDate": "9/18/21",
+            "price": "446",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Krongauz-Na%20grani%20sryva-1000.jpg"
+        },
+        {
             "id": "627",
             "author": "Ирина Левонтина",
             "book": "Честное слово",
@@ -8159,9 +8174,11 @@
             "author": "Эрин Моргенштерн",
             "book": "Ночной цирк",
             "year": "2021",
+            "buyDate": "9/18/21",
             "readDate": "9/8/21",
+            "price": "498",
             "publisher": "Corpus",
-            "shelf": "corpus morgenstern wishlist",
+            "shelf": "corpus morgenstern",
             "img": "https://www.corpus.ru/picts/products/cover-cirk-new.jpg"
         },
         {
