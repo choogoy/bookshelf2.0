@@ -446,8 +446,10 @@
             "author": "Владимир Набоков",
             "book": "Отчаяние",
             "year": "2021",
+            "buyDate": "9/21/21",
+            "price": "313",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist",
+            "shelf": "corpus nabokov",
             "img": "https://www.corpus.ru/picts/products/cover1-otchayanie.jpg"
         },
         {
@@ -8037,7 +8039,7 @@
             "book": "Шестая койка и другие истории из жизни Паровозова",
             "year": "2021",
             "buyDate": "9/18/21",
-            "price": "410",
+            "price": "411",
             "publisher": "Corpus",
             "shelf": "corpus motorov",
             "img": "https://cdn.book24.ru/v2/ASE000000000858103/COVER/cover13d__w410.webp"
@@ -8125,8 +8127,8 @@
             "id": "402",
             "author": "Максим Кронгауз",
             "book": "Русский язык на грани нервного срыва",
-            "buyDate": "9/18/21",
-            "price": "446",
+            "buyDate": "9/21/21",
+            "price": "445",
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/Krongauz-Na%20grani%20sryva-1000.jpg"
@@ -8174,7 +8176,7 @@
             "author": "Эрин Моргенштерн",
             "book": "Ночной цирк",
             "year": "2021",
-            "buyDate": "9/18/21",
+            "buyDate": "9/21/21",
             "readDate": "9/8/21",
             "price": "498",
             "publisher": "Corpus",
@@ -9301,8 +9303,33 @@
             "buyDate": "9/3/21",
             "price": "390",
             "publisher": "АСТ",
-            "shelf": "ast",
+            "shelf": "ast science",
             "img": "https://img-gorod.ru/28/643/2864374_detail.jpg"
+        },
+        {
+            "author": "Хью Баркер",
+            "book": "Математика на миллион долларов",
+            "year": "2021",
+            "buyDate": "9/21/21",
+            "price": "315",
+            "publisher": "АСТ",
+            "shelf": "ast science",
+            "img": "https://s1.livelib.ru/boocover/1006252918/o/e9ea/Hyu_Barker__Matematika_na_million_dollarov_kak_tsifry_mogut_sdelat_vas_bogatym_i.jpeg"
+        },
+        {
+            "book": "Автостопом по науке. 70 фактов из истории великих открытий",
+            "year": "2021",
+            "publisher": "АСТ",
+            "shelf": "ast science wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006075249/o/acf6/bez_avtora__Avtostopom_po_nauke__70_faktov_iz_istorii_velikih_otkrytij.jpeg"
+        },
+        {
+            "author": "Борис Штерн, Валерий Рубаков",
+            "book": "Астрофизика. Троицкий вариант",
+            "year": "2021",
+            "publisher": "АСТ",
+            "shelf": "ast science wishlist",
+            "img": "https://s1.livelib.ru/boocover/1005463762/o/757c/Shtern_Boris__Astrofizika._Troitskij_variant.jpeg"
         },
         {
             "author": "Лейла Слимани",
@@ -9526,6 +9553,7 @@
             "book": "Притворись моей сестрой",
             "year": "2021",
             "buyDate": "9/14/21",
+            "readDate": "9/17/21",
             "price": "271",
             "publisher": "Бомбора",
             "shelf": "bombora kuni moloko",
