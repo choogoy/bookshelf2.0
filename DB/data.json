@@ -446,8 +446,8 @@
             "author": "Владимир Набоков",
             "book": "Отчаяние",
             "year": "2021",
-            "buyDate": "9/21/21",
-            "price": "313",
+            "buyDate": "9/22/21",
+            "price": "300",
             "publisher": "Corpus",
             "shelf": "corpus nabokov",
             "img": "https://www.corpus.ru/picts/products/cover1-otchayanie.jpg"
@@ -471,8 +471,10 @@
         {
             "author": "Владимир Набоков",
             "book": "Приглашение на казнь",
+            "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist"
+            "shelf": "corpus nabokov wishlist",
+            "img": "https://cdn.book24.ru/v2/ASE000000000858722/COVER/cover13d__w410.webp"
         },
         {
             "author": "Владимир Набоков",
@@ -8039,7 +8041,7 @@
             "book": "Шестая койка и другие истории из жизни Паровозова",
             "year": "2021",
             "buyDate": "9/18/21",
-            "price": "411",
+            "price": "394",
             "publisher": "Corpus",
             "shelf": "corpus motorov",
             "img": "https://cdn.book24.ru/v2/ASE000000000858103/COVER/cover13d__w410.webp"
@@ -8128,7 +8130,7 @@
             "author": "Максим Кронгауз",
             "book": "Русский язык на грани нервного срыва",
             "buyDate": "9/21/21",
-            "price": "445",
+            "price": "428",
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/Krongauz-Na%20grani%20sryva-1000.jpg"
@@ -8178,7 +8180,7 @@
             "year": "2021",
             "buyDate": "9/21/21",
             "readDate": "9/8/21",
-            "price": "498",
+            "price": "478",
             "publisher": "Corpus",
             "shelf": "corpus morgenstern",
             "img": "https://www.corpus.ru/picts/products/cover-cirk-new.jpg"
@@ -8435,6 +8437,13 @@
             "img": "https://www.corpus.ru/picts/products/shpion-na-milliard-dollarov.jpg"
         },
         {
+            "author": "Мэриэнн Кронин",
+            "book": "Сто лет Ленни и Марго",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://cdn.book24.ru/v2/ASE000000000850090/COVER/cover13d__w410.webp"
+        },
+        {
             "id": "n",
             "author": "Ханна Фрай",
             "book": "Hello World",
@@ -8475,6 +8484,15 @@
             "publisher": "Corpus",
             "shelf": "corpus politeh wishlist",
             "img": "https://www.corpus.ru/picts/products/Gazzaniga-Mozg-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Майкл Газзанига",
+            "book": "Кто за главного?",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus politeh wishlist",
+            "img": "https://cdn.book24.ru/v2/ASE000000000860898/COVER/cover13d__w410.webp"
         },
         {
             "author": "Сьюзан Хокфилд",
@@ -9311,7 +9329,7 @@
             "book": "Математика на миллион долларов",
             "year": "2021",
             "buyDate": "9/21/21",
-            "price": "315",
+            "price": "331",
             "publisher": "АСТ",
             "shelf": "ast science",
             "img": "https://s1.livelib.ru/boocover/1006252918/o/e9ea/Hyu_Barker__Matematika_na_million_dollarov_kak_tsifry_mogut_sdelat_vas_bogatym_i.jpeg"
@@ -9319,8 +9337,9 @@
         {
             "book": "Автостопом по науке. 70 фактов из истории великих открытий",
             "year": "2021",
+            "price": "331",
             "publisher": "АСТ",
-            "shelf": "ast science wishlist",
+            "shelf": "ast science",
             "img": "https://s1.livelib.ru/boocover/1006075249/o/acf6/bez_avtora__Avtostopom_po_nauke__70_faktov_iz_istorii_velikih_otkrytij.jpeg"
         },
         {
