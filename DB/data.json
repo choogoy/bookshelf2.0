@@ -446,7 +446,7 @@
             "author": "Владимир Набоков",
             "book": "Отчаяние",
             "year": "2021",
-            "buyDate": "9/22/21",
+            "buyDate": "9/23/21",
             "price": "300",
             "publisher": "Corpus",
             "shelf": "corpus nabokov",
@@ -8040,7 +8040,7 @@
             "author": "Алексей Моторов",
             "book": "Шестая койка и другие истории из жизни Паровозова",
             "year": "2021",
-            "buyDate": "9/22/21",
+            "buyDate": "9/23/21",
             "price": "394",
             "publisher": "Corpus",
             "shelf": "corpus motorov",
@@ -8126,13 +8126,29 @@
             "img": "https://cdn1.ozone.ru/multimedia/wc1200/1011334022.jpg"
         },
         {
+            "id": "211",
+            "author": "Максим Кронгауз",
+            "book": "Самоучитель Олбанского",
+            "publisher": "Corpus",
+            "shelf": "corpus krongauz wishlist",
+            "img": "https://www.corpus.ru/picts/products/Kronhaus-Olbansky-1000.jpg"
+        },
+        {
+            "author": "Максим Кронгауз",
+            "book": "Русский язык на грани нервного срыва. 3D",
+            "year": "2012",
+            "publisher": "Corpus",
+            "shelf": "corpus krongauz wishlist",
+            "img": "https://www.corpus.ru/picts/products/Kronghaus-Speak-1000.jpg"
+        },
+        {
             "id": "402",
             "author": "Максим Кронгауз",
             "book": "Русский язык на грани нервного срыва",
-            "buyDate": "9/22/21",
+            "buyDate": "9/23/21",
             "price": "428",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus krongauz",
             "img": "https://www.corpus.ru/picts/products/Krongauz-Na%20grani%20sryva-1000.jpg"
         },
         {
@@ -8178,7 +8194,7 @@
             "author": "Эрин Моргенштерн",
             "book": "Ночной цирк",
             "year": "2021",
-            "buyDate": "9/22/21",
+            "buyDate": "9/23/21",
             "readDate": "9/8/21",
             "price": "478",
             "publisher": "Corpus",
@@ -8243,8 +8259,10 @@
             "author": "Софи ван дер Стап",
             "book": "Девушка с девятью париками",
             "year": "2014",
+            "buyDate": "9/24/21",
+            "price": "360",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
+            "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/Stap-Pariki-1000.jpg"
         },
         {
@@ -8466,6 +8484,26 @@
             "img": "https://www.corpus.ru/picts/products/cover1-luna.jpg"
         },
         {
+            "id": "244",
+            "author": "Джеймс Глик",
+            "book": "Информация. История. Теория. Поток",
+            "year": "2013",
+            "buyDate": "9/27/21",
+            "price": "454",
+            "publisher": "Corpus",
+            "shelf": "corpus glik",
+            "img": "https://www.corpus.ru/picts/products/Gleik-Information-1000.jpg"
+        },
+        {
+            "id": "368",
+            "author": "Джеймс Глик",
+            "book": "Информация. История. Теория. Поток",
+            "year": "2016",
+            "publisher": "Corpus",
+            "shelf": "corpus glik wishlist",
+            "img": "https://www.corpus.ru/picts/products/Gliek-Information-1000.jpg"
+        },
+        {
             "id": "n",
             "author": "Джеймс Глик",
             "book": "Хаос. Создание новой науки",
@@ -8473,7 +8511,7 @@
             "buyDate": "12/8/20",
             "price": "637",
             "publisher": "Corpus",
-            "shelf": "corpus politeh",
+            "shelf": "corpus glik politeh",
             "img": "https://www.corpus.ru/picts/products/cover1-glick.jpg"
         },
         {
@@ -9328,7 +9366,7 @@
             "author": "Хью Баркер",
             "book": "Математика на миллион долларов",
             "year": "2021",
-            "buyDate": "9/22/21",
+            "buyDate": "9/23/21",
             "price": "331",
             "publisher": "АСТ",
             "shelf": "ast science",
@@ -9337,7 +9375,7 @@
         {
             "book": "Автостопом по науке. 70 фактов из истории великих открытий",
             "year": "2021",
-            "buyDate": "9/22/21",
+            "buyDate": "9/23/21",
             "price": "331",
             "publisher": "АСТ",
             "shelf": "ast science",
