@@ -435,6 +435,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-nabokov-lolita.jpg"
         },
         {
+            "id": "660",
             "author": "Владимир Набоков",
             "book": "Машенька. Подвиг",
             "year": "2021",
@@ -443,6 +444,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-mashenka.jpg"
         },
         {
+            "id": "661",
             "author": "Владимир Набоков",
             "book": "Отчаяние",
             "year": "2021",
@@ -469,12 +471,21 @@
             "img": "https://www.corpus.ru/picts/products/cover1-kqj.jpg"
         },
         {
+            "id": "678",
             "author": "Владимир Набоков",
             "book": "Приглашение на казнь",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus nabokov wishlist",
             "img": "https://cdn.book24.ru/v2/ASE000000000858722/COVER/cover13d__w410.webp"
+        },
+        {
+            "id": "681",
+            "author": "Владимир Набоков",
+            "book": "Соглядатай. Рассказы",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus nabokov wishlist"
         },
         {
             "author": "Владимир Набоков",
@@ -527,12 +538,6 @@
         {
             "author": "Владимир Набоков",
             "book": "Лаура и её оригинал",
-            "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist"
-        },
-        {
-            "author": "Владимир Набоков",
-            "book": "Соглядатай",
             "publisher": "Corpus",
             "shelf": "corpus nabokov wishlist"
         },
@@ -7413,6 +7418,7 @@
             "id": "195",
             "author": "Патти Смит",
             "book": "Я пасу облака",
+            "year": "2013",
             "buyDate": "10/3/20",
             "price": "207",
             "publisher": "Corpus",
@@ -7420,8 +7426,10 @@
             "img": "https://www.corpus.ru/picts/products/smith-woolgathering-1000.jpg"
         },
         {
+            "id": "298",
             "author": "Патти Смит",
             "book": "Просто дети",
+            "year": "2014",
             "publisher": "Corpus",
             "shelf": "corpus patti wishlist",
             "img": "https://www.corpus.ru/picts/products/patti-cover.jpg"
@@ -7438,8 +7446,10 @@
             "img": "https://www.corpus.ru/picts/products/Smith-Deti-1000.jpg"
         },
         {
+            "id": "389",
             "author": "Патти Смит",
             "book": "Поезд М",
+            "year": "2016",
             "publisher": "Corpus",
             "shelf": "corpus patti wishlist",
             "img": "https://www.corpus.ru/picts/products/patti-smith-m-train-1000.jpg"
@@ -8022,8 +8032,10 @@
             "author": "Алексей Моторов",
             "book": "Юные годы медбрата Паровозова",
             "year": "2021",
+            "buyDate": "9/29/21",
+            "price": "416",
             "publisher": "Corpus",
-            "shelf": "corpus motorov wishlist",
+            "shelf": "corpus motorov",
             "img": "https://cdn.book24.ru/v2/ASE000000000860429/COVER/cover13d__w410.webp"
         },
         {
@@ -8031,8 +8043,10 @@
             "author": "Алексей Моторов",
             "book": "Преступление доктора Паровозова",
             "year": "2021",
+            "buyDate": "9/29/21",
+            "price": "416",
             "publisher": "Corpus",
-            "shelf": "corpus motorov wishlist",
+            "shelf": "corpus motorov",
             "img": "https://cdn.book24.ru/v2/ASE000000000860432/COVER/cover13d__w410.webp"
         },
         {
@@ -8145,6 +8159,7 @@
             "id": "402",
             "author": "Максим Кронгауз",
             "book": "Русский язык на грани нервного срыва",
+            "year": "2021",
             "buyDate": "9/23/21",
             "price": "428",
             "publisher": "Corpus",
@@ -8259,7 +8274,7 @@
             "author": "Софи ван дер Стап",
             "book": "Девушка с девятью париками",
             "year": "2014",
-            "buyDate": "9/24/21",
+            "buyDate": "9/25/21",
             "price": "360",
             "publisher": "Corpus",
             "shelf": "corpus",
@@ -8417,13 +8432,6 @@
             "img": "https://www.corpus.ru/picts/products/cover1-matematika.jpg"
         },
         {
-            "author": "Эрве Ле Телье",
-            "book": "Аномалия",
-            "year": "2021",
-            "publisher": "Corpus",
-            "shelf": "corpus goncur wishlist"
-        },
-        {
             "author": "Бен Макинтайр",
             "book": "Шпион среди друзей. Великое предательство Кима Филби",
             "publisher": "Corpus",
@@ -8455,11 +8463,44 @@
             "img": "https://www.corpus.ru/picts/products/shpion-na-milliard-dollarov.jpg"
         },
         {
+            "id": "630",
+            "author": "Катарина Фолкмер",
+            "book": "Еврейский член",
+            "year": "2021",
+            "buyDate": "9/29/21",
+            "price": "250",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/cover1-folkmer.jpg"
+        },
+        {
+            "id": "656",
+            "author": "Деб Олин Анферт",
+            "book": "Птичник №8",
+            "year": "2021",
+            "buyDate": "9/29/21",
+            "price": "326",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/cover1-anfert-ptichnik.jpg"
+        },
+        {
+            "id": "680",
             "author": "Мэриэнн Кронин",
             "book": "Сто лет Ленни и Марго",
+            "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus wishlist",
             "img": "https://cdn.book24.ru/v2/ASE000000000850090/COVER/cover13d__w410.webp"
+        },
+        {
+            "id": "677",
+            "author": "Эрве Ле Телье",
+            "book": "Аномалия",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus goncur wishlist",
+            "img": "https://cdn.book24.ru/v2/ASE000000000856480/COVER/cover13d__w410.webp"
         },
         {
             "id": "n",
@@ -9353,6 +9394,14 @@
             "img": "https://s1.livelib.ru/boocover/1005671449/o/4c50/Anna_Houp__Ozhidanie.jpeg"
         },
         {
+            "author": "Кэтрин Хьюз",
+            "book": "Последнее обещание",
+            "year": "2021",
+            "publisher": "АСТ",
+            "shelf": "ast different-life wishlist",
+            "img": "https://cdn.book24.ru/v2/ASE000000000854834/COVER/cover13d__w410.webp"
+        },
+        {
             "author": "Яна Хлюстова",
             "book": "Шнобелевская премия. Самые нелепые изобретения и не только",
             "year": "2021",
@@ -9594,6 +9643,14 @@
             "publisher": "Бомбора",
             "shelf": "bombora",
             "img": "https://s1.livelib.ru/boocover/1005705988/o/c980/Mark_Rendolf__That_will_never_work._Istoriya_sozdaniya_Netflix_rasskazannaya_ee_.jpeg"
+        },
+        {
+            "author": "Майкл Керриган",
+            "book": "Взламывая код \"Энигмы\"",
+            "year": "2021",
+            "buyDate": "9/29/21",
+            "price": "363",
+            "img": "https://s1.livelib.ru/boocover/1006269337/o/996c/Majkl_Kerrigan__Vzlamyvaya_kod_Enigmy.jpeg"
         },
         {
             "author": "Кэролайн Б. Куни",
@@ -9982,5 +10039,4 @@
             "book": "Конституция РФ",
             "price": "36"
         }
-    ]
 }
