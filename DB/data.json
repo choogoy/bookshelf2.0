@@ -249,6 +249,7 @@
             "img": "https://ndc.book24.ru/resize/820x1192/iblock/c5c/c5cf3610e8ddde842a4fdfe04f08fab8/16341f4a6fc3c72d9897609c088fd4a6.jpg"
         },
         {
+            "id": "n",
             "author": "Владимир Сорокин",
             "book": "Норма",
             "publisher": "Corpus",
@@ -256,6 +257,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Norma-1000.jpg"
         },
         {
+            "id": "n",
             "author": "Владимир Сорокин",
             "book": "Очередь",
             "publisher": "Corpus",
@@ -263,6 +265,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Ochered-1000.jpg"
         },
         {
+            "id": "n",
             "author": "Владимир Сорокин",
             "book": "Тридцатая любовь Марины",
             "publisher": "Corpus",
@@ -276,6 +279,7 @@
             "shelf": "sorokin wishlist"
         },
         {
+            "id": "n",
             "author": "Владимир Сорокин",
             "book": "Сердца четырёх",
             "year": "2021",
@@ -284,6 +288,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-4-1000.jpg"
         },
         {
+            "id": "n",
             "author": "Владимир Сорокин",
             "book": "Голубое сало",
             "publisher": "Corpus",
@@ -291,6 +296,7 @@
             "img": "https://www.corpus.ru/picts/products/vladimir-sorokin-goluboe-salo.jpg"
         },
         {
+            "id": "n",
             "author": "Владимир Сорокин",
             "book": "Ледяная трилогия",
             "publisher": "Corpus",
@@ -298,6 +304,7 @@
             "img": "https://www.corpus.ru/picts/products/vladimir-sorokin-led-trilogija-1000.jpg"
         },
         {
+            "id": "n",
             "author": "Владимир Сорокин",
             "book": "Теллурия",
             "publisher": "Corpus",
@@ -305,6 +312,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Telluria-100.jpg"
         },
         {
+            "id": "n",
             "author": "Владимир Сорокин",
             "book": "Манарага",
             "publisher": "Corpus",
@@ -312,6 +320,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Manaraga-1000.jpg"
         },
         {
+            "id": "n",
             "author": "Владимир Сорокин",
             "book": "Доктор Гарин",
             "year": "2021",
@@ -320,6 +329,7 @@
             "img": "https://www.corpus.ru/picts/products/cover-doctor-garin.jpg"
         },
         {
+            "id": "n",
             "author": "Владимир Сорокин",
             "book": "Первый субботник",
             "publisher": "Corpus",
@@ -327,6 +337,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Subbotnik-1000.jpg"
         },
         {
+            "id": "n",
             "author": "Владимир Сорокин",
             "book": "Пир",
             "publisher": "Corpus",
@@ -334,6 +345,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-pir.jpg"
         },
         {
+            "id": "n",
             "author": "Владимир Сорокин",
             "book": "Капитал",
             "publisher": "Corpus",
@@ -341,6 +353,7 @@
             "img": "https://www.corpus.ru/picts/products/sorokin-kapital.jpg"
         },
         {
+            "id": "n",
             "author": "Владимир Сорокин",
             "book": "Сахарный Кремль",
             "publisher": "Corpus",
@@ -348,6 +361,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Kremlin-100.jpg"
         },
         {
+            "id": "n",
             "author": "Владимир Сорокин",
             "book": "Сахарный Кремль",
             "publisher": "Corpus",
@@ -355,6 +369,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Kremlin-1000.jpg"
         },
         {
+            "id": "n",
             "author": "Владимир Сорокин",
             "book": "Моноклон",
             "publisher": "Corpus",
@@ -362,6 +377,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Monoklon-1000.jpg"
         },
         {
+            "id": "n",
             "author": "Владимир Сорокин",
             "book": "Белый квадрат",
             "publisher": "Corpus",
@@ -369,6 +385,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Kvadrat-1000.jpg"
         },
         {
+            "id": "n",
             "author": "Владимир Сорокин",
             "book": "Нормальная история",
             "publisher": "Corpus",
@@ -376,6 +393,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-History-1000.jpg"
         },
         {
+            "id": "n",
             "author": "Владимир Сорокин",
             "book": "Русские народные пословицы и поговорки",
             "year": "2020",
@@ -384,6 +402,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-sorokin.jpg"
         },
         {
+            "id": "n",
             "author": "Владимир Сорокин",
             "book": "День опричника",
             "publisher": "Corpus",
@@ -391,6 +410,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Oprichnik-1000.jpg"
         },
         {
+            "id": "n",
             "author": "Владимир Сорокин",
             "book": "День опричника",
             "publisher": "Corpus",
@@ -398,6 +418,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Optichnik-1000.jpg"
         },
         {
+            "id": "n",
             "author": "Владимир Сорокин",
             "book": "Метель",
             "readDate": "7/12/21",
@@ -406,6 +427,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Metel-1000-new.jpg"
         },
         {
+            "id": "n",
             "author": "Владимир Сорокин",
             "book": "Триумф Времени и Бесчувствия",
             "publisher": "Corpus",
@@ -455,14 +477,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-otchayanie.jpg"
         },
         {
-            "author": "Владимир Набоков",
-            "book": "Защита Лужина",
-            "year": "2021",
-            "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist",
-            "img": "https://www.corpus.ru/picts/products/cover1-luzhin.jpg"
-        },
-        {
+            "id": "672",
             "author": "Владимир Набоков",
             "book": "Король, дама, валет",
             "year": "2021",
@@ -471,13 +486,22 @@
             "img": "https://www.corpus.ru/picts/products/cover1-kqj.jpg"
         },
         {
+            "id": "673",
+            "author": "Владимир Набоков",
+            "book": "Защита Лужина",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus nabokov wishlist",
+            "img": "https://www.corpus.ru/picts/products/cover1-luzhin.jpg"
+        },
+        {
             "id": "678",
             "author": "Владимир Набоков",
             "book": "Приглашение на казнь",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus nabokov wishlist",
-            "img": "https://cdn.book24.ru/v2/ASE000000000858722/COVER/cover13d__w410.webp"
+            "img": "https://www.corpus.ru/picts/products/cover1-kazn.jpg"
         },
         {
             "id": "681",
@@ -2271,6 +2295,7 @@
             "img": "https://s1.livelib.ru/boocover/1000904556/o/1600/bez_avtora__Zdravstvujte_doktor_Zapiski_patsientov.jpeg"
         },
         {
+            "id": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 1921-1930",
             "year": "2020",
@@ -2281,6 +2306,7 @@
             "img": "https://www.corpus.ru/picts/products/parfenov-21-30.jpg"
         },
         {
+            "id": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 1931-1940",
             "year": "2017",
@@ -2291,6 +2317,7 @@
             "img": "https://www.corpus.ru/picts/products/namedni-nasha-era-1931-1940.jpg"
         },
         {
+            "id": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 1946-1960",
             "year": "2014",
@@ -2310,6 +2337,7 @@
             "img": "https://s1.livelib.ru/boocover/1000567141/o/bac3/Parfjonov_Leonid__Namedni._Nasha_era._19611970.jpeg"
         },
         {
+            "id": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 1961-1970",
             "year": "2021",
@@ -2328,6 +2356,7 @@
             "img": "https://s1.livelib.ru/boocover/1000567141/o/bac3/Parfjonov_Leonid__Namedni._Nasha_era._19611970.jpeg"
         },
         {
+            "id": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 1971-1980",
             "buyDate": "1/7/21",
@@ -2347,6 +2376,7 @@
             "img": "https://www.corpus.ru/picts/products/Namedni_1971-1980-1000.jpg"
         },
         {
+            "id": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 1981-1990",
             "buyDate": "12/31/20",
@@ -2366,6 +2396,7 @@
             "img": "https://www.corpus.ru/picts/products/Namedni-1981-1990-1000.jpg"
         },
         {
+            "id": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 1991-2000",
             "buyDate": "1/4/21",
@@ -2385,6 +2416,7 @@
             "img": "https://www.corpus.ru/picts/products/Namedni_1991-2000-1000.jpg"
         },
         {
+            "id": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 2001-2005",
             "year": "2011",
@@ -2405,6 +2437,7 @@
             "img": "https://www.corpus.ru/picts/products/Parfenov-2001-2005-1000.jpg"
         },
         {
+            "id": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 2006-2010",
             "year": "2013",
@@ -2415,6 +2448,7 @@
             "img": "https://www.corpus.ru/picts/products/Parfenov-2006-2010-1000.jpg"
         },
         {
+            "id": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 2011-2015",
             "year": "2021",
@@ -4449,7 +4483,8 @@
         },
         {
             "author": "Джефф Кинни",
-            "book": "Diary of a Wimpy Kid: The Wrecking Ball",
+            "book": "Дневник слабака-14. Сокрушительный удар",
+            "year": "2021",
             "shelf": "slabak wishlist",
             "img": "https://images-na.ssl-images-amazon.com/images/I/91-VrJAXjpL.jpg"
         },
@@ -4741,6 +4776,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Goulman-Fokus-1000.jpg"
         },
         {
+            "id": "643",
             "author": "Дэниел Гоулман",
             "book": "Социальный интеллект. Новая наука о человеческих отношениях",
             "year": "2021",
@@ -4982,6 +5018,7 @@
             "img": "https://www.corpus.ru/picts/products/Valognes-1000.jpg"
         },
         {
+            "id": "588",
             "author": "Орели Валонь",
             "book": "Наши очаровательные невестки",
             "year": "2020",
@@ -6841,17 +6878,6 @@
             "img": "https://www.corpus.ru/picts/products/goldman-name-1000.jpg"
         },
         {
-            "id": "n",
-            "author": "Роман Канушкин",
-            "book": "Мальчик Пого",
-            "year": "2012",
-            "buyDate": "7/27/20",
-            "price": "76.96",
-            "publisher": "Corpus",
-            "shelf": "corpus children",
-            "img": "https://www.corpus.ru/picts/products/Kanushkin-Pogo-1000.jpg"
-        },
-        {
             "id": "102",
             "author": "Зое Шарп",
             "book": "Второй выстрел",
@@ -6883,6 +6909,17 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/ukhnalev-moe-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Роман Канушкин",
+            "book": "Мальчик Пого",
+            "year": "2012",
+            "buyDate": "7/27/20",
+            "price": "76.96",
+            "publisher": "Corpus",
+            "shelf": "corpus children",
+            "img": "https://www.corpus.ru/picts/products/Kanushkin-Pogo-1000.jpg"
         },
         {
             "id": "n",
@@ -7239,6 +7276,7 @@
             "img": "https://www.corpus.ru/picts/products/Slezkin-Merkury-1000.jpg"
         },
         {
+            "id": "384",
             "author": "Аннабел Фарджен",
             "book": "Приключения русского художника. Биография Бориса Анрепа",
             "year": "2016",
@@ -8369,6 +8407,12 @@
             "img": "https://s1.livelib.ru/boocover/1000468884/o/9993/Masha_Gessen__Sovershennaya_strogost._Grigorij_Perelman_genij_i_zadacha_tysyache.jpeg"
         },
         {
+            "author": "Джош Бейзел",
+            "book": "Бей в точку",
+            "shelf": "beizel wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000317543/o/8509/Dzhosh_Bejzel__Bej_v_tochku.jpeg"
+        },
+        {
             "id": "424",
             "author": "Джош Бейзел",
             "book": "Дикая тварь",
@@ -8376,7 +8420,7 @@
             "buyDate": "7/8/21",
             "price": "253",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus beizel",
             "img": "https://www.corpus.ru/picts/products/Bazell-Tvar-1000.jpg"
         },
         {
@@ -8485,13 +8529,23 @@
             "img": "https://www.corpus.ru/picts/products/cover1-anfert-ptichnik.jpg"
         },
         {
-            "id": "680",
-            "author": "Мэриэнн Кронин",
-            "book": "Сто лет Ленни и Марго",
+            "author": "Мойзес Наим",
+            "book": "Два шпиона в Каракасе. Не совсем выдуманная история про любовь и заговоры в эпоху Уго Чавеса.",
+            "year": "2020",
+            "buyDate": "9/29/21",
+            "price": "399",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/cover-caracas.jpg"
+        },
+        {
+            "id": "668",
+            "author": "Си Джей Беннет",
+            "book": "Виндзорский узел",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus wishlist",
-            "img": "https://cdn.book24.ru/v2/ASE000000000850090/COVER/cover13d__w410.webp"
+            "img": "https://www.corpus.ru/picts/products/cover1-koroleva.jpg"
         },
         {
             "id": "677",
@@ -8500,7 +8554,16 @@
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus goncur wishlist",
-            "img": "https://cdn.book24.ru/v2/ASE000000000856480/COVER/cover13d__w410.webp"
+            "img": "https://www.corpus.ru/picts/products/cover-anomaliya.jpg"
+        },
+        {
+            "id": "680",
+            "author": "Мэриэнн Кронин",
+            "book": "Сто лет Ленни и Марго",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/cover1-kronin.jpg"
         },
         {
             "id": "n",
@@ -8529,7 +8592,7 @@
             "author": "Джеймс Глик",
             "book": "Информация. История. Теория. Поток",
             "year": "2013",
-            "buyDate": "9/27/21",
+            "buyDate": "9/26/21",
             "price": "454",
             "publisher": "Corpus",
             "shelf": "corpus glik",
@@ -8567,11 +8630,11 @@
         {
             "id": "n",
             "author": "Майкл Газзанига",
-            "book": "Кто за главного?",
+            "book": "Кто за главного? Свобода воли с точки зрения нейробиологии",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus politeh wishlist",
-            "img": "https://cdn.book24.ru/v2/ASE000000000860898/COVER/cover13d__w410.webp"
+            "img": "https://www.corpus.ru/picts/products/cover1-glavnogo.jpg"
         },
         {
             "author": "Сьюзан Хокфилд",
@@ -8671,6 +8734,12 @@
             "publisher": "Бомбора",
             "shelf": "bombora music",
             "img": "https://s1.livelib.ru/boocover/1005652753/o/1e4c/Charlz_Kross__Tyazhelee_nebes._Zhizn_i_smert_Kurta_Kobejna_o_kotoryh_vy_nichego_.jpeg"
+        },
+        {
+            "author": "Крейг Браун",
+            "book": "One Two Three Four: «Битлз» в ритме времени",
+            "year": "2021",
+            "img": "https://sun9-68.userapi.com/impg/G75g66Jm7GPeHuuPC21qOwPw85o6MYOnR8_M1g/G8dX2rMjvK4.jpg?size=771x1080&quality=96&sign=84cdbcc87778e2f86620a6f0e497aa8d&type=album"
         },
         {
             "author": "Дженни Колган",
@@ -9483,6 +9552,7 @@
             "book": "Безмолвный пациент",
             "year": "2019",
             "buyDate": "7/21/21",
+            "readDate": "9/26/21",
             "price": "304",
             "publisher": "Эксмо",
             "shelf": "eksmo mihaelides",
@@ -9646,7 +9716,7 @@
         },
         {
             "author": "Майкл Керриган",
-            "book": "Взламывая код \"Энигмы\"",
+            "book": "Взламывая код «Энигмы»",
             "year": "2021",
             "buyDate": "9/29/21",
             "price": "363",
@@ -9703,6 +9773,13 @@
             "book": "Книжная лавка под дождём",
             "shelf": "bookstore wishlist",
             "img": "https://s1.livelib.ru/boocover/1002901065/o/97e1/Rieko_Hinata__Knizhnaya_lavka_pod_dozhdem.jpeg"
+        },
+        {
+            "author": "Риэко Хината",
+            "book": "«Книжная лавка под дождём» и костяной дракон",
+            "year": "2021",
+            "shelf": "bookstore wishlist",
+            "img": "https://static.my-shop.ru/product/3/451/4504963.jpg"
         },
         {
             "author": "Евгений Ройзман",
