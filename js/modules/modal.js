@@ -3,7 +3,7 @@ import getLocalStorage from './getLocalStorage.js';
 
 const modal = data => {
     const modal = document.querySelector('.modal');
-    const { bookID, img, author, book, readDate, buyDate, year, publisher, shelf, price } = data;
+    const { bookID, img, author, book, readDate, buyDate, year, publisher, shelf, price, id } = data;
 
     const storage = getLocalStorage();
 
@@ -26,7 +26,7 @@ const modal = data => {
                                         <p>${author}</p>
                                         <p><b>${book}</b></p>
                                         ${year ? `<p>Год: ${year}</p>` : ''}
-                                        ${publisher ? `<p>Издательство: ${publisher}</p>` : ''}
+                                        ${publisher ? `<p>Издательство: ${publisher}${publisher === 'Corpus' ? ` <span>${id != 'n' ? `<b>${id}</b>` : `<img src="https://pbs.twimg.com/profile_images/1082768693/corpus-logo-100x100_reasonably_small.jpg" style="transform: translateY(3px); width: 17px; height: 17px;">`}</ы>` : ''}</p>` : ''}
                                         ${buyDate ? `<p>Дата покупки: ${showDate(buyDate)}</p>` : ''}
                                         ${readDate ? `<p>Прочитано: ${showDate(readDate)}</p>` : ''}
                                         ${price ? `<p>Цена: ${price} ₽</p>` : ''}
