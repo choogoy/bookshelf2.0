@@ -5951,62 +5951,15 @@
             "img": "https://www.corpus.ru/picts/products/Ackroyd-Canterberry-1000.jpg"
         },
         {
+            "id": "20",
             "author": "Джон Ле Карре",
-            "book": "Шпионское наследие",
-            "year": "2019",
-            "publisher": "Corpus",
-            "shelf": "le-karre corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/LeCarre-Legasy-1000.jpg"
-        },
-        {
-            "author": "Джон Ле Карре",
-            "book": "Ночной администратор",
-            "year": "2018",
-            "publisher": "Corpus",
-            "shelf": "le-karre corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/LeCarre-Admin-1001.jpg"
-        },
-        {
-            "author": "Джон Ле Карре",
-            "book": "Голубиный туннель",
-            "year": "2017",
-            "publisher": "Corpus",
-            "shelf": "le-karre corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Le%20Carre-Tunnel-1000.jpg"
-        },
-        {
-            "author": "Джон Ле Карре",
-            "book": "Особые остоятельства",
-            "year": "2017",
-            "publisher": "Corpus",
-            "shelf": "le-karre corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Le%20Carre-Obstoyatelstva-1000.jpg"
-        },
-        {
-            "author": "Джон Ле Карре",
-            "book": "Ночной администратор",
-            "year": "2016",
-            "publisher": "Corpus",
-            "shelf": "le-karre corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/LeCarre-Night_Manager-1000.jpg"
-        },
-        {
-            "author": "Джон Ле Карре",
-            "book": "Такой же предатель, как мы",
-            "year": "2016",
-            "publisher": "Corpus",
-            "shelf": "le-karre corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Le-Karre-Predatel-1000.jpg"
-        },
-        {
-            "author": "Джон Ле Карре",
-            "book": "Самый опасный человек",
-            "year": "2014",
-            "buyDate": "10/5/20",
-            "price": "167",
+            "book": "Особо опасен",
+            "year": "2009",
+            "buyDate": "8/3/20",
+            "price": "157",
             "publisher": "Corpus",
             "shelf": "le-karre corpus",
-            "img": "https://www.corpus.ru/picts/products/LeCarre-Opasen-1000.jpg"
+            "img": "https://s1.livelib.ru/boocover/1000330560/o/2596/Dzhon_Le_Karre__Osobo_opasen.jpeg"
         },
         {
             "id": "n",
@@ -6031,24 +5984,53 @@
             "img": "https://www.corpus.ru/picts/products/LeCarre-Song-1000.jpg"
         },
         {
-            "id": "20",
-            "author": "Джон Ле Карре",
-            "book": "Особо опасен",
-            "buyDate": "8/3/20",
-            "price": "157",
-            "publisher": "Corpus",
-            "shelf": "le-karre corpus",
-            "img": "https://s1.livelib.ru/boocover/1000330560/o/2596/Dzhon_Le_Karre__Osobo_opasen.jpeg"
-        },
-        {
             "id": "127",
             "author": "Джон Ле Карре",
             "book": "Такой же предатель, как мы",
+            "year": "2012",
             "buyDate": "8/3/20",
             "price": "231",
             "publisher": "Corpus",
             "shelf": "le-karre corpus",
             "img": "https://s1.livelib.ru/boocover/1000492432/o/8a2d/Dzhon_Le_Karre__Takoj_zhe_predatel_kak_my.jpeg"
+        },
+        {
+            "id": "n",
+            "author": "Джон Ле Карре",
+            "book": "Самый опасный человек",
+            "year": "2014",
+            "buyDate": "10/5/20",
+            "price": "167",
+            "publisher": "Corpus",
+            "shelf": "le-karre corpus",
+            "img": "https://www.corpus.ru/picts/products/LeCarre-Opasen-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Джон Ле Карре",
+            "book": "Такой же предатель, как мы",
+            "year": "2016",
+            "publisher": "Corpus",
+            "shelf": "le-karre corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Le-Karre-Predatel-1000.jpg"
+        },
+        {
+            "id": "421",
+            "author": "Джон Ле Карре",
+            "book": "Особые остоятельства",
+            "year": "2017",
+            "publisher": "Corpus",
+            "shelf": "le-karre corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Le%20Carre-Obstoyatelstva-1000.jpg"
+        },
+        {
+            "id": "453",
+            "author": "Джон Ле Карре",
+            "book": "Голубиный туннель. Истории из моей жизни",
+            "year": "2017",
+            "publisher": "Corpus",
+            "shelf": "le-karre corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Le%20Carre-Tunnel-1000.jpg"
         },
         {
             "id": "539",
@@ -6060,6 +6042,34 @@
             "publisher": "Corpus",
             "shelf": "le-karre corpus razvedcorpus",
             "img": "https://www.corpus.ru/picts/products/LeCarre-Tunnel-1000.jpg"
+        },
+        {
+            "author": "Джон Ле Карре",
+            "book": "Ночной администратор",
+            "year": "2016",
+            "publisher": "Corpus",
+            "shelf": "le-karre corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/LeCarre-Night_Manager-1000.jpg"
+        },
+        {
+            "id": "457",
+            "author": "Джон Ле Карре",
+            "book": "Ночной администратор",
+            "year": "2018",
+            "publisher": "Corpus",
+            "shelf": "le-karre corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/LeCarre-Admin-1001.jpg"
+        },
+        {
+            "id": "537",
+            "author": "Джон Ле Карре",
+            "book": "Шпионское наследие",
+            "year": "2019",
+            "buyDate": "9/29/21",
+            "price": "350",
+            "publisher": "Corpus",
+            "shelf": "le-karre corpus",
+            "img": "https://www.corpus.ru/picts/products/LeCarre-Legasy-1000.jpg"
         },
         {
             "id": "642",
