@@ -8529,13 +8529,23 @@
             "img": "https://www.corpus.ru/picts/products/cover1-anfert-ptichnik.jpg"
         },
         {
+            "id": "376",
+            "author": "Мойзес Наим",
+            "book": "Конец власти. От залов заседаний до полей сражений, от церкви до государства: почему управлять сегодня нужно иначе.",
+            "year": "2016",
+            "publisher": "Corpus",
+            "shelf": "corpus naim",
+            "img": "https://www.corpus.ru/picts/products/mojzes-naim-konetz-vlasti.jpg"
+        },
+        {
+            "id": "595",
             "author": "Мойзес Наим",
             "book": "Два шпиона в Каракасе. Не совсем выдуманная история про любовь и заговоры в эпоху Уго Чавеса.",
             "year": "2020",
             "buyDate": "9/29/21",
             "price": "399",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus naim",
             "img": "https://www.corpus.ru/picts/products/cover-caracas.jpg"
         },
         {
@@ -8549,7 +8559,7 @@
         },
         {
             "id": "677",
-            "author": "Эрве Ле Телье",
+            "author": "Эрве Ле Теллье",
             "book": "Аномалия",
             "year": "2021",
             "publisher": "Corpus",
@@ -9769,6 +9779,16 @@
             "img": "https://s1.livelib.ru/boocover/1000641776/o/50d7/Caroline_B._Cooney__Janie_Face_to_Face.jpeg"
         },
         {
+            "author": "Синтия Суонсон",
+            "book": "Книжная лавка",
+            "year": "2017",
+            "buyDate": "9/30/21",
+            "price": "499",
+            "publisher": "АСТ",
+            "shelf": "ast bookstore",
+            "img": "https://s1.livelib.ru/boocover/1002572067/o/a1d4/Sintiya_Suonson__Knizhnaya_lavka.jpeg"
+        },
+        {
             "author": "Риэко Хината",
             "book": "Книжная лавка под дождём",
             "shelf": "bookstore wishlist",
@@ -9786,12 +9806,6 @@
             "book": "Личный прием",
             "shelf": "wishlist",
             "img": "https://s1.livelib.ru/boocover/1005636424/o/3af7/Evgenij_Rojzman__Lichnyj_priem.jpeg"
-        },
-        {
-            "author": "Синтия Суонсон",
-            "book": "Книжная лавка",
-            "shelf": "bookstore wishlist",
-            "img": "https://s1.livelib.ru/boocover/1002572067/o/a1d4/Sintiya_Suonson__Knizhnaya_lavka.jpeg"
         },
         {
             "author": "Барак Обама",
