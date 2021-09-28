@@ -17,11 +17,15 @@ const renderCart = data => {
         data.forEach(good => {
             for (let elem of goods) {
                 if (good.bookID === elem.id) {
-
+                    if (!good.price) {
+                        localStorage.removeItem('cart-bookshelf');
+                        changeCartCount();
+                        return;
+                    }
                     html += `<div class="cart-item">
                                 <div class="cart-item__book">
                                     <div class="cart-item__img"><img src="${good.img ? good.img : './images/no-cover.jpg'}"></img></div>                            
-                                    <div class="cart-item__name">${good.author} - ${good.book}</div>                            
+                                    <div class="cart-item__name">${good.author ? `${good.author} - ` : ''}${good.book}</div>                            
                                 </div>                
                                 <div class="cart-item__count" data-book-id="${good.bookID}">
                                     <button class="cart-item__count--minus">-</button><span>${elem.count} шт.</span><button class="cart-item__count--plus">+</button>
