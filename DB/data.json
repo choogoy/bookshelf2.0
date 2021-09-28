@@ -461,8 +461,10 @@
             "author": "Владимир Набоков",
             "book": "Машенька. Подвиг",
             "year": "2021",
+            "buyDate": "10/4/21",
+            "price": "379",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist",
+            "shelf": "corpus nabokov",
             "img": "https://www.corpus.ru/picts/products/cover1-mashenka.jpg"
         },
         {
@@ -8540,8 +8542,10 @@
             "author": "Майкл Газзанига",
             "book": "Истории от разных полушарий мозга. Жизнь в нейронауке",
             "year": "2021",
+            "buyDate": "10/4/21",
+            "price": "621",
             "publisher": "Corpus",
-            "shelf": "corpus politeh wishlist",
+            "shelf": "corpus politeh",
             "img": "https://www.corpus.ru/picts/products/Gazzaniga-Mozg-1000.jpg"
         },
         {
