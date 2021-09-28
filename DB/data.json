@@ -5123,6 +5123,28 @@
             "img": "https://www.corpus.ru/picts/products/Mendosa-Cripta-1000.jpg"
         },
         {
+            "id": "9",
+            "author": "Уэлдон Фэй",
+            "book": "Род-Айленд блюз",
+            "year": "2009",
+            "buyDate": "7/23/20",
+            "price": "99",
+            "publisher": "Corpus",
+            "shelf": "corpus fai",
+            "img": "https://s1.livelib.ru/boocover/1000333746/o/159f/Fej_Ueldon__RodAjlend_blyuz.jpeg"
+        },
+        {
+            "id": "42",
+            "author": "Уэлдон Фэй",
+            "book": "Ненавижу семейную жизнь",
+            "year": "2010",
+            "buyDate": "8/8/20",
+            "price": "140.5",
+            "publisher": "Corpus",
+            "shelf": "corpus fai",
+            "img": "https://s1.livelib.ru/boocover/1000447789/o/0f09/Fej_Ueldon__Nenavizhu_semejnuyu_zhizn.jpeg"
+        },
+        {
             "id": "488",
             "author": "Саманта Швеблин",
             "book": "Дистанция спасения",
@@ -5328,39 +5350,6 @@
             "img": "https://www.corpus.ru/picts/products/Sorrentino-Ne-samoe-vazhnoe-1000.jpg"
         },
         {
-            "id": "260",
-            "author": "Джонатан Троппер",
-            "book": "На прощанье я скажу",
-            "year": "2014",
-            "buyDate": "7/23/20",
-            "price": "116",
-            "publisher": "Corpus",
-            "shelf": "tropper corpus",
-            "img": "https://www.corpus.ru/picts/products/Tropper-Proschanje-1000.jpg"
-        },
-        {
-            "id": "189",
-            "author": "Джонатан Троппер",
-            "book": "Как общаться с вдовцом",
-            "year": "2013",
-            "buyDate": "7/24/20",
-            "price": "127.5",
-            "publisher": "Corpus",
-            "shelf": "tropper corpus",
-            "img": "https://www.corpus.ru/picts/products/tropper-vdovets-1000.jpg"
-        },
-        {
-            "id": "83",
-            "author": "Джонатан Троппер",
-            "book": "Книга Джо",
-            "year": "2011",
-            "buyDate": "8/5/20",
-            "price": "257.83",
-            "publisher": "Corpus",
-            "shelf": "tropper corpus",
-            "img": "https://www.corpus.ru/picts/products/Tropper-Joe-1000.jpg"
-        },
-        {
             "id": "64",
             "author": "Джонатан Троппер",
             "book": "Дальше живите сами",
@@ -5382,15 +5371,26 @@
             "img": "https://s1.livelib.ru/boocover/1001288549/o/a264/Dzhonatan_Tropper__Dalshe_zhivite_sami.jpeg"
         },
         {
-            "id": "307",
+            "id": "83",
             "author": "Джонатан Троппер",
-            "book": "Самое время для новой жизни",
-            "year": "2015",
-            "buyDate": "8/8/20",
-            "price": "140.5",
+            "book": "Книга Джо",
+            "year": "2011",
+            "buyDate": "8/5/20",
+            "price": "257.83",
             "publisher": "Corpus",
             "shelf": "tropper corpus",
-            "img": "https://www.corpus.ru/picts/products/Tropper-Samoe_vremya-1000.jpg"
+            "img": "https://www.corpus.ru/picts/products/Tropper-Joe-1000.jpg"
+        },
+        {
+            "id": "189",
+            "author": "Джонатан Троппер",
+            "book": "Как общаться с вдовцом",
+            "year": "2013",
+            "buyDate": "7/24/20",
+            "price": "127.5",
+            "publisher": "Corpus",
+            "shelf": "tropper corpus",
+            "img": "https://www.corpus.ru/picts/products/tropper-vdovets-1000.jpg"
         },
         {
             "id": "233",
@@ -5402,6 +5402,28 @@
             "publisher": "Corpus",
             "shelf": "tropper corpus",
             "img": "https://www.corpus.ru/picts/products/Tropper-Changes-1000.jpg"
+        },
+        {
+            "id": "260",
+            "author": "Джонатан Троппер",
+            "book": "На прощанье я скажу",
+            "year": "2014",
+            "buyDate": "7/23/20",
+            "price": "116",
+            "publisher": "Corpus",
+            "shelf": "tropper corpus",
+            "img": "https://www.corpus.ru/picts/products/Tropper-Proschanje-1000.jpg"
+        },
+        {
+            "id": "307",
+            "author": "Джонатан Троппер",
+            "book": "Самое время для новой жизни",
+            "year": "2015",
+            "buyDate": "8/8/20",
+            "price": "140.5",
+            "publisher": "Corpus",
+            "shelf": "tropper corpus",
+            "img": "https://www.corpus.ru/picts/products/Tropper-Samoe_vremya-1000.jpg"
         },
         {
             "id": "245",
@@ -5490,28 +5512,6 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/scarpa-fondomentali-1000.jpg"
-        },
-        {
-            "id": "42",
-            "author": "Уэлдон Фэй",
-            "book": "Ненавижу семейную жизнь",
-            "year": "2010",
-            "buyDate": "8/8/20",
-            "price": "140.5",
-            "publisher": "Corpus",
-            "shelf": "corpus fai",
-            "img": "https://s1.livelib.ru/boocover/1000447789/o/0f09/Fej_Ueldon__Nenavizhu_semejnuyu_zhizn.jpeg"
-        },
-        {
-            "id": "9",
-            "author": "Уэлдон Фэй",
-            "book": "Род-Айленд блюз",
-            "year": "2009",
-            "buyDate": "7/23/20",
-            "price": "99",
-            "publisher": "Corpus",
-            "shelf": "corpus fai",
-            "img": "https://s1.livelib.ru/boocover/1000333746/o/159f/Fej_Ueldon__RodAjlend_blyuz.jpeg"
         },
         {
             "id": "243",
@@ -5850,28 +5850,6 @@
             "img": "https://www.corpus.ru/picts/products/agafonkin.jpg"
         },
         {
-            "id": "5",
-            "author": "Гюнтер Грасс",
-            "book": "Фотокамера. Истории из темной комнаты",
-            "year": "2009",
-            "buyDate": "8/3/20",
-            "price": "142",
-            "publisher": "Corpus",
-            "shelf": "grass corpus",
-            "img": "https://s1.livelib.ru/boocover/1000416292/o/fcfb/Gyunter_Grass__Fotokamera.jpeg"
-        },
-        {
-            "id": "36",
-            "author": "Гюнтер Грасс",
-            "book": "Кошки-мышки",
-            "year": "2010",
-            "buyDate": "8/5/20",
-            "price": "143",
-            "publisher": "Corpus",
-            "shelf": "grass corpus",
-            "img": "https://s1.livelib.ru/boocover/1000441729/o/114b/Gyunter_Grass__Koshkimyshki.jpeg"
-        },
-        {
             "id": "86",
             "author": "Питер Акройд",
             "book": "Чаттертон",
@@ -5894,14 +5872,6 @@
             "img": "https://www.corpus.ru/picts/products/Ackroyd-Dom-1000.jpg"
         },
         {
-            "author": "Питер Акройд",
-            "book": "Кларкенвельские рассказы",
-            "year": "2012",
-            "publisher": "Corpus",
-            "shelf": "akroid corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Ackroyd-Clerkenwell-1000.jpg"
-        },
-        {
             "id": "2",
             "author": "Питер Акройд",
             "book": "Процесс Элизабет Кри",
@@ -5911,6 +5881,14 @@
             "publisher": "Corpus",
             "shelf": "akroid corpus",
             "img": "https://www.corpus.ru/picts/products/Ackroyd-Process-1000.jpg"
+        },
+        {
+            "author": "Питер Акройд",
+            "book": "Кларкенвельские рассказы",
+            "year": "2012",
+            "publisher": "Corpus",
+            "shelf": "akroid corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Ackroyd-Clerkenwell-1000.jpg"
         },
         {
             "author": "Питер Акройд",
@@ -5949,6 +5927,50 @@
             "publisher": "Corpus",
             "shelf": "akroid corpus wishlist",
             "img": "https://www.corpus.ru/picts/products/Ackroyd-Canterberry-1000.jpg"
+        },
+        {
+            "id": "4",
+            "author": "Хуан Рульфо",
+            "book": "Педро Парамо. Равнина в огне",
+            "year": "2005",
+            "buyDate": "8/5/20",
+            "price": "284",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000324231/o/7dd6/Huan_Rulfo__Pedro_Paramo._Ravnina_v_ogne_sbornik.jpeg"
+        },
+        {
+            "id": "5",
+            "author": "Гюнтер Грасс",
+            "book": "Фотокамера. Истории из темной комнаты",
+            "year": "2009",
+            "buyDate": "8/3/20",
+            "price": "142",
+            "publisher": "Corpus",
+            "shelf": "grass corpus",
+            "img": "https://s1.livelib.ru/boocover/1000416292/o/fcfb/Gyunter_Grass__Fotokamera.jpeg"
+        },
+        {
+            "id": "36",
+            "author": "Гюнтер Грасс",
+            "book": "Кошки-мышки",
+            "year": "2010",
+            "buyDate": "8/5/20",
+            "price": "143",
+            "publisher": "Corpus",
+            "shelf": "grass corpus",
+            "img": "https://s1.livelib.ru/boocover/1000441729/o/114b/Gyunter_Grass__Koshkimyshki.jpeg"
+        },
+        {
+            "id": "8",
+            "author": "Тамара Кандала",
+            "book": "Эта сладкая голая сволочь",
+            "year": "2009",
+            "buyDate": "10/13/20",
+            "price": "105",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000417175/o/b159/Kandala_Tamara__Eta_sladkaya_golaya_svoloch.jpeg"
         },
         {
             "id": "20",
@@ -6453,17 +6475,6 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://s1.livelib.ru/boocover/1000474265/o/fa71/Leonardo_Padura__Zlye_vetry_duyut_v_Velikij_post.jpeg"
-        },
-        {
-            "id": "4",
-            "author": "Хуан Рульфо",
-            "book": "Педро Парамо. Равнина в огне",
-            "year": "2005",
-            "buyDate": "8/5/20",
-            "price": "284",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000324231/o/7dd6/Huan_Rulfo__Pedro_Paramo._Ravnina_v_ogne_sbornik.jpeg"
         },
         {
             "id": "104",
@@ -7317,17 +7328,6 @@
             "img": "https://s1.livelib.ru/boocover/1000444144/o/004d/Kristian_Merk__Pesij_ostrov.jpeg"
         },
         {
-            "id": "8",
-            "author": "Тамара Кандала",
-            "book": "Эта сладкая голая сволочь",
-            "year": "2009",
-            "buyDate": "10/13/20",
-            "price": "105",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000417175/o/b159/Kandala_Tamara__Eta_sladkaya_golaya_svoloch.jpeg"
-        },
-        {
             "id": "380",
             "author": "Петер Гардош",
             "book": "Предрассветная лихорадка",
@@ -7454,8 +7454,10 @@
             "img": "https://www.corpus.ru/picts/products/Iyer-Stillness-1000.jpg"
         },
         {
+            "id": "163",
             "author": "Сергей Гандлевский",
             "book": "Безумное былое",
+            "year": "2013",
             "buyDate": "10/1/20",
             "price": "195",
             "publisher": "Corpus",
@@ -7591,6 +7593,7 @@
             "id": "480",
             "author": "Тимоти Снайдер",
             "book": "О тирании. 20 уроков XX века",
+            "year": "2018",
             "buyDate": "10/13/20",
             "price": "245",
             "publisher": "Corpus",
@@ -7598,14 +7601,15 @@
             "img": "https://s1.livelib.ru/boocover/1002837483/o/f97b/Timoti_Devid_Snajder__O_tiranii._20_urokov_XX_veka.jpeg"
         },
         {
-            "id": "555",
-            "author": "Дженнифер Даудна",
-            "book": "Трещина в мироздании",
-            "buyDate": "10/14/20",
-            "price": "536",
+            "id": "467",
+            "author": "Июнь Ли",
+            "book": "Добрее одиночества",
+            "year": "2018",
+            "buyDate": "9/29/21",
+            "price": "294",
             "publisher": "Corpus",
             "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1003274791/o/f67b/__Treschina_v_mirozdanii.jpeg"
+            "img": "https://www.corpus.ru/picts/products/ijun-li-dobree-odinochestva1.jpg"
         },
         {
             "id": "507",
@@ -7617,6 +7621,17 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://s1.livelib.ru/boocover/1002812210/o/73f1/Madlen_Ten__Ne_govori_chto_u_nas_nichego_net.jpeg"
+        },
+        {
+            "id": "555",
+            "author": "Дженнифер Даудна",
+            "book": "Трещина в мироздании",
+            "year": "2019",
+            "buyDate": "10/14/20",
+            "price": "536",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Daudna-Treschina-1000.jpg"
         },
         {
             "author": "Кристофер Бакли",
@@ -7743,6 +7758,17 @@
             "img": "https://www.corpus.ru/picts/products/cover1-shpionka.jpg"
         },
         {
+            "id": "607",
+            "author": "Сергей Лебедев",
+            "book": "Дебютант",
+            "year": "2020",
+            "buyDate": "12/27/20",
+            "price": "259",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/cover1-lebedev.jpg"
+        },
+        {
             "id": "608",
             "author": "Кира Ярмыш",
             "book": "Невероятные происшествия в женской камере №3",
@@ -7755,113 +7781,15 @@
             "img": "https://www.corpus.ru/picts/products/cover1-yarnysh.jpg"
         },
         {
-            "author": "Келси Миллер",
-            "book": "Друзья. Больше, чем просто сериал. История создания самого популярного ситкома в истории",
+            "id": "609",
+            "author": "Андраш Форгач",
+            "book": "Незакрытых дел - нет",
             "year": "2020",
-            "buyDate": "9/29/20",
-            "price": "490",
-            "publisher": "Бомбора",
-            "shelf": "bombora friends",
-            "img": "https://s1.livelib.ru/boocover/1003406887/o/e5fd/Kelsi_Miller__Druzya._Bolshe_chem_prosto_serial._Istoriya_sozdaniya_samogo_popul.jpeg"
-        },
-        {
-            "author": "Сол Аустерлиц",
-            "book": "Друзья. 25 лет вместе. Как снимали главный сериал эпохи",
-            "year": "2021",
-            "buyDate": "3/31/21",
-            "price": "456",
-            "publisher": "Бомбора",
-            "shelf": "bombora friends",
-            "img": "https://s1.livelib.ru/boocover/1005665719/o/b3ce/Sol_Austerlits__Druzya._25_let_vmeste._Kak_snimali_glavnyj_serial_epohi.jpeg"
-        },
-        {
-            "author": "Наталья Корнева",
-            "book": "Автостопом по России. Захватывающее путешествие от Петербурга до Владивостока и обратно на попутках",
-            "year": "2020",
-            "buyDate": "9/29/20",
-            "price": "332",
-            "publisher": "Бомбора",
-            "shelf": "bombora",
-            "img": "https://img4.labirint.ru/rc/9aa1e00cf68cd1c7aa1691235b726eb4/220x340/books76/758906/cover.jpg?1596259548"
-        },
-        {
-            "author": "Галина Турецкая",
-            "book": "Теория большого срыва. Как похудеть без диет, тренажеров и дожоров",
-            "year": "2020",
-            "buyDate": "9/29/20",
-            "readDate": "10/9/20",
-            "price": "310",
-            "publisher": "Бомбора",
-            "shelf": "bombora food",
-            "img": "https://s1.livelib.ru/boocover/1005116581/o/c980/Galina_Turetskaya__Teoriya_bolshogo_sryva._Kak_pohudet_bez_diet_trenazherov_i_do.jpeg"
-        },
-        {
-            "author": "Мария Бутина",
-            "book": "Тюремный дневник",
-            "year": "2020",
-            "buyDate": "11/26/20",
-            "readDate": "8/21/21",
-            "price": "399",
-            "publisher": "АСТ",
-            "shelf": "prison ast",
-            "img": "https://sun9-47.userapi.com/impg/1oNoA3scaEGutrg6Fuve6u8yCb8m90M88cXw5Q/Y1PVhrzJIP4.jpg?size=381x604&quality=90&sign=42dfd6c4c12d6dfd7bf50b703abf237e"
-        },
-        {
-            "author": "Евгения Горац",
-            "book": "Как есть. Правдивые истории о потерянных килограммах",
-            "year": "2020",
-            "buyDate": "10/20/20",
-            "price": "230",
-            "shelf": "food",
-            "img": "https://s1.livelib.ru/boocover/1005080197/o/bae1/Evgeniya_Gorats__Kak_est._Pravdivye_istorii_o_poteryannyh_kilogrammah.jpeg"
-        },
-        {
-            "author": "Евгения Горац",
-            "book": "Человек поедающий: целебное и враждебное. Есть ли надежда победить жир, или Как избавиться от пищевого мусора",
-            "year": "2020",
-            "buyDate": "10/20/20",
-            "price": "298",
-            "shelf": "food",
-            "img": "https://s1.livelib.ru/boocover/1003628978/o/b457/Evgeniya_Gorats__Chelovek_poedayuschij_tselebnoe_i_vrazhdebnoe.jpeg"
-        },
-        {
-            "author": "Алекс Фергюсон",
-            "book": "Автобиография",
-            "year": "2014",
-            "buyDate": "11/3/20",
-            "price": "667",
-            "publisher": "АСТ",
-            "shelf": "sport",
-            "img": "https://cdn.ast.ru/v2/AST000000000153082/COVER/cover1__w600.jpg"
-        },
-        {
-            "author": "Дункан Кларк",
-            "book": "Alibaba. История мирового восхождения от первого лица",
-            "year": "2019",
-            "buyDate": "11/3/20",
-            "price": "503",
-            "publisher": "Эксмо",
-            "img": "https://cdn1.ozone.ru/s3/multimedia-o/wc1200/6020010264.jpg"
-        },
-        {
-            "author": "Кен Косиенда",
-            "book": "Кен Косиенда: Творческий отбор. Как создавались лучшие продукты Apple во времена Стива Джобса",
-            "year": "2020",
-            "buyDate": "11/3/20",
-            "price": "521",
-            "publisher": "Бомбора",
-            "shelf": "bombora apple",
-            "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc1200/6021866961.jpg"
-        },
-        {
-            "author": "Андрей Беловешкин",
-            "book": "Что и когда есть. Как найти золотую середину между голодом и перееданием",
-            "year": "2019",
-            "buyDate": "11/4/20",
-            "price": "295.9",
-            "publisher": "Бомбора",
-            "shelf": "bombora food",
-            "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc1200/6008624289.jpg"
+            "buyDate": "11/29/20",
+            "price": "574",
+            "publisher": "Corpus",
+            "shelf": "corpus fsb",
+            "img": "https://www.corpus.ru/picts/products/cover1-forgach.jpg"
         },
         {
             "author": "Елена Мотова",
@@ -7887,14 +7815,50 @@
             "img": "https://cdn.ast.ru/v2/ASE000000000847042/COVER/cover1__w600.jpg"
         },
         {
-            "author": "Брайан Мерчант",
-            "book": "Универсальное устройство. Неизвестная история создания iPhone",
-            "year": "2019",
-            "buyDate": "11/6/20",
-            "price": "485",
-            "publisher": "Бомбора",
-            "shelf": "bombora apple",
-            "img": "https://cdn1.ozone.ru/s3/multimedia-9/wc1200/6013704201.jpg"
+            "id": "616",
+            "author": "Арсен Ревазов",
+            "book": "Одиночество-12",
+            "year": "2020",
+            "buyDate": "12/11/20",
+            "price": "438",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/cover1-revasov.jpg"
+        },
+        {
+            "id": "622",
+            "author": "Карен Джой Фаулер",
+            "book": "Мы совершенно не в себе",
+            "year": "2021",
+            "buyDate": "2/16/21",
+            "readDate": "3/24/21",
+            "price": "433",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/cover1-fauler.jpg"
+        },
+        {
+            "id": "624",
+            "author": "Анне Катрине Боман",
+            "book": "Агата",
+            "year": "2021",
+            "buyDate": "2/1/21",
+            "readDate": "3/17/21",
+            "price": "346",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/cover1-agatha.jpg"
+        },
+        {
+            "id": "627",
+            "author": "Ирина Левонтина",
+            "book": "Честное слово",
+            "year": "2021",
+            "buyDate": "3/31/21",
+            "price": "691",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/cover-chestnoe-slovo.jpg"
         },
         {
             "id": "485",
@@ -7940,6 +7904,7 @@
             "img": "https://www.corpus.ru/picts/products/Krauss-Greathouse-1000.jpg"
         },
         {
+            "id": "139",
             "author": "Алекс Росс",
             "book": "Дальше - шум. Слушая XX век",
             "year": "2012",
@@ -7987,28 +7952,6 @@
             "publisher": "Corpus",
             "shelf": "corpus psychology",
             "img": "https://www.corpus.ru/picts/products/Bloom-Udovolstvia-1000.jpg"
-        },
-        {
-            "id": "609",
-            "author": "Андраш Форгач",
-            "book": "Незакрытых дел - нет",
-            "year": "2020",
-            "buyDate": "11/29/20",
-            "price": "574",
-            "publisher": "Corpus",
-            "shelf": "corpus fsb",
-            "img": "https://www.corpus.ru/picts/products/cover1-forgach.jpg"
-        },
-        {
-            "id": "616",
-            "author": "Арсен Ревазов",
-            "book": "Одиночество-12",
-            "year": "2020",
-            "buyDate": "12/11/20",
-            "price": "438",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/cover1-revasov.jpg"
         },
         {
             "id": "160",
@@ -8109,17 +8052,6 @@
             "img": "https://cdn.book24.ru/v2/ASE000000000858103/COVER/cover13d__w410.webp"
         },
         {
-            "id": "607",
-            "author": "Сергей Лебедев",
-            "book": "Дебютант",
-            "year": "2020",
-            "buyDate": "12/27/20",
-            "price": "259",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/cover1-lebedev.jpg"
-        },
-        {
             "id": "188",
             "author": "Ребекка Маккаи",
             "book": "Запретное чтение",
@@ -8129,30 +8061,6 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/makkai-borrower-1000.jpg"
-        },
-        {
-            "id": "624",
-            "author": "Анне Катрине Боман",
-            "book": "Агата",
-            "year": "2021",
-            "buyDate": "2/1/21",
-            "readDate": "3/17/21",
-            "price": "346",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/cover1-agatha.jpg"
-        },
-        {
-            "id": "622",
-            "author": "Карен Джой Фаулер",
-            "book": "Мы совершенно не в себе",
-            "year": "2021",
-            "buyDate": "2/16/21",
-            "readDate": "3/24/21",
-            "price": "433",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/cover1-fauler.jpg"
         },
         {
             "id": "n",
@@ -8213,17 +8121,6 @@
             "publisher": "Corpus",
             "shelf": "corpus krongauz",
             "img": "https://www.corpus.ru/picts/products/Krongauz-Na%20grani%20sryva-1000.jpg"
-        },
-        {
-            "id": "627",
-            "author": "Ирина Левонтина",
-            "book": "Честное слово",
-            "year": "2021",
-            "buyDate": "3/31/21",
-            "price": "691",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/cover-chestnoe-slovo.jpg"
         },
         {
             "id": "n",
@@ -8544,7 +8441,7 @@
             "book": "Конец власти. От залов заседаний до полей сражений, от церкви до государства: почему управлять сегодня нужно иначе.",
             "year": "2016",
             "publisher": "Corpus",
-            "shelf": "corpus naim",
+            "shelf": "corpus naim wishlist",
             "img": "https://www.corpus.ru/picts/products/mojzes-naim-konetz-vlasti.jpg"
         },
         {
@@ -8733,7 +8630,7 @@
             "price": "496",
             "publisher": "Бомбора",
             "shelf": "bombora",
-            "img": "https://cdn1.ozone.ru/s3/multimedia-c/wc1200/6019379928.jpg"
+            "img": "https://s1.livelib.ru/boocover/1004786515/o/c162/Bi_Dzhej_Fogg__Nanoprivychki._Malenkie_shagi_kotorye_privedut_k_bolshim_peremena.jpeg"
         },
         {
             "author": "Майкл Азеррад",
@@ -8743,7 +8640,7 @@
             "price": "502.2",
             "publisher": "Бомбора",
             "shelf": "bombora music",
-            "img": "https://cdn1.ozone.ru/s3/multimedia-s/wc1200/6021149056.jpg"
+            "img": "https://s1.livelib.ru/boocover/1005074263/o/a93b/Majkl_Azerrad__Come_as_you_are_istoriya_Nirvana_rasskazannaya_Kurtom_Kobejnom_i_.jpeg"
         },
         {
             "author": "Чарльз Р. Кросс",
@@ -8759,7 +8656,7 @@
             "author": "Крейг Браун",
             "book": "One Two Three Four: «Битлз» в ритме времени",
             "year": "2021",
-            "img": "https://sun9-68.userapi.com/impg/G75g66Jm7GPeHuuPC21qOwPw85o6MYOnR8_M1g/G8dX2rMjvK4.jpg?size=771x1080&quality=96&sign=84cdbcc87778e2f86620a6f0e497aa8d&type=album"
+            "img": "https://s1.livelib.ru/boocover/1006726699/o/9842/Krejg_Braun__One_Two_Three_Four_Bitlz_v_ritme_vremeni.jpeg"
         },
         {
             "author": "Дженни Колган",
@@ -8932,6 +8829,125 @@
             "price": "544",
             "shelf": "music",
             "img": "https://s1.livelib.ru/boocover/1005527488/o/411f/Denis_Stupnikov__Ariya_Vozrozhdenie_Legendy._Avtorizovannaya_biografiya_gruppy.jpeg"
+        },
+        {
+            "author": "Келси Миллер",
+            "book": "Друзья. Больше, чем просто сериал. История создания самого популярного ситкома в истории",
+            "year": "2020",
+            "buyDate": "9/29/20",
+            "price": "490",
+            "publisher": "Бомбора",
+            "shelf": "bombora friends",
+            "img": "https://s1.livelib.ru/boocover/1003406887/o/e5fd/Kelsi_Miller__Druzya._Bolshe_chem_prosto_serial._Istoriya_sozdaniya_samogo_popul.jpeg"
+        },
+        {
+            "author": "Сол Аустерлиц",
+            "book": "Друзья. 25 лет вместе. Как снимали главный сериал эпохи",
+            "year": "2021",
+            "buyDate": "3/31/21",
+            "price": "456",
+            "publisher": "Бомбора",
+            "shelf": "bombora friends",
+            "img": "https://s1.livelib.ru/boocover/1005665719/o/b3ce/Sol_Austerlits__Druzya._25_let_vmeste._Kak_snimali_glavnyj_serial_epohi.jpeg"
+        },
+        {
+            "author": "Наталья Корнева",
+            "book": "Автостопом по России. Захватывающее путешествие от Петербурга до Владивостока и обратно на попутках",
+            "year": "2020",
+            "buyDate": "9/29/20",
+            "price": "332",
+            "publisher": "Бомбора",
+            "shelf": "bombora",
+            "img": "https://img4.labirint.ru/rc/9aa1e00cf68cd1c7aa1691235b726eb4/220x340/books76/758906/cover.jpg?1596259548"
+        },
+        {
+            "author": "Галина Турецкая",
+            "book": "Теория большого срыва. Как похудеть без диет, тренажеров и дожоров",
+            "year": "2020",
+            "buyDate": "9/29/20",
+            "readDate": "10/9/20",
+            "price": "310",
+            "publisher": "Бомбора",
+            "shelf": "bombora food",
+            "img": "https://s1.livelib.ru/boocover/1005116581/o/c980/Galina_Turetskaya__Teoriya_bolshogo_sryva._Kak_pohudet_bez_diet_trenazherov_i_do.jpeg"
+        },
+        {
+            "author": "Мария Бутина",
+            "book": "Тюремный дневник",
+            "year": "2020",
+            "buyDate": "11/26/20",
+            "readDate": "8/21/21",
+            "price": "399",
+            "publisher": "АСТ",
+            "shelf": "prison ast",
+            "img": "https://sun9-47.userapi.com/impg/1oNoA3scaEGutrg6Fuve6u8yCb8m90M88cXw5Q/Y1PVhrzJIP4.jpg?size=381x604&quality=90&sign=42dfd6c4c12d6dfd7bf50b703abf237e"
+        },
+        {
+            "author": "Евгения Горац",
+            "book": "Как есть. Правдивые истории о потерянных килограммах",
+            "year": "2020",
+            "buyDate": "10/20/20",
+            "price": "230",
+            "shelf": "food",
+            "img": "https://s1.livelib.ru/boocover/1005080197/o/bae1/Evgeniya_Gorats__Kak_est._Pravdivye_istorii_o_poteryannyh_kilogrammah.jpeg"
+        },
+        {
+            "author": "Евгения Горац",
+            "book": "Человек поедающий: целебное и враждебное. Есть ли надежда победить жир, или Как избавиться от пищевого мусора",
+            "year": "2020",
+            "buyDate": "10/20/20",
+            "price": "298",
+            "shelf": "food",
+            "img": "https://s1.livelib.ru/boocover/1003628978/o/b457/Evgeniya_Gorats__Chelovek_poedayuschij_tselebnoe_i_vrazhdebnoe.jpeg"
+        },
+        {
+            "author": "Алекс Фергюсон",
+            "book": "Автобиография",
+            "year": "2014",
+            "buyDate": "11/3/20",
+            "price": "667",
+            "publisher": "АСТ",
+            "shelf": "sport",
+            "img": "https://cdn.ast.ru/v2/AST000000000153082/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Дункан Кларк",
+            "book": "Alibaba. История мирового восхождения от первого лица",
+            "year": "2019",
+            "buyDate": "11/3/20",
+            "price": "503",
+            "publisher": "Эксмо",
+            "img": "https://cdn1.ozone.ru/s3/multimedia-o/wc1200/6020010264.jpg"
+        },
+        {
+            "author": "Кен Косиенда",
+            "book": "Кен Косиенда: Творческий отбор. Как создавались лучшие продукты Apple во времена Стива Джобса",
+            "year": "2020",
+            "buyDate": "11/3/20",
+            "price": "521",
+            "publisher": "Бомбора",
+            "shelf": "bombora apple",
+            "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc1200/6021866961.jpg"
+        },
+        {
+            "author": "Брайан Мерчант",
+            "book": "Универсальное устройство. Неизвестная история создания iPhone",
+            "year": "2019",
+            "buyDate": "11/6/20",
+            "price": "485",
+            "publisher": "Бомбора",
+            "shelf": "bombora apple",
+            "img": "https://cdn1.ozone.ru/s3/multimedia-9/wc1200/6013704201.jpg"
+        },
+        {
+            "author": "Андрей Беловешкин",
+            "book": "Что и когда есть. Как найти золотую середину между голодом и перееданием",
+            "year": "2019",
+            "buyDate": "11/4/20",
+            "price": "295.9",
+            "publisher": "Бомбора",
+            "shelf": "bombora food",
+            "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc1200/6008624289.jpg"
         },
         {
             "author": "Мишель Обама",
