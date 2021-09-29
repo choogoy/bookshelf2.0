@@ -508,10 +508,11 @@
         {
             "id": "681",
             "author": "Владимир Набоков",
-            "book": "Соглядатай. Рассказы",
+            "book": "Соглядатай",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist"
+            "shelf": "corpus nabokov wishlist",
+            "img": "https://www.corpus.ru/picts/products/cover1-soglyadatay.jpg"
         },
         {
             "author": "Владимир Набоков",
@@ -6348,6 +6349,28 @@
             "img": "https://www.corpus.ru/picts/products/Ammaniti-You-1000.jpg"
         },
         {
+            "id": "38",
+            "author": "Ромен Гари",
+            "book": "Свет женщины",
+            "year": "2010",
+            "buyDate": "8/3/20",
+            "price": "174",
+            "publisher": "Corpus",
+            "shelf": "corpus gari",
+            "img": "https://www.corpus.ru/picts/products/Gari-Svet-1000.jpg"
+        },
+        {
+            "id": "130",
+            "author": "Ромен Гари",
+            "book": "Ночь будет спокойной",
+            "year": "2011",
+            "buyDate": "8/5/20",
+            "price": "236",
+            "publisher": "Corpus",
+            "shelf": "corpus gari",
+            "img": "https://www.corpus.ru/picts/products/Gari-Noch-1000.jpg"
+        },
+        {
             "author": "Ромен Гари",
             "book": "Вино мертвецов",
             "year": "2015",
@@ -6378,28 +6401,6 @@
             "publisher": "Corpus",
             "shelf": "corpus gari wishlist",
             "img": "https://www.corpus.ru/picts/products/Gary-Barakholka-1000.jpg"
-        },
-        {
-            "id": "130",
-            "author": "Ромен Гари",
-            "book": "Ночь будет спокойной",
-            "year": "2011",
-            "buyDate": "8/5/20",
-            "price": "236",
-            "publisher": "Corpus",
-            "shelf": "corpus gari",
-            "img": "https://www.corpus.ru/picts/products/Gari-Noch-1000.jpg"
-        },
-        {
-            "id": "38",
-            "author": "Ромен Гари",
-            "book": "Свет женщины",
-            "year": "2010",
-            "buyDate": "8/3/20",
-            "price": "174",
-            "publisher": "Corpus",
-            "shelf": "corpus gari",
-            "img": "https://www.corpus.ru/picts/products/Gari-Svet-1000.jpg"
         },
         {
             "id": "12",
@@ -6490,6 +6491,14 @@
             "img": "https://www.corpus.ru/picts/products/Egan-Citadel-1000.jpg"
         },
         {
+            "author": "Дженнифер Иган",
+            "book": "Время смеется последним",
+            "year": "2013",
+            "publisher": "Corpus",
+            "shelf": "corpus igan wishlist",
+            "img": "https://www.corpus.ru/picts/products/egan-time-1000.jpg"
+        },
+        {
             "id": "565",
             "author": "Дженнифер Иган",
             "book": "Манхэттен-Бич",
@@ -6497,14 +6506,6 @@
             "publisher": "Corpus",
             "shelf": "corpus igan wishlist",
             "img": "https://www.corpus.ru/picts/products/Egan-Manhattan-1000.jpg"
-        },
-        {
-            "author": "Дженнифер Иган",
-            "book": "Время смеется последним",
-            "year": "2013",
-            "publisher": "Corpus",
-            "shelf": "corpus igan wishlist",
-            "img": "https://www.corpus.ru/picts/products/egan-time-1000.jpg"
         },
         {
             "id": "79",
@@ -6811,34 +6812,6 @@
             "img": "https://www.corpus.ru/picts/products/Heivoll-Yazyk_ognya-1000.jpg"
         },
         {
-            "id": "267",
-            "author": "Максим Осипов",
-            "book": "Волною морскою",
-            "year": "2014",
-            "buyDate": "7/27/20",
-            "price": "188.9",
-            "publisher": "Corpus",
-            "shelf": "osipov corpus",
-            "img": "https://www.corpus.ru/picts/products/Osipov-Volna-1000.jpg"
-        },
-        {
-            "id": "452",
-            "author": "Максим Осипов",
-            "book": "пгт Вечность",
-            "year": "2017",
-            "publisher": "Corpus",
-            "shelf": "osipov corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Osipov-Vechnost-1000.jpg"
-        },
-        {
-            "author": "Максим Осипов",
-            "book": "Человек эпохи возрождения",
-            "year": "2012",
-            "publisher": "Corpus",
-            "shelf": "osipov corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Osipov-Vozrazhdenie-1000tt.jpg"
-        },
-        {
             "id": "10",
             "author": "Максим Осипов",
             "book": "Грех жаловаться",
@@ -6858,6 +6831,34 @@
             "publisher": "Corpus",
             "shelf": "osipov corpus",
             "img": "https://www.corpus.ru/picts/products/Osipov-Krik-1000tt.jpg"
+        },
+        {
+            "author": "Максим Осипов",
+            "book": "Человек эпохи возрождения",
+            "year": "2012",
+            "publisher": "Corpus",
+            "shelf": "osipov corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Osipov-Vozrazhdenie-1000tt.jpg"
+        },
+        {
+            "id": "267",
+            "author": "Максим Осипов",
+            "book": "Волною морскою",
+            "year": "2014",
+            "buyDate": "7/27/20",
+            "price": "188.9",
+            "publisher": "Corpus",
+            "shelf": "osipov corpus",
+            "img": "https://www.corpus.ru/picts/products/Osipov-Volna-1000.jpg"
+        },
+        {
+            "id": "452",
+            "author": "Максим Осипов",
+            "book": "пгт Вечность",
+            "year": "2017",
+            "publisher": "Corpus",
+            "shelf": "osipov corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Osipov-Vechnost-1000.jpg"
         },
         {
             "author": "Максим Осипов",
@@ -6966,7 +6967,6 @@
         },
         {
             "id": "n",
-            "author": "Национальная академия наук США",
             "book": "Происхождение жизни. Наука и вера",
             "year": "2009",
             "buyDate": "8/23/20",
@@ -6977,7 +6977,6 @@
         },
         {
             "id": "n",
-            "author": "Владимир Сорокин",
             "book": "Очарованный остров. Новые сказки об Италии",
             "year": "2014",
             "buyDate": "8/23/20",
@@ -7042,6 +7041,15 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-rubinshtein-znaki-1000.jpg"
         },
         {
+            "id": "241",
+            "author": "Лев Рубинштейн",
+            "book": "Скорее всего",
+            "year": "2013",
+            "publisher": "Corpus",
+            "shelf": "rubinstein corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/tnw239-Rubinstein-Skoree-1000.jpg"
+        },
+        {
             "id": "382",
             "author": "Лев Рубинштейн",
             "book": "Причинное время",
@@ -7064,15 +7072,6 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Rubinshtein-Slyshno-1000.jpg"
         },
         {
-            "id": "241",
-            "author": "Лев Рубинштейн",
-            "book": "Скорее всего",
-            "year": "2013",
-            "publisher": "Corpus",
-            "shelf": "rubinstein corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/tnw239-Rubinstein-Skoree-1000.jpg"
-        },
-        {
             "id": "311",
             "author": "Елена Бочоришвили",
             "book": "Только ждать и смотреть",
@@ -7089,6 +7088,17 @@
             "publisher": "Corpus",
             "shelf": "corpus wishlist",
             "img": "https://www.corpus.ru/picts/products/tnw239-Bochorishvili-Head-1000.jpg"
+        },
+        {
+            "id": "50",
+            "author": "Джона Лерер",
+            "book": "Как мы принимаем решения",
+            "year": "2010",
+            "buyDate": "11/20/20",
+            "price": "387.67",
+            "publisher": "Corpus",
+            "shelf": "lerer corpus",
+            "img": "https://www.corpus.ru/picts/products/Lehrer-Decide-1000.jpg"
         },
         {
             "id": "216",
@@ -7111,17 +7121,6 @@
             "publisher": "Corpus",
             "shelf": "lerer corpus",
             "img": "https://www.corpus.ru/picts/products/Lehrer-Love-1000.jpg"
-        },
-        {
-            "id": "50",
-            "author": "Джона Лерер",
-            "book": "Как мы принимаем решения",
-            "year": "2010",
-            "buyDate": "11/20/20",
-            "price": "387.67",
-            "publisher": "Corpus",
-            "shelf": "lerer corpus",
-            "img": "https://www.corpus.ru/picts/products/Lehrer-Decide-1000.jpg"
         },
         {
             "id": "469",
@@ -7458,13 +7457,31 @@
         {
             "id": "163",
             "author": "Сергей Гандлевский",
-            "book": "Безумное былое",
+            "book": "Бездумное былое",
             "year": "2013",
             "buyDate": "10/1/20",
             "price": "195",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus gandlevsky",
             "img": "https://www.corpus.ru/picts/products/Gandlevsky-Biloe-1000.jpg"
+        },
+        {
+            "id": "502",
+            "author": "Сергей Гандлевский",
+            "book": "Счастливая ошибка. Стихи и эссе о стихах",
+            "year": "2018",
+            "publisher": "Corpus",
+            "shelf": "corpus gandlevsky wishlist",
+            "img": "https://www.corpus.ru/picts/products/Gandlevsly-Oshibka-1000.jpg"
+        },
+        {
+            "id": "544",
+            "author": "Сергей Гандлевский",
+            "book": "В сторону Новой Зеландии",
+            "year": "2019",
+            "publisher": "Corpus",
+            "shelf": "corpus gandlevsky wishlist",
+            "img": "https://www.corpus.ru/picts/products/Gandlevsky-Zeeland-1000.jpg"
         },
         {
             "id": "195",
@@ -7738,6 +7755,15 @@
             "img": "https://www.corpus.ru/picts/products/Beaulieu-1001_noch-1000.jpg"
         },
         {
+            "id": "575",
+            "author": "Мартин О Кайнь",
+            "book": "Грязь кладбищенская",
+            "year": "2020",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/O_Cadhain-Dirty-1000.jpg"
+        },
+        {
             "id": "590",
             "author": "Мэтью Джексон",
             "book": "Человеческие сети",
@@ -7758,6 +7784,15 @@
             "publisher": "Corpus",
             "shelf": "corpus prison fsb razvedcorpus",
             "img": "https://www.corpus.ru/picts/products/cover1-shpionka.jpg"
+        },
+        {
+            "id": "606",
+            "author": "Массимилиано Вирджилио",
+            "book": "Американец",
+            "year": "2020",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/cover1-virgilio.jpg"
         },
         {
             "id": "607",
@@ -9852,10 +9887,20 @@
             "book": "«Книжная лавка под дождём» и костяной дракон",
             "year": "2021",
             "buyDate": "10/4/21",
-            "price": "556",
+            "price": "555",
             "publisher": "Поляндрия",
             "shelf": "bookstore hinata polandria",
             "img": "https://s1.livelib.ru/boocover/1005994909/o/b2b0/Rieko_Hinata__Knizhnaya_lavka_pod_dozhdjom_i_kostyanoj_drakon.jpeg"
+        },
+        {
+            "author": "Марьян Камали",
+            "book": "Маленький книжный магазинчик в Тегеране",
+            "year": "2021",
+            "buyDate": "10/6/21",
+            "price": "355",
+            "publisher": "Эксмо",
+            "shelf": "bookstore eksmo inspiria",
+            "img": "https://s1.livelib.ru/boocover/1006229521/o/77b9/Maryan_Kamali__Malenkij_knizhnyj_magazinchik_v_Tegerane.jpeg"
         },
         {
             "author": "Евгений Ройзман",
