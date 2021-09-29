@@ -642,7 +642,7 @@
         },
         {
             "author": "Эрленд Лу",
-            "book": "Грузовики \"Вольво\"",
+            "book": "Грузовики «Вольво»",
             "year": "2005",
             "shelf": "erlend-lou",
             "img": "https://img3.labirint.ru/rc/95ca536a98415940d0b574f8134fbbbe/220x340/books12/117149/cover.jpg?1568399295"
@@ -1890,7 +1890,7 @@
         },
         {
             "author": "Рю Мураками",
-            "book": "Отель \"Раффлз\"",
+            "book": "Отель «Раффлз»",
             "year": "1989",
             "shelf": "ru-murakami",
             "img": "https://s1.livelib.ru/boocover/1000310747/o/e19a/Ryu_Murakami__Otel_ampquotRafflzampquot.jpeg"
@@ -2714,22 +2714,22 @@
             "img": "https://cdn1.ozone.ru/multimedia/wc1200/1026567710.jpg"
         },
         {
-            "author": "Театр \"Квартет И\"",
+            "author": "Театр «Квартет И»",
             "book": "Смешная книга. Конюх Федоров и не только...",
             "img": "https://s1.livelib.ru/boocover/1000381244/o/300b/Teatr_ampampquotKvartet_Iampampquot__Smeshnaya_kniga._Konyuh_Fedorov_i_ne_tolko.jpeg"
         },
         {
-            "author": "Театр \"Квартет И\"",
+            "author": "Театр «Квартет И»",
             "book": "Очень смешная книга. Кругом NASHI и не только...",
             "img": "https://s1.livelib.ru/boocover/1000311340/o/5859/Teatr_ampampquotKvartet_Iampampquot__Ochen_smeshnaya_kniga._Krugom_NASHI_i_ne_to.jpeg"
         },
         {
-            "author": "Театр \"Квартет И\"",
+            "author": "Театр «Квартет И»",
             "book": "Самая смешная книга. Мексиканские негодяи и не только...",
             "img": "https://s1.livelib.ru/boocover/1000369331/o/4710/Kvartet_I__Samaya_smeshnaya_kniga_Meksikanskie_negodyai_i_ne_tolko.jpeg"
         },
         {
-            "author": "Театр \"Квартет И\"",
+            "author": "Театр «Квартет И»",
             "book": "Шесть комедий",
             "buyDate": "4/26/13",
             "price": "347",
@@ -3722,7 +3722,7 @@
             "year": "2020",
             "buyDate": "11/18/20",
             "price": "273",
-            "shelf": "traub education",
+            "shelf": "traub education russian",
             "img": "https://s1.livelib.ru/boocover/1005563767/o/c980/Masha_Traub__Russkij_yazyk_s_Mashej_Traub.jpeg"
         },
         {
@@ -4056,7 +4056,7 @@
         },
         {
             "author": "Архимандрит Тихон",
-            "book": "\"Несвятые святые\" и другие рассказы",
+            "book": "«Несвятые святые» и другие рассказы",
             "buyDate": "1/15/18",
             "price": "211",
             "shelf": "religion",
@@ -6861,7 +6861,7 @@
         },
         {
             "author": "Максим Осипов",
-            "book": "\"Люксембург\" и другие русские истории",
+            "book": "«Люксембург» и другие русские истории",
             "year": "2020",
             "publisher": "Corpus",
             "shelf": "osipov corpus wishlist",
@@ -7852,6 +7852,51 @@
             "img": "https://www.corpus.ru/picts/products/cover1-agatha.jpg"
         },
         {
+            "id": "211",
+            "author": "Максим Кронгауз",
+            "book": "Самоучитель Олбанского",
+            "publisher": "Corpus",
+            "shelf": "corpus russian krongauz wishlist",
+            "img": "https://www.corpus.ru/picts/products/Kronhaus-Olbansky-1000.jpg"
+        },
+        {
+            "author": "Максим Кронгауз",
+            "book": "Русский язык на грани нервного срыва. 3D",
+            "year": "2012",
+            "publisher": "Corpus",
+            "shelf": "corpus russian krongauz wishlist",
+            "img": "https://www.corpus.ru/picts/products/Kronghaus-Speak-1000.jpg"
+        },
+        {
+            "id": "402",
+            "author": "Максим Кронгауз",
+            "book": "Русский язык на грани нервного срыва",
+            "year": "2021",
+            "buyDate": "9/23/21",
+            "price": "428",
+            "publisher": "Corpus",
+            "shelf": "corpus russian krongauz",
+            "img": "https://www.corpus.ru/picts/products/Krongauz-Na%20grani%20sryva-1000.jpg"
+        },
+        {
+            "id": "351",
+            "author": "Ирина Левонтина",
+            "book": "О чём речь",
+            "year": "2015",
+            "publisher": "Corpus",
+            "shelf": "corpus russian levontina wishlist",
+            "img": "https://www.corpus.ru/picts/products/Levontina-Rech-1000.jpg"
+        },
+        {
+            "id": "394",
+            "author": "Ирина Левонтина",
+            "book": "Русский со словарем",
+            "year": "2016",
+            "publisher": "Corpus",
+            "shelf": "corpus russian levontina wishlist",
+            "img": "https://www.corpus.ru/picts/products/Levontina-Russky-1000.jpg"
+        },
+        {
             "id": "627",
             "author": "Ирина Левонтина",
             "book": "Честное слово",
@@ -7859,7 +7904,7 @@
             "buyDate": "3/31/21",
             "price": "691",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus russian levontina",
             "img": "https://www.corpus.ru/picts/products/cover-chestnoe-slovo.jpg"
         },
         {
@@ -8096,33 +8141,6 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://cdn1.ozone.ru/multimedia/wc1200/1011334022.jpg"
-        },
-        {
-            "id": "211",
-            "author": "Максим Кронгауз",
-            "book": "Самоучитель Олбанского",
-            "publisher": "Corpus",
-            "shelf": "corpus krongauz wishlist",
-            "img": "https://www.corpus.ru/picts/products/Kronhaus-Olbansky-1000.jpg"
-        },
-        {
-            "author": "Максим Кронгауз",
-            "book": "Русский язык на грани нервного срыва. 3D",
-            "year": "2012",
-            "publisher": "Corpus",
-            "shelf": "corpus krongauz wishlist",
-            "img": "https://www.corpus.ru/picts/products/Kronghaus-Speak-1000.jpg"
-        },
-        {
-            "id": "402",
-            "author": "Максим Кронгауз",
-            "book": "Русский язык на грани нервного срыва",
-            "year": "2021",
-            "buyDate": "9/23/21",
-            "price": "428",
-            "publisher": "Corpus",
-            "shelf": "corpus krongauz",
-            "img": "https://www.corpus.ru/picts/products/Krongauz-Na%20grani%20sryva-1000.jpg"
         },
         {
             "id": "n",
@@ -9820,7 +9838,7 @@
             "img": "https://s1.livelib.ru/boocover/1002572067/o/a1d4/Sintiya_Suonson__Knizhnaya_lavka.jpeg"
         },
         {
-            "author": "Риэко Хината",
+            "author": "Риэко Хината, Хисанори Ёсида",
             "book": "Книжная лавка под дождём",
             "year": "2021",
             "buyDate": "10/4/21",
@@ -9830,7 +9848,7 @@
             "img": "https://s1.livelib.ru/boocover/1005994903/o/b1ef/Rieko_Hinata__Knizhnaya_lavka_pod_dozhdjom.jpeg"
         },
         {
-            "author": "Риэко Хината",
+            "author": "Риэко Хината, Хисанори Ёсида",
             "book": "«Книжная лавка под дождём» и костяной дракон",
             "year": "2021",
             "buyDate": "10/4/21",
