@@ -6158,7 +6158,7 @@
             "readDate": "9/14/21",
             "price": "234",
             "publisher": "Corpus",
-            "shelf": "fonkinos corpus",
+            "shelf": "fonkinos corpus beatles",
             "img": "https://www.corpus.ru/picts/products/foenkinos-lennon-1000.jpg"
         },
         {
@@ -7262,7 +7262,7 @@
             "buyDate": "9/29/20",
             "price": "1018",
             "publisher": "Corpus",
-            "shelf": "corpus music",
+            "shelf": "corpus music beatles",
             "img": "https://www.corpus.ru/picts/products/Norman-Mccartney-1000.jpg"
         },
         {
@@ -8660,6 +8660,7 @@
             "author": "Крейг Браун",
             "book": "One Two Three Four: «Битлз» в ритме времени",
             "year": "2021",
+            "shelf": "music beatles wishlist",
             "img": "https://s1.livelib.ru/boocover/1006726699/o/9842/Krejg_Braun__One_Two_Three_Four_Bitlz_v_ritme_vremeni.jpeg"
         },
         {
@@ -9087,7 +9088,8 @@
             "author": "Салли Руни",
             "book": "Прекрасный мир, где ты?",
             "year": "2021",
-            "shelf": "runi wishlist"
+            "shelf": "runi wishlist",
+            "img": "https://sun9-65.userapi.com/impg/_dfM2xsBFne2LvXWpQdyW8BL50SgPZ5X_w-V_g/Xn7hp3RNmcc.jpg?size=1412x2160&quality=96&sign=4e028155cadf0862fd07c91e9c52418d&type=album"
         },
         {
             "author": "Джессика Фокс",
@@ -9160,7 +9162,7 @@
             "buyDate": "8/6/21",
             "price": "346",
             "shelf": "kasten",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001126634/COVER/cover1__w820.jpg"
+            "img": "https://s1.livelib.ru/boocover/1006211509/o/c4a0/Mona_Kasten__Doversya_mne.jpeg"
         },
         {
             "author": "Мэри Энн Марлоу",
@@ -9199,7 +9201,7 @@
             "price": "255.23",
             "publisher": "Бомбора",
             "shelf": "bombora secret anna-frank",
-            "img": "https://cdn1.ozone.ru/s3/multimedia-3/wc1200/6018599547.jpg"
+            "img": "https://s1.livelib.ru/boocover/1002989556/o/3786/Mip_Gis__Ya_pryatala_Annu_Frank._Istoriya_zhenschiny_kotoraya_pytalas_spasti_sem.jpeg"
         },
         {
             "author": "Патрик Федра",
@@ -9310,7 +9312,7 @@
             "price": "264",
             "publisher": "Азбука",
             "shelf": "george azbuka",
-            "img": "https://cdn1.ozone.ru/s3/multimedia-2/wc1200/6012825938.jpg"
+            "img": "https://s1.livelib.ru/boocover/1002463307/o/a8e1/Nina_George__Muzyka_lunnogo_sveta.jpeg"
         },
         {
             "author": "Нина Георге",
@@ -9459,7 +9461,7 @@
             "price": "303",
             "publisher": "АСТ",
             "shelf": "bookstore ast",
-            "img": "https://cdn.book24.ru/v2/ASE000000000850158/COVER/cover3d1__w674.webp"
+            "img": "https://s1.livelib.ru/boocover/1005948199/o/6a34/Karen_Dyukess__Poslednyaya_knizhnaya_vecherinka.jpeg"
         },
         {
             "author": "Ким Мишель Ричардсон",
@@ -9617,7 +9619,7 @@
             "price": "460",
             "publisher": "Эксмо",
             "shelf": "eksmo",
-            "img": "https://img4.labirint.ru/rc/039ccb3150da9bc3f8cb42561bcbcd87/220x340/books81/809794/cover.jpg?1626348664"
+            "img": "https://s1.livelib.ru/boocover/1006269307/o/28e4/Dzho_Bajden__Sderzhat_obeschaniya._V_zhizni_i_politike.jpeg"
         },
         {
             "author": "Лин Рина",
@@ -9654,7 +9656,7 @@
             "price": "513",
             "publisher": "Альпина нон-фикшн",
             "shelf": "alpina space",
-            "img": "https://knigid.ru/uploads/posts/2021-07/1625805889_726.jpg"
+            "img": "https://s1.livelib.ru/boocover/1006204066/o/6217/Erik_Asfog__Kogda_u_Zemli_bylo_dve_Luny.jpeg"
         },
         {
             "author": "Аманда Хендрикс, Чарльз Уолфорт",
@@ -9702,7 +9704,7 @@
             "buyDate": "8/13/21",
             "price": "540",
             "publisher": "КоЛибри",
-            "shelf": "kolibri music",
+            "shelf": "kolibri music beatles",
             "img": "https://s1.livelib.ru/boocover/1006029007/o/78f6/Rej_Konnolli__Byt_Dzhonom_Lennonom.jpeg"
         },
         {
@@ -9823,14 +9825,14 @@
             "author": "Риэко Хината",
             "book": "Книжная лавка под дождём",
             "shelf": "bookstore wishlist",
-            "img": "https://s1.livelib.ru/boocover/1002901065/o/97e1/Rieko_Hinata__Knizhnaya_lavka_pod_dozhdem.jpeg"
+            "img": "https://s1.livelib.ru/boocover/1005994903/o/b1ef/Rieko_Hinata__Knizhnaya_lavka_pod_dozhdjom.jpeg"
         },
         {
             "author": "Риэко Хината",
             "book": "«Книжная лавка под дождём» и костяной дракон",
             "year": "2021",
             "shelf": "bookstore wishlist",
-            "img": "https://static.my-shop.ru/product/3/451/4504963.jpg"
+            "img": "https://s1.livelib.ru/boocover/1005994909/o/b2b0/Rieko_Hinata__Knizhnaya_lavka_pod_dozhdjom_i_kostyanoj_drakon.jpeg"
         },
         {
             "author": "Евгений Ройзман",
