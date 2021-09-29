@@ -8542,10 +8542,8 @@
             "author": "Майкл Газзанига",
             "book": "Истории от разных полушарий мозга. Жизнь в нейронауке",
             "year": "2021",
-            "buyDate": "10/4/21",
-            "price": "621",
             "publisher": "Corpus",
-            "shelf": "corpus politeh",
+            "shelf": "corpus politeh wishlist",
             "img": "https://www.corpus.ru/picts/products/Gazzaniga-Mozg-1000.jpg"
         },
         {
@@ -9824,14 +9822,21 @@
         {
             "author": "Риэко Хината",
             "book": "Книжная лавка под дождём",
-            "shelf": "bookstore wishlist",
+            "year": "2021",
+            "buyDate": "10/4/21",
+            "price": "542",
+            "publisher": "Поляндрия",
+            "shelf": "bookstore hinata polandria",
             "img": "https://s1.livelib.ru/boocover/1005994903/o/b1ef/Rieko_Hinata__Knizhnaya_lavka_pod_dozhdjom.jpeg"
         },
         {
             "author": "Риэко Хината",
             "book": "«Книжная лавка под дождём» и костяной дракон",
             "year": "2021",
-            "shelf": "bookstore wishlist",
+            "buyDate": "10/4/21",
+            "price": "556",
+            "publisher": "Поляндрия",
+            "shelf": "bookstore hinata polandria",
             "img": "https://s1.livelib.ru/boocover/1005994909/o/b2b0/Rieko_Hinata__Knizhnaya_lavka_pod_dozhdjom_i_kostyanoj_drakon.jpeg"
         },
         {
