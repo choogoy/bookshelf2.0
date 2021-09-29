@@ -1,19 +1,18 @@
 import addToCart from './addToCart.js';
 import changeCartCount from './changeCartCount.js';
 import modal from './modal.js';
-import renderCart from './renderCart.js';
 import showDate from './showDate.js';
 
 const renderCard = data => {
-    const { bookID, img, year, author, book, readDate, publisher, buyDate, shelf, price } = data;
+    const { bookID, img, author, book, readDate, shelf, price } = data;
 
     const card = document.createElement('div');
     card.dataset.bookId = bookID;
     card.className = `books__item${shelf.includes('wishlist') ? ' item-false' : ' item-true'}${readDate ? ' books__item--read' : ''}`;
 
     card.innerHTML = `        
-        <div class="books__item-img"><img src="${img ? img : './images/no-cover.jpg'}" alt="${author} - ${book}"></div>
-        <p>${author}</p>
+        <div class="books__item-img"><img src="${img ? img : './images/no-cover.jpg'}" loading="lazy" alt="${author ? `${author} - ` : ''}${book}"></div>
+        ${author ? `<p>${author}</p>` : ''}
         <p class="book-name">${book}</p>
         ${readDate ? `<p>${showDate(readDate)}</p>` : ''}
         ${price ? `<p class="book-price">${price} ₽</p>` : ''}
