@@ -461,7 +461,7 @@
             "author": "Владимир Набоков",
             "book": "Машенька. Подвиг",
             "year": "2021",
-            "buyDate": "10/4/21",
+            "buyDate": "10/2/21",
             "price": "379",
             "publisher": "Corpus",
             "shelf": "corpus nabokov",
@@ -798,6 +798,26 @@
             "img": "https://s1.livelib.ru/boocover/1002032363/o/9278/Charlz_Bukovski__Zhenschiny.jpeg"
         },
         {
+            "id": "141",
+            "author": "Джонатан Франзен",
+            "book": "Свобода",
+            "year": "2012",
+            "publisher": "Corpus",
+            "shelf": "franzen corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/FRANZEN-1000.jpg"
+        },
+        {
+            "id": "416",
+            "author": "Джонатан Франзен",
+            "book": "Свобода",
+            "year": "2017",
+            "buyDate": "2/9/17",
+            "price": "572",
+            "publisher": "Corpus",
+            "shelf": "franzen corpus",
+            "img": "https://cv8.litres.ru/pub/c/elektronnaya-kniga/cover_415/7776781-dzhonatan-franzen-svoboda-7776781.jpg"
+        },
+        {
             "id": "219",
             "author": "Джонатан Франзен",
             "book": "Поправки",
@@ -818,23 +838,14 @@
             "img": "https://www.corpus.ru/picts/products/Popravki-1000.jpg"
         },
         {
-            "id": "416",
+            "id": "252",
             "author": "Джонатан Франзен",
-            "book": "Свобода",
-            "year": "2017",
+            "book": "Дальний остров",
             "buyDate": "2/9/17",
-            "price": "572",
+            "price": "250",
             "publisher": "Corpus",
             "shelf": "franzen corpus",
-            "img": "https://cv8.litres.ru/pub/c/elektronnaya-kniga/cover_415/7776781-dzhonatan-franzen-svoboda-7776781.jpg"
-        },
-        {
-            "author": "Джонатан Франзен",
-            "book": "Свобода",
-            "year": "2012",
-            "publisher": "Corpus",
-            "shelf": "franzen corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/FRANZEN-1000.jpg"
+            "img": "https://www.corpus.ru/picts/products/Franzen-Ostrov-1000.jpg"
         },
         {
             "id": "392",
@@ -845,16 +856,6 @@
             "publisher": "Corpus",
             "shelf": "franzen corpus",
             "img": "https://cv3.litres.ru/pub/c/elektronnaya-kniga/cover_415/21182633-dzhonatan-franzen-bezgreshnost.jpg"
-        },
-        {
-            "id": "252",
-            "author": "Джонатан Франзен",
-            "book": "Дальний остров",
-            "buyDate": "2/9/17",
-            "price": "250",
-            "publisher": "Corpus",
-            "shelf": "franzen corpus",
-            "img": "https://www.corpus.ru/picts/products/Franzen-Ostrov-1000.jpg"
         },
         {
             "id": "545",
@@ -1302,6 +1303,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-lugand.jpg"
         },
         {
+            "id": "n",
             "author": "Аньес Мартен-Люган",
             "book": "Счастливые люди читают книжки и пьют кофе",
             "publisher": "Corpus",
@@ -3741,7 +3743,7 @@
             "year": "2021",
             "buyDate": "5/2/21",
             "price": "294",
-            "shelf": "education",
+            "shelf": "education oster",
             "img": "https://s1.livelib.ru/boocover/1005568957/o/02aa/Grigorij_Oster__Matematika_s_Grigoriem_Osterom.jpeg"
         },
         {
@@ -3752,6 +3754,13 @@
             "price": "301",
             "shelf": "education space",
             "img": "https://cv7.litres.ru/pub/c/pdf-kniga/cover_max1500/65586076-author-g_surdin_v-kniga_astronomiya_s_vladimirom_surdinyim.jpg"
+        },
+        {
+            "author": "Григорий Остер",
+            "book": "Физика с Григорием Остером",
+            "year": "2021",
+            "shelf": "education oster wishlist",
+            "img": "https://cdn.book24.ru/v2/ASE000000000841307/COVER/cover13d__w410.webp"
         },
         {
             "author": "Екатерина Вильмонт",
@@ -7918,8 +7927,10 @@
             "author": "Ирина Левонтина",
             "book": "О чём речь",
             "year": "2015",
+            "buyDate": "10/5/21",
+            "price": "459",
             "publisher": "Corpus",
-            "shelf": "corpus russian levontina wishlist",
+            "shelf": "corpus russian levontina",
             "img": "https://www.corpus.ru/picts/products/Levontina-Rech-1000.jpg"
         },
         {
@@ -9876,7 +9887,7 @@
             "author": "Риэко Хината, Хисанори Ёсида",
             "book": "Книжная лавка под дождём",
             "year": "2021",
-            "buyDate": "10/4/21",
+            "buyDate": "10/2/21",
             "price": "542",
             "publisher": "Поляндрия",
             "shelf": "bookstore hinata polandria",
@@ -9886,7 +9897,7 @@
             "author": "Риэко Хината, Хисанори Ёсида",
             "book": "«Книжная лавка под дождём» и костяной дракон",
             "year": "2021",
-            "buyDate": "10/4/21",
+            "buyDate": "10/2/21",
             "price": "555",
             "publisher": "Поляндрия",
             "shelf": "bookstore hinata polandria",
@@ -9896,11 +9907,25 @@
             "author": "Марьян Камали",
             "book": "Маленький книжный магазинчик в Тегеране",
             "year": "2021",
-            "buyDate": "10/6/21",
+            "buyDate": "10/8/21",
             "price": "355",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria",
             "img": "https://s1.livelib.ru/boocover/1006229521/o/77b9/Maryan_Kamali__Malenkij_knizhnyj_magazinchik_v_Tegerane.jpeg"
+        },
+        {
+            "book": "Во всем виновата книга",
+            "buyDate": "10/5/21",
+            "price": "331",
+            "shelf": "bookstore wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002911319/o/81c6/__Vo_vsjom_vinovata_kniga_sbornik.jpeg"
+        },
+        {
+            "book": "Во всем виновата книга - 2",
+            "buyDate": "10/5/21",
+            "price": "407",
+            "shelf": "bookstore wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002997157/o/0969/__Vo_vsem_vinovata_kniga__2_sbornik.jpeg"
         },
         {
             "author": "Евгений Ройзман",
