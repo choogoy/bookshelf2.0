@@ -9917,14 +9917,14 @@
             "book": "Во всем виновата книга",
             "buyDate": "10/5/21",
             "price": "331",
-            "shelf": "bookstore wishlist",
+            "shelf": "bookstore",
             "img": "https://s1.livelib.ru/boocover/1002911319/o/81c6/__Vo_vsjom_vinovata_kniga_sbornik.jpeg"
         },
         {
             "book": "Во всем виновата книга - 2",
             "buyDate": "10/5/21",
             "price": "407",
-            "shelf": "bookstore wishlist",
+            "shelf": "bookstore",
             "img": "https://s1.livelib.ru/boocover/1002997157/o/0969/__Vo_vsem_vinovata_kniga__2_sbornik.jpeg"
         },
         {
