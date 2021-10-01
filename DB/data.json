@@ -3759,7 +3759,9 @@
             "author": "Григорий Остер",
             "book": "Физика с Григорием Остером",
             "year": "2021",
-            "shelf": "education oster wishlist",
+            "buyDate": "10/15/21",
+            "price": "252",
+            "shelf": "education oster",
             "img": "https://cdn.book24.ru/v2/ASE000000000841307/COVER/cover13d__w410.webp"
         },
         {
@@ -8719,13 +8721,6 @@
             "img": "https://s1.livelib.ru/boocover/1005652753/o/1e4c/Charlz_Kross__Tyazhelee_nebes._Zhizn_i_smert_Kurta_Kobejna_o_kotoryh_vy_nichego_.jpeg"
         },
         {
-            "author": "Крейг Браун",
-            "book": "One Two Three Four: «Битлз» в ритме времени",
-            "year": "2021",
-            "shelf": "music beatles wishlist",
-            "img": "https://s1.livelib.ru/boocover/1006726699/o/9842/Krejg_Braun__One_Two_Three_Four_Bitlz_v_ritme_vremeni.jpeg"
-        },
-        {
             "author": "Дженни Колган",
             "book": "Книжный магазинчик счастья",
             "buyDate": "11/26/20",
@@ -9770,6 +9765,14 @@
             "img": "https://s1.livelib.ru/boocover/1006029007/o/78f6/Rej_Konnolli__Byt_Dzhonom_Lennonom.jpeg"
         },
         {
+            "author": "Крейг Браун",
+            "book": "One Two Three Four: «Битлз» в ритме времени",
+            "year": "2021",
+            "publisher": "КоЛибри",
+            "shelf": "kolibri music beatles wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006726699/o/9842/Krejg_Braun__One_Two_Three_Four_Bitlz_v_ritme_vremeni.jpeg"
+        },
+        {
             "author": "Ханна Кент",
             "book": "Вкус дыма",
             "year": "2019",
@@ -9818,6 +9821,16 @@
             "publisher": "Бомбора",
             "shelf": "bombora",
             "img": "https://s1.livelib.ru/boocover/1005705988/o/c980/Mark_Rendolf__That_will_never_work._Istoriya_sozdaniya_Netflix_rasskazannaya_ee_.jpeg"
+        },
+        {
+            "author": "Учитель Русского",
+            "book": "50 смертных грехов в русском языке. Говори и пиши правильно",
+            "year": "2020",
+            "buyDate": "10/7/21",
+            "price": "300",
+            "publisher": "Бомбора",
+            "shelf": "bombora russian",
+            "img": "https://s1.livelib.ru/boocover/1003171247/o/b863/Uchitel_Russkogo__50_smertnyh_grehov_v_russkom_yazyke._Govori_i_pishi_pravilno.jpeg"
         },
         {
             "author": "Майкл Керриган",
