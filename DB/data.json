@@ -4500,13 +4500,19 @@
             "book": "Дневник слабака-14. Сокрушительный удар",
             "year": "2021",
             "shelf": "slabak wishlist",
-            "img": "https://images-na.ssl-images-amazon.com/images/I/91-VrJAXjpL.jpg"
+            "img": "https://cdn.book24.ru/v2/ASE000000000852042/COVER/cover13d__w410.webp"
         },
         {
             "author": "Джефф Кинни",
             "book": "Diary of a Wimpy Kid: The Deep End",
             "shelf": "slabak wishlist",
             "img": "https://penguin.co.uk/content/dam/prh/books/313/313148/9780241396643.jpg.transform/PRHDesktopWide_small/image.jpg"
+        },
+        {
+            "author": "Джефф Кинни",
+            "book": "Diary of a Wimpy Kid: Big Shot",
+            "shelf": "slabak wishlist",
+            "img": "https://static.wikia.nocookie.net/doawk/images/4/40/Big_Shot.jpg/revision/latest/scale-to-width-down/640?cb=20210526130943"
         },
         {
             "author": "Джефф Кинни",
@@ -4779,60 +4785,314 @@
             "img": "https://s1.livelib.ru/boocover/1000015759/o/18e6/Nik_Hornbi__HiFi.jpeg"
         },
         {
-            "id": "350",
-            "author": "Дэниел Гоулман",
-            "book": "Фокус. О внимании, рассеянности и жизненном успехе",
-            "year": "2015",
-            "buyDate": "11/9/15",
-            "price": "481",
+            "id": "1",
+            "author": "Питер Акройд",
+            "book": "Дом доктора Ди",
+            "year": "2009",
+            "buyDate": "8/3/20",
+            "price": "255",
             "publisher": "Corpus",
-            "shelf": "corpus goulman",
-            "img": "https://www.corpus.ru/picts/products/tnw239-Goulman-Fokus-1000.jpg"
+            "shelf": "akroid corpus",
+            "img": "https://www.corpus.ru/picts/products/Ackroyd-Dom-1000.jpg"
         },
         {
-            "id": "643",
-            "author": "Дэниел Гоулман",
-            "book": "Социальный интеллект. Новая наука о человеческих отношениях",
-            "year": "2021",
-            "buyDate": "6/29/21",
-            "price": "579",
+            "id": "2",
+            "author": "Питер Акройд",
+            "book": "Процесс Элизабет Кри",
+            "year": "2009",
+            "buyDate": "8/5/20",
+            "price": "186",
             "publisher": "Corpus",
-            "shelf": "corpus goulman social",
-            "img": "https://www.corpus.ru/picts/products/cover-intellect.jpg"
+            "shelf": "akroid corpus",
+            "img": "https://www.corpus.ru/picts/products/Ackroyd-Process-1000.jpg"
         },
         {
-            "id": "503",
-            "author": "Лара Вапняр",
-            "book": "Пока еще здесь",
-            "year": "2018",
-            "buyDate": "12/4/18",
-            "readDate": "12/17/20",
-            "price": "398",
+            "id": "45",
+            "author": "Питер Акройд",
+            "book": "Журнал Виктора Франкенштейна",
+            "year": "2010",
+            "buyDate": "8/5/20",
+            "price": "337",
+            "publisher": "Corpus",
+            "shelf": "akroid corpus",
+            "img": "https://www.corpus.ru/picts/products/Acroyd-Frankenstein-1000.jpg"
+        },
+        {
+            "id": "49",
+            "author": "Питер Акройд",
+            "book": "Повесть о Платоне",
+            "year": "2010",
+            "buyDate": "8/3/20",
+            "price": "152",
+            "publisher": "Corpus",
+            "shelf": "akroid corpus",
+            "img": "https://www.corpus.ru/picts/products/Ackroyd-Platon-1000.jpg"
+        },
+        {
+            "id": "86",
+            "author": "Питер Акройд",
+            "book": "Чаттертон",
+            "year": "2011",
+            "buyDate": "8/3/20",
+            "price": "209",
+            "publisher": "Corpus",
+            "shelf": "akroid corpus",
+            "img": "https://www.corpus.ru/picts/products/Ackroyd-Chatterton-1000.jpg"
+        },
+        {
+            "author": "Питер Акройд",
+            "book": "Хоксмур",
+            "year": "2011",
+            "publisher": "Corpus",
+            "shelf": "akroid corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/hawk-900.jpg"
+        },
+        {
+            "author": "Питер Акройд",
+            "book": "Кларкенвельские рассказы",
+            "year": "2012",
+            "publisher": "Corpus",
+            "shelf": "akroid corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Ackroyd-Clerkenwell-1000.jpg"
+        },
+        {
+            "author": "Питер Акройд",
+            "book": "Кентерберийские рассказы",
+            "year": "2014",
+            "publisher": "Corpus",
+            "shelf": "akroid corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Ackroyd-Canterberry-1000.jpg"
+        },
+        {
+            "id": "4",
+            "author": "Хуан Рульфо",
+            "book": "Педро Парамо. Равнина в огне",
+            "year": "2009",
+            "buyDate": "8/5/20",
+            "price": "284",
             "publisher": "Corpus",
             "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Vapnjar-Zdes-1000.jpg"
+            "img": "https://s1.livelib.ru/boocover/1000324231/o/7dd6/Huan_Rulfo__Pedro_Paramo._Ravnina_v_ogne_sbornik.jpeg"
         },
         {
-            "id": "492",
-            "author": "Кристин Фере-Флери",
-            "book": "Девушка, которая читала в метро",
-            "year": "2018",
-            "buyDate": "2/25/19",
-            "price": "277",
+            "id": "5",
+            "author": "Гюнтер Грасс",
+            "book": "Фотокамера. Истории из темной комнаты",
+            "year": "2009",
+            "buyDate": "8/3/20",
+            "price": "142",
+            "publisher": "Corpus",
+            "shelf": "grass corpus",
+            "img": "https://s1.livelib.ru/boocover/1000416292/o/fcfb/Gyunter_Grass__Fotokamera.jpeg"
+        },
+        {
+            "id": "36",
+            "author": "Гюнтер Грасс",
+            "book": "Кошки-мышки",
+            "year": "2010",
+            "buyDate": "8/5/20",
+            "price": "143",
+            "publisher": "Corpus",
+            "shelf": "grass corpus",
+            "img": "https://s1.livelib.ru/boocover/1000441729/o/114b/Gyunter_Grass__Koshkimyshki.jpeg"
+        },
+        {
+            "id": "7",
+            "author": "Эдуардо Мендоса",
+            "book": "Удивительное путешествие Помпония Флата",
+            "year": "2009",
+            "buyDate": "8/2/20",
+            "price": "257",
             "publisher": "Corpus",
             "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Feret-Fleury-Devushka-1000.jpg"
+            "img": "https://www.corpus.ru/picts/products/Mendoza-PomponioFlato-1000.jpg"
         },
         {
-            "id": "505",
-            "author": "Адам Грант",
-            "book": "Оригиналы. Как нонконформисты двигают мир вперед",
+            "id": "28",
+            "author": "Эдуардо Мендоса",
+            "book": "Тайна заколдованной крипты",
+            "year": "2010",
+            "buyDate": "7/23/20",
+            "price": "96",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Mendosa-Cripta-1000.jpg"
+        },
+        {
+            "id": "8",
+            "author": "Тамара Кандала",
+            "book": "Эта сладкая голая сволочь",
+            "year": "2009",
+            "buyDate": "10/13/20",
+            "price": "105",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000417175/o/b159/Kandala_Tamara__Eta_sladkaya_golaya_svoloch.jpeg"
+        },
+        {
+            "id": "9",
+            "author": "Уэлдон Фэй",
+            "book": "Род-Айленд блюз",
+            "year": "2009",
+            "buyDate": "7/23/20",
+            "price": "99",
+            "publisher": "Corpus",
+            "shelf": "corpus fai",
+            "img": "https://s1.livelib.ru/boocover/1000333746/o/159f/Fej_Ueldon__RodAjlend_blyuz.jpeg"
+        },
+        {
+            "id": "42",
+            "author": "Уэлдон Фэй",
+            "book": "Ненавижу семейную жизнь",
+            "year": "2010",
+            "buyDate": "8/8/20",
+            "price": "140.5",
+            "publisher": "Corpus",
+            "shelf": "corpus fai",
+            "img": "https://s1.livelib.ru/boocover/1000447789/o/0f09/Fej_Ueldon__Nenavizhu_semejnuyu_zhizn.jpeg"
+        },
+        {
+            "id": "12",
+            "author": "Тони Моррисон",
+            "book": "Жалость",
+            "year": "2010",
+            "buyDate": "8/3/20",
+            "price": "198",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000453480/o/6118/Toni_Morrison__Zhalost.jpeg"
+        },
+        {
+            "id": "20",
+            "author": "Джон Ле Карре",
+            "book": "Особо опасен",
+            "year": "2009",
+            "buyDate": "8/3/20",
+            "price": "157",
+            "publisher": "Corpus",
+            "shelf": "le-karre corpus",
+            "img": "https://s1.livelib.ru/boocover/1000330560/o/2596/Dzhon_Le_Karre__Osobo_opasen.jpeg"
+        },
+        {
+            "id": "n",
+            "author": "Джон Ле Карре",
+            "book": "Шпион, выйди вон!",
+            "year": "2011",
+            "buyDate": "8/5/20",
+            "price": "136",
+            "publisher": "Corpus",
+            "shelf": "le-karre corpus",
+            "img": "https://www.corpus.ru/picts/products/LeCarre-Spy-1000.jpg"
+        },
+        {
+            "id": "84",
+            "author": "Джон Ле Карре",
+            "book": "Песня для зебры",
+            "year": "2011",
+            "buyDate": "8/5/20",
+            "price": "152",
+            "publisher": "Corpus",
+            "shelf": "le-karre corpus",
+            "img": "https://www.corpus.ru/picts/products/LeCarre-Song-1000.jpg"
+        },
+        {
+            "id": "127",
+            "author": "Джон Ле Карре",
+            "book": "Такой же предатель, как мы",
+            "year": "2012",
+            "buyDate": "8/3/20",
+            "price": "231",
+            "publisher": "Corpus",
+            "shelf": "le-karre corpus",
+            "img": "https://s1.livelib.ru/boocover/1000492432/o/8a2d/Dzhon_Le_Karre__Takoj_zhe_predatel_kak_my.jpeg"
+        },
+        {
+            "id": "n",
+            "author": "Джон Ле Карре",
+            "book": "Самый опасный человек",
+            "year": "2014",
+            "buyDate": "10/5/20",
+            "price": "167",
+            "publisher": "Corpus",
+            "shelf": "le-karre corpus",
+            "img": "https://www.corpus.ru/picts/products/LeCarre-Opasen-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Джон Ле Карре",
+            "book": "Такой же предатель, как мы",
+            "year": "2016",
+            "publisher": "Corpus",
+            "shelf": "le-karre corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Le-Karre-Predatel-1000.jpg"
+        },
+        {
+            "id": "421",
+            "author": "Джон Ле Карре",
+            "book": "Особые остоятельства",
+            "year": "2017",
+            "publisher": "Corpus",
+            "shelf": "le-karre corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Le%20Carre-Obstoyatelstva-1000.jpg"
+        },
+        {
+            "id": "453",
+            "author": "Джон Ле Карре",
+            "book": "Голубиный туннель. Истории из моей жизни",
+            "year": "2017",
+            "publisher": "Corpus",
+            "shelf": "le-karre corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Le%20Carre-Tunnel-1000.jpg"
+        },
+        {
+            "id": "539",
+            "author": "Джон Ле Карре",
+            "book": "Голубиный туннель. Истории из моей жизни",
             "year": "2019",
-            "buyDate": "2/25/19",
-            "price": "491",
+            "buyDate": "5/26/21",
+            "price": "518",
             "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Grant-Originals-1000.jpg"
+            "shelf": "le-karre corpus razvedcorpus",
+            "img": "https://www.corpus.ru/picts/products/LeCarre-Tunnel-1000.jpg"
+        },
+        {
+            "author": "Джон Ле Карре",
+            "book": "Ночной администратор",
+            "year": "2016",
+            "publisher": "Corpus",
+            "shelf": "le-karre corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/LeCarre-Night_Manager-1000.jpg"
+        },
+        {
+            "id": "457",
+            "author": "Джон Ле Карре",
+            "book": "Ночной администратор",
+            "year": "2018",
+            "publisher": "Corpus",
+            "shelf": "le-karre corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/LeCarre-Admin-1001.jpg"
+        },
+        {
+            "id": "537",
+            "author": "Джон Ле Карре",
+            "book": "Шпионское наследие",
+            "year": "2019",
+            "buyDate": "9/29/21",
+            "price": "350",
+            "publisher": "Corpus",
+            "shelf": "le-karre corpus",
+            "img": "https://www.corpus.ru/picts/products/LeCarre-Legasy-1000.jpg"
+        },
+        {
+            "id": "642",
+            "author": "Джон Ле Карре",
+            "book": "Агент на передовой",
+            "year": "2021",
+            "buyDate": "6/18/21",
+            "price": "386",
+            "publisher": "Corpus",
+            "shelf": "le-karre corpus",
+            "img": "https://www.corpus.ru/picts/products/cover1-agent.jpg"
         },
         {
             "id": "594",
@@ -4955,48 +5215,26 @@
             "shelf": "dikker corpus wishlist"
         },
         {
-            "id": "530",
-            "author": "Колсон Уайтхед",
-            "book": "Подземная железная дорога",
-            "year": "2019",
-            "buyDate": "7/21/20",
-            "readDate": "11/17/20",
-            "price": "456",
+            "id": "350",
+            "author": "Дэниел Гоулман",
+            "book": "Фокус. О внимании, рассеянности и жизненном успехе",
+            "year": "2015",
+            "buyDate": "11/9/15",
+            "price": "481",
             "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Whitehead-Railroad-1011.jpg"
+            "shelf": "corpus goulman",
+            "img": "https://www.corpus.ru/picts/products/tnw239-Goulman-Fokus-1000.jpg"
         },
         {
-            "id": "532",
-            "author": "Джесси Болл",
-            "book": "Стоит только замолчать",
-            "year": "2019",
-            "buyDate": "7/21/20",
-            "readDate": "11/24/20",
-            "price": "405",
+            "id": "643",
+            "author": "Дэниел Гоулман",
+            "book": "Социальный интеллект. Новая наука о человеческих отношениях",
+            "year": "2021",
+            "buyDate": "6/29/21",
+            "price": "579",
             "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Ball-Silence-1000.jpg"
-        },
-        {
-            "id": "528",
-            "author": "Маттиас Фалдбаккен",
-            "book": "Ресторан «Хиллс»",
-            "year": "2019",
-            "buyDate": "7/21/20",
-            "price": "388",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Faldbakken-Hills-1001.jpg"
-        },
-        {
-            "author": "Маттиас Фалдбаккен",
-            "book": "Кока-гола компани",
-            "year": "2009",
-            "buyDate": "7/22/20",
-            "price": "74.5",
-            "publisher": "Лимбус Пресс",
-            "img": "https://s1.livelib.ru/boocover/1000408329/o/8dd8/Matias_Faldbakken__Kokagola_kompani.jpeg"
+            "shelf": "corpus goulman social",
+            "img": "https://www.corpus.ru/picts/products/cover-intellect.jpg"
         },
         {
             "id": "357",
@@ -5021,6 +5259,63 @@
             "img": "https://www.corpus.ru/picts/products/Didierlorent-Ostatok-1000.jpg"
         },
         {
+            "id": "488",
+            "author": "Саманта Швеблин",
+            "book": "Дистанция спасения",
+            "year": "2018",
+            "buyDate": "7/28/20",
+            "readDate": "6/14/21",
+            "price": "244",
+            "publisher": "Corpus",
+            "shelf": "corpus schweblin",
+            "img": "https://www.corpus.ru/picts/products/Shweblin-Distance-1000.jpg"
+        },
+        {
+            "id": "587",
+            "author": "Саманта Швеблин",
+            "book": "Кентуки",
+            "year": "2021",
+            "buyDate": "6/18/21",
+            "price": "447",
+            "publisher": "Corpus",
+            "shelf": "corpus schweblin",
+            "img": "https://www.corpus.ru/picts/products/cover1-kentuki.jpg"
+        },
+        {
+            "id": "492",
+            "author": "Кристин Фере-Флери",
+            "book": "Девушка, которая читала в метро",
+            "year": "2018",
+            "buyDate": "2/25/19",
+            "price": "277",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Feret-Fleury-Devushka-1000.jpg"
+        },
+        {
+            "id": "503",
+            "author": "Лара Вапняр",
+            "book": "Пока еще здесь",
+            "year": "2018",
+            "buyDate": "12/4/18",
+            "readDate": "12/17/20",
+            "price": "398",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Vapnjar-Zdes-1000.jpg"
+        },
+        {
+            "id": "505",
+            "author": "Адам Грант",
+            "book": "Оригиналы. Как нонконформисты двигают мир вперед",
+            "year": "2019",
+            "buyDate": "2/25/19",
+            "price": "491",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Grant-Originals-1000.jpg"
+        },
+        {
             "id": "520",
             "author": "Орели Валонь",
             "book": "У нас все дома",
@@ -5041,6 +5336,50 @@
             "publisher": "Corpus",
             "shelf": "corpus happy valon",
             "img": "https://www.corpus.ru/picts/products/cover1-valon.jpg"
+        },
+        {
+            "id": "528",
+            "author": "Маттиас Фалдбаккен",
+            "book": "Ресторан «Хиллс»",
+            "year": "2019",
+            "buyDate": "7/21/20",
+            "price": "388",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Faldbakken-Hills-1001.jpg"
+        },
+        {
+            "author": "Маттиас Фалдбаккен",
+            "book": "Кока-гола компани",
+            "year": "2009",
+            "buyDate": "7/22/20",
+            "price": "74.5",
+            "publisher": "Лимбус Пресс",
+            "img": "https://s1.livelib.ru/boocover/1000408329/o/8dd8/Matias_Faldbakken__Kokagola_kompani.jpeg"
+        },
+        {
+            "id": "530",
+            "author": "Колсон Уайтхед",
+            "book": "Подземная железная дорога",
+            "year": "2019",
+            "buyDate": "7/21/20",
+            "readDate": "11/17/20",
+            "price": "456",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Whitehead-Railroad-1011.jpg"
+        },
+        {
+            "id": "532",
+            "author": "Джесси Болл",
+            "book": "Стоит только замолчать",
+            "year": "2019",
+            "buyDate": "7/21/20",
+            "readDate": "11/24/20",
+            "price": "405",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Ball-Silence-1000.jpg"
         },
         {
             "author": "Франческо Пикколо",
@@ -5113,73 +5452,6 @@
             "publisher": "Corpus",
             "shelf": "skarlett corpus",
             "img": "https://www.corpus.ru/picts/products/cover-tomas.jpg"
-        },
-        {
-            "id": "7",
-            "author": "Эдуардо Мендоса",
-            "book": "Удивительное путешествие Помпония Флата",
-            "year": "2009",
-            "buyDate": "8/2/20",
-            "price": "257",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Mendoza-PomponioFlato-1000.jpg"
-        },
-        {
-            "id": "28",
-            "author": "Эдуардо Мендоса",
-            "book": "Тайна заколдованной крипты",
-            "year": "2010",
-            "buyDate": "7/23/20",
-            "price": "96",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Mendosa-Cripta-1000.jpg"
-        },
-        {
-            "id": "9",
-            "author": "Уэлдон Фэй",
-            "book": "Род-Айленд блюз",
-            "year": "2009",
-            "buyDate": "7/23/20",
-            "price": "99",
-            "publisher": "Corpus",
-            "shelf": "corpus fai",
-            "img": "https://s1.livelib.ru/boocover/1000333746/o/159f/Fej_Ueldon__RodAjlend_blyuz.jpeg"
-        },
-        {
-            "id": "42",
-            "author": "Уэлдон Фэй",
-            "book": "Ненавижу семейную жизнь",
-            "year": "2010",
-            "buyDate": "8/8/20",
-            "price": "140.5",
-            "publisher": "Corpus",
-            "shelf": "corpus fai",
-            "img": "https://s1.livelib.ru/boocover/1000447789/o/0f09/Fej_Ueldon__Nenavizhu_semejnuyu_zhizn.jpeg"
-        },
-        {
-            "id": "488",
-            "author": "Саманта Швеблин",
-            "book": "Дистанция спасения",
-            "year": "2018",
-            "buyDate": "7/28/20",
-            "readDate": "6/14/21",
-            "price": "244",
-            "publisher": "Corpus",
-            "shelf": "corpus schweblin",
-            "img": "https://www.corpus.ru/picts/products/Shweblin-Distance-1000.jpg"
-        },
-        {
-            "id": "587",
-            "author": "Саманта Швеблин",
-            "book": "Кентуки",
-            "year": "2021",
-            "buyDate": "6/18/21",
-            "price": "447",
-            "publisher": "Corpus",
-            "shelf": "corpus schweblin",
-            "img": "https://www.corpus.ru/picts/products/cover1-kentuki.jpg"
         },
         {
             "id": "151",
@@ -5484,26 +5756,14 @@
             "img": "https://www.corpus.ru/picts/products/Halpern-Telki-1000.jpg"
         },
         {
-            "id": "153",
-            "author": "Кларк Брайди",
-            "book": "Светская львица за одну ночь",
-            "year": "2012",
+            "id": "46",
+            "author": "Аманда Смит",
+            "book": "Черная скала",
             "buyDate": "7/23/20",
-            "price": "99",
+            "price": "57",
             "publisher": "Corpus",
             "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Clark-Overnight-1000.jpg"
-        },
-        {
-            "id": "185",
-            "author": "Ирина Ясина",
-            "book": "История Болезни. В попытках быть счастливой",
-            "year": "2012",
-            "buyDate": "7/23/20",
-            "price": "99",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Yasina-cover-1000.jpg"
+            "img": "https://s1.livelib.ru/boocover/1000451706/o/c42e/Amanda_Smit__Chernaya_Ckala.jpeg"
         },
         {
             "id": "85",
@@ -5526,6 +5786,28 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/scarpa-fondomentali-1000.jpg"
+        },
+        {
+            "id": "153",
+            "author": "Кларк Брайди",
+            "book": "Светская львица за одну ночь",
+            "year": "2012",
+            "buyDate": "7/23/20",
+            "price": "99",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Clark-Overnight-1000.jpg"
+        },
+        {
+            "id": "185",
+            "author": "Ирина Ясина",
+            "book": "История Болезни. В попытках быть счастливой",
+            "year": "2012",
+            "buyDate": "7/23/20",
+            "price": "99",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Yasina-cover-1000.jpg"
         },
         {
             "id": "243",
@@ -5599,16 +5881,6 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/Jarden-Fanfan-1000.jpg"
-        },
-        {
-            "id": "46",
-            "author": "Аманда Смит",
-            "book": "Черная скала",
-            "buyDate": "7/23/20",
-            "price": "57",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000451706/o/c42e/Amanda_Smit__Chernaya_Ckala.jpeg"
         },
         {
             "id": "466",
@@ -5862,261 +6134,6 @@
             "publisher": "Corpus",
             "shelf": "corpus radzinsky",
             "img": "https://www.corpus.ru/picts/products/agafonkin.jpg"
-        },
-        {
-            "id": "86",
-            "author": "Питер Акройд",
-            "book": "Чаттертон",
-            "year": "2011",
-            "buyDate": "8/3/20",
-            "price": "209",
-            "publisher": "Corpus",
-            "shelf": "akroid corpus",
-            "img": "https://www.corpus.ru/picts/products/Ackroyd-Chatterton-1000.jpg"
-        },
-        {
-            "id": "1",
-            "author": "Питер Акройд",
-            "book": "Дом доктора Ди",
-            "year": "2009",
-            "buyDate": "8/3/20",
-            "price": "255",
-            "publisher": "Corpus",
-            "shelf": "akroid corpus",
-            "img": "https://www.corpus.ru/picts/products/Ackroyd-Dom-1000.jpg"
-        },
-        {
-            "id": "2",
-            "author": "Питер Акройд",
-            "book": "Процесс Элизабет Кри",
-            "year": "2009",
-            "buyDate": "8/5/20",
-            "price": "186",
-            "publisher": "Corpus",
-            "shelf": "akroid corpus",
-            "img": "https://www.corpus.ru/picts/products/Ackroyd-Process-1000.jpg"
-        },
-        {
-            "author": "Питер Акройд",
-            "book": "Кларкенвельские рассказы",
-            "year": "2012",
-            "publisher": "Corpus",
-            "shelf": "akroid corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Ackroyd-Clerkenwell-1000.jpg"
-        },
-        {
-            "author": "Питер Акройд",
-            "book": "Хоксмур",
-            "year": "2011",
-            "publisher": "Corpus",
-            "shelf": "akroid corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/hawk-900.jpg"
-        },
-        {
-            "id": "45",
-            "author": "Питер Акройд",
-            "book": "Журнал Виктора Франкенштейна",
-            "year": "2010",
-            "buyDate": "8/5/20",
-            "price": "337",
-            "publisher": "Corpus",
-            "shelf": "akroid corpus",
-            "img": "https://www.corpus.ru/picts/products/Acroyd-Frankenstein-1000.jpg"
-        },
-        {
-            "id": "49",
-            "author": "Питер Акройд",
-            "book": "Повесть о Платоне",
-            "year": "2010",
-            "buyDate": "8/3/20",
-            "price": "152",
-            "publisher": "Corpus",
-            "shelf": "akroid corpus",
-            "img": "https://www.corpus.ru/picts/products/Ackroyd-Platon-1000.jpg"
-        },
-        {
-            "author": "Питер Акройд",
-            "book": "Кентерберийские рассказы",
-            "year": "2014",
-            "publisher": "Corpus",
-            "shelf": "akroid corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Ackroyd-Canterberry-1000.jpg"
-        },
-        {
-            "id": "4",
-            "author": "Хуан Рульфо",
-            "book": "Педро Парамо. Равнина в огне",
-            "year": "2005",
-            "buyDate": "8/5/20",
-            "price": "284",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000324231/o/7dd6/Huan_Rulfo__Pedro_Paramo._Ravnina_v_ogne_sbornik.jpeg"
-        },
-        {
-            "id": "5",
-            "author": "Гюнтер Грасс",
-            "book": "Фотокамера. Истории из темной комнаты",
-            "year": "2009",
-            "buyDate": "8/3/20",
-            "price": "142",
-            "publisher": "Corpus",
-            "shelf": "grass corpus",
-            "img": "https://s1.livelib.ru/boocover/1000416292/o/fcfb/Gyunter_Grass__Fotokamera.jpeg"
-        },
-        {
-            "id": "36",
-            "author": "Гюнтер Грасс",
-            "book": "Кошки-мышки",
-            "year": "2010",
-            "buyDate": "8/5/20",
-            "price": "143",
-            "publisher": "Corpus",
-            "shelf": "grass corpus",
-            "img": "https://s1.livelib.ru/boocover/1000441729/o/114b/Gyunter_Grass__Koshkimyshki.jpeg"
-        },
-        {
-            "id": "8",
-            "author": "Тамара Кандала",
-            "book": "Эта сладкая голая сволочь",
-            "year": "2009",
-            "buyDate": "10/13/20",
-            "price": "105",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000417175/o/b159/Kandala_Tamara__Eta_sladkaya_golaya_svoloch.jpeg"
-        },
-        {
-            "id": "20",
-            "author": "Джон Ле Карре",
-            "book": "Особо опасен",
-            "year": "2009",
-            "buyDate": "8/3/20",
-            "price": "157",
-            "publisher": "Corpus",
-            "shelf": "le-karre corpus",
-            "img": "https://s1.livelib.ru/boocover/1000330560/o/2596/Dzhon_Le_Karre__Osobo_opasen.jpeg"
-        },
-        {
-            "id": "n",
-            "author": "Джон Ле Карре",
-            "book": "Шпион, выйди вон!",
-            "year": "2011",
-            "buyDate": "8/5/20",
-            "price": "136",
-            "publisher": "Corpus",
-            "shelf": "le-karre corpus",
-            "img": "https://www.corpus.ru/picts/products/LeCarre-Spy-1000.jpg"
-        },
-        {
-            "id": "84",
-            "author": "Джон Ле Карре",
-            "book": "Песня для зебры",
-            "year": "2011",
-            "buyDate": "8/5/20",
-            "price": "152",
-            "publisher": "Corpus",
-            "shelf": "le-karre corpus",
-            "img": "https://www.corpus.ru/picts/products/LeCarre-Song-1000.jpg"
-        },
-        {
-            "id": "127",
-            "author": "Джон Ле Карре",
-            "book": "Такой же предатель, как мы",
-            "year": "2012",
-            "buyDate": "8/3/20",
-            "price": "231",
-            "publisher": "Corpus",
-            "shelf": "le-karre corpus",
-            "img": "https://s1.livelib.ru/boocover/1000492432/o/8a2d/Dzhon_Le_Karre__Takoj_zhe_predatel_kak_my.jpeg"
-        },
-        {
-            "id": "n",
-            "author": "Джон Ле Карре",
-            "book": "Самый опасный человек",
-            "year": "2014",
-            "buyDate": "10/5/20",
-            "price": "167",
-            "publisher": "Corpus",
-            "shelf": "le-karre corpus",
-            "img": "https://www.corpus.ru/picts/products/LeCarre-Opasen-1000.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Джон Ле Карре",
-            "book": "Такой же предатель, как мы",
-            "year": "2016",
-            "publisher": "Corpus",
-            "shelf": "le-karre corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Le-Karre-Predatel-1000.jpg"
-        },
-        {
-            "id": "421",
-            "author": "Джон Ле Карре",
-            "book": "Особые остоятельства",
-            "year": "2017",
-            "publisher": "Corpus",
-            "shelf": "le-karre corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Le%20Carre-Obstoyatelstva-1000.jpg"
-        },
-        {
-            "id": "453",
-            "author": "Джон Ле Карре",
-            "book": "Голубиный туннель. Истории из моей жизни",
-            "year": "2017",
-            "publisher": "Corpus",
-            "shelf": "le-karre corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Le%20Carre-Tunnel-1000.jpg"
-        },
-        {
-            "id": "539",
-            "author": "Джон Ле Карре",
-            "book": "Голубиный туннель. Истории из моей жизни",
-            "year": "2019",
-            "buyDate": "5/26/21",
-            "price": "518",
-            "publisher": "Corpus",
-            "shelf": "le-karre corpus razvedcorpus",
-            "img": "https://www.corpus.ru/picts/products/LeCarre-Tunnel-1000.jpg"
-        },
-        {
-            "author": "Джон Ле Карре",
-            "book": "Ночной администратор",
-            "year": "2016",
-            "publisher": "Corpus",
-            "shelf": "le-karre corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/LeCarre-Night_Manager-1000.jpg"
-        },
-        {
-            "id": "457",
-            "author": "Джон Ле Карре",
-            "book": "Ночной администратор",
-            "year": "2018",
-            "publisher": "Corpus",
-            "shelf": "le-karre corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/LeCarre-Admin-1001.jpg"
-        },
-        {
-            "id": "537",
-            "author": "Джон Ле Карре",
-            "book": "Шпионское наследие",
-            "year": "2019",
-            "buyDate": "9/29/21",
-            "price": "350",
-            "publisher": "Corpus",
-            "shelf": "le-karre corpus",
-            "img": "https://www.corpus.ru/picts/products/LeCarre-Legasy-1000.jpg"
-        },
-        {
-            "id": "642",
-            "author": "Джон Ле Карре",
-            "book": "Агент на передовой",
-            "year": "2021",
-            "buyDate": "6/18/21",
-            "price": "386",
-            "publisher": "Corpus",
-            "shelf": "le-karre corpus",
-            "img": "https://www.corpus.ru/picts/products/cover1-agent.jpg"
         },
         {
             "author": "Виктор Шендерович",
@@ -6383,11 +6400,11 @@
         },
         {
             "author": "Ромен Гари",
-            "book": "Вино мертвецов",
-            "year": "2015",
+            "book": "Дальше ваш билет недействителен",
+            "year": "2011",
             "publisher": "Corpus",
             "shelf": "corpus gari wishlist",
-            "img": "https://www.corpus.ru/picts/products/Gary-Vino-1000.jpg"
+            "img": "https://www.corpus.ru/picts/products/Gari-Bilet-big.jpg"
         },
         {
             "author": "Ромен Гари",
@@ -6399,14 +6416,6 @@
         },
         {
             "author": "Ромен Гари",
-            "book": "Дальше ваш билет недействителен",
-            "year": "2011",
-            "publisher": "Corpus",
-            "shelf": "corpus gari wishlist",
-            "img": "https://www.corpus.ru/picts/products/Gari-Bilet-big.jpg"
-        },
-        {
-            "author": "Ромен Гари",
             "book": "Большая барахолка",
             "year": "2013",
             "publisher": "Corpus",
@@ -6414,15 +6423,12 @@
             "img": "https://www.corpus.ru/picts/products/Gary-Barakholka-1000.jpg"
         },
         {
-            "id": "12",
-            "author": "Тони Моррисон",
-            "book": "Жалость",
-            "year": "2010",
-            "buyDate": "8/3/20",
-            "price": "198",
+            "author": "Ромен Гари",
+            "book": "Вино мертвецов",
+            "year": "2015",
             "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000453480/o/6118/Toni_Morrison__Zhalost.jpeg"
+            "shelf": "corpus gari wishlist",
+            "img": "https://www.corpus.ru/picts/products/Gary-Vino-1000.jpg"
         },
         {
             "id": "67",
@@ -6735,6 +6741,17 @@
             "img": "https://www.corpus.ru/picts/products/winslow-gentelmen-1000.jpg"
         },
         {
+            "id": "331",
+            "author": "Алисия Хименес Бартлетт",
+            "book": "А собаку я возьму себе",
+            "year": "2015",
+            "buyDate": "8/8/20",
+            "price": "140.5",
+            "publisher": "Corpus",
+            "shelf": "bartlett corpus",
+            "img": "https://www.corpus.ru/picts/products/gemenes-bartlett-Sobaka-1000.jpg"
+        },
+        {
             "id": "334",
             "author": "Алисия Хименес Бартлетт",
             "book": "Не зови меня больше в Рим",
@@ -6757,17 +6774,6 @@
             "img": "https://www.corpus.ru/picts/products/Himenes-Bartlett-Ubiystva-1000.jpg"
         },
         {
-            "id": "331",
-            "author": "Алисия Хименес Бартлетт",
-            "book": "А собаку я возьму себе",
-            "year": "2015",
-            "buyDate": "8/8/20",
-            "price": "140.5",
-            "publisher": "Corpus",
-            "shelf": "bartlett corpus",
-            "img": "https://www.corpus.ru/picts/products/gemenes-bartlett-Sobaka-1000.jpg"
-        },
-        {
             "id": "170",
             "author": "Александар Хемон",
             "book": "Проек «Лазарь»",
@@ -6777,6 +6783,17 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/hemon-lazarus-1000.jpg"
+        },
+        {
+            "id": "236",
+            "author": "Анна Йоргенстдоттер",
+            "book": "Шоколадный папа",
+            "year": "2013",
+            "buyDate": "7/27/20",
+            "price": "188.9",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Jorgensdotter-Papa-1000.jpg"
         },
         {
             "id": "238",
@@ -6799,17 +6816,6 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/Gessen-Bialostok-1000.jpg"
-        },
-        {
-            "id": "236",
-            "author": "Анна Йоргенстдоттер",
-            "book": "Шоколадный папа",
-            "year": "2013",
-            "buyDate": "7/27/20",
-            "price": "188.9",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Jorgensdotter-Papa-1000.jpg"
         },
         {
             "id": "305",
@@ -7225,16 +7231,6 @@
             "shelf": "ianagihara corpus wishlist"
         },
         {
-            "id": "348",
-            "author": "Донна Тартт",
-            "book": "Маленький друг",
-            "buyDate": "9/21/20",
-            "price": "542.35",
-            "publisher": "Corpus",
-            "shelf": "tartt corpus",
-            "img": "https://interkniga.net/app/files/2020/10/ASE000000000701162_cover1-1.jpg"
-        },
-        {
             "id": "301",
             "author": "Донна Тартт",
             "book": "Тайная история",
@@ -7253,6 +7249,16 @@
             "publisher": "Corpus",
             "shelf": "tartt corpus",
             "img": "https://s1.livelib.ru/boocover/1002970278/o/6ae1/Donna_Tartt__Schegol.jpeg"
+        },
+        {
+            "id": "348",
+            "author": "Донна Тартт",
+            "book": "Маленький друг",
+            "buyDate": "9/21/20",
+            "price": "542.35",
+            "publisher": "Corpus",
+            "shelf": "tartt corpus",
+            "img": "https://interkniga.net/app/files/2020/10/ASE000000000701162_cover1-1.jpg"
         },
         {
             "id": "349",
@@ -9064,7 +9070,6 @@
             "img": "https://s1.livelib.ru/boocover/1005900013/o/6865/Sara_Frajer__No_Filter._Istoriya_Instagram.jpeg"
         },
         {
-            "author": "Рамиль Фасхутдинов",
             "book": "Мой читательский дневник. 99 книг, которые должен прочесть каждый",
             "year": "2021",
             "buyDate": "8/15/21",
@@ -9126,6 +9131,7 @@
             "book": "Нормальные люди",
             "year": "2020",
             "buyDate": "1/7/21",
+            "readDate": "10/2/21",
             "price": "331",
             "publisher": "Синдбад",
             "shelf": "runi sindbad",
@@ -9144,7 +9150,7 @@
         {
             "author": "Салли Руни",
             "book": "Прекрасный мир, где ты?",
-            "year": "2021",
+            "year": "2022",
             "shelf": "runi wishlist",
             "img": "https://sun9-65.userapi.com/impg/_dfM2xsBFne2LvXWpQdyW8BL50SgPZ5X_w-V_g/Xn7hp3RNmcc.jpg?size=1412x2160&quality=96&sign=4e028155cadf0862fd07c91e9c52418d&type=album"
         },
@@ -9920,7 +9926,7 @@
             "author": "Марьян Камали",
             "book": "Маленький книжный магазинчик в Тегеране",
             "year": "2021",
-            "buyDate": "10/8/21",
+            "buyDate": "10/3/21",
             "price": "355",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria",
@@ -9951,6 +9957,11 @@
             "book": "A Promised Land",
             "shelf": "obama wishlist",
             "img": "https://cdn24.img.ria.ru/images/07e4/0b/11/1584987671_0:0:710:1080_1920x0_80_0_0_d2ae700f948a1aa4f503ff9779f955ca.jpg"
+        },
+        {
+            "author": "Квентин Тарантино",
+            "book": "Однажды в Голливуде",
+            "shelf": "wishlist"
         },
         {
             "author": "Джонатан Тригелл",
