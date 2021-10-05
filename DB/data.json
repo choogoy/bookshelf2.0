@@ -3310,7 +3310,22 @@
             "year": "2020",
             "buyDate": "11/18/20",
             "price": "303",
+            "shelf": "keruak",
             "img": "https://cdn1.ozone.ru/s3/multimedia-r/wc1200/6026381511.jpg"
+        },
+        {
+            "author": "Джек Керуак",
+            "book": "Бродяги Дхармы",
+            "year": "2021",
+            "shelf": "keruak wishlist",
+            "img": "https://s1.livelib.ru/boocover/1005596893/o/56ba/Dzhek_Keruak__Brodyagi_Dharmy.jpeg"
+        },
+        {
+            "author": "Джек Керуак",
+            "book": "Ангелы опустошения",
+            "year": "2021",
+            "shelf": "keruak wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006239574/o/0a16/Dzhek_Keruak__Angely_Opustosheniya.jpeg"
         },
         {
             "author": "Маша Трауб",
@@ -7935,7 +7950,7 @@
             "author": "Ирина Левонтина",
             "book": "О чём речь",
             "year": "2015",
-            "buyDate": "10/5/21",
+            "buyDate": "10/4/21",
             "price": "459",
             "publisher": "Corpus",
             "shelf": "corpus russian levontina",
@@ -9131,16 +9146,6 @@
         },
         {
             "author": "Салли Руни",
-            "book": "Нормальные люди",
-            "year": "2020",
-            "buyDate": "1/7/21",
-            "price": "331",
-            "publisher": "Синдбад",
-            "shelf": "runi sindbad",
-            "img": "https://s1.livelib.ru/boocover/1003635319/o/d7f5/Salli_Runi__Normalnye_lyudi.jpeg"
-        },
-        {
-            "author": "Салли Руни",
             "book": "Разговоры с друзьями",
             "year": "2020",
             "buyDate": "1/7/21",
@@ -9149,6 +9154,17 @@
             "publisher": "Синдбад",
             "shelf": "runi sindbad",
             "img": "https://s1.livelib.ru/boocover/1004112313/o/03d6/Salli_Runi__Razgovory_s_druzyami.jpeg"
+        },
+        {
+            "author": "Салли Руни",
+            "book": "Нормальные люди",
+            "year": "2020",
+            "buyDate": "1/7/21",
+            "readDate": "10/5/21",
+            "price": "331",
+            "publisher": "Синдбад",
+            "shelf": "runi sindbad",
+            "img": "https://s1.livelib.ru/boocover/1003635319/o/d7f5/Salli_Runi__Normalnye_lyudi.jpeg"
         },
         {
             "author": "Салли Руни",
@@ -9693,7 +9709,8 @@
             "year": "2021",
             "buyDate": "7/22/21",
             "price": "419",
-            "shelf": "bookstore rina animant-kramb",
+            "publisher": "Эксмо",
+            "shelf": "eksmo bookstore rina animant-kramb",
             "img": "https://s1.livelib.ru/boocover/1005605500/o/fd0b/Lin_Rina__Knizhnye_hroniki_Animant_Kramb.jpeg"
         },
         {
@@ -9702,7 +9719,8 @@
             "year": "2021",
             "buyDate": "9/14/21",
             "price": "410",
-            "shelf": "bookstore rina animant-kramb",
+            "publisher": "Эксмо",
+            "shelf": "eksmo bookstore rina animant-kramb",
             "img": "https://s1.livelib.ru/boocover/1006013569/o/0847/Lin_Rina__Vselennaya_Animant_Kramb._Londonskie_hroniki.jpeg"
         },
         {
@@ -9711,6 +9729,7 @@
             "year": "2018",
             "buyDate": "8/20/21",
             "price": "509",
+            "publisher": "Иностранка",
             "shelf": "goncur",
             "img": "https://s1.livelib.ru/boocover/1002901715/o/35ad/Matias_Enar__Kompas.jpeg"
         },
@@ -9847,6 +9866,8 @@
             "year": "2021",
             "buyDate": "9/30/21",
             "price": "363",
+            "publisher": "АСТ",
+            "shelf": "ast",
             "img": "https://s1.livelib.ru/boocover/1006269337/o/996c/Majkl_Kerrigan__Vzlamyvaya_kod_Enigmy.jpeg"
         },
         {
@@ -9937,17 +9958,24 @@
         },
         {
             "book": "Во всем виновата книга",
-            "buyDate": "10/5/21",
+            "buyDate": "10/4/21",
             "price": "331",
             "shelf": "bookstore",
             "img": "https://s1.livelib.ru/boocover/1002911319/o/81c6/__Vo_vsjom_vinovata_kniga_sbornik.jpeg"
         },
         {
             "book": "Во всем виновата книга - 2",
-            "buyDate": "10/5/21",
+            "buyDate": "10/4/21",
             "price": "407",
             "shelf": "bookstore",
             "img": "https://s1.livelib.ru/boocover/1002997157/o/0969/__Vo_vsem_vinovata_kniga__2_sbornik.jpeg"
+        },
+        {
+            "author": "Карен Джой Фаулер",
+            "book": "Книжный клуб Джейн Остен",
+            "year": "2006",
+            "shelf": "bookstore wishlist",
+            "img": "https://img4.labirint.ru/rc/9032c317657e7db8439a83839db0b5b7/594x918/books13/121988/cover.jpg?1280394613"
         },
         {
             "author": "Евгений Ройзман",
