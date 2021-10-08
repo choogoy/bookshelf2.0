@@ -870,7 +870,7 @@
         {
             "author": "Джонатан Франзен",
             "book": "Перекрестки: роман. Ключ ко всем мифологиям, том 1",
-            "year": "2021",
+            "year": "2022",
             "publisher": "Corpus",
             "shelf": "franzen corpus wishlist",
             "img": "https://s1.livelib.ru/boocover/1005800143/o/3073/Dzhonatan_Erl_Franzen__Crossroads_A_Key_to_All_Mythologies_1.jpeg"
@@ -8256,6 +8256,7 @@
             "book": "Беззвездное море",
             "year": "2021",
             "buyDate": "3/31/21",
+            "readDate": "10/6/21",
             "price": "563",
             "publisher": "Corpus",
             "shelf": "corpus morgenstern",
@@ -9632,6 +9633,13 @@
             "img": "https://s1.livelib.ru/boocover/1005463762/o/757c/Shtern_Boris__Astrofizika._Troitskij_variant.jpeg"
         },
         {
+            "author": "Со Ёсон",
+            "book": "Мозг и разум в эпоху виртуальной реальности",
+            "year": "2021",
+            "publisher": "АСТ",
+            "shelf": "ast science wishlist"
+        },
+        {
             "author": "Лейла Слимани",
             "book": "Идеальная няня",
             "year": "2018",
@@ -9921,6 +9929,7 @@
             "book": "Книжная лавка",
             "year": "2017",
             "buyDate": "9/30/21",
+            "readDate": "10/7/21",
             "price": "499",
             "publisher": "АСТ",
             "shelf": "ast bookstore",
@@ -9958,6 +9967,7 @@
         },
         {
             "book": "Во всем виновата книга",
+            "year": "2017",
             "buyDate": "10/4/21",
             "price": "331",
             "shelf": "bookstore",
@@ -9965,16 +9975,37 @@
         },
         {
             "book": "Во всем виновата книга - 2",
+            "year": "2019",
             "buyDate": "10/4/21",
             "price": "407",
             "shelf": "bookstore",
             "img": "https://s1.livelib.ru/boocover/1002997157/o/0969/__Vo_vsem_vinovata_kniga__2_sbornik.jpeg"
         },
         {
+            "author": "Ричард Осман",
+            "book": "Клуб убийств по четвергам",
+            "year": "2021",
+            "buyDate": "10/9/21",
+            "price": "441",
+            "publisher": "Манн, Иванов и Фербер",
+            "img": "https://s1.livelib.ru/boocover/1006238035/o/08a6/Richard_Osman__Klub_ubijstv_po_chetvergam.jpeg"
+        },
+        {
+            "author": "Иван Шипнигов",
+            "book": "Стрим",
+            "year": "2021",
+            "buyDate": "10/9/21",
+            "price": "437",
+            "publisher": "Livebook",
+            "img": "https://s1.livelib.ru/boocover/1006268077/o/4e6e/Ivan_Shipnigov__Strim.jpeg"
+        },
+        {
             "author": "Карен Джой Фаулер",
             "book": "Книжный клуб Джейн Остен",
             "year": "2006",
-            "shelf": "bookstore wishlist",
+            "buyDate": "10/9/21",
+            "price": "250",
+            "shelf": "bookstore",
             "img": "https://img4.labirint.ru/rc/9032c317657e7db8439a83839db0b5b7/594x918/books13/121988/cover.jpg?1280394613"
         },
         {
