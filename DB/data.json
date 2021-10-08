@@ -9637,7 +9637,8 @@
             "book": "Мозг и разум в эпоху виртуальной реальности",
             "year": "2021",
             "publisher": "АСТ",
-            "shelf": "ast science wishlist"
+            "shelf": "ast science wishlist",
+            "img": "https://img3.labirint.ru/rc/4a77881372e5279e15b68c29971c04fa/348x537/books83/825787/cover.jpg"
         },
         {
             "author": "Лейла Слимани",
@@ -9982,15 +9983,6 @@
             "img": "https://s1.livelib.ru/boocover/1002997157/o/0969/__Vo_vsem_vinovata_kniga__2_sbornik.jpeg"
         },
         {
-            "author": "Ричард Осман",
-            "book": "Клуб убийств по четвергам",
-            "year": "2021",
-            "buyDate": "10/9/21",
-            "price": "441",
-            "publisher": "Манн, Иванов и Фербер",
-            "img": "https://s1.livelib.ru/boocover/1006238035/o/08a6/Richard_Osman__Klub_ubijstv_po_chetvergam.jpeg"
-        },
-        {
             "author": "Иван Шипнигов",
             "book": "Стрим",
             "year": "2021",
@@ -10000,6 +9992,32 @@
             "img": "https://s1.livelib.ru/boocover/1006268077/o/4e6e/Ivan_Shipnigov__Strim.jpeg"
         },
         {
+            "author": "Ричард Осман",
+            "book": "Клуб убийств по четвергам",
+            "year": "2021",
+            "buyDate": "10/9/21",
+            "price": "441",
+            "publisher": "Манн, Иванов и Фербер",
+            "img": "https://s1.livelib.ru/boocover/1006238035/o/08a6/Richard_Osman__Klub_ubijstv_po_chetvergam.jpeg"
+        },
+        {
+            "author": "Хидео Ёкояма",
+            "book": "Полупризнание",
+            "year": "2021",
+            "buyDate": "10/9/21",
+            "price": "389",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria",
+            "img": "https://s1.livelib.ru/boocover/1005520690/o/fb7d/Hideo_Jokoyama__Polupriznanie.jpeg"
+        },
+        {
+            "author": "Такэси Сиота",
+            "book": "Голос греха",
+            "year": "2021",
+            "shelf": "eksmo inspiria wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006204024/o/0dab/Takesi_Siota__Golos_greha.jpeg"
+        },
+        {
             "author": "Карен Джой Фаулер",
             "book": "Книжный клуб Джейн Остен",
             "year": "2006",
@@ -10007,6 +10025,39 @@
             "price": "250",
             "shelf": "bookstore",
             "img": "https://img4.labirint.ru/rc/9032c317657e7db8439a83839db0b5b7/594x918/books13/121988/cover.jpg?1280394613"
+        },
+        {
+            "author": "Лисса Кей Адамс",
+            "book": "Bromance. Тайный клуб романтиков",
+            "year": "2021",
+            "buyDate": "10/12/21",
+            "price": "354",
+            "publisher": "Эксмо",
+            "shelf": "bookstore eksmo inspiria kei-adams",
+            "img": "https://s1.livelib.ru/boocover/1006265569/o/c980/Lissa_Kej_Adams__Bromance._Tajnyj_klub_romantikov.jpeg"
+        },
+        {
+            "author": "Лисса Кей Адамс",
+            "book": "Все секреты книжного клуба",
+            "year": "2021",
+            "shelf": "bookstore eksmo inspiria kei-adams wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006123930/o/14bd/Lissa_Kej_Adams__Undercover_Bromance.jpeg"
+        },
+        {
+            "author": "Натали Дженнер",
+            "book": "Общество Джейн Остен",
+            "year": "2021",
+            "shelf": "bookstore eksmo inspiria wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006779994/o/5068/Natali_Dzhenner__Obschestvo_Dzhejn_Osten.jpeg"
+        },
+        {
+            "author": "Алекс Кристофи",
+            "book": "Достоевский in love",
+            "year": "2021",
+            "buyDate": "11/1/21",
+            "price": "378",
+            "shelf": "bookstore eksmo inspiria",
+            "img": "https://alexchristofiauthor.files.wordpress.com/2020/04/dil.jpg"
         },
         {
             "author": "Евгений Ройзман",
