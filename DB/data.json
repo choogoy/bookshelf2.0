@@ -10001,21 +10001,42 @@
             "img": "https://s1.livelib.ru/boocover/1006238035/o/08a6/Richard_Osman__Klub_ubijstv_po_chetvergam.jpeg"
         },
         {
+            "author": "Канаэ Минато",
+            "book": "Виновен",
+            "year": "2020",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria japan wishlist",
+            "img": "https://s1.livelib.ru/boocover/1005139405/o/6d16/Kanae_Minato__Vinoven.jpeg"
+        },
+        {
             "author": "Хидео Ёкояма",
             "book": "Полупризнание",
             "year": "2021",
             "buyDate": "10/9/21",
             "price": "389",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria",
+            "shelf": "eksmo japan inspiria",
             "img": "https://s1.livelib.ru/boocover/1005520690/o/fb7d/Hideo_Jokoyama__Polupriznanie.jpeg"
         },
         {
             "author": "Такэси Сиота",
             "book": "Голос греха",
             "year": "2021",
-            "shelf": "eksmo inspiria wishlist",
+            "buyDate": "10/10/21",
+            "price": "344",
+            "publisher": "Эксмо",
+            "shelf": "eksmo japan inspiria",
             "img": "https://s1.livelib.ru/boocover/1006204024/o/0dab/Takesi_Siota__Golos_greha.jpeg"
+        },
+        {
+            "author": "Котаро Исака",
+            "book": "Поезд убийц",
+            "year": "2021",
+            "buyDate": "10/10/21",
+            "price": "327",
+            "publisher": "Эксмо",
+            "shelf": "eksmo japan inspiria",
+            "img": "https://s1.livelib.ru/boocover/1006752724/o/6b46/Kotaro_Isaka__Poezd_ubijts.jpeg"
         },
         {
             "author": "Карен Джой Фаулер",
@@ -10047,7 +10068,9 @@
             "author": "Натали Дженнер",
             "book": "Общество Джейн Остен",
             "year": "2021",
-            "shelf": "bookstore eksmo inspiria wishlist",
+            "buyDate": "10/20/21",
+            "price": "344",
+            "shelf": "bookstore eksmo inspiria",
             "img": "https://s1.livelib.ru/boocover/1006779994/o/5068/Natali_Dzhenner__Obschestvo_Dzhejn_Osten.jpeg"
         },
         {
