@@ -6118,6 +6118,17 @@
             "img": "https://www.corpus.ru/picts/products/Radzinsky-Svoboda-1000.jpg"
         },
         {
+            "id": "n",
+            "author": "Олег Радзинский",
+            "book": "Агафонкин и Время",
+            "year": "2014",
+            "buyDate": "8/23/21",
+            "price": "480",
+            "publisher": "Corpus",
+            "shelf": "corpus radzinsky",
+            "img": "https://www.corpus.ru/picts/products/agafonkin.jpg"
+        },
+        {
             "id": "489",
             "author": "Олег Радзинский",
             "book": "Случайные жизни",
@@ -6140,15 +6151,12 @@
             "img": "https://www.corpus.ru/picts/products/Radzinsky-Surinam-1000.jpg"
         },
         {
-            "id": "n",
             "author": "Олег Радзинский",
-            "book": "Агафонкин и Время",
-            "year": "2014",
-            "buyDate": "8/23/21",
-            "price": "480",
+            "book": "Боги и лишние",
+            "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus radzinsky",
-            "img": "https://www.corpus.ru/picts/products/agafonkin.jpg"
+            "shelf": "corpus radzinsky wishlist",
+            "img": "https://cdn.book24.ru/v2/ASE000000000859996/COVER/cover13d__w410.webp"
         },
         {
             "author": "Виктор Шендерович",
@@ -8573,6 +8581,14 @@
             "img": "https://www.corpus.ru/picts/products/cover1-kronin.jpg"
         },
         {
+            "author": "Ян Немец",
+            "book": "Возможности любовного романа",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://cdn.book24.ru/v2/ASE000000000850053/COVER/cover13d__w410.webp"
+        },
+        {
             "id": "n",
             "author": "Ханна Фрай",
             "book": "Hello World",
@@ -9864,6 +9880,7 @@
             "book": "50 смертных грехов в русском языке. Говори и пиши правильно",
             "year": "2020",
             "buyDate": "10/7/21",
+            "readDate": "10/9/21",
             "price": "300",
             "publisher": "Бомбора",
             "shelf": "bombora russian",
