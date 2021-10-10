@@ -9821,8 +9821,10 @@
             "author": "Крейг Браун",
             "book": "One Two Three Four: «Битлз» в ритме времени",
             "year": "2021",
+            "buyDate": "10/14/21",
+            "price": "802",
             "publisher": "КоЛибри",
-            "shelf": "kolibri music beatles wishlist",
+            "shelf": "kolibri music beatles",
             "img": "https://s1.livelib.ru/boocover/1006726699/o/9842/Krejg_Braun__One_Two_Three_Four_Bitlz_v_ritme_vremeni.jpeg"
         },
         {
@@ -10000,15 +10002,6 @@
             "img": "https://s1.livelib.ru/boocover/1002997157/o/0969/__Vo_vsem_vinovata_kniga__2_sbornik.jpeg"
         },
         {
-            "author": "Иван Шипнигов",
-            "book": "Стрим",
-            "year": "2021",
-            "buyDate": "10/9/21",
-            "price": "437",
-            "publisher": "Livebook",
-            "img": "https://s1.livelib.ru/boocover/1006268077/o/4e6e/Ivan_Shipnigov__Strim.jpeg"
-        },
-        {
             "author": "Ричард Осман",
             "book": "Клуб убийств по четвергам",
             "year": "2021",
@@ -10059,10 +10052,19 @@
             "author": "Карен Джой Фаулер",
             "book": "Книжный клуб Джейн Остен",
             "year": "2006",
-            "buyDate": "10/9/21",
+            "buyDate": "10/11/21",
             "price": "250",
             "shelf": "bookstore",
             "img": "https://img4.labirint.ru/rc/9032c317657e7db8439a83839db0b5b7/594x918/books13/121988/cover.jpg?1280394613"
+        },
+        {
+            "author": "Иван Шипнигов",
+            "book": "Стрим",
+            "year": "2021",
+            "buyDate": "10/11/21",
+            "price": "437",
+            "publisher": "Livebook",
+            "img": "https://s1.livelib.ru/boocover/1006268077/o/4e6e/Ivan_Shipnigov__Strim.jpeg"
         },
         {
             "author": "Лисса Кей Адамс",
