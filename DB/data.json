@@ -7944,8 +7944,11 @@
             "id": "211",
             "author": "Максим Кронгауз",
             "book": "Самоучитель Олбанского",
+            "year": "2013",
+            "buyDate": "10/16/21",
+            "price": "312",
             "publisher": "Corpus",
-            "shelf": "corpus russian krongauz wishlist",
+            "shelf": "corpus russian krongauz",
             "img": "https://www.corpus.ru/picts/products/Kronhaus-Olbansky-1000.jpg"
         },
         {
@@ -10046,8 +10049,10 @@
             "author": "Канаэ Минато",
             "book": "Виновен",
             "year": "2020",
+            "buyDate": "10/16/21",
+            "price": "354",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria japan wishlist",
+            "shelf": "eksmo inspiria japan",
             "img": "https://s1.livelib.ru/boocover/1005139405/o/6d16/Kanae_Minato__Vinoven.jpeg"
         },
         {
