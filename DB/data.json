@@ -7182,6 +7182,7 @@
             "book": "Русь сидящая",
             "year": "2018",
             "buyDate": "9/21/20",
+            "readDate": "10/11/21",
             "price": "333.47",
             "publisher": "Corpus",
             "shelf": "corpus prison",
@@ -8842,6 +8843,7 @@
             "author": "Дженни Колган",
             "book": "Встретимся в кафе «Капкейк»",
             "year": "2021",
+            "publisher": "Иностранка",
             "shelf": "kolgan inostranka wishlist",
             "img": "https://sun9-60.userapi.com/impg/2X3qUQzybaxfUTrL521K7FJkmvpAkPggLsbtTg/gqX6nm8k4t4.jpg?size=691x1080&quality=96&sign=965cd42132c9a5322555629772be7970&type=album"
         },
@@ -8851,6 +8853,7 @@
             "year": "2020",
             "buyDate": "12/11/20",
             "price": "286",
+            "publisher": "Азбука Бизнес",
             "shelf": "bookstore",
             "img": "https://s1.livelib.ru/boocover/1005485959/o/9197/Bill_Semyuel__Istoriya_Foyles._Knigotorgovets_po_sluchayu.jpeg"
         },
@@ -8948,7 +8951,8 @@
             "year": "2020",
             "buyDate": "12/25/20",
             "price": "544",
-            "shelf": "music",
+            "publisher": "АСТ",
+            "shelf": "ast music",
             "img": "https://s1.livelib.ru/boocover/1005527488/o/411f/Denis_Stupnikov__Ariya_Vozrozhdenie_Legendy._Avtorizovannaya_biografiya_gruppy.jpeg"
         },
         {
@@ -9009,6 +9013,7 @@
             "year": "2020",
             "buyDate": "10/20/20",
             "price": "230",
+            "publisher": "Портал",
             "shelf": "food",
             "img": "https://s1.livelib.ru/boocover/1005080197/o/bae1/Evgeniya_Gorats__Kak_est._Pravdivye_istorii_o_poteryannyh_kilogrammah.jpeg"
         },
@@ -9018,6 +9023,7 @@
             "year": "2020",
             "buyDate": "10/20/20",
             "price": "298",
+            "publisher": "Портал",
             "shelf": "food",
             "img": "https://s1.livelib.ru/boocover/1003628978/o/b457/Evgeniya_Gorats__Chelovek_poedayuschij_tselebnoe_i_vrazhdebnoe.jpeg"
         },
@@ -9528,6 +9534,7 @@
             "year": "2018",
             "buyDate": "6/7/21",
             "price": "285.34",
+            "publisher": "Garage",
             "shelf": "bookstore",
             "img": "https://s1.livelib.ru/boocover/1002901641/o/e15d/Horhe_Karrion__Knizhnye_magaziny.jpeg"
         },
@@ -9672,7 +9679,7 @@
             "year": "2021",
             "publisher": "АСТ",
             "shelf": "ast science wishlist",
-            "img": "https://img3.labirint.ru/rc/4a77881372e5279e15b68c29971c04fa/348x537/books83/825787/cover.jpg"
+            "img": "https://cdn.book24.ru/v2/ASE000000000848870/COVER/cover13d__w410.webp"
         },
         {
             "author": "Лейла Слимани",
@@ -9743,8 +9750,15 @@
             "buyDate": "7/22/21",
             "price": "460",
             "publisher": "Эксмо",
-            "shelf": "eksmo",
+            "shelf": "eksmo biden",
             "img": "https://s1.livelib.ru/boocover/1006269307/o/28e4/Dzho_Bajden__Sderzhat_obeschaniya._V_zhizni_i_politike.jpeg"
+        },
+        {
+            "author": "Джилл Байден",
+            "book": "Там, где свет. История первой леди США",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo biden wishlist"
         },
         {
             "author": "Лин Рина",
@@ -10025,6 +10039,7 @@
             "year": "2017",
             "buyDate": "10/4/21",
             "price": "331",
+            "publisher": "Азбука",
             "shelf": "bookstore",
             "img": "https://s1.livelib.ru/boocover/1002911319/o/81c6/__Vo_vsjom_vinovata_kniga_sbornik.jpeg"
         },
@@ -10033,6 +10048,7 @@
             "year": "2019",
             "buyDate": "10/4/21",
             "price": "407",
+            "publisher": "Азбука",
             "shelf": "bookstore",
             "img": "https://s1.livelib.ru/boocover/1002997157/o/0969/__Vo_vsem_vinovata_kniga__2_sbornik.jpeg"
         },
@@ -10089,10 +10105,19 @@
             "author": "Карен Джой Фаулер",
             "book": "Книжный клуб Джейн Остен",
             "year": "2006",
-            "buyDate": "10/11/21",
+            "buyDate": "10/13/21",
             "price": "250",
             "shelf": "bookstore",
             "img": "https://img4.labirint.ru/rc/9032c317657e7db8439a83839db0b5b7/594x918/books13/121988/cover.jpg?1280394613"
+        },
+        {
+            "author": "Иван Шипнигов",
+            "book": "Нефть, метель и другие веселые боги",
+            "year": "2016",
+            "buyDate": "10/15/21",
+            "price": "347",
+            "shelf": "shipnigov",
+            "img": "https://s1.livelib.ru/boocover/1001533623/o/b4c8/Ivan_Shipnigov__Neft_metel_i_drugie_veselye_bogi.jpeg"
         },
         {
             "author": "Иван Шипнигов",
@@ -10101,6 +10126,7 @@
             "buyDate": "10/11/21",
             "price": "437",
             "publisher": "Livebook",
+            "shelf": "shipnigov",
             "img": "https://s1.livelib.ru/boocover/1006268077/o/4e6e/Ivan_Shipnigov__Strim.jpeg"
         },
         {
@@ -10126,6 +10152,7 @@
             "year": "2021",
             "buyDate": "10/20/21",
             "price": "344",
+            "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria",
             "img": "https://s1.livelib.ru/boocover/1006779994/o/5068/Natali_Dzhenner__Obschestvo_Dzhejn_Osten.jpeg"
         },
@@ -10135,6 +10162,7 @@
             "year": "2021",
             "buyDate": "11/1/21",
             "price": "378",
+            "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria",
             "img": "https://alexchristofiauthor.files.wordpress.com/2020/04/dil.jpg"
         },
