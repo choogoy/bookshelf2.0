@@ -2930,6 +2930,11 @@
             "img": "https://i.livelib.ru/boocover/1002704973/o/8e6b/Andrej_Knyazev__Korol_i_Shut._Staraya_kniga.jpeg"
         },
         {
+            "author": "Андрей Князев",
+            "book": "Король и Шут. Старая книга (часть 2)",
+            "shelf": "music kish wishlist"
+        },
+        {
             "author": "Евгения Либабова",
             "book": "Король и Шут. Ангелы панка",
             "buyDate": "6/21/20",
@@ -3732,7 +3737,14 @@
             "price": "284",
             "publisher": "Эксмо",
             "shelf": "traub eksmo",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001164741/COVER/cover1__w820.jpg"
+            "img": "https://s1.livelib.ru/boocover/1006218328/o/e52f/Masha_Traub__Sup_vtoroe_i_kompot.jpeg"
+        },
+        {
+            "author": "Маша Трауб",
+            "book": "Посмотри на меня",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "traub eksmo wishlist"
         },
         {
             "author": "Маша Трауб",
@@ -5223,6 +5235,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-dicker.jpg"
         },
         {
+            "id": "683",
             "author": "Жоэль Диккер",
             "book": "Последние дни наших отцов",
             "year": "2021",
@@ -6151,6 +6164,7 @@
             "img": "https://www.corpus.ru/picts/products/Radzinsky-Surinam-1000.jpg"
         },
         {
+            "id": "685",
             "author": "Олег Радзинский",
             "book": "Боги и лишние",
             "year": "2021",
@@ -6210,7 +6224,7 @@
             "readDate": "9/14/21",
             "price": "234",
             "publisher": "Corpus",
-            "shelf": "fonkinos corpus beatles",
+            "shelf": "fonkinos corpus lennon beatles",
             "img": "https://www.corpus.ru/picts/products/foenkinos-lennon-1000.jpg"
         },
         {
@@ -8581,6 +8595,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-kronin.jpg"
         },
         {
+            "id": "684",
             "author": "Ян Немец",
             "book": "Возможности любовного романа",
             "year": "2021",
@@ -9814,18 +9829,35 @@
             "buyDate": "8/13/21",
             "price": "540",
             "publisher": "КоЛибри",
-            "shelf": "kolibri music beatles",
+            "shelf": "kolibri music lennon beatles",
             "img": "https://s1.livelib.ru/boocover/1006029007/o/78f6/Rej_Konnolli__Byt_Dzhonom_Lennonom.jpeg"
         },
         {
             "author": "Крейг Браун",
             "book": "One Two Three Four: «Битлз» в ритме времени",
             "year": "2021",
-            "buyDate": "10/14/21",
-            "price": "802",
+            "buyDate": "10/17/21",
+            "price": "753",
             "publisher": "КоЛибри",
             "shelf": "kolibri music beatles",
             "img": "https://s1.livelib.ru/boocover/1006726699/o/9842/Krejg_Braun__One_Two_Three_Four_Bitlz_v_ritme_vremeni.jpeg"
+        },
+        {
+            "author": "Лесли-Энн Джонс",
+            "book": "Кто убил Джона Леннона? Жизнь, смерть и любовь величайшей рок-звезды XX века",
+            "year": "2020",
+            "buyDate": "10/17/21",
+            "price": "516",
+            "publisher": "Бомбора",
+            "shelf": "bombora music lennon beatles",
+            "img": "https://s1.livelib.ru/boocover/1005604954/o/a169/LesliEnn_Dzhons__Kto_ubil_Dzhona_Lennona_Zhizn_smert_i_lyubov_velichajshej_rokzv.jpeg"
+        },
+        {
+            "author": "Джеймс Паттерсон, Кейси Шерман, Дейв Уэдж",
+            "book": "Последние дни Джона Леннона",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo music lennon beatles wishlist"
         },
         {
             "author": "Ханна Кент",
