@@ -484,7 +484,7 @@
             "book": "Король, дама, валет",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist",
+            "shelf": "corpus nabokov wishlist new",
             "img": "https://www.corpus.ru/picts/products/cover1-kqj.jpg"
         },
         {
@@ -493,7 +493,7 @@
             "book": "Защита Лужина",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist",
+            "shelf": "corpus nabokov wishlist new",
             "img": "https://www.corpus.ru/picts/products/cover1-luzhin.jpg"
         },
         {
@@ -502,7 +502,7 @@
             "book": "Приглашение на казнь",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist",
+            "shelf": "corpus nabokov wishlist new",
             "img": "https://www.corpus.ru/picts/products/cover1-kazn.jpg"
         },
         {
@@ -511,7 +511,7 @@
             "book": "Соглядатай",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist",
+            "shelf": "corpus nabokov wishlist new",
             "img": "https://www.corpus.ru/picts/products/cover1-soglyadatay.jpg"
         },
         {
@@ -2458,7 +2458,7 @@
             "book": "Намедни. Наша эра. 2011-2015",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "namedni corpus wishlist"
+            "shelf": "namedni corpus wishlist new"
         },
         {
             "author": "Мишель Уэльбек",
@@ -2932,7 +2932,8 @@
         {
             "author": "Андрей Князев",
             "book": "Король и Шут. Старая книга (часть 2)",
-            "shelf": "music kish wishlist"
+            "year": "2021",
+            "shelf": "music kish wishlist new"
         },
         {
             "author": "Евгения Либабова",
@@ -3744,7 +3745,8 @@
             "book": "Посмотри на меня",
             "year": "2021",
             "publisher": "Эксмо",
-            "shelf": "traub eksmo wishlist"
+            "shelf": "traub eksmo wishlist new",
+            "img": "https://cdn.book24.ru/v2/ITD000000001199847/COVER/cover13d__w410.webp"
         },
         {
             "author": "Маша Трауб",
@@ -4526,7 +4528,7 @@
             "author": "Джефф Кинни",
             "book": "Дневник слабака-14. Сокрушительный удар",
             "year": "2021",
-            "shelf": "slabak wishlist",
+            "shelf": "slabak wishlist new",
             "img": "https://cdn.book24.ru/v2/ASE000000000852042/COVER/cover13d__w410.webp"
         },
         {
@@ -5240,7 +5242,7 @@
             "book": "Последние дни наших отцов",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "dikker corpus wishlist"
+            "shelf": "dikker corpus wishlist new"
         },
         {
             "id": "350",
@@ -6169,7 +6171,7 @@
             "book": "Боги и лишние",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus radzinsky wishlist",
+            "shelf": "corpus radzinsky wishlist new",
             "img": "https://cdn.book24.ru/v2/ASE000000000859996/COVER/cover13d__w410.webp"
         },
         {
@@ -7689,12 +7691,23 @@
             "id": "507",
             "author": "Мадлен Тьен",
             "book": "Не говори, что у нас ничего нет",
-            "year": "2018",
+            "year": "2019",
             "buyDate": "10/17/20",
             "price": "428",
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://s1.livelib.ru/boocover/1002812210/o/73f1/Madlen_Ten__Ne_govori_chto_u_nas_nichego_net.jpeg"
+        },
+        {
+            "id": "508",
+            "author": "Джонатан Макмиллан",
+            "book": "Конец банковского дела. Деньги и кредит в эпоху цифровой революции",
+            "year": "2019",
+            "buyDate": "10/13/21",
+            "price": "235",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/McMillan-Banking-1000.jpg"
         },
         {
             "id": "555",
@@ -8577,7 +8590,7 @@
             "book": "Виндзорский узел",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
+            "shelf": "corpus wishlist new",
             "img": "https://www.corpus.ru/picts/products/cover1-koroleva.jpg"
         },
         {
@@ -8586,7 +8599,7 @@
             "book": "Аномалия",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus goncur wishlist",
+            "shelf": "corpus goncur wishlist new",
             "img": "https://www.corpus.ru/picts/products/cover-anomaliya.jpg"
         },
         {
@@ -8595,7 +8608,7 @@
             "book": "Сто лет Ленни и Марго",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
+            "shelf": "corpus wishlist new",
             "img": "https://www.corpus.ru/picts/products/cover1-kronin.jpg"
         },
         {
@@ -8604,7 +8617,7 @@
             "book": "Возможности любовного романа",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
+            "shelf": "corpus wishlist new",
             "img": "https://cdn.book24.ru/v2/ASE000000000850053/COVER/cover13d__w410.webp"
         },
         {
@@ -8666,7 +8679,7 @@
             "book": "Истории от разных полушарий мозга. Жизнь в нейронауке",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus politeh wishlist",
+            "shelf": "corpus politeh wishlist new",
             "img": "https://www.corpus.ru/picts/products/Gazzaniga-Mozg-1000.jpg"
         },
         {
@@ -8675,7 +8688,7 @@
             "book": "Кто за главного? Свобода воли с точки зрения нейробиологии",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus politeh wishlist",
+            "shelf": "corpus politeh wishlist new",
             "img": "https://www.corpus.ru/picts/products/cover1-glavnogo.jpg"
         },
         {
@@ -8733,7 +8746,7 @@
             "book": "Ящик. Как грузовой контейнер сделал мир меньше, а мировую экономику больше",
             "year": "2021",
             "publisher": "Бомбора",
-            "shelf": "bombora politeh wishlist",
+            "shelf": "bombora politeh wishlist new",
             "img": "https://seatracker.ru/pictures/692c5efd5b746f63fcc042a45179c799.jpg"
         },
         {
@@ -8844,7 +8857,7 @@
             "book": "Встретимся в кафе «Капкейк»",
             "year": "2021",
             "publisher": "Иностранка",
-            "shelf": "kolgan inostranka wishlist",
+            "shelf": "kolgan inostranka wishlist new",
             "img": "https://sun9-60.userapi.com/impg/2X3qUQzybaxfUTrL521K7FJkmvpAkPggLsbtTg/gqX6nm8k4t4.jpg?size=691x1080&quality=96&sign=965cd42132c9a5322555629772be7970&type=album"
         },
         {
@@ -9211,7 +9224,7 @@
             "author": "Салли Руни",
             "book": "Прекрасный мир, где ты?",
             "year": "2022",
-            "shelf": "runi wishlist",
+            "shelf": "runi wishlist new",
             "img": "https://sun9-65.userapi.com/impg/_dfM2xsBFne2LvXWpQdyW8BL50SgPZ5X_w-V_g/Xn7hp3RNmcc.jpg?size=1412x2160&quality=96&sign=4e028155cadf0862fd07c91e9c52418d&type=album"
         },
         {
@@ -9389,6 +9402,16 @@
         },
         {
             "author": "Эли Макнамара",
+            "book": "Маленький цветочный магазин у моря",
+            "year": "2019",
+            "buyDate": "2/14/21",
+            "price": "327",
+            "publisher": "Эксмо",
+            "shelf": "maknamara eksmo",
+            "img": "https://s1.livelib.ru/boocover/1003005105/o/2a43/Eli_Maknamara__Malenkij_tsvetochnyj_magazin_u_morya.jpeg"
+        },
+        {
+            "author": "Эли Макнамара",
             "book": "Письма с «Маяка»",
             "year": "2020",
             "buyDate": "2/13/21",
@@ -9399,13 +9422,11 @@
         },
         {
             "author": "Эли Макнамара",
-            "book": "Маленький цветочный магазин у моря",
-            "year": "2019",
-            "buyDate": "2/14/21",
-            "price": "327",
+            "book": "Магазинчик счастья Кейт и Клары",
+            "year": "2021",
             "publisher": "Эксмо",
-            "shelf": "maknamara eksmo",
-            "img": "https://s1.livelib.ru/boocover/1003005105/o/2a43/Eli_Maknamara__Malenkij_tsvetochnyj_magazin_u_morya.jpeg"
+            "shelf": "maknamara eksmo inspiria wishlist new",
+            "img": "https://cdn.book24.ru/v2/ITD000000001176294/COVER/cover13d__w410.webp"
         },
         {
             "author": "Джоджо Мойес",
@@ -9633,7 +9654,7 @@
             "book": "Последнее обещание",
             "year": "2021",
             "publisher": "АСТ",
-            "shelf": "ast different-life wishlist",
+            "shelf": "ast different-life wishlist new",
             "img": "https://cdn.book24.ru/v2/ASE000000000854834/COVER/cover13d__w410.webp"
         },
         {
@@ -9670,7 +9691,7 @@
             "book": "Астрофизика. Троицкий вариант",
             "year": "2021",
             "publisher": "АСТ",
-            "shelf": "ast science wishlist",
+            "shelf": "ast science wishlist new",
             "img": "https://s1.livelib.ru/boocover/1005463762/o/757c/Shtern_Boris__Astrofizika._Troitskij_variant.jpeg"
         },
         {
@@ -9678,7 +9699,7 @@
             "book": "Мозг и разум в эпоху виртуальной реальности",
             "year": "2021",
             "publisher": "АСТ",
-            "shelf": "ast science wishlist",
+            "shelf": "ast science wishlist new",
             "img": "https://cdn.book24.ru/v2/ASE000000000848870/COVER/cover13d__w410.webp"
         },
         {
@@ -9758,7 +9779,8 @@
             "book": "Там, где свет. История первой леди США",
             "year": "2021",
             "publisher": "Эксмо",
-            "shelf": "eksmo biden wishlist"
+            "shelf": "eksmo biden wishlist new",
+            "img": "https://cdn.book24.ru/v2/ITD000000001158127/COVER/cover13d__w410.webp"
         },
         {
             "author": "Лин Рина",
@@ -9874,7 +9896,8 @@
             "book": "Последние дни Джона Леннона",
             "year": "2021",
             "publisher": "Эксмо",
-            "shelf": "eksmo music lennon beatles wishlist"
+            "shelf": "eksmo music lennon beatles wishlist new",
+            "img": "https://cdn.book24.ru/v2/ITD000000001202745/COVER/cover13d__w410.webp"
         },
         {
             "author": "Ханна Кент",
@@ -9974,7 +9997,7 @@
             "book": "Голос в радиоэфире",
             "year": "2021",
             "publisher": "Бомбора",
-            "shelf": "bombora kuni moloko wishlist",
+            "shelf": "bombora kuni moloko wishlist new",
             "img": "https://s1.livelib.ru/boocover/1006468216/o/2eed/Kerolajn_B._Kuni__Golos_v_radioefire.jpeg"
         },
         {
@@ -9982,7 +10005,7 @@
             "book": "Ключ к прошлому",
             "year": "2021",
             "publisher": "Бомбора",
-            "shelf": "bombora kuni moloko wishlist",
+            "shelf": "bombora kuni moloko wishlist new",
             "img": "https://s1.livelib.ru/boocover/1000641774/o/50d7/Caroline_B._Cooney__What_Janie_Found_.jpeg"
         },
         {
@@ -9990,7 +10013,7 @@
             "book": "Лицом к лицу",
             "year": "2022",
             "publisher": "Бомбора",
-            "shelf": "bombora kuni moloko wishlist",
+            "shelf": "bombora kuni moloko wishlist new",
             "img": "https://s1.livelib.ru/boocover/1000641776/o/50d7/Caroline_B._Cooney__Janie_Face_to_Face.jpeg"
         },
         {
@@ -10143,15 +10166,15 @@
             "author": "Лисса Кей Адамс",
             "book": "Все секреты книжного клуба",
             "year": "2021",
-            "shelf": "bookstore eksmo inspiria kei-adams wishlist",
+            "shelf": "bookstore eksmo inspiria kei-adams wishlist new",
             "img": "https://s1.livelib.ru/boocover/1006123930/o/14bd/Lissa_Kej_Adams__Undercover_Bromance.jpeg"
         },
         {
             "author": "Натали Дженнер",
             "book": "Общество Джейн Остен",
             "year": "2021",
-            "buyDate": "10/20/21",
-            "price": "344",
+            "buyDate": "10/25/21",
+            "price": "305",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria",
             "img": "https://s1.livelib.ru/boocover/1006779994/o/5068/Natali_Dzhenner__Obschestvo_Dzhejn_Osten.jpeg"
@@ -10160,11 +10183,19 @@
             "author": "Алекс Кристофи",
             "book": "Достоевский in love",
             "year": "2021",
-            "buyDate": "11/1/21",
-            "price": "378",
+            "buyDate": "11/10/21",
+            "price": "347",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria",
             "img": "https://alexchristofiauthor.files.wordpress.com/2020/04/dil.jpg"
+        },
+        {
+            "author": "Кадзуо Исигуро",
+            "book": "Клара и Солнце",
+            "year": "2021",
+            "buyDate": "10/27/21",
+            "price": "421",
+            "publisher": "Эксмо"
         },
         {
             "author": "Евгений Ройзман",
@@ -10175,7 +10206,7 @@
         {
             "author": "Барак Обама",
             "book": "A Promised Land",
-            "shelf": "obama wishlist",
+            "shelf": "obama wishlist new",
             "img": "https://cdn24.img.ria.ru/images/07e4/0b/11/1584987671_0:0:710:1080_1920x0_80_0_0_d2ae700f948a1aa4f503ff9779f955ca.jpg"
         },
         {
@@ -10486,8 +10517,15 @@
         {
             "author": "Дмитрий Глуховский",
             "book": "Текст",
-            "shelf": "wishlist",
+            "shelf": "gluhovsky wishlist",
             "img": "https://s1.livelib.ru/boocover/1002267379/o/db8a/Dmitrij_Gluhovskij__Tekst.jpeg"
+        },
+        {
+            "author": "Дмитрий Глуховский",
+            "book": "Пост",
+            "year": "2021",
+            "shelf": "gluhovsky wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006760761/o/7ff2/Dmitrij_Gluhovskij__Post.jpeg"
         },
         {
             "author": "Артем Исламов",
