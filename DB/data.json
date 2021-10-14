@@ -3747,8 +3747,10 @@
             "author": "Маша Трауб",
             "book": "Посмотри на меня",
             "year": "2021",
+            "buyDate": "10/31/21",
+            "price": "363",
             "publisher": "Эксмо",
-            "shelf": "traub eksmo wishlist new",
+            "shelf": "traub eksmo",
             "img": "https://cdn.book24.ru/v2/ITD000000001199847/COVER/cover13d__w410.webp"
         },
         {
@@ -9442,8 +9444,10 @@
             "author": "Эли Макнамара",
             "book": "Магазинчик счастья Кейт и Клары",
             "year": "2021",
+            "buyDate": "10/25/21",
+            "price": "334",
             "publisher": "Эксмо",
-            "shelf": "maknamara eksmo inspiria wishlist new",
+            "shelf": "maknamara eksmo inspiria",
             "img": "https://cdn.book24.ru/v2/ITD000000001176294/COVER/cover13d__w410.webp"
         },
         {
@@ -9798,8 +9802,10 @@
             "author": "Джилл Байден",
             "book": "Там, где свет. История первой леди США",
             "year": "2021",
+            "buyDate": "10/31/21",
+            "price": "404",
             "publisher": "Эксмо",
-            "shelf": "eksmo biden wishlist new",
+            "shelf": "eksmo biden",
             "img": "https://cdn.book24.ru/v2/ITD000000001158127/COVER/cover13d__w410.webp"
         },
         {
@@ -10215,7 +10221,8 @@
             "year": "2021",
             "buyDate": "10/27/21",
             "price": "421",
-            "publisher": "Эксмо"
+            "publisher": "Эксмо",
+            "img": "https://cdn.book24.ru/v2/ITD000000001155734/COVER/cover13d__w410.webp"
         },
         {
             "author": "Евгений Ройзман",
