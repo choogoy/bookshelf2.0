@@ -483,8 +483,10 @@
             "author": "Владимир Набоков",
             "book": "Король, дама, валет",
             "year": "2021",
+            "buyDate": "10/19/21",
+            "price": "330",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new",
+            "shelf": "corpus nabokov",
             "img": "https://www.corpus.ru/picts/products/cover1-kqj.jpg"
         },
         {
@@ -2931,9 +2933,10 @@
         },
         {
             "author": "Андрей Князев",
-            "book": "Король и Шут. Старая книга (часть 2)",
+            "book": "Король и Шут. Старая книга II. Незавершенные истории",
             "year": "2021",
-            "shelf": "music kish wishlist new"
+            "shelf": "music kish wishlist new",
+            "img": "https://img-gorod.ru/28/746/2874670_detail.jpg"
         },
         {
             "author": "Евгения Либабова",
@@ -6168,21 +6171,33 @@
         {
             "id": "685",
             "author": "Олег Радзинский",
-            "book": "Боги и лишние",
+            "book": "Боги и лишние. неГероический эпос",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus radzinsky wishlist new",
-            "img": "https://cdn.book24.ru/v2/ASE000000000859996/COVER/cover13d__w410.webp"
+            "img": "https://www.corpus.ru/picts/products/cover1-lishnie.jpg"
         },
         {
+            "id": "n",
             "author": "Виктор Шендерович",
-            "book": "Евроремонт",
-            "year": "2012",
-            "buyDate": "11/25/20",
-            "price": "327.71",
+            "book": "Неснятое кино",
+            "year": "2009",
+            "buyDate": "8/5/20",
+            "price": "130",
             "publisher": "Corpus",
             "shelf": "corpus shenderovich",
-            "img": "https://www.corpus.ru/picts/products/shenderovich-evroremont-1000.jpg"
+            "img": "https://www.corpus.ru/picts/products/Shenderovich-Kino-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Виктор Шендерович",
+            "book": "Операция «Остров»",
+            "year": "2010",
+            "buyDate": "8/5/20",
+            "price": "212",
+            "publisher": "Corpus",
+            "shelf": "corpus shenderovich",
+            "img": "https://www.corpus.ru/picts/products/Shenderovich-Ostrov-1000.jpg"
         },
         {
             "id": "65",
@@ -6198,24 +6213,13 @@
         {
             "id": "n",
             "author": "Виктор Шендерович",
-            "book": "Операция «Остров»",
-            "year": "2010",
-            "buyDate": "8/5/20",
-            "price": "212",
+            "book": "Евроремонт",
+            "year": "2012",
+            "buyDate": "11/25/20",
+            "price": "327.71",
             "publisher": "Corpus",
             "shelf": "corpus shenderovich",
-            "img": "https://www.corpus.ru/picts/products/Shenderovich-Ostrov-1000.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Виктор Шендерович",
-            "book": "Неснятое кино",
-            "year": "2009",
-            "buyDate": "8/5/20",
-            "price": "130",
-            "publisher": "Corpus",
-            "shelf": "corpus shenderovich",
-            "img": "https://www.corpus.ru/picts/products/Shenderovich-Kino-1000.jpg"
+            "img": "https://www.corpus.ru/picts/products/shenderovich-evroremont-1000.jpg"
         },
         {
             "id": "201",
@@ -8589,8 +8593,10 @@
             "author": "Си Джей Беннет",
             "book": "Виндзорский узел",
             "year": "2021",
+            "buyDate": "10/19/21",
+            "price": "451",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new",
+            "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/cover1-koroleva.jpg"
         },
         {
@@ -8607,8 +8613,10 @@
             "author": "Мэриэнн Кронин",
             "book": "Сто лет Ленни и Марго",
             "year": "2021",
+            "buyDate": "10/19/21",
+            "price": "470",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new",
+            "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/cover1-kronin.jpg"
         },
         {
@@ -8674,12 +8682,22 @@
             "img": "https://www.corpus.ru/picts/products/cover1-glick.jpg"
         },
         {
+            "author": "Джеймс Глик",
+            "book": "Хаос. Создание новой науки",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus glik wishlist",
+            "img": "https://www.corpus.ru/picts/products/cover1-glick-new.jpg"
+        },
+        {
             "id": "n",
             "author": "Майкл Газзанига",
             "book": "Истории от разных полушарий мозга. Жизнь в нейронауке",
             "year": "2021",
+            "buyDate": "10/19/21",
+            "price": "622",
             "publisher": "Corpus",
-            "shelf": "corpus politeh wishlist new",
+            "shelf": "corpus politeh",
             "img": "https://www.corpus.ru/picts/products/Gazzaniga-Mozg-1000.jpg"
         },
         {
@@ -9698,8 +9716,10 @@
             "author": "Со Ёсон",
             "book": "Мозг и разум в эпоху виртуальной реальности",
             "year": "2021",
+            "buyDate": "10/19/21",
+            "price": "433",
             "publisher": "АСТ",
-            "shelf": "ast science wishlist new",
+            "shelf": "ast science",
             "img": "https://cdn.book24.ru/v2/ASE000000000848870/COVER/cover13d__w410.webp"
         },
         {
@@ -10128,7 +10148,7 @@
             "author": "Карен Джой Фаулер",
             "book": "Книжный клуб Джейн Остен",
             "year": "2006",
-            "buyDate": "10/13/21",
+            "buyDate": "10/15/21",
             "price": "250",
             "shelf": "bookstore",
             "img": "https://img4.labirint.ru/rc/9032c317657e7db8439a83839db0b5b7/594x918/books13/121988/cover.jpg?1280394613"
@@ -10156,7 +10176,7 @@
             "author": "Лисса Кей Адамс",
             "book": "Bromance. Тайный клуб романтиков",
             "year": "2021",
-            "buyDate": "10/12/21",
+            "buyDate": "10/15/21",
             "price": "354",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria kei-adams",
