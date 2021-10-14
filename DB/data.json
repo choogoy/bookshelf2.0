@@ -4129,7 +4129,7 @@
         {
             "author": "Протоиерей Александр Мень",
             "book": "Сын человеческий",
-            "shelf": "religion",
+            "shelf": "religion gift",
             "img": "https://s1.livelib.ru/boocover/1000014040/o/cef1/Protoierej_Aleksandr_Men__Syn_Chelovecheskij.jpeg"
         },
         {
@@ -4294,6 +4294,15 @@
             "publisher": "Синдбад",
             "shelf": "gift sindbad",
             "img": "https://s1.livelib.ru/boocover/1002671847/o/787a/Zhil_Legardine__Bolshe_ne_promahnus.jpeg"
+        },
+        {
+            "author": "Кристофер Мур",
+            "book": "Грязная работа",
+            "year": "2020",
+            "buyDate": "10/16/21",
+            "publisher": "Фантом Пресс",
+            "shelf": "gift fantom-press",
+            "img": "https://s1.livelib.ru/boocover/1004165203/o/bc7a/Kristofer_Mur__Gryaznaya_rabota.jpeg"
         },
         {
             "author": "Эми Ральф",
@@ -10247,7 +10256,67 @@
             "buyDate": "10/27/21",
             "price": "421",
             "publisher": "Эксмо",
+            "shelf": "eksmo",
             "img": "https://cdn.book24.ru/v2/ITD000000001155734/COVER/cover13d__w410.webp"
+        },
+        {
+            "author": "Пол Бейти",
+            "book": "Продажная тварь",
+            "year": "2018",
+            "buyDate": "10/16/21",
+            "price": "356",
+            "publisher": "Эксмо",
+            "shelf": "eksmo",
+            "img": "https://s1.livelib.ru/boocover/1002700334/o/9582/Pol_Bejti__Prodazhnaya_tvar.jpeg"
+        },
+        {
+            "author": "Анна Бернс",
+            "book": "Молочник",
+            "year": "2019",
+            "buyDate": "10/16/21",
+            "price": "372",
+            "publisher": "Эксмо",
+            "shelf": "eksmo",
+            "img": "https://s1.livelib.ru/boocover/1003407116/o/5682/Anna_Berns__Molochnik.jpeg"
+        },
+        {
+            "author": "Сергий Священник",
+            "book": "Про Н., Костю Иночкина и Ностальжи. Приключения в жизни будничной и вечной",
+            "year": "2021",
+            "buyDate": "10/16/21",
+            "price": "401",
+            "publisher": "Никея",
+            "img": "https://ndc.book24.ru/resize/820x1192/iblock/fc3/fc3ff911348b6c7e57ec818688ffdf5d/3792c5fe7b9f6a1cc3f2dcd3d95c39d0.jpg"
+        },
+        {
+            "author": "Роуз Карлайл",
+            "book": "Девушка в зеркале",
+            "year": "2021",
+            "buyDate": "10/16/21",
+            "price": "305",
+            "publisher": "Эксмо",
+            "shelf": "eksmo white",
+            "img": "https://s1.livelib.ru/boocover/1006270843/o/04f8/Rouz_Karlajl__Devushka_v_zerkale.jpeg"
+        },
+        {
+            "author": "Энн Гленконнер",
+            "book": "Убийство на острове Мюстик",
+            "year": "2021",
+            "buyDate": "10/31/21",
+            "price": "290",
+            "publisher": "Эксмо",
+            "shelf": "eksmo white",
+            "img": "https://s1.livelib.ru/boocover/1006756276/o/c10d/Enn_Glenkonner__Ubijstvo_na_ostrove_Myustik.jpeg"
+        },
+        {
+            "author": "Кэтрин Купер",
+            "book": "Шале",
+            "year": "2021",
+            "buyDate": "10/31/21",
+            "price": "317",
+            "publisher": "Эксмо",
+            "shelf": "eksmo white",
+            "img": "https://www.logobook.ru/bi/15176527/15176527_79317.jpg"
         },
         {
             "author": "Евгений Ройзман",
