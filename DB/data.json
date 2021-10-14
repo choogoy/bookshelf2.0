@@ -3341,7 +3341,7 @@
             "book": "Собирайся, мы уезжаем. Глянец",
             "year": "2006",
             "shelf": "traub",
-            "img": "https://img.yakaboo.ua/media/catalog/product/cache/1/image/234c7c011ba026e66d29567e1be1d1f7/1/3/131476_14862713.jpg"
+            "img": "https://s1.livelib.ru/boocover/1000361349/o/11bf/Traub_M.__Sobirajsya_my_uezzhaem_sbornik.jpeg"
         },
         {
             "author": "Маша Трауб",
@@ -3748,7 +3748,7 @@
             "book": "Посмотри на меня",
             "year": "2021",
             "buyDate": "10/31/21",
-            "price": "363",
+            "price": "285",
             "publisher": "Эксмо",
             "shelf": "traub eksmo",
             "img": "https://cdn.book24.ru/v2/ITD000000001199847/COVER/cover13d__w410.webp"
@@ -3799,7 +3799,6 @@
             "img": "https://cdn.book24.ru/v2/ASE000000000841307/COVER/cover13d__w410.webp"
         },
         {
-            "author": "Екатерина Вильмонт",
             "book": "Истории любви",
             "year": "2008",
             "buyDate": "4/20/12",
@@ -3808,7 +3807,6 @@
             "img": "https://s1.livelib.ru/boocover/1001477802/o/a546/__Istorii_lyubvi_sbornik.jpeg"
         },
         {
-            "author": "Мария Метлицкая",
             "book": "Современные рассказы о любви. Привычка жениться",
             "buyDate": "7/1/15",
             "price": "181",
@@ -3816,7 +3814,6 @@
             "img": "https://s1.livelib.ru/boocover/1000999215/o/fec6/__Sovremennye_rasskazy_o_lyubvi._Privychka_zhenitsya_sbornik.jpeg"
         },
         {
-            "author": "Ирина Муравьева",
             "book": "Современные рассказы о любви. Адюльтер",
             "buyDate": "7/1/15",
             "price": "164",
@@ -3824,7 +3821,6 @@
             "img": "https://s1.livelib.ru/boocover/1000999971/o/d870/__Sovremennye_rasskazy_o_lyubvi._Adyulter_sbornik.jpeg"
         },
         {
-            "author": "Маша Трауб",
             "book": "Современные рассказы о любви. Уж замуж",
             "buyDate": "7/1/15",
             "price": "164",
@@ -3832,7 +3828,6 @@
             "img": "https://s1.livelib.ru/boocover/1001046845/o/44d7/__Sovremennye_rasskazy_o_lyubvi._Uzh_zamuzh_sbornik.jpeg"
         },
         {
-            "author": "Маша Трауб",
             "book": "Мама тебя любит, а ты её бесишь!",
             "year": "2016",
             "buyDate": "11/28/16",
@@ -3841,7 +3836,6 @@
             "img": "https://cv3.litres.ru/pub/c/elektronnaya-kniga/cover_415/21163933-mariya-metlickaya-mama-tebya-lubit-a-ty-ee-besish.jpg"
         },
         {
-            "author": "Людмила Улицкая",
             "book": "Любовь, или Моя семья",
             "year": "2015",
             "buyDate": "10/13/15",
@@ -3850,7 +3844,6 @@
             "img": "https://s1.livelib.ru/boocover/1001419200/o/6a9d/Antologiya__Lyubov_ili_Moya_semya.jpeg"
         },
         {
-            "author": "Мария Метлицкая",
             "book": "Первая любовь",
             "year": "2015",
             "buyDate": "11/26/15",
@@ -3871,21 +3864,24 @@
             "book": "Дневник домового",
             "buyDate": "1/16/17",
             "price": "195",
-            "shelf": "web"
+            "shelf": "web",
+            "img": "https://s1.livelib.ru/boocover/1001532485/o/4628/Evgenij_CheshirKo__Dnevnik_Domovogo_sbornik.jpeg"
         },
         {
             "author": "Евгений Чеширко",
             "book": "Дневник домового. Рассказы с чердака",
             "buyDate": "1/16/17",
             "price": "211",
-            "shelf": "web"
+            "shelf": "web",
+            "img": "https://s1.livelib.ru/boocover/1002000926/o/b9ba/Evgenij_CheshirKo__Dnevnik_Domovogo._Rasskazy_s_cherdaka_sbornik.jpeg"
         },
         {
             "author": "Наталья Волнистая",
             "book": "О возлюблении ближних и дальних",
             "buyDate": "2/9/17",
             "price": "162",
-            "shelf": "web"
+            "shelf": "web",
+            "img": "https://s1.livelib.ru/boocover/1001470087/o/6b54/Natalya_Volnistaya__O_vozlyublenii_blizhnih_i_dalnih.jpeg"
         },
         {
             "author": "Лея Любомирская",
@@ -3893,14 +3889,16 @@
             "year": "2016",
             "buyDate": "2/9/17",
             "price": "162",
-            "shelf": "web"
+            "shelf": "web",
+            "img": "https://s1.livelib.ru/boocover/1001455815/o/af5a/Leya_Lyubomirskaya__I_s_teh_por_ne_rasstavalis.jpeg"
         },
         {
             "author": "Малка Лоренц",
             "book": "Пятничные вопросы",
             "buyDate": "2/9/17",
             "price": "189",
-            "shelf": "web"
+            "shelf": "web",
+            "img": "https://s1.livelib.ru/boocover/1001563601/o/9122/Malka_Lorents__Pyatnichnye_voprosy.jpeg"
         },
         {
             "author": "Максим Малявин",
@@ -3908,84 +3906,94 @@
             "year": "2016",
             "buyDate": "2/9/17",
             "price": "189",
-            "shelf": "web"
+            "shelf": "web",
+            "img": "https://s1.livelib.ru/boocover/1002045353/o/b4bd/Maksim_Malyavin__Zapiski_psihiatra._Luchshee_ili_Blog_dobryh_psihiatrov.jpeg"
         },
         {
             "author": "Ляля Бранза",
-            "book": "бабодурское",
+            "book": "#бабодурское",
             "buyDate": "10/9/17",
             "price": "199",
-            "shelf": "web"
+            "shelf": "web",
+            "img": "https://s1.livelib.ru/boocover/1002637802/o/4910/Lyalya_Brynza__babodurskoe.jpeg"
         },
         {
             "author": "Николай Ложников",
             "book": "Свободная касса",
             "buyDate": "10/9/17",
             "price": "249",
-            "shelf": "web"
+            "shelf": "web",
+            "img": "https://s1.livelib.ru/boocover/1002514041/o/f8c7/Nikolaj_Lozhnikov__Svobodnaya_kassa.jpeg"
         },
         {
             "author": "Евгений Чеширко",
             "book": "Закрайсветовские хроники",
             "buyDate": "10/9/17",
             "price": "270",
-            "shelf": "web"
+            "shelf": "web",
+            "img": "https://s1.livelib.ru/boocover/1002446833/o/0378/Evgenij_CheshirKo__Zakrajsvetovskie_hroniki._Rasskazy_sbornik.jpeg"
         },
         {
-            "author": "Евгений Чеширко",
             "book": "Клуб домового. Сборник рассказов",
             "buyDate": "3/26/18",
             "price": "219",
-            "shelf": "web"
+            "shelf": "web",
+            "img": "https://s1.livelib.ru/boocover/1002730325/o/b220/__Klub_domovogo.jpeg"
         },
         {
             "author": "Александр Беленький",
             "book": "Мари",
             "buyDate": "10/21/18",
             "price": "199",
-            "shelf": "web"
+            "shelf": "web",
+            "img": "https://s1.livelib.ru/boocover/1002869782/o/41e9/Aleksandr_Belenkij__Mari.jpeg"
         },
         {
             "author": "Андрей Ломачинский",
             "book": "Вынос мозга с комментариями",
             "buyDate": "10/21/18",
             "price": "215",
-            "shelf": "web"
+            "shelf": "web",
+            "img": "https://s1.livelib.ru/boocover/1002851219/o/08c4/Andrej_Lomachinskij__Vynos_mozga.jpeg"
         },
         {
             "author": "Александр Цыпкин",
             "book": "Женщины непреклонного возраста и др. беспринцыпные истории",
             "buyDate": "10/21/18",
             "price": "233",
-            "shelf": "web"
+            "shelf": "web",
+            "img": "https://s1.livelib.ru/boocover/1001388400/o/8f54/Aleksandr_Tsypkin__Zhenschiny_nepreklonnogo_vozrasta_i_dr._besprintsYpnye_istori.jpeg"
         },
         {
             "author": "Александр Цыпкин",
             "book": "Дом до свиданий и новые беспринцыпные истории",
             "buyDate": "10/21/18",
             "price": "246",
-            "shelf": "web"
+            "shelf": "web",
+            "img": "https://s1.livelib.ru/boocover/1002703934/o/c6d8/Aleksandr_Tsypkin__Dom_do_svidanij_i_novye_besprintsypnye_istorii_sbornik.jpeg"
         },
         {
             "author": "Алексей Березин",
             "book": "7 красных линий",
             "buyDate": "10/21/18",
             "price": "215",
-            "shelf": "web"
+            "shelf": "web",
+            "img": "https://s1.livelib.ru/boocover/1002800154/o/0ede/Aleksej_Berezin__7_krasnyh_linij.jpeg"
         },
         {
-            "author": "Елена Фельдман",
             "book": "Хроники домового. 2019",
             "buyDate": "12/4/18",
             "price": "233",
-            "shelf": "web"
+            "shelf": "web",
+            "img": "https://s1.livelib.ru/boocover/1002879431/o/fcca/__Hroniki_Domovogo._2019_sbornik.jpeg"
         },
         {
             "author": "Наринэ Абгарян",
             "book": "Понаехавшая",
             "buyDate": "12/4/18",
             "price": "228",
-            "shelf": "web"
+            "shelf": "web",
+            "img": "https://s1.livelib.ru/boocover/1002949377/o/3ca3/Narine_Abgaryan__Ponaehavshaya.jpeg"
         },
         {
             "author": "Алексей Леонов",
@@ -3994,7 +4002,7 @@
             "buyDate": "4/28/17",
             "price": "226",
             "shelf": "space",
-            "img": "https://cv3.litres.ru/pub/c/elektronnaya-kniga/cover_415/23856437-aleksey-arhipovich-leonov-vremya-pervyh-sudba-moya-ya-sam.jpg"
+            "img": "https://s1.livelib.ru/boocover/1002238621/o/3422/Aleksej_Leonov__Vremya_pervyh._Sudba_moya__ya_sam....jpeg"
         },
         {
             "author": "Виктор Савиных",
@@ -4003,7 +4011,7 @@
             "buyDate": "12/4/17",
             "price": "250",
             "shelf": "space",
-            "img": "https://cv3.litres.ru/pub/c/elektronnaya-kniga/cover_415/25925631-viktor-savinyh-salut-7-zapiski-s-mertvoy-stancii.jpg"
+            "img": "https://s1.livelib.ru/boocover/1002698953/o/047a/Viktor_Petrovich_Savinyh__Salyut7_Zapiski_s_mjortvoj_stantsii.jpeg"
         },
         {
             "author": "Билл Брайсон",
@@ -4037,7 +4045,7 @@
             "img": "https://s1.livelib.ru/boocover/1002680579/o/99e7/Dzhon_Stejnbek__O_myshah_i_lyudyah._Zhemchuzhina_sbornik.jpeg"
         },
         {
-            "author": "Сергей Микулик, Игорь Рабинер",
+            "author": "Сергей Микулик и Игорь Рабинер",
             "book": "«СЭкс» в большом спорте",
             "year": "2013",
             "buyDate": "6/26/13",
@@ -4059,7 +4067,7 @@
             "buyDate": "12/4/18",
             "price": "285",
             "shelf": "sport",
-            "img": "https://cv5.litres.ru/pub/c/elektronnaya-kniga/cover_415/38843250-pavel-aleshin-lokomotiv-vozvraschenie-na-pedestal.jpg"
+            "img": "https://s1.livelib.ru/boocover/1002904837/o/2440/Semin_Yurij_Pavlovich__ampquotLokomotivampquot._Vozvraschenie_na_pedestal.jpeg"
         },
         {
             "author": "Олег Романцев",
@@ -4067,7 +4075,7 @@
             "buyDate": "9/20/18",
             "price": "308",
             "shelf": "sport",
-            "img": "https://cv0.litres.ru/pub/c/elektronnaya-kniga/cover_415/36623105-denis-celyh-romancev-pravda-obo-mne-i-spartake.jpg"
+            "img": "https://s1.livelib.ru/boocover/1002876155/o/c85a/__Romantsev._Pravda_obo_mne_i_Spartake.jpeg"
         },
         {
             "author": "Александр Кержаков",
@@ -4075,7 +4083,7 @@
             "buyDate": "3/1/17",
             "price": "361",
             "shelf": "sport",
-            "img": "https://cv0.litres.ru/pub/c/elektronnaya-kniga/cover_415/23112203-aleksandr-kerzhakov-luchshiy.jpg"
+            "img": "https://s1.livelib.ru/boocover/1002092494/o/739c/Kerzhakov_Aleksandr__Aleksandr_Kerzhakov._Luchshij.jpeg"
         },
         {
             "author": "Олег Навальный",
@@ -4091,14 +4099,24 @@
             "book": "Матушки: Жены священников о жизни и о себе",
             "buyDate": "4/30/14",
             "price": "176",
-            "shelf": "religion"
+            "shelf": "religion",
+            "img": "https://s1.livelib.ru/boocover/1000564215/o/3b72/Kseniya_Luchenko__Matushki_Zheny_svyaschennikov_o_zhizni_i_o_sebe.jpeg"
         },
         {
             "author": "архиепископ Егорьевский Марк (Головков)",
             "book": "Простые ответы на вечные вопросы",
             "buyDate": "9/23/14",
             "price": "313",
-            "shelf": "religion"
+            "shelf": "religion",
+            "img": "https://s1.livelib.ru/boocover/1000526594/o/6616/__Prostye_otvety_na_vechnye_voprosy.jpeg"
+        },
+        {
+            "author": "Лидия Сергеевна Запарина",
+            "book": "Непридуманные рассказы. Свидетельства очевидцев о Промысле Божием",
+            "buyDate": "9/17/15",
+            "price": "241",
+            "shelf": "religion",
+            "img": "https://s1.livelib.ru/boocover/1000585086/o/d9be/Lidiya_Zaparina__Nepridumannye_rasskazy._Svidetelstva_ochevidtsev_o_Promysle_Boz.jpeg"
         },
         {
             "author": "Архимандрит Тихон",
@@ -4111,37 +4129,44 @@
         {
             "author": "Протоиерей Александр Мень",
             "book": "Сын человеческий",
-            "shelf": "religion"
+            "shelf": "religion",
+            "img": "https://s1.livelib.ru/boocover/1000014040/o/cef1/Protoierej_Aleksandr_Men__Syn_Chelovecheskij.jpeg"
         },
         {
             "author": "Протоиерей Александр Торик",
             "book": "Флавиан",
-            "shelf": "religion"
+            "shelf": "religion",
+            "img": "http://flavian-press.ru/wp-content/uploads/2015/07/FLAVIAN-e1437743772797-207x300.jpg"
         },
         {
             "author": "Протоиерей Александр Торик",
             "book": "Флавиан. Жизнь продолжается",
-            "shelf": "religion"
+            "shelf": "religion",
+            "img": "https://flavian-press.ru/wp-content/uploads/2015/07/FLAVIAN-ZHIZN%60-PRODOLZHAETSYA-e1437743749361.jpg"
         },
         {
             "author": "Протоиерей Александр Торик",
             "book": "Флавиан. Восхождение",
-            "shelf": "religion"
+            "shelf": "religion",
+            "img": "https://flavian-press.ru/wp-content/uploads/2015/07/FLAVIAN-VOSHOZHDENIE-e1437743787999.jpg"
         },
         {
             "author": "Протоиерей Александр Торик",
             "book": "Флавиан. Армагеддон",
-            "shelf": "religion"
+            "shelf": "religion",
+            "img": "https://flavian-press.ru/wp-content/uploads/2015/07/armageddon.jpg"
         },
         {
             "author": "Павел Санаев",
             "book": "Похороните меня за плинтусом",
-            "shelf": "sanaev"
+            "shelf": "sanaev",
+            "img": "https://s1.livelib.ru/boocover/1000579912/o/7152/Pavel_Sanaev__Pohoronite_menya_za_plintusom.jpeg"
         },
         {
             "author": "Павел Санаев",
             "book": "Хроники раздолбая. Похороните меня за плинтусом 2",
-            "shelf": "sanaev wishlist"
+            "shelf": "sanaev wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000668508/o/3c08/Pavel_Sanaev__Hroniki_Razdolbaya._Pohoronite_menya_za_plintusom2.jpeg"
         },
         {
             "author": "Анна Франк",
@@ -4375,14 +4400,16 @@
             "book": "Первый год с малышом. Как мы учились быть папой и мамой",
             "buyDate": "6/18/13",
             "price": "154",
-            "shelf": "kids"
+            "shelf": "kids",
+            "img": "https://s1.livelib.ru/boocover/1000437185/o/abef/Irina_Chesnova__Pervyj_god_s_malyshom._Kak_my_uchilis_byt_papoj_i_mamoj.jpeg"
         },
         {
             "author": "Ирина Чеснова",
             "book": "Малыш: мамино счастье",
             "buyDate": "6/18/13",
             "price": "389",
-            "shelf": "kids"
+            "shelf": "kids",
+            "img": "https://s1.livelib.ru/boocover/1000579037/o/c48c/Irina_Chesnova__Malysh_mamino_schaste.jpeg"
         },
         {
             "author": "Юлия Борисовна Гиппенрейтер",
@@ -4390,27 +4417,25 @@
             "year": "2011",
             "buyDate": "6/26/13",
             "price": "301",
-            "shelf": "kids"
+            "shelf": "kids",
+            "img": "https://s1.livelib.ru/boocover/1000772224/o/c2a0/Yuliya_Gippenrejter__Obschatsya_s_rebenkom._Kak.jpeg"
         },
         {
             "author": "Робин Берман",
             "book": "Баловать нельзя контролировать. Как воспитать счастливого ребенка",
             "buyDate": "9/17/15",
             "price": "329",
-            "shelf": "kids"
+            "publisher": "Альпина Паблишер",
+            "shelf": "kids alpina",
+            "img": "https://s1.livelib.ru/boocover/1000974011/o/5dc3/Robin_Berman__Balovat_nelzya_kontrolirovat._Kak_vospitat_schastlivogo_rebenka.jpeg"
         },
         {
             "author": "Елена Янушно",
             "book": "Помогите малышу заговорить. Развитие речи детей 1-3 лет",
             "buyDate": "11/9/15",
             "price": "339",
-            "shelf": "kids"
-        },
-        {
-            "author": "Лидия Сергеевна Запарина",
-            "book": "Непридуманные рассказы",
-            "buyDate": "9/17/15",
-            "price": "241"
+            "shelf": "kids",
+            "img": "https://s1.livelib.ru/boocover/1000997602/o/8f7b/Yanushko_E.A.__Pomogite_malyshu_zagovorit._Razvitie_rechi_detej_13_let.jpeg"
         },
         {
             "author": "Валентина Джианелла",
@@ -5130,7 +5155,7 @@
         },
         {
             "id": "594",
-            "author": "Виталий Шкляров, Анджей Беловранин",
+            "author": "Виталий Шкляров и Анджей Беловранин",
             "book": "Мир, поставленный на паузу",
             "year": "2020",
             "buyDate": "7/12/20",
@@ -5930,7 +5955,7 @@
         },
         {
             "id": "390",
-            "author": "Кармело Сардо, Джузеппе Грассонелли",
+            "author": "Кармело Сардо и Джузеппе Грассонелли",
             "book": "Сорняк",
             "year": "2016",
             "buyDate": "7/24/20",
@@ -8225,7 +8250,7 @@
         },
         {
             "id": "n",
-            "author": "Василий Гроссман, Илья Эренбург",
+            "author": "Василий Гроссман и Илья Эренбург",
             "book": "Черная книга",
             "year": "2014",
             "buyDate": "3/19/21",
@@ -8236,7 +8261,7 @@
         },
         {
             "id": "n",
-            "author": "Василий Гроссман, Илья Эренбург",
+            "author": "Василий Гроссман и Илья Эренбург",
             "book": "Неизвестная «Черная книга»",
             "year": "2014",
             "buyDate": "3/19/21",
@@ -8510,7 +8535,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-turkle-govorit.jpg"
         },
         {
-            "author": "Дэвид Дарлинг, Агниджо Банерджи",
+            "author": "Дэвид Дарлинг и Агниджо Банерджи",
             "book": "Эта странная математика. На краю бесконечности и за ним",
             "year": "2021",
             "publisher": "Corpus",
@@ -8732,7 +8757,7 @@
             "img": "https://s1.livelib.ru/boocover/1005550894/o/d752/Majkl_Gratsiano__Nauka_soznaniya._Sovremennaya_teoriya_subektivnogo_opyta.jpeg"
         },
         {
-            "author": "Генрих Эрлих, Сергей Комаров",
+            "author": "Генрих Эрлих и Сергей Комаров",
             "book": "Легко ли плыть в сиропе. Откуда берутся странные научные открытия",
             "year": "2020",
             "buyDate": "12/9/20",
@@ -8752,7 +8777,7 @@
             "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc1200/6038144463.jpg"
         },
         {
-            "author": "Лоуренс Бернс, Кристофер Шульган",
+            "author": "Лоуренс Бернс и Кристофер Шульган",
             "book": "Автономия. Как появился автомобиль без водителя и что это значит для нашего будущего",
             "year": "2020",
             "buyDate": "12/24/20",
@@ -9202,7 +9227,7 @@
             "img": "https://s1.livelib.ru/boocover/1005786691/o/c29b/Shon_Bajtell__Sem_tipov_lyudej_kotoryh_mozhno_vstretit_v_knizhnom_magazine.jpeg"
         },
         {
-            "author": "Кит Мелтон, Роберт Уоллес",
+            "author": "Кит Мелтон и Роберт Уоллес",
             "book": "Секретная инструкция ЦРУ по технике обманных трюков и введению в заблуждение",
             "buyDate": "12/24/20",
             "price": "386",
@@ -9491,7 +9516,7 @@
             "img": "https://s1.livelib.ru/boocover/1005875920/o/8f54/Nina_George__Kniga_snov.jpeg"
         },
         {
-            "author": "Мэри Энн Шаффер, Энни Бэрроуз",
+            "author": "Мэри Энн Шаффер и Энни Бэрроуз",
             "book": "Клуб любителей книг и пирогов из картофельных очистков",
             "year": "2020",
             "buyDate": "2/14/21",
@@ -9582,7 +9607,7 @@
             "img": "https://s1.livelib.ru/boocover/1002901641/o/e15d/Horhe_Karrion__Knizhnye_magaziny.jpeg"
         },
         {
-            "author": "Жан-Кристоф Бризар, Лана Паршина",
+            "author": "Жан-Кристоф Бризар и Лана Паршина",
             "book": "Смерть Гитлера. ФСБ открывает секретные архивы",
             "year": "2020",
             "buyDate": "3/14/21",
@@ -9709,7 +9734,7 @@
             "img": "https://s1.livelib.ru/boocover/1006075249/o/acf6/bez_avtora__Avtostopom_po_nauke__70_faktov_iz_istorii_velikih_otkrytij.jpeg"
         },
         {
-            "author": "Борис Штерн, Валерий Рубаков",
+            "author": "Борис Штерн и Валерий Рубаков",
             "book": "Астрофизика. Троицкий вариант",
             "year": "2021",
             "publisher": "АСТ",
@@ -9803,7 +9828,7 @@
             "book": "Там, где свет. История первой леди США",
             "year": "2021",
             "buyDate": "10/31/21",
-            "price": "404",
+            "price": "317",
             "publisher": "Эксмо",
             "shelf": "eksmo biden",
             "img": "https://cdn.book24.ru/v2/ITD000000001158127/COVER/cover13d__w410.webp"
@@ -9849,7 +9874,7 @@
             "img": "https://s1.livelib.ru/boocover/1006204066/o/6217/Erik_Asfog__Kogda_u_Zemli_bylo_dve_Luny.jpeg"
         },
         {
-            "author": "Аманда Хендрикс, Чарльз Уолфорт",
+            "author": "Аманда Хендрикс и Чарльз Уолфорт",
             "book": "За пределами Земли. В поисках нового дома в Солнечной системе",
             "year": "2018",
             "buyDate": "9/9/21",
@@ -9918,7 +9943,7 @@
             "img": "https://s1.livelib.ru/boocover/1005604954/o/a169/LesliEnn_Dzhons__Kto_ubil_Dzhona_Lennona_Zhizn_smert_i_lyubov_velichajshej_rokzv.jpeg"
         },
         {
-            "author": "Джеймс Паттерсон, Кейси Шерман, Дейв Уэдж",
+            "author": "Джеймс Паттерсон, Кейси Шерман и Дейв Уэдж",
             "book": "Последние дни Джона Леннона",
             "year": "2021",
             "publisher": "Эксмо",
@@ -9946,7 +9971,7 @@
             "img": "https://s1.livelib.ru/boocover/1002896100/o/34cd/Hanna_Kent__Temnaya_voda.jpeg"
         },
         {
-            "author": "Эрик Шмидт, Алан Игл, Джонатан Розенберг",
+            "author": "Эрик Шмидт, Алан Игл и Джонатан Розенберг",
             "book": "Как работает Google",
             "year": "2021",
             "buyDate": "8/28/21",
@@ -9956,7 +9981,7 @@
             "img": "https://s1.livelib.ru/boocover/1002306954/o/602a/__Kak_rabotaet_Google.jpeg"
         },
         {
-            "author": "Шира Френкель, Сесилия Кэнг",
+            "author": "Шира Френкель и Сесилия Кэнг",
             "book": "Внутри Facebook. Голая правда",
             "year": "2021",
             "buyDate": "9/6/21",
@@ -10054,7 +10079,7 @@
             "img": "https://s1.livelib.ru/boocover/1002572067/o/a1d4/Sintiya_Suonson__Knizhnaya_lavka.jpeg"
         },
         {
-            "author": "Риэко Хината, Хисанори Ёсида",
+            "author": "Риэко Хината и Хисанори Ёсида",
             "book": "Книжная лавка под дождём",
             "year": "2021",
             "buyDate": "10/2/21",
@@ -10064,7 +10089,7 @@
             "img": "https://s1.livelib.ru/boocover/1005994903/o/b1ef/Rieko_Hinata__Knizhnaya_lavka_pod_dozhdjom.jpeg"
         },
         {
-            "author": "Риэко Хината, Хисанори Ёсида",
+            "author": "Риэко Хината и Хисанори Ёсида",
             "book": "«Книжная лавка под дождём» и костяной дракон",
             "year": "2021",
             "buyDate": "10/2/21",
@@ -10213,7 +10238,7 @@
             "price": "347",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria",
-            "img": "https://alexchristofiauthor.files.wordpress.com/2020/04/dil.jpg"
+            "img": "https://img3.labirint.ru/rc/e2d086fccd956d399085879a9d60cd4b/220x340/books83/826181/cover.jpg?1634135202"
         },
         {
             "author": "Кадзуо Исигуро",
