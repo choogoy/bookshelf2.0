@@ -3793,7 +3793,7 @@
             "author": "Григорий Остер",
             "book": "Физика с Григорием Остером",
             "year": "2021",
-            "buyDate": "10/15/21",
+            "buyDate": "10/22/21",
             "price": "252",
             "shelf": "education oster",
             "img": "https://cdn.book24.ru/v2/ASE000000000841307/COVER/cover13d__w410.webp"
@@ -7908,6 +7908,7 @@
             "book": "Дебютант",
             "year": "2020",
             "buyDate": "12/27/20",
+            "readDate": "10/16/21",
             "price": "259",
             "publisher": "Corpus",
             "shelf": "corpus",
@@ -10188,7 +10189,7 @@
             "author": "Карен Джой Фаулер",
             "book": "Книжный клуб Джейн Остен",
             "year": "2006",
-            "buyDate": "10/15/21",
+            "buyDate": "10/22/21",
             "price": "250",
             "shelf": "bookstore",
             "img": "https://img4.labirint.ru/rc/9032c317657e7db8439a83839db0b5b7/594x918/books13/121988/cover.jpg?1280394613"
@@ -10197,7 +10198,7 @@
             "author": "Иван Шипнигов",
             "book": "Нефть, метель и другие веселые боги",
             "year": "2016",
-            "buyDate": "10/15/21",
+            "buyDate": "10/14/21",
             "price": "347",
             "shelf": "shipnigov",
             "img": "https://s1.livelib.ru/boocover/1001533623/o/b4c8/Ivan_Shipnigov__Neft_metel_i_drugie_veselye_bogi.jpeg"
@@ -10216,7 +10217,7 @@
             "author": "Лисса Кей Адамс",
             "book": "Bromance. Тайный клуб романтиков",
             "year": "2021",
-            "buyDate": "10/15/21",
+            "buyDate": "10/14/21",
             "price": "354",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria kei-adams",
@@ -10317,6 +10318,16 @@
             "publisher": "Эксмо",
             "shelf": "eksmo white",
             "img": "https://www.logobook.ru/bi/15176527/15176527_79317.jpg"
+        },
+        {
+            "author": "Сорен Свейструп",
+            "book": "Каштановый человечек",
+            "year": "2021",
+            "buyDate": "10/31/21",
+            "price": "317",
+            "publisher": "Эксмо",
+            "shelf": "eksmo",
+            "img": "https://s1.livelib.ru/boocover/1006141915/o/8d82/Soren_Svejstrup__Kashtanovyj_chelovechek.jpeg"
         },
         {
             "author": "Евгений Ройзман",
