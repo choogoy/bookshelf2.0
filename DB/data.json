@@ -483,7 +483,7 @@
             "author": "Владимир Набоков",
             "book": "Король, дама, валет",
             "year": "2021",
-            "buyDate": "10/19/21",
+            "buyDate": "10/18/21",
             "price": "330",
             "publisher": "Corpus",
             "shelf": "corpus nabokov",
@@ -8650,7 +8650,7 @@
             "author": "Си Джей Беннет",
             "book": "Виндзорский узел",
             "year": "2021",
-            "buyDate": "10/19/21",
+            "buyDate": "10/18/21",
             "price": "451",
             "publisher": "Corpus",
             "shelf": "corpus",
@@ -8670,7 +8670,7 @@
             "author": "Мэриэнн Кронин",
             "book": "Сто лет Ленни и Марго",
             "year": "2021",
-            "buyDate": "10/19/21",
+            "buyDate": "10/18/21",
             "price": "470",
             "publisher": "Corpus",
             "shelf": "corpus",
@@ -8751,7 +8751,7 @@
             "author": "Майкл Газзанига",
             "book": "Истории от разных полушарий мозга. Жизнь в нейронауке",
             "year": "2021",
-            "buyDate": "10/19/21",
+            "buyDate": "10/18/21",
             "price": "622",
             "publisher": "Corpus",
             "shelf": "corpus politeh",
@@ -8931,9 +8931,19 @@
             "author": "Дженни Колган",
             "book": "Встретимся в кафе «Капкейк»",
             "year": "2021",
+            "buyDate": "10/20/21",
+            "price": "269.26",
+            "publisher": "Иностранка",
+            "shelf": "kolgan inostranka",
+            "img": "https://s1.livelib.ru/boocover/1006726651/o/b960/Dzhenni_Kolgan__Vstretimsya_v_kafe_Kapkejk.jpeg"
+        },
+        {
+            "author": "Дженни Колган",
+            "book": "Рождество на острове",
+            "year": "2021",
             "publisher": "Иностранка",
             "shelf": "kolgan inostranka wishlist new",
-            "img": "https://sun9-60.userapi.com/impg/2X3qUQzybaxfUTrL521K7FJkmvpAkPggLsbtTg/gqX6nm8k4t4.jpg?size=691x1080&quality=96&sign=965cd42132c9a5322555629772be7970&type=album"
+            "img": "https://sun9-24.userapi.com/impg/AXJFFiGYofQppgOlBpuhJQpFPErhiQcdYJaRuQ/w9FVdQvaasU.jpg?size=1000x1554&quality=96&sign=dee57c91d85907247e4822dc2dad3ef6&type=album"
         },
         {
             "author": "Билл Сэмюэл",
@@ -9775,7 +9785,7 @@
             "author": "Со Ёсон",
             "book": "Мозг и разум в эпоху виртуальной реальности",
             "year": "2021",
-            "buyDate": "10/19/21",
+            "buyDate": "10/18/21",
             "price": "433",
             "publisher": "АСТ",
             "shelf": "ast science",
@@ -10087,7 +10097,7 @@
             "year": "2021",
             "publisher": "Бомбора",
             "shelf": "bombora kuni moloko wishlist new",
-            "img": "https://s1.livelib.ru/boocover/1000641774/o/50d7/Caroline_B._Cooney__What_Janie_Found_.jpeg"
+            "img": "https://cdn.book24.ru/v2/ITD000000001092230/COVER/cover13d__w410.webp"
         },
         {
             "author": "Кэролайн Б. Куни",
@@ -10348,6 +10358,14 @@
             "publisher": "Эксмо",
             "shelf": "eksmo",
             "img": "https://s1.livelib.ru/boocover/1006141915/o/8d82/Soren_Svejstrup__Kashtanovyj_chelovechek.jpeg"
+        },
+        {
+            "author": "Эллен Фердман",
+            "book": "Париж никогда тебя не оставит",
+            "year": "2021",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-press wishlist new",
+            "img": "https://s1.livelib.ru/boocover/1006811251/o/ecd1/Ellen_Feldman__Parizh_nikogda_tebya_ne_ostavit.jpeg"
         },
         {
             "author": "Евгений Ройзман",
