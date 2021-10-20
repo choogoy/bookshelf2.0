@@ -2301,56 +2301,6 @@
             "img": "https://s1.livelib.ru/boocover/1000904556/o/1600/bez_avtora__Zdravstvujte_doktor_Zapiski_patsientov.jpeg"
         },
         {
-            "author": "Леонид Парфенов",
-            "book": "Намедни. Наша эра. 1961-1970 (Интегральный переплет)",
-            "year": "2008",
-            "buyDate": "6/26/20",
-            "price": "580",
-            "publisher": "КоЛибри",
-            "shelf": "namedni kolibri",
-            "img": "https://s1.livelib.ru/boocover/1000567141/o/bac3/Parfjonov_Leonid__Namedni._Nasha_era._19611970.jpeg"
-        },
-        {
-            "author": "Леонид Парфенов",
-            "book": "Намедни. Наша эра. 1971-1980 (Интегральный переплет)",
-            "year": "2008",
-            "buyDate": "6/26/20",
-            "price": "580",
-            "publisher": "КоЛибри",
-            "shelf": "namedni kolibri",
-            "img": "https://www.corpus.ru/picts/products/Namedni_1971-1980-1000.jpg"
-        },
-        {
-            "author": "Леонид Парфенов",
-            "book": "Намедни. Наша эра. 1981-1990 (Интегральный переплет)",
-            "year": "2008",
-            "buyDate": "6/26/20",
-            "price": "580",
-            "publisher": "КоЛибри",
-            "shelf": "namedni kolibri",
-            "img": "https://www.corpus.ru/picts/products/Namedni-1981-1990-1000.jpg"
-        },
-        {
-            "author": "Леонид Парфенов",
-            "book": "Намедни. Наша эра. 1991-2000 (Интегральный переплет)",
-            "year": "2008",
-            "buyDate": "6/26/20",
-            "price": "580",
-            "publisher": "КоЛибри",
-            "shelf": "namedni kolibri",
-            "img": "https://www.corpus.ru/picts/products/Namedni_1991-2000-1000.jpg"
-        },
-        {
-            "author": "Леонид Парфенов",
-            "book": "Намедни. Наша эра. 2001-2005 (Интегральный переплет)",
-            "year": "2011",
-            "buyDate": "6/26/20",
-            "price": "593",
-            "publisher": "КоЛибри",
-            "shelf": "namedni kolibri",
-            "img": "https://www.corpus.ru/picts/products/Parfenov-2001-2005-1000.jpg"
-        },
-        {
             "id": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 1921-1930",
@@ -8286,7 +8236,7 @@
             "buyDate": "3/19/21",
             "price": "300",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus black-book",
             "img": "https://s1.livelib.ru/boocover/1001071574/o/e743/__Chernaya_kniga.jpeg"
         },
         {
@@ -8297,7 +8247,7 @@
             "buyDate": "3/19/21",
             "price": "380",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus black-book",
             "img": "https://s1.livelib.ru/boocover/1001105814/o/73f8/bez_avtora__Neizvestnaya_ampquotChernaya_knigaampquot._Materialy_k_ampquotCherno.jpeg"
         },
         {
@@ -8487,6 +8437,7 @@
             "book": "Стоунер",
             "year": "2021",
             "buyDate": "6/14/21",
+            "readDate": "10/20/21",
             "price": "270",
             "publisher": "Corpus",
             "shelf": "corpus",
@@ -10649,7 +10600,6 @@
             "img": "https://s1.livelib.ru/boocover/1000590570/o/5dd6/Uilyam_Berrouz__Dzhanki_Ispoved_neispravimogo_narkomana._Pisma_Yahe._Gomosek_sbo.jpeg"
         },
         {
-            "author": "Сборник рассказов",
             "book": "Со стыда провалиться",
             "shelf": "alternative",
             "img": "https://s1.livelib.ru/boocover/1000159986/o/3ea8/__So_styda_provalitsya.jpeg"
