@@ -2187,14 +2187,6 @@
         },
         {
             "author": "Януш Леон Вишневский",
-            "book": "...О любви (10 романтических историй)",
-            "buyDate": "12/11/12",
-            "price": "189",
-            "shelf": "wishnewski",
-            "img": "https://s1.livelib.ru/boocover/1003018412/o/54d0/__...o_lyubvi_sbornik.jpeg"
-        },
-        {
-            "author": "Януш Леон Вишневский",
             "book": "На фейсбуке с сыном (сюрреалистическая история)",
             "buyDate": "5/21/13",
             "price": "237",
@@ -2292,6 +2284,13 @@
             "book": "Nazwijmy to miłość",
             "shelf": "wishnewski wishlist",
             "img": "https://s1.livelib.ru/boocover/1004165233/o/8cdd/Yanush_Vishnevskij__Nazwijmy_to_miłośc.jpeg"
+        },
+        {
+            "book": "...О любви (10 романтических историй)",
+            "buyDate": "12/11/12",
+            "price": "189",
+            "shelf": "wishnewski",
+            "img": "https://s1.livelib.ru/boocover/1003018412/o/54d0/__...o_lyubvi_sbornik.jpeg"
         },
         {
             "book": "Здравствуйте, доктор! Записки пациентов",
@@ -3754,7 +3753,7 @@
             "author": "Григорий Остер",
             "book": "Физика с Григорием Остером",
             "year": "2021",
-            "buyDate": "10/22/21",
+            "buyDate": "10/29/21",
             "price": "252",
             "shelf": "education oster",
             "img": "https://cdn.book24.ru/v2/ASE000000000841307/COVER/cover13d__w410.webp"
@@ -4060,7 +4059,8 @@
             "book": "Матушки: Жены священников о жизни и о себе",
             "buyDate": "4/30/14",
             "price": "176",
-            "shelf": "religion",
+            "publisher": "Никея",
+            "shelf": "religion nikea",
             "img": "https://s1.livelib.ru/boocover/1000564215/o/3b72/Kseniya_Luchenko__Matushki_Zheny_svyaschennikov_o_zhizni_i_o_sebe.jpeg"
         },
         {
@@ -4189,8 +4189,10 @@
         {
             "author": "Джон Ллойд",
             "book": "1339 весьма любопытных фактов, от которых у вас челюсть отвиснет",
+            "year": "2014",
             "buyDate": "12/27/17",
-            "shelf": "gift",
+            "publisher": "Фантом-пресс",
+            "shelf": "fantom-press gift",
             "img": "https://s1.livelib.ru/boocover/1001040775/o/7095/__1339_faktov_ot_kotoryh_u_vas_chelyust_otvisnet.jpeg"
         },
         {
@@ -4598,6 +4600,7 @@
             "author": "Мэтт Хейг",
             "book": "Трудно быть человеком",
             "buyDate": "7/16/21",
+            "readDate": "10/24/21",
             "price": "372",
             "publisher": "Синдбад",
             "shelf": "heig sindbad",
@@ -6066,7 +6069,7 @@
             "author": "Александр Горбачев и Илья Зинин",
             "book": "Песни в пустоту. Потерянное поколение русского рока 90-х",
             "year": "2014",
-            "buyDate": "10/25/21",
+            "buyDate": "10/24/21",
             "price": "380",
             "publisher": "Corpus",
             "shelf": "corpus music",
@@ -8653,7 +8656,7 @@
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus wishlist new",
-            "img": "https://cdn.book24.ru/v2/ASE000000000850053/COVER/cover13d__w410.webp"
+            "img": "https://www.corpus.ru/picts/products/cover-nemetz.jpg"
         },
         {
             "id": "n",
@@ -10189,7 +10192,7 @@
             "author": "Карен Джой Фаулер",
             "book": "Книжный клуб Джейн Остен",
             "year": "2006",
-            "buyDate": "10/22/21",
+            "buyDate": "10/31/21",
             "price": "250",
             "shelf": "bookstore",
             "img": "https://img4.labirint.ru/rc/9032c317657e7db8439a83839db0b5b7/594x918/books13/121988/cover.jpg?1280394613"
@@ -10228,13 +10231,13 @@
             "book": "Все секреты книжного клуба",
             "year": "2021",
             "shelf": "bookstore eksmo inspiria kei-adams wishlist new",
-            "img": "https://s1.livelib.ru/boocover/1006123930/o/14bd/Lissa_Kej_Adams__Undercover_Bromance.jpeg"
+            "img": "https://cdn.book24.ru/v2/ITD000000001195497/COVER/cover13d__w410.webp"
         },
         {
             "author": "Натали Дженнер",
             "book": "Общество Джейн Остен",
             "year": "2021",
-            "buyDate": "10/25/21",
+            "buyDate": "10/31/21",
             "price": "305",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria",
@@ -10287,6 +10290,7 @@
             "buyDate": "10/16/21",
             "price": "401",
             "publisher": "Никея",
+            "shelf": "nikea",
             "img": "https://ndc.book24.ru/resize/820x1192/iblock/fc3/fc3ff911348b6c7e57ec818688ffdf5d/3792c5fe7b9f6a1cc3f2dcd3d95c39d0.jpg"
         },
         {
@@ -10341,8 +10345,15 @@
             "author": "Мартин Лейтем",
             "book": "Истории торговца книгами",
             "year": "2021",
-            "shelf": "bookstore new",
+            "shelf": "bookstore wishlist new",
             "img": "https://s1.livelib.ru/boocover/1006296643/o/2608/Martin_Latham__The_Bookselleramp039s_Tale.jpeg"
+        },
+        {
+            "author": "Квентин Тарантино",
+            "book": "Однажды в Голливуде",
+            "year": "2021",
+            "shelf": "wishlist",
+            "img": "https://img-gorod.ru/28/769/2876979_detail.jpg"
         },
         {
             "author": "Евгений Ройзман",
@@ -10355,11 +10366,6 @@
             "book": "A Promised Land",
             "shelf": "obama wishlist new",
             "img": "https://cdn24.img.ria.ru/images/07e4/0b/11/1584987671_0:0:710:1080_1920x0_80_0_0_d2ae700f948a1aa4f503ff9779f955ca.jpg"
-        },
-        {
-            "author": "Квентин Тарантино",
-            "book": "Однажды в Голливуде",
-            "shelf": "wishlist"
         },
         {
             "author": "Джонатан Тригелл",
