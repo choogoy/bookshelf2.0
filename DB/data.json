@@ -3707,7 +3707,7 @@
             "author": "Маша Трауб",
             "book": "Посмотри на меня",
             "year": "2021",
-            "buyDate": "10/31/21",
+            "buyDate": "11/7/21",
             "price": "285",
             "publisher": "Эксмо",
             "shelf": "traub eksmo",
@@ -3753,7 +3753,7 @@
             "author": "Григорий Остер",
             "book": "Физика с Григорием Остером",
             "year": "2021",
-            "buyDate": "10/29/21",
+            "buyDate": "10/31/21",
             "price": "252",
             "shelf": "education oster",
             "img": "https://cdn.book24.ru/v2/ASE000000000841307/COVER/cover13d__w410.webp"
@@ -5254,7 +5254,7 @@
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "dikker corpus wishlist new",
-            "img": "https://cdn.book24.ru/v2/ASE000000000850778/COVER/cover13d__w410.webp"
+            "img": "https://www.corpus.ru/picts/products/cover1-dicker-otsy.jpg"
         },
         {
             "id": "350",
@@ -5284,7 +5284,7 @@
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus goulman wishlist",
-            "img": "https://cdn.book24.ru/v2/ASE000000000859478/COVER/cover13d__w410.webp"
+            "img": "https://www.corpus.ru/picts/products/cover1-ficus.jpg"
         },
         {
             "id": "357",
@@ -7950,7 +7950,7 @@
             "price": "416",
             "publisher": "Corpus",
             "shelf": "corpus motova food",
-            "img": "https://cdn.ast.ru/v2/ASE000000000847042/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-motova.jpg"
         },
         {
             "id": "616",
@@ -9482,7 +9482,7 @@
             "author": "Эли Макнамара",
             "book": "Магазинчик счастья Кейт и Клары",
             "year": "2021",
-            "buyDate": "10/25/21",
+            "buyDate": "11/7/21",
             "price": "334",
             "publisher": "Эксмо",
             "shelf": "maknamara eksmo inspiria",
@@ -9840,7 +9840,7 @@
             "author": "Джилл Байден",
             "book": "Там, где свет. История первой леди США",
             "year": "2021",
-            "buyDate": "10/31/21",
+            "buyDate": "11/7/21",
             "price": "317",
             "publisher": "Эксмо",
             "shelf": "eksmo biden",
@@ -10192,7 +10192,7 @@
             "author": "Карен Джой Фаулер",
             "book": "Книжный клуб Джейн Остен",
             "year": "2006",
-            "buyDate": "10/31/21",
+            "buyDate": "11/7/21",
             "price": "250",
             "shelf": "bookstore",
             "img": "https://img4.labirint.ru/rc/9032c317657e7db8439a83839db0b5b7/594x918/books13/121988/cover.jpg?1280394613"
@@ -10237,7 +10237,7 @@
             "author": "Натали Дженнер",
             "book": "Общество Джейн Остен",
             "year": "2021",
-            "buyDate": "10/31/21",
+            "buyDate": "11/7/21",
             "price": "305",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria",
@@ -10257,7 +10257,7 @@
             "author": "Кадзуо Исигуро",
             "book": "Клара и Солнце",
             "year": "2021",
-            "buyDate": "10/27/21",
+            "buyDate": "11/7/21",
             "price": "421",
             "publisher": "Эксмо",
             "shelf": "eksmo",
@@ -10307,7 +10307,7 @@
             "author": "Энн Гленконнер",
             "book": "Убийство на острове Мюстик",
             "year": "2021",
-            "buyDate": "10/31/21",
+            "buyDate": "10/28/21",
             "price": "290",
             "publisher": "Эксмо",
             "shelf": "eksmo white",
@@ -10317,7 +10317,7 @@
             "author": "Кэтрин Купер",
             "book": "Шале",
             "year": "2021",
-            "buyDate": "10/31/21",
+            "buyDate": "11/7/21",
             "price": "317",
             "publisher": "Эксмо",
             "shelf": "eksmo white",
@@ -10352,7 +10352,7 @@
             "author": "Квентин Тарантино",
             "book": "Однажды в Голливуде",
             "year": "2021",
-            "shelf": "wishlist",
+            "shelf": "wishlist new",
             "img": "https://img-gorod.ru/28/769/2876979_detail.jpg"
         },
         {
@@ -10366,6 +10366,36 @@
             "book": "A Promised Land",
             "shelf": "obama wishlist new",
             "img": "https://cdn24.img.ria.ru/images/07e4/0b/11/1584987671_0:0:710:1080_1920x0_80_0_0_d2ae700f948a1aa4f503ff9779f955ca.jpg"
+        },
+        {
+            "author": "Джей Рейнер",
+            "book": "Доизвинялся",
+            "shelf": "alternative",
+            "img": "https://s1.livelib.ru/boocover/1000175993/o/dcc5/Dzhej_Rejner__Doizvinyalsya.jpeg"
+        },
+        {
+            "author": "Грегори Галлоуэй",
+            "book": "Простой как снег",
+            "shelf": "alternative",
+            "img": "https://s1.livelib.ru/boocover/1000311938/o/9af5/Gregori_Gallouej__Prostoj_kak_sneg.jpeg"
+        },
+        {
+            "author": "Рана Дасгупта",
+            "book": "Токио не принимает",
+            "shelf": "alternative",
+            "img": "https://s1.livelib.ru/boocover/1000249244/o/7f70/Rana_Dasgupta__Tokio_ne_prinimaet.jpeg"
+        },
+        {
+            "author": "Сьюзен Баркер",
+            "book": "Сайонара",
+            "shelf": "alternative",
+            "img": "https://s1.livelib.ru/boocover/1000269058/o/1f73/Syuzen_Barker__Sajonara.jpeg"
+        },
+        {
+            "author": "Джонатан Летем",
+            "book": "Бастион одиночества",
+            "shelf": "alternative",
+            "img": "https://s1.livelib.ru/boocover/1000123247/o/4009/Dzhonatan_Letem__Bastion_odinochestva.jpeg"
         },
         {
             "author": "Джонатан Тригелл",
@@ -10408,46 +10438,6 @@
             "book": "Сто девяносто Девять ступеней. Квинтет «Кураж»",
             "shelf": "alternative",
             "img": "https://s1.livelib.ru/boocover/1000118113/o/bc15/Mishel_Fejber__Sto_devyanosto_devyat_stupenej._Kvintet_ampquotKurazhampquot_sbor.jpeg"
-        },
-        {
-            "author": "Анатолий Найман",
-            "book": "Убить -^- -^- -^-'а (рассказы)",
-            "img": "https://s1.livelib.ru/boocover/1000315705/o/0bba/Anatolij_Najman__Ubit_amp039a_sbornik.jpeg"
-        },
-        {
-            "author": "Виктор Улин",
-            "book": "Ошибка (две повести, включая повесть «Зайчик»)",
-            "img": "https://s1.livelib.ru/boocover/1000289101/o/0b36/Viktor_Ulin__Oshibka_sbornik.jpeg"
-        },
-        {
-            "author": "Джей Рейнер",
-            "book": "Доизвинялся",
-            "shelf": "alternative",
-            "img": "https://s1.livelib.ru/boocover/1000175993/o/dcc5/Dzhej_Rejner__Doizvinyalsya.jpeg"
-        },
-        {
-            "author": "Грегори Галлоуэй",
-            "book": "Простой как снег",
-            "shelf": "alternative",
-            "img": "https://s1.livelib.ru/boocover/1000311938/o/9af5/Gregori_Gallouej__Prostoj_kak_sneg.jpeg"
-        },
-        {
-            "author": "Рана Дасгупта",
-            "book": "Токио не принимает",
-            "shelf": "alternative",
-            "img": "https://s1.livelib.ru/boocover/1000249244/o/7f70/Rana_Dasgupta__Tokio_ne_prinimaet.jpeg"
-        },
-        {
-            "author": "Сьюзен Баркер",
-            "book": "Сайонара",
-            "shelf": "alternative",
-            "img": "https://s1.livelib.ru/boocover/1000269058/o/1f73/Syuzen_Barker__Sajonara.jpeg"
-        },
-        {
-            "author": "Джонатан Летем",
-            "book": "Бастион одиночества",
-            "shelf": "alternative",
-            "img": "https://s1.livelib.ru/boocover/1000123247/o/4009/Dzhonatan_Letem__Bastion_odinochestva.jpeg"
         },
         {
             "author": "Ирвин Уэлш",
@@ -10641,6 +10631,16 @@
             "book": "Заводной апельсин",
             "shelf": "alternative wishlist",
             "img": "https://s1.livelib.ru/boocover/1000578787/o/c48c/Entoni_Bjordzhess__Zavodnoj_apelsin.jpeg"
+        },
+        {
+            "author": "Анатолий Найман",
+            "book": "Убить -^- -^- -^-'а (рассказы)",
+            "img": "https://s1.livelib.ru/boocover/1000315705/o/0bba/Anatolij_Najman__Ubit_amp039a_sbornik.jpeg"
+        },
+        {
+            "author": "Виктор Улин",
+            "book": "Ошибка (две повести, включая повесть «Зайчик»)",
+            "img": "https://s1.livelib.ru/boocover/1000289101/o/0b36/Viktor_Ulin__Oshibka_sbornik.jpeg"
         },
         {
             "author": "Алексей Иванов",
