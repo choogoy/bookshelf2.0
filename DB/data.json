@@ -9457,7 +9457,7 @@
             "buyDate": "2/14/21",
             "price": "411",
             "publisher": "Эксмо",
-            "shelf": "fizgerald eksmo",
+            "shelf": "fizgerald eksmo buker",
             "img": "https://s1.livelib.ru/boocover/1002893856/o/d1d2/Penelopa_Fitsdzherald__V_otkrytom_more.jpeg"
         },
         {
@@ -10234,8 +10234,10 @@
             "author": "Лисса Кей Адамс",
             "book": "Bromance. Все секреты книжного клуба",
             "year": "2021",
+            "buyDate": "11/15/21",
+            "price": "374",
             "publisher": "Эксмо",
-            "shelf": "bookstore eksmo inspiria kei-adams wishlist new",
+            "shelf": "bookstore eksmo inspiria kei-adams",
             "img": "https://s1.livelib.ru/boocover/1006847557/o/f4f7/Lissa_Kej_Adams__Bromance._Vse_sekrety_knizhnogo_kluba.jpeg"
         },
         {
@@ -10275,7 +10277,7 @@
             "buyDate": "10/16/21",
             "price": "356",
             "publisher": "Эксмо",
-            "shelf": "eksmo",
+            "shelf": "eksmo buker",
             "img": "https://s1.livelib.ru/boocover/1002700334/o/9582/Pol_Bejti__Prodazhnaya_tvar.jpeg"
         },
         {
@@ -10285,7 +10287,7 @@
             "buyDate": "10/16/21",
             "price": "372",
             "publisher": "Эксмо",
-            "shelf": "eksmo",
+            "shelf": "eksmo buker",
             "img": "https://s1.livelib.ru/boocover/1003407116/o/5682/Anna_Berns__Molochnik.jpeg"
         },
         {
@@ -10355,6 +10357,14 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria",
             "img": "https://s1.livelib.ru/boocover/1006778734/o/2556/Dzhuliya_Dzhonson__Bud_so_mnoj_chesten.jpeg"
+        },
+        {
+            "author": "Дуглас Стюарт",
+            "book": "Шагги Бейн",
+            "year": "2021",
+            "buyDate": "11/15/21",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria buker"
         },
         {
             "author": "Эллен Фердман",
