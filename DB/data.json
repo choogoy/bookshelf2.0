@@ -494,8 +494,10 @@
             "author": "Владимир Набоков",
             "book": "Защита Лужина",
             "year": "2021",
+            "buyDate": "10/28/21",
+            "price": "388",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new",
+            "shelf": "corpus nabokov",
             "img": "https://www.corpus.ru/picts/products/cover1-luzhin.jpg"
         },
         {
@@ -3753,7 +3755,7 @@
             "author": "Григорий Остер",
             "book": "Физика с Григорием Остером",
             "year": "2021",
-            "buyDate": "10/31/21",
+            "buyDate": "11/1/21",
             "price": "252",
             "shelf": "education oster",
             "img": "https://cdn.book24.ru/v2/ASE000000000841307/COVER/cover13d__w410.webp"
@@ -10060,8 +10062,10 @@
             "author": "Кэролайн Б. Куни",
             "book": "Голос в радиоэфире",
             "year": "2021",
+            "buyDate": "10/31/21",
+            "price": "268",
             "publisher": "Бомбора",
-            "shelf": "bombora kuni moloko wishlist new",
+            "shelf": "bombora kuni moloko",
             "img": "https://s1.livelib.ru/boocover/1006468216/o/2eed/Kerolajn_B._Kuni__Golos_v_radioefire.jpeg"
         },
         {
@@ -10228,10 +10232,11 @@
         },
         {
             "author": "Лисса Кей Адамс",
-            "book": "Все секреты книжного клуба",
+            "book": "Bromance. Все секреты книжного клуба",
             "year": "2021",
+            "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria kei-adams wishlist new",
-            "img": "https://cdn.book24.ru/v2/ITD000000001195497/COVER/cover13d__w410.webp"
+            "img": "https://s1.livelib.ru/boocover/1006847557/o/f4f7/Lissa_Kej_Adams__Bromance._Vse_sekrety_knizhnogo_kluba.jpeg"
         },
         {
             "author": "Натали Дженнер",
@@ -10334,6 +10339,24 @@
             "img": "https://s1.livelib.ru/boocover/1006141915/o/8d82/Soren_Svejstrup__Kashtanovyj_chelovechek.jpeg"
         },
         {
+            "author": "Джонсон Клэйборн",
+            "book": "В другой раз повезет!",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist",
+            "img": "https://s1.livelib.ru/boocover/1005948097/o/ff93/Dzhuliya_Dzhonson__V_drugoj_raz_povezet.jpeg"
+        },
+        {
+            "author": "Джонсон Клэйборн",
+            "book": "Будь со мной честен",
+            "year": "2021",
+            "buyDate": "11/15/21",
+            "price": "346",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria",
+            "img": "https://s1.livelib.ru/boocover/1006778734/o/2556/Dzhuliya_Dzhonson__Bud_so_mnoj_chesten.jpeg"
+        },
+        {
             "author": "Эллен Фердман",
             "book": "Париж никогда тебя не оставит",
             "year": "2021",
@@ -10353,7 +10376,7 @@
             "book": "Однажды в Голливуде",
             "year": "2021",
             "shelf": "wishlist new",
-            "img": "https://img-gorod.ru/28/769/2876979_detail.jpg"
+            "img": "https://s1.livelib.ru/boocover/1006767091/o/b171/Kventin_Tarantino__Odnazhdy_v_Gollivude.jpeg"
         },
         {
             "author": "Евгений Ройзман",
@@ -10364,7 +10387,8 @@
         {
             "author": "Барак Обама",
             "book": "A Promised Land",
-            "shelf": "obama wishlist new",
+            "publisher": "Бомбора",
+            "shelf": "bombora obama wishlist new",
             "img": "https://cdn24.img.ria.ru/images/07e4/0b/11/1584987671_0:0:710:1080_1920x0_80_0_0_d2ae700f948a1aa4f503ff9779f955ca.jpg"
         },
         {
