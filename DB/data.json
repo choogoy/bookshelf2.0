@@ -494,7 +494,7 @@
             "author": "Владимир Набоков",
             "book": "Защита Лужина",
             "year": "2021",
-            "buyDate": "10/28/21",
+            "buyDate": "10/29/21",
             "price": "388",
             "publisher": "Corpus",
             "shelf": "corpus nabokov",
@@ -2410,7 +2410,8 @@
             "book": "Намедни. Наша эра. 2011-2015",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "namedni corpus wishlist new"
+            "shelf": "namedni corpus wishlist new",
+            "img": "https://cdn.ast.ru/v2/ASE000000000857809/COVER/cover1__w600.jpg"
         },
         {
             "author": "Мишель Уэльбек",
@@ -4630,8 +4631,9 @@
             "author": "Мэтт Хейг",
             "book": "Последнее семейство в Англии",
             "buyDate": "7/16/21",
+            "readDate": "10/27/21",
             "price": "344",
-            "shelf": "heig",
+            "shelf": "heig animals",
             "img": "https://s1.livelib.ru/boocover/1003277092/o/7afa/Mett_Hejg__Poslednee_semejstvo_v_Anglii.jpeg"
         },
         {
@@ -10363,6 +10365,7 @@
             "book": "Шагги Бейн",
             "year": "2021",
             "buyDate": "11/15/21",
+            "price": "428",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria buker"
         },
@@ -10370,8 +10373,10 @@
             "author": "Эллен Фердман",
             "book": "Париж никогда тебя не оставит",
             "year": "2021",
+            "buyDate": "11/15/21",
+            "price": "388",
             "publisher": "Фантом Пресс",
-            "shelf": "fantom-press wishlist new",
+            "shelf": "fantom-press",
             "img": "https://s1.livelib.ru/boocover/1006811251/o/ecd1/Ellen_Feldman__Parizh_nikogda_tebya_ne_ostavit.jpeg"
         },
         {
