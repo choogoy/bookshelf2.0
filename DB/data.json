@@ -494,8 +494,8 @@
             "author": "Владимир Набоков",
             "book": "Защита Лужина",
             "year": "2021",
-            "buyDate": "10/29/21",
-            "price": "388",
+            "buyDate": "11/2/21",
+            "price": "367",
             "publisher": "Corpus",
             "shelf": "corpus nabokov",
             "img": "https://www.corpus.ru/picts/products/cover1-luzhin.jpg"
@@ -1998,6 +1998,12 @@
             "buyDate": "6/11/14",
             "price": "185",
             "img": "https://s1.livelib.ru/boocover/1000711062/o/1802/Yakov_Tomskij__Otel_porte_i_tri_nogi_pod_krovatyu.jpeg"
+        },
+        {
+            "author": "Слава Сэ",
+            "book": "Жираф",
+            "shelf": "slava wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000471834/o/b948/Slava_Se__Zhiraf.jpeg"
         },
         {
             "author": "Слава Сэ",
@@ -3756,7 +3762,7 @@
             "author": "Григорий Остер",
             "book": "Физика с Григорием Остером",
             "year": "2021",
-            "buyDate": "11/1/21",
+            "buyDate": "11/7/21",
             "price": "252",
             "shelf": "education oster",
             "img": "https://cdn.book24.ru/v2/ASE000000000841307/COVER/cover13d__w410.webp"
@@ -4527,14 +4533,14 @@
             "buyDate": "3/31/21",
             "price": "313",
             "shelf": "slabak",
-            "img": "https://s1.livelib.ru/boocover/1005886891/o/8b84/Dzheff_Kinni__Dnevnik_slabaka._Globalnoe_poteplenie.jpeg"
+            "img": "https://cdn.ast.ru/v2/ASE000000000852041/COVER/cover1__w600.jpg"
         },
         {
             "author": "Джефф Кинни",
             "book": "Дневник слабака-14. Сокрушительный удар",
             "year": "2021",
             "shelf": "slabak wishlist new",
-            "img": "https://cdn.book24.ru/v2/ASE000000000852042/COVER/cover13d__w410.webp"
+            "img": "https://cdn.ast.ru/v2/ASE000000000852042/COVER/cover1__w600.jpg"
         },
         {
             "author": "Джефф Кинни",
@@ -8663,6 +8669,13 @@
             "img": "https://www.corpus.ru/picts/products/cover-nemetz.jpg"
         },
         {
+            "author": "Михаил Фишман",
+            "book": "Преемник",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist new"
+        },
+        {
             "id": "n",
             "author": "Ханна Фрай",
             "book": "Hello World",
@@ -10237,7 +10250,7 @@
             "book": "Bromance. Все секреты книжного клуба",
             "year": "2021",
             "buyDate": "11/15/21",
-            "price": "374",
+            "price": "343",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria kei-adams",
             "img": "https://s1.livelib.ru/boocover/1006847557/o/f4f7/Lissa_Kej_Adams__Bromance._Vse_sekrety_knizhnogo_kluba.jpeg"
@@ -10260,7 +10273,7 @@
             "price": "347",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria",
-            "img": "https://img3.labirint.ru/rc/e2d086fccd956d399085879a9d60cd4b/220x340/books83/826181/cover.jpg?1634135202"
+            "img": "https://s1.livelib.ru/boocover/1006834942/o/0ffc/Aleks_Kristofi__Dostoevskij_in_love.jpeg"
         },
         {
             "author": "Кадзуо Исигуро",
@@ -10355,7 +10368,7 @@
             "book": "Будь со мной честен",
             "year": "2021",
             "buyDate": "11/15/21",
-            "price": "346",
+            "price": "335",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria",
             "img": "https://s1.livelib.ru/boocover/1006778734/o/2556/Dzhuliya_Dzhonson__Bud_so_mnoj_chesten.jpeg"
@@ -10365,7 +10378,7 @@
             "book": "Шагги Бейн",
             "year": "2021",
             "buyDate": "11/15/21",
-            "price": "428",
+            "price": "414",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria buker"
         },
@@ -10377,14 +10390,14 @@
             "price": "388",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press",
-            "img": "https://s1.livelib.ru/boocover/1006811251/o/ecd1/Ellen_Feldman__Parizh_nikogda_tebya_ne_ostavit.jpeg"
+            "img": "https://s1.livelib.ru/boocover/1006841884/o/e3d9/Martin_Lejtem__Istorii_torgovtsa_knigami.jpeg"
         },
         {
             "author": "Мартин Лейтем",
             "book": "Истории торговца книгами",
             "year": "2021",
             "shelf": "bookstore wishlist new",
-            "img": "https://s1.livelib.ru/boocover/1006296643/o/2608/Martin_Latham__The_Bookselleramp039s_Tale.jpeg"
+            "img": "https://api.azbooka.ru/upload/iblock/94c/7w16srl8l2nvtb25jstqfringnaa4go9.jpg"
         },
         {
             "author": "Квентин Тарантино",
@@ -10715,6 +10728,7 @@
             "author": "Дмитрий Глуховский",
             "book": "Пост",
             "year": "2021",
+            "readDate": "10/28/21",
             "shelf": "gluhovsky wishlist",
             "img": "https://s1.livelib.ru/boocover/1006760761/o/7ff2/Dmitrij_Gluhovskij__Post.jpeg"
         },
