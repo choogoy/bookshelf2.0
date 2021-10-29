@@ -2002,6 +2002,7 @@
         {
             "author": "Слава Сэ",
             "book": "Жираф",
+            "readDate": "10/29/21",
             "shelf": "slava wishlist",
             "img": "https://s1.livelib.ru/boocover/1000471834/o/b948/Slava_Se__Zhiraf.jpeg"
         },
@@ -2068,7 +2069,7 @@
             "buyDate": "3/31/21",
             "price": "313",
             "shelf": "slava",
-            "img": "https://cdn.book24.ru/v2/ASE000000000849221/COVER/cover3d1__w337.webp"
+            "img": "https://s1.livelib.ru/boocover/1005811825/o/202f/Slava_Se__Malenkaya_opera.jpeg"
         },
         {
             "author": "Януш Леон Вишневский",
@@ -4973,24 +4974,24 @@
         },
         {
             "id": "9",
-            "author": "Уэлдон Фэй",
+            "author": "Фэй Уэлдон",
             "book": "Род-Айленд блюз",
             "year": "2009",
             "buyDate": "7/23/20",
             "price": "99",
             "publisher": "Corpus",
-            "shelf": "corpus fai",
+            "shelf": "corpus weldon",
             "img": "https://s1.livelib.ru/boocover/1000333746/o/159f/Fej_Ueldon__RodAjlend_blyuz.jpeg"
         },
         {
             "id": "42",
-            "author": "Уэлдон Фэй",
+            "author": "Фэй Уэлдон",
             "book": "Ненавижу семейную жизнь",
             "year": "2010",
             "buyDate": "8/8/20",
             "price": "140.5",
             "publisher": "Corpus",
-            "shelf": "corpus fai",
+            "shelf": "corpus weldon",
             "img": "https://s1.livelib.ru/boocover/1000447789/o/0f09/Fej_Ueldon__Nenavizhu_semejnuyu_zhizn.jpeg"
         },
         {
@@ -10380,10 +10381,11 @@
             "buyDate": "11/15/21",
             "price": "414",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria buker"
+            "shelf": "eksmo inspiria buker",
+            "img": "https://i.ebayimg.com/images/g/-ysAAOSw42Nft24r/s-l1600.jpg"
         },
         {
-            "author": "Эллен Фердман",
+            "author": "Эллен Фелдман",
             "book": "Париж никогда тебя не оставит",
             "year": "2021",
             "buyDate": "11/15/21",
