@@ -10212,7 +10212,7 @@
             "author": "Карен Джой Фаулер",
             "book": "Книжный клуб Джейн Остен",
             "year": "2006",
-            "buyDate": "11/7/21",
+            "buyDate": "10/29/21",
             "price": "250",
             "shelf": "bookstore",
             "img": "https://img4.labirint.ru/rc/9032c317657e7db8439a83839db0b5b7/594x918/books13/121988/cover.jpg?1280394613"
@@ -10357,6 +10357,16 @@
             "img": "https://s1.livelib.ru/boocover/1006141915/o/8d82/Soren_Svejstrup__Kashtanovyj_chelovechek.jpeg"
         },
         {
+            "author": "Эллен Фелдман",
+            "book": "Париж никогда тебя не оставит",
+            "year": "2021",
+            "buyDate": "10/30/21",
+            "price": "388",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-press bookstore",
+            "img": "https://s1.livelib.ru/boocover/1006811251/o/ecd1/Ellen_Feldman__Parizh_nikogda_tebya_ne_ostavit.jpeg"
+        },
+        {
             "author": "Джонсон Клэйборн",
             "book": "В другой раз повезет!",
             "year": "2021",
@@ -10383,16 +10393,6 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria buker",
             "img": "https://i.ebayimg.com/images/g/-ysAAOSw42Nft24r/s-l1600.jpg"
-        },
-        {
-            "author": "Эллен Фелдман",
-            "book": "Париж никогда тебя не оставит",
-            "year": "2021",
-            "buyDate": "10/30/21",
-            "price": "388",
-            "publisher": "Фантом Пресс",
-            "shelf": "fantom-press",
-            "img": "https://s1.livelib.ru/boocover/1006811251/o/ecd1/Ellen_Feldman__Parizh_nikogda_tebya_ne_ostavit.jpeg"
         },
         {
             "author": "Мартин Лейтем",
