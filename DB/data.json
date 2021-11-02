@@ -494,7 +494,7 @@
             "author": "Владимир Набоков",
             "book": "Защита Лужина",
             "year": "2021",
-            "buyDate": "11/2/21",
+            "buyDate": "11/1/21",
             "price": "367",
             "publisher": "Corpus",
             "shelf": "corpus nabokov",
@@ -2418,9 +2418,11 @@
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 2011-2015",
             "year": "2021",
+            "buyDate": "12/9/21",
+            "price": "2309",
             "publisher": "Corpus",
-            "shelf": "namedni corpus wishlist new",
-            "img": "https://cdn.ast.ru/v2/ASE000000000857809/COVER/cover1__w600.jpg"
+            "shelf": "namedni corpus",
+            "img": "https://www.corpus.ru/picts/products/cover1-namedni-2011-2015.png"
         },
         {
             "author": "Мишель Уэльбек",
@@ -10081,6 +10083,7 @@
             "book": "Голос в радиоэфире",
             "year": "2021",
             "buyDate": "10/30/21",
+            "readDate": "11/1/21",
             "price": "268",
             "publisher": "Бомбора",
             "shelf": "bombora kuni moloko",
