@@ -252,24 +252,30 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Норма",
+            "buyDate": "11/8/21",
+            "price": "505",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
+            "shelf": "corpus sorokin",
             "img": "https://www.corpus.ru/picts/products/Sorokin-Norma-1000.jpg"
         },
         {
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Очередь",
+            "buyDate": "11/8/21",
+            "price": "403",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
+            "shelf": "corpus sorokin",
             "img": "https://www.corpus.ru/picts/products/Sorokin-Ochered-1000.jpg"
         },
         {
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Тридцатая любовь Марины",
+            "buyDate": "11/8/21",
+            "price": "409",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
+            "shelf": "corpus sorokin",
             "img": "https://www.corpus.ru/picts/products/Sorokin-30_Marina-1000.jpg"
         },
         {
@@ -283,40 +289,50 @@
             "author": "Владимир Сорокин",
             "book": "Сердца четырёх",
             "year": "2021",
+            "buyDate": "11/8/21",
+            "price": "421",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
+            "shelf": "corpus sorokin",
             "img": "https://www.corpus.ru/picts/products/Sorokin-4-1000.jpg"
         },
         {
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Голубое сало",
+            "buyDate": "11/8/21",
+            "price": "474",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
+            "shelf": "corpus sorokin",
             "img": "https://www.corpus.ru/picts/products/vladimir-sorokin-goluboe-salo.jpg"
         },
         {
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Ледяная трилогия",
+            "buyDate": "11/8/21",
+            "price": "537",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
+            "shelf": "corpus sorokin",
             "img": "https://www.corpus.ru/picts/products/vladimir-sorokin-led-trilogija-1000.jpg"
         },
         {
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Теллурия",
+            "buyDate": "11/8/21",
+            "price": "452",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
+            "shelf": "corpus sorokin",
             "img": "https://www.corpus.ru/picts/products/Sorokin-Telluria-100.jpg"
         },
         {
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Манарага",
+            "buyDate": "11/8/21",
+            "price": "393",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
+            "shelf": "corpus sorokin",
             "img": "https://www.corpus.ru/picts/products/Sorokin-Manaraga-1000.jpg"
         },
         {
@@ -324,8 +340,10 @@
             "author": "Владимир Сорокин",
             "book": "Доктор Гарин",
             "year": "2021",
+            "buyDate": "11/8/21",
+            "price": "498",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
+            "shelf": "corpus sorokin",
             "img": "https://www.corpus.ru/picts/products/cover-doctor-garin.jpg"
         },
         {
@@ -340,8 +358,10 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Пир",
+            "buyDate": "11/8/21",
+            "price": "492",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
+            "shelf": "corpus sorokin",
             "img": "https://www.corpus.ru/picts/products/cover1-pir.jpg"
         },
         {
@@ -364,8 +384,10 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Сахарный Кремль",
+            "buyDate": "11/8/21",
+            "price": "371",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
+            "shelf": "corpus sorokin",
             "img": "https://www.corpus.ru/picts/products/Sorokin-Kremlin-1000.jpg"
         },
         {
@@ -380,16 +402,20 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Белый квадрат",
+            "buyDate": "11/8/21",
+            "price": "330",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
+            "shelf": "corpus sorokin",
             "img": "https://www.corpus.ru/picts/products/Sorokin-Kvadrat-1000.jpg"
         },
         {
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Нормальная история",
+            "buyDate": "11/8/21",
+            "price": "413",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
+            "shelf": "corpus sorokin",
             "img": "https://www.corpus.ru/picts/products/Sorokin-History-1000.jpg"
         },
         {
@@ -397,8 +423,10 @@
             "author": "Владимир Сорокин",
             "book": "Русские народные пословицы и поговорки",
             "year": "2020",
+            "buyDate": "11/8/21",
+            "price": "423",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
+            "shelf": "corpus sorokin",
             "img": "https://www.corpus.ru/picts/products/cover1-sorokin.jpg"
         },
         {
@@ -413,25 +441,31 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "День опричника",
+            "buyDate": "11/8/21",
+            "price": "411",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
+            "shelf": "corpus sorokin",
             "img": "https://www.corpus.ru/picts/products/Sorokin-Optichnik-1000.jpg"
         },
         {
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Метель",
+            "buyDate": "11/8/21",
             "readDate": "7/12/21",
+            "price": "383",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
+            "shelf": "corpus sorokin",
             "img": "https://www.corpus.ru/picts/products/Sorokin-Metel-1000-new.jpg"
         },
         {
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Триумф Времени и Бесчувствия",
+            "buyDate": "11/8/21",
+            "price": "379",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
+            "shelf": "corpus sorokin",
             "img": "https://www.corpus.ru/picts/products/Sorokin-Triumph-1000.jpg"
         },
         {
@@ -7452,8 +7486,16 @@
             "readDate": "12/25/20",
             "price": "335",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus dezerabl",
             "img": "https://www.corpus.ru/picts/products/tnw239-Deserable-Pekelny-1000.jpg"
+        },
+        {
+            "author": "Франсуа-Анри Дезерабль",
+            "book": "Владыка мой и победитель",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus dezerabl wishlist new",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/41Q0UKuMStL._SX339_BO1,204,203,200_.jpg"
         },
         {
             "id": "525",
@@ -7532,6 +7574,7 @@
             "img": "https://www.corpus.ru/picts/products/Pavlova-Limfocity-1000.jpg"
         },
         {
+            "id": "180",
             "author": "Джон Кампфнер",
             "book": "Свобода на продажу",
             "year": "2012",
@@ -7542,6 +7585,7 @@
             "img": "https://www.corpus.ru/picts/products/kampfner-freedomsale-1000.jpg"
         },
         {
+            "id": "371",
             "author": "Джон Кампфнер",
             "book": "Богачи",
             "year": "2016",
