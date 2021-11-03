@@ -251,84 +251,37 @@
         {
             "id": "n",
             "author": "Владимир Сорокин",
-            "book": "Норма",
-            "buyDate": "11/8/21",
-            "price": "505",
+            "book": "День опричника",
+            "year": "2013",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin",
-            "img": "https://www.corpus.ru/picts/products/Sorokin-Norma-1000.jpg"
+            "shelf": "corpus sorokin wishlist",
+            "img": "https://www.corpus.ru/picts/products/Sorokin-Optichnik-1000.jpg"
         },
         {
             "id": "n",
             "author": "Владимир Сорокин",
-            "book": "Очередь",
-            "buyDate": "11/8/21",
-            "price": "403",
+            "book": "Сахарный Кремль",
+            "year": "2014",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin",
-            "img": "https://www.corpus.ru/picts/products/Sorokin-Ochered-1000.jpg"
+            "shelf": "corpus sorokin wishlist",
+            "img": "https://www.corpus.ru/picts/products/Sorokin-Kremlin-1000.jpg"
         },
         {
             "id": "n",
             "author": "Владимир Сорокин",
-            "book": "Тридцатая любовь Марины",
+            "book": "День опричника",
+            "year": "2017",
             "buyDate": "11/8/21",
-            "price": "409",
+            "price": "411",
             "publisher": "Corpus",
             "shelf": "corpus sorokin",
-            "img": "https://www.corpus.ru/picts/products/Sorokin-30_Marina-1000.jpg"
-        },
-        {
-            "author": "Владимир Сорокин",
-            "book": "Роман",
-            "publisher": "Corpus",
-            "shelf": "sorokin wishlist"
-        },
-        {
-            "id": "n",
-            "author": "Владимир Сорокин",
-            "book": "Сердца четырёх",
-            "year": "2021",
-            "buyDate": "11/8/21",
-            "price": "421",
-            "publisher": "Corpus",
-            "shelf": "corpus sorokin",
-            "img": "https://www.corpus.ru/picts/products/Sorokin-4-1000.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Владимир Сорокин",
-            "book": "Голубое сало",
-            "buyDate": "11/8/21",
-            "price": "474",
-            "publisher": "Corpus",
-            "shelf": "corpus sorokin",
-            "img": "https://www.corpus.ru/picts/products/vladimir-sorokin-goluboe-salo.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Владимир Сорокин",
-            "book": "Ледяная трилогия",
-            "buyDate": "11/8/21",
-            "price": "537",
-            "publisher": "Corpus",
-            "shelf": "corpus sorokin",
-            "img": "https://www.corpus.ru/picts/products/vladimir-sorokin-led-trilogija-1000.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Владимир Сорокин",
-            "book": "Теллурия",
-            "buyDate": "11/8/21",
-            "price": "452",
-            "publisher": "Corpus",
-            "shelf": "corpus sorokin",
-            "img": "https://www.corpus.ru/picts/products/Sorokin-Telluria-100.jpg"
+            "img": "https://www.corpus.ru/picts/products/Sorokin-Oprichnik-1000.jpg"
         },
         {
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Манарага",
+            "year": "2017",
             "buyDate": "11/8/21",
             "price": "393",
             "publisher": "Corpus",
@@ -338,62 +291,52 @@
         {
             "id": "n",
             "author": "Владимир Сорокин",
-            "book": "Доктор Гарин",
-            "year": "2021",
-            "buyDate": "11/8/21",
-            "price": "498",
-            "publisher": "Corpus",
-            "shelf": "corpus sorokin",
-            "img": "https://www.corpus.ru/picts/products/cover-doctor-garin.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Владимир Сорокин",
-            "book": "Первый субботник",
-            "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
-            "img": "https://www.corpus.ru/picts/products/Sorokin-Subbotnik-1000.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Владимир Сорокин",
-            "book": "Пир",
-            "buyDate": "11/8/21",
-            "price": "492",
-            "publisher": "Corpus",
-            "shelf": "corpus sorokin",
-            "img": "https://www.corpus.ru/picts/products/cover1-pir.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Владимир Сорокин",
-            "book": "Капитал",
-            "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
-            "img": "https://www.corpus.ru/picts/products/sorokin-kapital.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Владимир Сорокин",
             "book": "Сахарный Кремль",
+            "year": "2017",
+            "buyDate": "11/8/21",
+            "price": "371",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
+            "shelf": "corpus sorokin",
             "img": "https://www.corpus.ru/picts/products/Sorokin-Kremlin-100.jpg"
         },
         {
             "id": "n",
             "author": "Владимир Сорокин",
-            "book": "Сахарный Кремль",
+            "book": "Теллурия",
+            "year": "2017",
             "buyDate": "11/8/21",
-            "price": "371",
+            "price": "452",
             "publisher": "Corpus",
             "shelf": "corpus sorokin",
-            "img": "https://www.corpus.ru/picts/products/Sorokin-Kremlin-1000.jpg"
+            "img": "https://www.corpus.ru/picts/products/Sorokin-Telluria-100.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Владимир Сорокин",
+            "book": "Тридцатая любовь Марины",
+            "year": "2017",
+            "buyDate": "11/8/21",
+            "price": "409",
+            "publisher": "Corpus",
+            "shelf": "corpus sorokin",
+            "img": "https://www.corpus.ru/picts/products/Sorokin-30_Marina-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Владимир Сорокин",
+            "book": "Голубое сало",
+            "year": "2017",
+            "buyDate": "11/8/21",
+            "price": "474",
+            "publisher": "Corpus",
+            "shelf": "corpus sorokin",
+            "img": "https://www.corpus.ru/picts/products/vladimir-sorokin-goluboe-salo.jpg"
         },
         {
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Моноклон",
+            "year": "2017",
             "publisher": "Corpus",
             "shelf": "corpus sorokin wishlist",
             "img": "https://www.corpus.ru/picts/products/Sorokin-Monoklon-1000.jpg"
@@ -401,7 +344,51 @@
         {
             "id": "n",
             "author": "Владимир Сорокин",
+            "book": "Ледяная трилогия",
+            "year": "2018",
+            "buyDate": "11/8/21",
+            "price": "537",
+            "publisher": "Corpus",
+            "shelf": "corpus sorokin",
+            "img": "https://www.corpus.ru/picts/products/vladimir-sorokin-led-trilogija-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Владимир Сорокин",
+            "book": "Первый субботник",
+            "year": "2018",
+            "publisher": "Corpus",
+            "shelf": "corpus sorokin wishlist",
+            "img": "https://www.corpus.ru/picts/products/Sorokin-Subbotnik-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Владимир Сорокин",
+            "book": "Очередь",
+            "year": "2018",
+            "buyDate": "11/8/21",
+            "price": "403",
+            "publisher": "Corpus",
+            "shelf": "corpus sorokin",
+            "img": "https://www.corpus.ru/picts/products/Sorokin-Ochered-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Владимир Сорокин",
+            "book": "Метель",
+            "year": "2018",
+            "buyDate": "11/8/21",
+            "readDate": "7/12/21",
+            "price": "383",
+            "publisher": "Corpus",
+            "shelf": "corpus sorokin",
+            "img": "https://www.corpus.ru/picts/products/Sorokin-Metel-1000-new.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Владимир Сорокин",
             "book": "Белый квадрат",
+            "year": "2018",
             "buyDate": "11/8/21",
             "price": "330",
             "publisher": "Corpus",
@@ -411,12 +398,44 @@
         {
             "id": "n",
             "author": "Владимир Сорокин",
+            "book": "Триумф Времени и Бесчувствия",
+            "year": "2018",
+            "buyDate": "11/8/21",
+            "price": "379",
+            "publisher": "Corpus",
+            "shelf": "corpus sorokin",
+            "img": "https://www.corpus.ru/picts/products/Sorokin-Triumph-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Владимир Сорокин",
+            "book": "Капитал",
+            "year": "2018",
+            "publisher": "Corpus",
+            "shelf": "corpus sorokin wishlist",
+            "img": "https://www.corpus.ru/picts/products/sorokin-kapital.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Владимир Сорокин",
             "book": "Нормальная история",
+            "year": "2019",
             "buyDate": "11/8/21",
             "price": "413",
             "publisher": "Corpus",
             "shelf": "corpus sorokin",
             "img": "https://www.corpus.ru/picts/products/Sorokin-History-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Владимир Сорокин",
+            "book": "Норма",
+            "year": "2019",
+            "buyDate": "11/8/21",
+            "price": "505",
+            "publisher": "Corpus",
+            "shelf": "corpus sorokin",
+            "img": "https://www.corpus.ru/picts/products/Sorokin-Norma-1000.jpg"
         },
         {
             "id": "n",
@@ -432,41 +451,43 @@
         {
             "id": "n",
             "author": "Владимир Сорокин",
-            "book": "День опричника",
+            "book": "Пир",
+            "year": "2020",
+            "buyDate": "11/8/21",
+            "price": "492",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
-            "img": "https://www.corpus.ru/picts/products/Sorokin-Oprichnik-1000.jpg"
+            "shelf": "corpus sorokin",
+            "img": "https://www.corpus.ru/picts/products/cover1-pir.jpg"
         },
         {
             "id": "n",
             "author": "Владимир Сорокин",
-            "book": "День опричника",
+            "book": "Доктор Гарин",
+            "year": "2021",
             "buyDate": "11/8/21",
-            "price": "411",
+            "price": "498",
             "publisher": "Corpus",
             "shelf": "corpus sorokin",
-            "img": "https://www.corpus.ru/picts/products/Sorokin-Optichnik-1000.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover-doctor-garin.jpg"
         },
         {
             "id": "n",
             "author": "Владимир Сорокин",
-            "book": "Метель",
+            "book": "Сердца четырёх",
+            "year": "2021",
             "buyDate": "11/8/21",
-            "readDate": "7/12/21",
-            "price": "383",
+            "price": "421",
             "publisher": "Corpus",
             "shelf": "corpus sorokin",
-            "img": "https://www.corpus.ru/picts/products/Sorokin-Metel-1000-new.jpg"
+            "img": "https://www.corpus.ru/picts/products/Sorokin-4-1000.jpg"
         },
         {
             "id": "n",
             "author": "Владимир Сорокин",
-            "book": "Триумф Времени и Бесчувствия",
-            "buyDate": "11/8/21",
-            "price": "379",
+            "book": "Роман",
+            "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin",
-            "img": "https://www.corpus.ru/picts/products/Sorokin-Triumph-1000.jpg"
+            "shelf": "corpus sorokin wishlist"
         },
         {
             "id": "658",
