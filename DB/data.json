@@ -251,11 +251,29 @@
         {
             "id": "n",
             "author": "Владимир Сорокин",
+            "book": "Теллурия",
+            "year": "2013",
+            "publisher": "Corpus",
+            "shelf": "corpus sorokin wishlist",
+            "img": "https://cdn1.ozone.ru/multimedia/wc1200/1007466165.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Владимир Сорокин",
             "book": "День опричника",
             "year": "2013",
             "publisher": "Corpus",
             "shelf": "corpus sorokin wishlist",
             "img": "https://www.corpus.ru/picts/products/Sorokin-Optichnik-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Владимир Сорокин",
+            "book": "Норма",
+            "year": "2014",
+            "publisher": "Corpus",
+            "shelf": "corpus sorokin wishlist",
+            "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc1200/6017708775.jpg"
         },
         {
             "id": "n",
@@ -8626,8 +8644,29 @@
             "img": "https://www.corpus.ru/picts/products/cover1-matematika.jpg"
         },
         {
+            "id": "370",
+            "author": "Дэвид Хоффман",
+            "book": "Шпион на миллиард долларов",
+            "year": "2016",
+            "buyDate": "11/9/21",
+            "price": "720",
+            "publisher": "Corpus",
+            "shelf": "corpus razvedcorpus",
+            "img": "https://www.corpus.ru/picts/products/Hoffman-Spy-1000.jpg"
+        },
+        {
+            "id": "447",
+            "author": "Дэвид Хоффман",
+            "book": "Шпион на миллиард долларов",
+            "year": "2017",
+            "publisher": "Corpus",
+            "shelf": "corpus razvedcorpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/shpion-na-milliard-dollarov.jpg"
+        },
+        {
             "author": "Бен Макинтайр",
             "book": "Шпион среди друзей. Великое предательство Кима Филби",
+            "year": "2017",
             "publisher": "Corpus",
             "shelf": "corpus razvedcorpus wishlist",
             "img": "https://www.corpus.ru/picts/products/MacIntyre-Shpion-1001.jpg"
@@ -8646,15 +8685,9 @@
         {
             "author": "Бен Макинтайр",
             "book": "Агент Соня",
+            "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus razvedcorpus wishlist"
-        },
-        {
-            "author": "Дэвид Хоффман",
-            "book": "Шпион на миллиард долларов",
-            "publisher": "Corpus",
-            "shelf": "corpus razvedcorpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/shpion-na-milliard-dollarov.jpg"
+            "shelf": "corpus razvedcorpus wishlist new"
         },
         {
             "id": "630",
@@ -8744,6 +8777,14 @@
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus wishlist new"
+        },
+        {
+            "author": "Дженнифер Сэйнт",
+            "book": "Ариадна",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist new",
+            "img": "https://www.corpus.ru/picts/news/93_20211102225137ariadne-31.jpg"
         },
         {
             "id": "n",
@@ -9298,6 +9339,7 @@
         {
             "author": "Шон Байтелл",
             "book": "Дневник книготорговца",
+            "year": "2020",
             "buyDate": "12/24/20",
             "readDate": "5/28/21",
             "price": "350",
@@ -9308,6 +9350,7 @@
         {
             "author": "Шон Байтелл",
             "book": "Записки книготорговца",
+            "year": "2019",
             "buyDate": "12/24/20",
             "readDate": "6/6/21",
             "price": "350",
@@ -9837,8 +9880,10 @@
             "author": "Борис Штерн и Валерий Рубаков",
             "book": "Астрофизика. Троицкий вариант",
             "year": "2021",
+            "buyDate": "11/5/21",
+            "price": "350",
             "publisher": "АСТ",
-            "shelf": "ast science wishlist new",
+            "shelf": "ast science",
             "img": "https://s1.livelib.ru/boocover/1005463762/o/757c/Shtern_Boris__Astrofizika._Troitskij_variant.jpeg"
         },
         {
