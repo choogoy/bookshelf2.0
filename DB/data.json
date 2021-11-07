@@ -289,7 +289,7 @@
             "author": "Владимир Сорокин",
             "book": "День опричника",
             "year": "2017",
-            "buyDate": "11/8/21",
+            "buyDate": "11/6/21",
             "price": "411",
             "publisher": "Corpus",
             "shelf": "corpus sorokin",
@@ -418,7 +418,7 @@
             "author": "Владимир Сорокин",
             "book": "Триумф Времени и Бесчувствия",
             "year": "2018",
-            "buyDate": "11/8/21",
+            "buyDate": "11/7/21",
             "price": "379",
             "publisher": "Corpus",
             "shelf": "corpus sorokin",
@@ -460,7 +460,7 @@
             "author": "Владимир Сорокин",
             "book": "Русские народные пословицы и поговорки",
             "year": "2020",
-            "buyDate": "11/8/21",
+            "buyDate": "11/6/21",
             "price": "423",
             "publisher": "Corpus",
             "shelf": "corpus sorokin",
@@ -2936,7 +2936,7 @@
             "buyDate": "4/9/19",
             "price": "530",
             "publisher": "Бомбора",
-            "shelf": "bombora music",
+            "shelf": "bombora music stupnikov",
             "img": "https://cdn.eksmo.ru/v2/ITD000000000933376/COVER/cover1__w600.jpg"
         },
         {
@@ -7736,7 +7736,7 @@
             "buyDate": "10/5/20",
             "price": "379",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus miller",
             "img": "https://www.corpus.ru/picts/products/tnw239-Miller-Ahilles-1000.jpg"
         },
         {
@@ -7747,7 +7747,7 @@
             "buyDate": "10/5/20",
             "price": "370",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus miller",
             "img": "https://www.corpus.ru/picts/products/tnw239-cover1-miller.jpg"
         },
         {
@@ -8158,7 +8158,7 @@
             "author": "Ирина Фуфаева",
             "book": "Как называются женщины. Феминитивы: история, устройство, конкуренция",
             "year": "2020",
-            "buyDate": "11/7/21",
+            "buyDate": "11/6/21",
             "price": "394",
             "publisher": "Corpus",
             "shelf": "corpus russian",
@@ -8328,6 +8328,7 @@
             "book": "Юные годы медбрата Паровозова",
             "year": "2021",
             "buyDate": "9/30/21",
+            "readDate": "11/6/21",
             "price": "416",
             "publisher": "Corpus",
             "shelf": "corpus motorov",
@@ -9169,7 +9170,7 @@
             "buyDate": "12/25/20",
             "price": "544",
             "publisher": "АСТ",
-            "shelf": "ast music",
+            "shelf": "ast music stupnikov",
             "img": "https://s1.livelib.ru/boocover/1005527488/o/411f/Denis_Stupnikov__Ariya_Vozrozhdenie_Legendy._Avtorizovannaya_biografiya_gruppy.jpeg"
         },
         {
@@ -10403,7 +10404,7 @@
             "author": "Алекс Кристофи",
             "book": "Достоевский in love",
             "year": "2021",
-            "buyDate": "11/10/21",
+            "buyDate": "11/21/21",
             "price": "347",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria",
