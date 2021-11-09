@@ -471,7 +471,6 @@
             "author": "Владимир Сорокин",
             "book": "Пир",
             "year": "2020",
-            "price": "492",
             "publisher": "Corpus",
             "shelf": "corpus sorokin wishlist",
             "img": "https://www.corpus.ru/picts/products/cover1-pir.jpg"
@@ -4791,7 +4790,7 @@
         {
             "author": "Иржи Грошек",
             "book": "Легкий завтрак в тени некрополя",
-            "buyDate": "11/10/21",
+            "buyDate": "11/8/21",
             "price": "219",
             "shelf": "groshek espresso",
             "img": "https://s1.livelib.ru/boocover/1000112649/o/5e18/Irzhi_Groshek__Legkij_zavtrak_v_teni_nekropolya.jpeg"
@@ -7734,6 +7733,7 @@
             "book": "Песнь Ахилла",
             "year": "2019",
             "buyDate": "10/5/20",
+            "readDate": "11/9/21",
             "price": "379",
             "publisher": "Corpus",
             "shelf": "corpus miller",
