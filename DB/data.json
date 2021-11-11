@@ -8317,6 +8317,7 @@
             "book": "Тот самый Паровозов",
             "year": "2020",
             "buyDate": "12/24/20",
+            "readDate": "11/11/21",
             "price": "551",
             "publisher": "Corpus",
             "shelf": "corpus motorov",
@@ -8340,6 +8341,7 @@
             "book": "Преступление доктора Паровозова",
             "year": "2021",
             "buyDate": "9/30/21",
+            "readDate": "11/11/21",
             "price": "416",
             "publisher": "Corpus",
             "shelf": "corpus motorov",
@@ -8806,6 +8808,14 @@
             "img": "https://www.corpus.ru/picts/news/93_20211102225137ariadne-31.jpg"
         },
         {
+            "author": "Амели Нотомб",
+            "book": "Первая кровь",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist new",
+            "img": "https://www.corpus.ru/picts/news/21_20211111025806fYtf-OOCtwk.jpg"
+        },
+        {
             "id": "n",
             "author": "Ханна Фрай",
             "book": "Hello World",
@@ -8925,6 +8935,14 @@
             "publisher": "Альпина нон-фикшн",
             "shelf": "politeh alpina",
             "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc1200/6038144463.jpg"
+        },
+        {
+            "author": "Марио Ливио",
+            "book": "Галилей и отрицатели науки",
+            "year": "2021",
+            "publisher": "Альпина нон-фикшн",
+            "shelf": "politeh alpina wishlist new",
+            "img": "https://nonfiction.ru/assets/images/products/1772/galiley-obl.jpg"
         },
         {
             "author": "Лоуренс Бернс и Кристофер Шульган",
@@ -10394,7 +10412,7 @@
             "author": "Натали Дженнер",
             "book": "Общество Джейн Остен",
             "year": "2021",
-            "buyDate": "11/21/21",
+            "buyDate": "11/12/21",
             "price": "305",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria",
