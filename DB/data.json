@@ -471,8 +471,10 @@
             "author": "Владимир Сорокин",
             "book": "Пир",
             "year": "2020",
+            "buyDate": "11/15/21",
+            "price": "459",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
+            "shelf": "corpus sorokin",
             "img": "https://www.corpus.ru/picts/products/cover1-pir.jpg"
         },
         {
@@ -583,6 +585,14 @@
             "img": "https://www.corpus.ru/picts/products/cover1-kazn.jpg"
         },
         {
+            "id": "679",
+            "author": "Владимир Набоков",
+            "book": "Бледный огонь",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus nabokov wishlist new"
+        },
+        {
             "id": "681",
             "author": "Владимир Набоков",
             "book": "Соглядатай",
@@ -612,12 +622,6 @@
         {
             "author": "Владимир Набоков",
             "book": "Пнин",
-            "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist"
-        },
-        {
-            "author": "Владимир Набоков",
-            "book": "Бледный огонь",
             "publisher": "Corpus",
             "shelf": "corpus nabokov wishlist"
         },
@@ -8657,6 +8661,14 @@
             "img": "https://www.corpus.ru/picts/products/cover1-turkle-govorit.jpg"
         },
         {
+            "author": "Кристер Стурмарк",
+            "book": "Светоч разума",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus social wishlist new",
+            "img": "https://cdn.book24.ru/v2/ASE000000000853773/COVER/cover13d__w410.webp"
+        },
+        {
             "author": "Дэвид Дарлинг и Агниджо Банерджи",
             "book": "Эта странная математика. На краю бесконечности и за ним",
             "year": "2021",
@@ -8791,6 +8803,14 @@
             "publisher": "Corpus",
             "shelf": "corpus wishlist new",
             "img": "https://www.corpus.ru/picts/products/cover-nemetz.jpg"
+        },
+        {
+            "id": "687",
+            "author": "Чемберс Клэр",
+            "book": "Простые радости",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist new"
         },
         {
             "author": "Михаил Фишман",
