@@ -8780,8 +8780,10 @@
             "author": "Эрве Ле Теллье",
             "book": "Аномалия",
             "year": "2021",
+            "buyDate": "11/17/21",
+            "price": "424",
             "publisher": "Corpus",
-            "shelf": "corpus goncur wishlist new",
+            "shelf": "corpus goncur",
             "img": "https://www.corpus.ru/picts/products/cover-anomaliya.jpg"
         },
         {
@@ -8806,11 +8808,12 @@
         },
         {
             "id": "687",
-            "author": "Чемберс Клэр",
+            "author": "Клэр Чемберс",
             "book": "Простые радости",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new"
+            "shelf": "corpus wishlist new",
+            "img": "https://cdn.ast.ru/v2/ASE000000000850899/COVER/cover1__w600.jpg"
         },
         {
             "author": "Михаил Фишман",
@@ -8960,8 +8963,10 @@
             "author": "Марио Ливио",
             "book": "Галилей и отрицатели науки",
             "year": "2021",
+            "buyDate": "11/17/21",
+            "price": "545",
             "publisher": "Альпина нон-фикшн",
-            "shelf": "politeh alpina wishlist new",
+            "shelf": "politeh alpina",
             "img": "https://nonfiction.ru/assets/images/products/1772/galiley-obl.jpg"
         },
         {
@@ -10550,7 +10555,7 @@
             "author": "Джонсон Клэйборн",
             "book": "Будь со мной честен",
             "year": "2021",
-            "buyDate": "11/21/21",
+            "buyDate": "11/14/21",
             "price": "335",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria",
