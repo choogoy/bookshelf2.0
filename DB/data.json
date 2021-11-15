@@ -4886,7 +4886,7 @@
             "year": "2005",
             "buyDate": "11/28/20",
             "price": "250",
-            "shelf": "inostranka",
+            "shelf": "inostranka notomb",
             "img": "https://s1.livelib.ru/boocover/1000107708/o/1823/Ameli_Notomb__Antihrista.jpeg"
         },
         {
@@ -4913,6 +4913,14 @@
             "price": "335",
             "shelf": "inostranka",
             "img": "https://s1.livelib.ru/boocover/1000015759/o/18e6/Nik_Hornbi__HiFi.jpeg"
+        },
+        {
+            "author": "Уилл Селф",
+            "book": "Обезьяны",
+            "buyDate": "11/15/21",
+            "price": "284",
+            "shelf": "inostranka",
+            "img": "https://s1.livelib.ru/boocover/1000113323/o/d02a/Uill_Self__Obezyany.jpeg"
         },
         {
             "id": "1",
@@ -8560,6 +8568,7 @@
             "book": "Неверные шаги",
             "year": "2021",
             "buyDate": "6/3/21",
+            "readDate": "11/15/11",
             "price": "544",
             "publisher": "Corpus",
             "shelf": "corpus adolfsson",
@@ -8835,7 +8844,7 @@
             "book": "Первая кровь",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new",
+            "shelf": "corpus notomb wishlist new",
             "img": "https://www.corpus.ru/picts/news/21_20211111025806fYtf-OOCtwk.jpg"
         },
         {
