@@ -953,7 +953,7 @@
             "book": "Перекрестки: роман. Ключ ко всем мифологиям, том 1",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "franzen corpus wishlist",
+            "shelf": "franzen corpus wishlist new",
             "img": "https://s1.livelib.ru/boocover/1005800143/o/3073/Dzhonatan_Erl_Franzen__Crossroads_A_Key_to_All_Mythologies_1.jpeg"
         },
         {
@@ -1948,7 +1948,7 @@
             "author": "Харуки Мураками",
             "book": "First Person Singular: Stories",
             "year": "2021",
-            "shelf": "haruki-murakami wishlist",
+            "shelf": "haruki-murakami wishlist new",
             "img": "https://images2.penguinrandomhouse.com/cover/9780593318072?height=295&alt=cover_coming_soon.jpg"
         },
         {
@@ -2362,13 +2362,13 @@
         {
             "author": "Януш Леон Вишневский",
             "book": "Uczucia. Dziecinne opowieści o tym, co najważniejsze",
-            "shelf": "wishnewski wishlist",
+            "shelf": "wishnewski wishlist new",
             "img": "https://s1.livelib.ru/boocover/1002829773/o/2670/Janusz_Leon_Wiśniewski__Uczucia._Dziecinne_opowieści_o_tym_co_najważniejsze.jpeg"
         },
         {
             "author": "Януш Леон Вишневский",
             "book": "Nazwijmy to miłość",
-            "shelf": "wishnewski wishlist",
+            "shelf": "wishnewski wishlist new",
             "img": "https://s1.livelib.ru/boocover/1004165233/o/8cdd/Yanush_Vishnevskij__Nazwijmy_to_miłośc.jpeg"
         },
         {
@@ -3349,7 +3349,7 @@
             "author": "Чак Паланик",
             "book": "The Invention of Sound",
             "year": "2021",
-            "shelf": "palanik wishlist",
+            "shelf": "palanik wishlist new",
             "img": "https://img4.labirint.ru/rc/253b2479e49cee1808a85bea533863f8/594x918/books78/771942/cover.jpg?1602757507"
         },
         {
@@ -4917,7 +4917,7 @@
         {
             "author": "Уилл Селф",
             "book": "Обезьяны",
-            "buyDate": "11/15/21",
+            "buyDate": "11/18/21",
             "price": "284",
             "shelf": "inostranka",
             "img": "https://s1.livelib.ru/boocover/1000113323/o/d02a/Uill_Self__Obezyany.jpeg"
@@ -5237,7 +5237,7 @@
             "book": "Silverview",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "le-karre corpus wishlist",
+            "shelf": "le-karre corpus wishlist new",
             "img": "https://www.logobook.ru/bi/15527616/15527616_102662.jpg"
         },
         {
@@ -7493,17 +7493,6 @@
             "img": "https://www.corpus.ru/picts/products/Slezkin-Merkury-1000.jpg"
         },
         {
-            "id": "384",
-            "author": "Аннабел Фарджен",
-            "book": "Приключения русского художника. Биография Бориса Анрепа",
-            "year": "2016",
-            "buyDate": "10/1/20",
-            "price": "88",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/tnw239-Farjon-Hudozhnik-1000.jpg"
-        },
-        {
             "id": "132",
             "author": "Сиссель Йо-Газан",
             "book": "Перо динозавра",
@@ -7522,17 +7511,6 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://s1.livelib.ru/boocover/1000444144/o/004d/Kristian_Merk__Pesij_ostrov.jpeg"
-        },
-        {
-            "id": "380",
-            "author": "Петер Гардош",
-            "book": "Предрассветная лихорадка",
-            "year": "2016",
-            "buyDate": "9/29/20",
-            "price": "319",
-            "publisher": "Corpus",
-            "shelf": "corpus happy",
-            "img": "https://www.corpus.ru/picts/products/tnw239-Gardos-Lihoradka-1000.jpg"
         },
         {
             "id": "509",
@@ -7600,14 +7578,59 @@
             "img": "https://www.corpus.ru/picts/products/dawkins-show-1000.jpg"
         },
         {
-            "id": "435",
-            "author": "Рене Нюберг",
-            "book": "Последний поезд в Москву",
-            "buyDate": "10/5/20",
-            "price": "215",
+            "id": "120",
+            "author": "Филип Рот",
+            "book": "Немизида",
+            "year": "2011",
+            "buyDate": "10/3/20",
+            "price": "149",
             "publisher": "Corpus",
             "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Nyberg-Moscow-1000.jpg"
+            "img": "https://s1.livelib.ru/boocover/1000486001/o/7a34/Filip_Rot__Nemezida.jpeg"
+        },
+        {
+            "id": "229",
+            "author": "Томас Левенсон",
+            "book": "Ньютон и фальшивомонетчик. Как величайший ученый стал сыщиком",
+            "year": "2013",
+            "buyDate": "10/3/20",
+            "price": "289",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Levenson-Newton-1000.jpg"
+        },
+        {
+            "id": "273",
+            "author": "Елена Павлова",
+            "book": "Укротители лимфоцитов и другие неофициальные лица",
+            "year": "2014",
+            "buyDate": "10/1/20",
+            "price": "258",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Pavlova-Limfocity-1000.jpg"
+        },
+        {
+            "id": "380",
+            "author": "Петер Гардош",
+            "book": "Предрассветная лихорадка",
+            "year": "2016",
+            "buyDate": "9/29/20",
+            "price": "319",
+            "publisher": "Corpus",
+            "shelf": "corpus happy",
+            "img": "https://www.corpus.ru/picts/products/tnw239-Gardos-Lihoradka-1000.jpg"
+        },
+        {
+            "id": "384",
+            "author": "Аннабел Фарджен",
+            "book": "Приключения русского художника. Биография Бориса Анрепа",
+            "year": "2016",
+            "buyDate": "10/1/20",
+            "price": "88",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/tnw239-Farjon-Hudozhnik-1000.jpg"
         },
         {
             "id": "396",
@@ -7620,15 +7643,14 @@
             "img": "https://www.corpus.ru/picts/products/Fox-Tayna%20Labirinta-1000.jpg"
         },
         {
-            "id": "273",
-            "author": "Елена Павлова",
-            "book": "Укротители лимфоцитов и другие неофициальные лица",
-            "year": "2014",
-            "buyDate": "10/1/20",
-            "price": "258",
+            "id": "435",
+            "author": "Рене Нюберг",
+            "book": "Последний поезд в Москву",
+            "buyDate": "10/5/20",
+            "price": "215",
             "publisher": "Corpus",
             "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Pavlova-Limfocity-1000.jpg"
+            "img": "https://www.corpus.ru/picts/products/Nyberg-Moscow-1000.jpg"
         },
         {
             "id": "180",
@@ -7740,40 +7762,6 @@
             "img": "https://www.corpus.ru/picts/products/cover1-obesyana.jpg"
         },
         {
-            "id": "556",
-            "author": "Мадлен Миллер",
-            "book": "Песнь Ахилла",
-            "year": "2019",
-            "buyDate": "10/5/20",
-            "readDate": "11/9/21",
-            "price": "379",
-            "publisher": "Corpus",
-            "shelf": "corpus miller",
-            "img": "https://www.corpus.ru/picts/products/tnw239-Miller-Ahilles-1000.jpg"
-        },
-        {
-            "id": "589",
-            "author": "Мадлен Миллер",
-            "book": "Цирцея",
-            "year": "2020",
-            "buyDate": "10/5/20",
-            "price": "370",
-            "publisher": "Corpus",
-            "shelf": "corpus miller",
-            "img": "https://www.corpus.ru/picts/products/tnw239-cover1-miller.jpg"
-        },
-        {
-            "id": "229",
-            "author": "Томас Левенсон",
-            "book": "Ньютон и фальшивомонетчик. Как величайший ученый стал сыщиком",
-            "year": "2013",
-            "buyDate": "10/3/20",
-            "price": "289",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Levenson-Newton-1000.jpg"
-        },
-        {
             "id": "n",
             "author": "Давид Монтеагудо",
             "book": "Конец",
@@ -7804,17 +7792,6 @@
             "img": "https://www.corpus.ru/picts/products/Bolanyo-Shliuhi-1000.jpg"
         },
         {
-            "id": "120",
-            "author": "Филип Рот",
-            "book": "Немизида",
-            "year": "2011",
-            "buyDate": "10/3/20",
-            "price": "149",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000486001/o/7a34/Filip_Rot__Nemezida.jpeg"
-        },
-        {
             "id": "480",
             "author": "Тимоти Снайдер",
             "book": "О тирании. 20 уроков XX века",
@@ -7835,39 +7812,6 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/ijun-li-dobree-odinochestva1.jpg"
-        },
-        {
-            "id": "507",
-            "author": "Мадлен Тьен",
-            "book": "Не говори, что у нас ничего нет",
-            "year": "2019",
-            "buyDate": "10/17/20",
-            "price": "428",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1002812210/o/73f1/Madlen_Ten__Ne_govori_chto_u_nas_nichego_net.jpeg"
-        },
-        {
-            "id": "508",
-            "author": "Джонатан Макмиллан",
-            "book": "Конец банковского дела. Деньги и кредит в эпоху цифровой революции",
-            "year": "2019",
-            "buyDate": "10/13/21",
-            "price": "235",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/McMillan-Banking-1000.jpg"
-        },
-        {
-            "id": "555",
-            "author": "Дженнифер Даудна",
-            "book": "Трещина в мироздании",
-            "year": "2019",
-            "buyDate": "10/14/20",
-            "price": "536",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Daudna-Treschina-1000.jpg"
         },
         {
             "author": "Кристофер Бакли",
@@ -7970,6 +7914,62 @@
             "publisher": "Corpus",
             "shelf": "corpus boglie",
             "img": "https://www.corpus.ru/picts/products/Beaulieu-1001_noch-1000.jpg"
+        },
+        {
+            "id": "507",
+            "author": "Мадлен Тьен",
+            "book": "Не говори, что у нас ничего нет",
+            "year": "2019",
+            "buyDate": "10/17/20",
+            "price": "428",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1002812210/o/73f1/Madlen_Ten__Ne_govori_chto_u_nas_nichego_net.jpeg"
+        },
+        {
+            "id": "508",
+            "author": "Джонатан Макмиллан",
+            "book": "Конец банковского дела. Деньги и кредит в эпоху цифровой революции",
+            "year": "2019",
+            "buyDate": "10/13/21",
+            "price": "235",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/McMillan-Banking-1000.jpg"
+        },
+        {
+            "id": "555",
+            "author": "Дженнифер Даудна",
+            "book": "Трещина в мироздании",
+            "year": "2019",
+            "buyDate": "10/14/20",
+            "price": "536",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Daudna-Treschina-1000.jpg"
+        },
+        {
+            "id": "556",
+            "author": "Мадлен Миллер",
+            "book": "Песнь Ахилла",
+            "year": "2019",
+            "buyDate": "10/5/20",
+            "readDate": "11/9/21",
+            "price": "379",
+            "publisher": "Corpus",
+            "shelf": "corpus miller",
+            "img": "https://www.corpus.ru/picts/products/tnw239-Miller-Ahilles-1000.jpg"
+        },
+        {
+            "id": "589",
+            "author": "Мадлен Миллер",
+            "book": "Цирцея",
+            "year": "2020",
+            "buyDate": "10/5/20",
+            "price": "370",
+            "publisher": "Corpus",
+            "shelf": "corpus miller",
+            "img": "https://www.corpus.ru/picts/products/tnw239-cover1-miller.jpg"
         },
         {
             "id": "575",
@@ -8519,17 +8519,6 @@
             "img": "https://www.corpus.ru/picts/products/Stap-Pariki-1000.jpg"
         },
         {
-            "id": "641",
-            "author": "Карин Тюиль",
-            "book": "Дела человеческие",
-            "year": "2021",
-            "buyDate": "6/26/21",
-            "price": "419",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/cover1-tuil.jpg"
-        },
-        {
             "id": "522",
             "author": "Сергей Плохий",
             "book": "Человек, стрелявший ядом История одного шпиона времен холодной войны",
@@ -8580,6 +8569,7 @@
             "book": "Штормовое предупреждение",
             "year": "2021",
             "buyDate": "7/15/21",
+            "readDate": "11/18/21",
             "price": "495",
             "publisher": "Corpus",
             "shelf": "corpus adolfsson",
@@ -8743,6 +8733,17 @@
             "img": "https://www.corpus.ru/picts/products/cover1-folkmer.jpg"
         },
         {
+            "id": "641",
+            "author": "Карин Тюиль",
+            "book": "Дела человеческие",
+            "year": "2021",
+            "buyDate": "6/26/21",
+            "price": "419",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/cover1-tuil.jpg"
+        },
+        {
             "id": "656",
             "author": "Деб Олин Анферт",
             "book": "Птичник №8",
@@ -8789,7 +8790,7 @@
             "author": "Эрве Ле Теллье",
             "book": "Аномалия",
             "year": "2021",
-            "buyDate": "11/17/21",
+            "buyDate": "11/18/21",
             "price": "424",
             "publisher": "Corpus",
             "shelf": "corpus goncur",
@@ -8972,7 +8973,7 @@
             "author": "Марио Ливио",
             "book": "Галилей и отрицатели науки",
             "year": "2021",
-            "buyDate": "11/17/21",
+            "buyDate": "11/18/21",
             "price": "545",
             "publisher": "Альпина нон-фикшн",
             "shelf": "politeh alpina",
@@ -8991,7 +8992,7 @@
         {
             "author": "Марк Левинсон",
             "book": "Ящик. Как грузовой контейнер сделал мир меньше, а мировую экономику больше",
-            "year": "2021",
+            "year": "2022",
             "publisher": "Бомбора",
             "shelf": "bombora politeh wishlist new",
             "img": "https://seatracker.ru/pictures/692c5efd5b746f63fcc042a45179c799.jpg"
@@ -10030,6 +10031,16 @@
             "img": "https://s1.livelib.ru/boocover/1006179925/o/5db1/Aleks_Mihaelides__Devy.jpeg"
         },
         {
+            "author": "Сорен Свейструп",
+            "book": "Каштановый человечек",
+            "year": "2021",
+            "buyDate": "10/18/21",
+            "price": "317",
+            "publisher": "Эксмо",
+            "shelf": "eksmo",
+            "img": "https://s1.livelib.ru/boocover/1006141915/o/8d82/Soren_Svejstrup__Kashtanovyj_chelovechek.jpeg"
+        },
+        {
             "author": "Джо Байден",
             "book": "Сдержать обещания. В жизни и политике",
             "year": "2021",
@@ -10352,6 +10363,7 @@
             "buyDate": "10/9/21",
             "price": "441",
             "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif",
             "img": "https://s1.livelib.ru/boocover/1006238035/o/08a6/Richard_Osman__Klub_ubijstv_po_chetvergam.jpeg"
         },
         {
@@ -10466,7 +10478,7 @@
             "author": "Кадзуо Исигуро",
             "book": "Клара и Солнце",
             "year": "2021",
-            "buyDate": "11/21/21",
+            "buyDate": "11/19/21",
             "price": "421",
             "publisher": "Эксмо",
             "shelf": "eksmo",
@@ -10493,7 +10505,7 @@
             "img": "https://s1.livelib.ru/boocover/1003407116/o/5682/Anna_Berns__Molochnik.jpeg"
         },
         {
-            "author": "Сергий Священник",
+            "author": "Священник Сергий Круглов",
             "book": "Про Н., Костю Иночкина и Ностальжи. Приключения в жизни будничной и вечной",
             "year": "2021",
             "buyDate": "10/16/21",
@@ -10519,8 +10531,18 @@
             "buyDate": "10/28/21",
             "price": "290",
             "publisher": "Эксмо",
-            "shelf": "eksmo white",
+            "shelf": "eksmo glenkonner white",
             "img": "https://s1.livelib.ru/boocover/1006756276/o/c10d/Enn_Glenkonner__Ubijstvo_na_ostrove_Myustik.jpeg"
+        },
+        {
+            "author": "Энн Гленконнер",
+            "book": "Фрейлина. Моя невероятная жизнь в тени Королевы",
+            "year": "2021",
+            "buyDate": "11/16/21",
+            "price": "364",
+            "publisher": "Эксмо",
+            "shelf": "eksmo glenkonner",
+            "img": "https://s1.livelib.ru/boocover/1006864759/o/899e/Enn_Glenkonner__Frejlina._Moya_neveroyatnaya_zhizn_v_teni_Korolevy.jpeg"
         },
         {
             "author": "Кэтрин Купер",
@@ -10531,16 +10553,6 @@
             "publisher": "Эксмо",
             "shelf": "eksmo white",
             "img": "https://s1.livelib.ru/boocover/1006829059/o/9ad3/Ketrin_Kuper__Shale.jpeg"
-        },
-        {
-            "author": "Сорен Свейструп",
-            "book": "Каштановый человечек",
-            "year": "2021",
-            "buyDate": "10/18/21",
-            "price": "317",
-            "publisher": "Эксмо",
-            "shelf": "eksmo",
-            "img": "https://s1.livelib.ru/boocover/1006141915/o/8d82/Soren_Svejstrup__Kashtanovyj_chelovechek.jpeg"
         },
         {
             "author": "Эллен Фелдман",
@@ -10603,6 +10615,7 @@
         {
             "author": "Барак Обама",
             "book": "A Promised Land",
+            "year": "2022",
             "publisher": "Бомбора",
             "shelf": "bombora obama wishlist new",
             "img": "https://cdn24.img.ria.ru/images/07e4/0b/11/1584987671_0:0:710:1080_1920x0_80_0_0_d2ae700f948a1aa4f503ff9779f955ca.jpg"
@@ -10929,7 +10942,8 @@
         },
         {
             "book": "Конституция РФ",
-            "price": "36"
+            "price": "36",
+            "img": "https://avatars.mds.yandex.net/get-mpic/4113189/img_id5720735707042936185.jpeg/orig"
         }
     ]
 }
