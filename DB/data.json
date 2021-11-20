@@ -429,8 +429,10 @@
             "author": "Владимир Сорокин",
             "book": "Капитал",
             "year": "2018",
+            "buyDate": "11/24/21",
+            "price": "653",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
+            "shelf": "corpus sorokin",
             "img": "https://www.corpus.ru/picts/products/sorokin-kapital.jpg"
         },
         {
@@ -1382,6 +1384,14 @@
             "publisher": "Corpus",
             "shelf": "martin-lugand corpus happy",
             "img": "https://www.corpus.ru/picts/products/cover1-lugand.jpg"
+        },
+        {
+            "author": "Аньес Мартен-Люган",
+            "book": "La Datcha",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "martin-lugand corpus happy wishlist new",
+            "img": "https://s1.livelib.ru/boocover/1006118407/o/85a8/Anes_MartenLyugan__La_Datcha.jpeg"
         },
         {
             "id": "n",
@@ -3796,7 +3806,7 @@
             "author": "Маша Трауб",
             "book": "Посмотри на меня",
             "year": "2021",
-            "buyDate": "11/21/21",
+            "buyDate": "11/30/21",
             "price": "285",
             "publisher": "Эксмо",
             "shelf": "traub eksmo",
@@ -3842,7 +3852,7 @@
             "author": "Григорий Остер",
             "book": "Физика с Григорием Остером",
             "year": "2021",
-            "buyDate": "11/21/21",
+            "buyDate": "11/30/21",
             "price": "252",
             "shelf": "education oster",
             "img": "https://cdn.book24.ru/v2/ASE000000000841307/COVER/cover13d__w410.webp"
@@ -8661,11 +8671,11 @@
         },
         {
             "author": "Кристер Стурмарк",
-            "book": "Светоч разума",
+            "book": "Светоч разума. Рациональное мышление в XXI веке",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus social wishlist new",
-            "img": "https://cdn.book24.ru/v2/ASE000000000853773/COVER/cover13d__w410.webp"
+            "img": "https://www.corpus.ru/picts/products/cover1sturmark.jpg"
         },
         {
             "author": "Дэвид Дарлинг и Агниджо Банерджи",
@@ -8699,8 +8709,10 @@
             "author": "Бен Макинтайр",
             "book": "Шпион среди друзей. Великое предательство Кима Филби",
             "year": "2017",
+            "buyDate": "11/24/21",
+            "price": "515",
             "publisher": "Corpus",
-            "shelf": "corpus razvedcorpus wishlist",
+            "shelf": "corpus razvedcorpus",
             "img": "https://www.corpus.ru/picts/products/MacIntyre-Shpion-1001.jpg"
         },
         {
@@ -8823,7 +8835,7 @@
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus wishlist new",
-            "img": "https://cdn.ast.ru/v2/ASE000000000850899/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-chembers.jpg"
         },
         {
             "author": "Михаил Фишман",
@@ -9684,7 +9696,7 @@
             "author": "Эли Макнамара",
             "book": "Магазинчик счастья Кейт и Клары",
             "year": "2021",
-            "buyDate": "11/21/21",
+            "buyDate": "11/30/21",
             "price": "334",
             "publisher": "Эксмо",
             "shelf": "maknamara eksmo inspiria",
@@ -10054,7 +10066,7 @@
             "author": "Джилл Байден",
             "book": "Там, где свет. История первой леди США",
             "year": "2021",
-            "buyDate": "11/21/21",
+            "buyDate": "11/30/21",
             "price": "317",
             "publisher": "Эксмо",
             "shelf": "eksmo biden",
@@ -10448,7 +10460,7 @@
             "author": "Лисса Кей Адамс",
             "book": "Bromance. Все секреты книжного клуба",
             "year": "2021",
-            "buyDate": "11/21/21",
+            "buyDate": "11/30/21",
             "price": "343",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria kei-adams",
@@ -10468,7 +10480,7 @@
             "author": "Алекс Кристофи",
             "book": "Достоевский in love",
             "year": "2021",
-            "buyDate": "11/21/21",
+            "buyDate": "11/30/21",
             "price": "347",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria",
@@ -10548,7 +10560,7 @@
             "author": "Кэтрин Купер",
             "book": "Шале",
             "year": "2021",
-            "buyDate": "11/21/21",
+            "buyDate": "11/30/21",
             "price": "317",
             "publisher": "Эксмо",
             "shelf": "eksmo white",
@@ -10586,7 +10598,7 @@
             "author": "Дуглас Стюарт",
             "book": "Шагги Бейн",
             "year": "2021",
-            "buyDate": "11/21/21",
+            "buyDate": "11/30/21",
             "price": "414",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria buker",
