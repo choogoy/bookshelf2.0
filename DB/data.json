@@ -8545,6 +8545,7 @@
             "book": "Лотос-блюз",
             "year": "2020",
             "buyDate": "5/26/21",
+            "readDate": "11/21/21",
             "price": "602",
             "publisher": "Corpus",
             "shelf": "corpus ulson",
@@ -8596,6 +8597,26 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/Williams-Stoner-1000-1.jpg"
+        },
+        {
+            "id": "376",
+            "author": "Мойзес Наим",
+            "book": "Конец власти. От залов заседаний до полей сражений, от церкви до государства: почему управлять сегодня нужно иначе.",
+            "year": "2016",
+            "publisher": "Corpus",
+            "shelf": "corpus naim wishlist",
+            "img": "https://www.corpus.ru/picts/products/mojzes-naim-konetz-vlasti.jpg"
+        },
+        {
+            "id": "595",
+            "author": "Мойзес Наим",
+            "book": "Два шпиона в Каракасе. Не совсем выдуманная история про любовь и заговоры в эпоху Уго Чавеса.",
+            "year": "2020",
+            "buyDate": "9/29/21",
+            "price": "399",
+            "publisher": "Corpus",
+            "shelf": "corpus naim",
+            "img": "https://www.corpus.ru/picts/products/cover-caracas.jpg"
         },
         {
             "id": "93",
@@ -8767,26 +8788,6 @@
             "img": "https://www.corpus.ru/picts/products/cover1-anfert-ptichnik.jpg"
         },
         {
-            "id": "376",
-            "author": "Мойзес Наим",
-            "book": "Конец власти. От залов заседаний до полей сражений, от церкви до государства: почему управлять сегодня нужно иначе.",
-            "year": "2016",
-            "publisher": "Corpus",
-            "shelf": "corpus naim wishlist",
-            "img": "https://www.corpus.ru/picts/products/mojzes-naim-konetz-vlasti.jpg"
-        },
-        {
-            "id": "595",
-            "author": "Мойзес Наим",
-            "book": "Два шпиона в Каракасе. Не совсем выдуманная история про любовь и заговоры в эпоху Уго Чавеса.",
-            "year": "2020",
-            "buyDate": "9/29/21",
-            "price": "399",
-            "publisher": "Corpus",
-            "shelf": "corpus naim",
-            "img": "https://www.corpus.ru/picts/products/cover-caracas.jpg"
-        },
-        {
             "id": "668",
             "author": "Си Джей Беннет",
             "book": "Виндзорский узел",
@@ -8937,8 +8938,10 @@
             "author": "Майкл Газзанига",
             "book": "Кто за главного? Свобода воли с точки зрения нейробиологии",
             "year": "2021",
+            "buyDate": "11/26/21",
+            "price": "620",
             "publisher": "Corpus",
-            "shelf": "corpus politeh wishlist new",
+            "shelf": "corpus politeh",
             "img": "https://www.corpus.ru/picts/products/cover1-glavnogo.jpg"
         },
         {
