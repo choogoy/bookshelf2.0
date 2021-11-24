@@ -587,21 +587,23 @@
             "img": "https://www.corpus.ru/picts/products/cover1-kazn.jpg"
         },
         {
+            "id": "681",
+            "author": "Владимир Набоков",
+            "book": "Соглядатай",
+            "year": "2021",
+            "buyDate": "11/29/21",
+            "price": "319",
+            "publisher": "Corpus",
+            "shelf": "corpus nabokov",
+            "img": "https://www.corpus.ru/picts/products/cover1-soglyadatay.jpg"
+        },
+        {
             "id": "679",
             "author": "Владимир Набоков",
             "book": "Бледный огонь",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus nabokov wishlist new"
-        },
-        {
-            "id": "681",
-            "author": "Владимир Набоков",
-            "book": "Соглядатай",
-            "year": "2021",
-            "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new",
-            "img": "https://www.corpus.ru/picts/products/cover1-soglyadatay.jpg"
         },
         {
             "author": "Владимир Набоков",
@@ -2441,9 +2443,9 @@
             "id": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 1961-1970",
-            "year": "2021",
+            "year": "2022",
             "publisher": "Corpus",
-            "shelf": "namedni corpus wishlist",
+            "shelf": "namedni corpus wishlist new",
             "img": "https://s1.livelib.ru/boocover/1000567141/o/bac3/Parfjonov_Leonid__Namedni._Nasha_era._19611970.jpeg"
         },
         {
@@ -2503,8 +2505,8 @@
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 2011-2015",
             "year": "2021",
-            "buyDate": "12/9/21",
-            "price": "2309",
+            "buyDate": "11/29/21",
+            "price": "2282",
             "publisher": "Corpus",
             "shelf": "namedni corpus",
             "img": "https://www.corpus.ru/picts/products/cover1-namedni-2011-2015.png"
@@ -3357,8 +3359,8 @@
         },
         {
             "author": "Чак Паланик",
-            "book": "The Invention of Sound",
-            "year": "2021",
+            "book": "Рождение звука",
+            "year": "2022",
             "shelf": "palanik wishlist new",
             "img": "https://img4.labirint.ru/rc/253b2479e49cee1808a85bea533863f8/594x918/books78/771942/cover.jpg?1602757507"
         },
@@ -8730,7 +8732,7 @@
             "author": "Бен Макинтайр",
             "book": "Шпион среди друзей. Великое предательство Кима Филби",
             "year": "2017",
-            "buyDate": "11/24/21",
+            "buyDate": "11/23/21",
             "price": "515",
             "publisher": "Corpus",
             "shelf": "corpus razvedcorpus",
@@ -9930,8 +9932,10 @@
             "author": "Кэтрин Хьюз",
             "book": "Последнее обещание",
             "year": "2021",
+            "buyDate": "11/29/21",
+            "price": "351",
             "publisher": "АСТ",
-            "shelf": "ast different-life wishlist new",
+            "shelf": "ast different-life",
             "img": "https://cdn.book24.ru/v2/ASE000000000854834/COVER/cover13d__w410.webp"
         },
         {
