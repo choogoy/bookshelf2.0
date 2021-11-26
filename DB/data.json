@@ -429,7 +429,7 @@
             "author": "Владимир Сорокин",
             "book": "Капитал",
             "year": "2018",
-            "buyDate": "11/24/21",
+            "buyDate": "11/25/21",
             "price": "653",
             "publisher": "Corpus",
             "shelf": "corpus sorokin",
@@ -608,6 +608,7 @@
         {
             "author": "Владимир Набоков",
             "book": "Дар",
+            "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus nabokov wishlist"
         },
@@ -1310,7 +1311,9 @@
             "id": "270",
             "author": "Аньес Мартен-Люган",
             "book": "Счастливые люди читают книжки и пьют кофе",
+            "year": "2014",
             "buyDate": "7/22/14",
+            "readDate": "11/24/21",
             "price": "231",
             "publisher": "Corpus",
             "shelf": "martin-lugand corpus happy",
@@ -1320,6 +1323,7 @@
             "id": "306",
             "author": "Аньес Мартен-Люган",
             "book": "У тебя все получится, дорогая моя",
+            "year": "2014",
             "buyDate": "1/19/15",
             "price": "217",
             "publisher": "Corpus",
@@ -1330,7 +1334,9 @@
             "id": "338",
             "author": "Аньес Мартен-Люган",
             "book": "Влюбленные в книги не спят в одиночестве",
+            "year": "2015",
             "buyDate": "8/28/15",
+            "readDate": "11/26/21",
             "price": "238",
             "publisher": "Corpus",
             "shelf": "martin-lugand corpus happy",
@@ -1340,6 +1346,7 @@
             "id": "418",
             "author": "Аньес Мартен-Люган",
             "book": "Извини, меня ждут...",
+            "year": "2017",
             "buyDate": "2/9/17",
             "price": "257",
             "publisher": "Corpus",
@@ -1350,6 +1357,7 @@
             "id": "462",
             "author": "Аньес Мартен-Люган",
             "book": "Ты слышишь нашу музыку?",
+            "year": "2017",
             "buyDate": "12/24/17",
             "price": "253",
             "publisher": "Corpus",
@@ -1360,6 +1368,7 @@
             "id": "526",
             "author": "Аньес Мартен-Люган",
             "book": "Однажды я станцую для тебя",
+            "year": "2019",
             "buyDate": "7/22/19",
             "price": "275",
             "publisher": "Corpus",
@@ -1370,6 +1379,7 @@
             "id": "579",
             "author": "Аньес Мартен-Люган",
             "book": "Мы не могли разминуться",
+            "year": "2020",
             "buyDate": "6/15/20",
             "price": "329",
             "publisher": "Corpus",
@@ -1670,8 +1680,8 @@
         {
             "author": "Бернар Вербер",
             "book": "La Planète des chats",
-            "year": "2021",
-            "shelf": "verber wishlist",
+            "year": "2022",
+            "shelf": "verber wishlist new",
             "img": "https://club-stephenking.fr/wp-content/uploads/2020/08/bernardwerber-couverture-laplanetedeschats-couv.jpg"
         },
         {
@@ -8559,6 +8569,7 @@
             "book": "Мио-блюз",
             "year": "2021",
             "buyDate": "7/15/21",
+            "readDate": "11/24/21",
             "price": "425",
             "publisher": "Corpus",
             "shelf": "corpus ulson",
@@ -8729,6 +8740,7 @@
             "img": "https://www.corpus.ru/picts/products/shpion-na-milliard-dollarov.jpg"
         },
         {
+            "id": "439",
             "author": "Бен Макинтайр",
             "book": "Шпион среди друзей. Великое предательство Кима Филби",
             "year": "2017",
@@ -9502,7 +9514,7 @@
             "book": "Прекрасный мир, где ты?",
             "year": "2022",
             "shelf": "runi wishlist new",
-            "img": "https://sun9-65.userapi.com/impg/_dfM2xsBFne2LvXWpQdyW8BL50SgPZ5X_w-V_g/Xn7hp3RNmcc.jpg?size=1412x2160&quality=96&sign=4e028155cadf0862fd07c91e9c52418d&type=album"
+            "img": "https://sun9-34.userapi.com/impg/vMbSUy5SJyDKlH5e9QkN3-sFSr4rDb6XmuEgNg/IwkqTKxliEE.jpg?size=684x1080&quality=96&sign=095d3717c9ad45ebf55789823d223d62&type=album"
         },
         {
             "author": "Джессика Фокс",
