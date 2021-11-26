@@ -3818,7 +3818,7 @@
             "author": "Маша Трауб",
             "book": "Посмотри на меня",
             "year": "2021",
-            "buyDate": "11/30/21",
+            "buyDate": "12/12/21",
             "price": "285",
             "publisher": "Эксмо",
             "shelf": "traub eksmo",
@@ -3864,7 +3864,7 @@
             "author": "Григорий Остер",
             "book": "Физика с Григорием Остером",
             "year": "2021",
-            "buyDate": "11/30/21",
+            "buyDate": "12/12/21",
             "price": "252",
             "shelf": "education oster",
             "img": "https://cdn.book24.ru/v2/ASE000000000841307/COVER/cover13d__w410.webp"
@@ -9713,7 +9713,7 @@
             "author": "Эли Макнамара",
             "book": "Магазинчик счастья Кейт и Клары",
             "year": "2021",
-            "buyDate": "11/30/21",
+            "buyDate": "12/12/21",
             "price": "334",
             "publisher": "Эксмо",
             "shelf": "maknamara eksmo inspiria",
@@ -10085,7 +10085,7 @@
             "author": "Джилл Байден",
             "book": "Там, где свет. История первой леди США",
             "year": "2021",
-            "buyDate": "11/30/21",
+            "buyDate": "12/12/21",
             "price": "317",
             "publisher": "Эксмо",
             "shelf": "eksmo biden",
@@ -10479,7 +10479,7 @@
             "author": "Лисса Кей Адамс",
             "book": "Bromance. Все секреты книжного клуба",
             "year": "2021",
-            "buyDate": "11/30/21",
+            "buyDate": "12/12/21",
             "price": "343",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria kei-adams",
@@ -10513,7 +10513,17 @@
             "price": "421",
             "publisher": "Эксмо",
             "shelf": "eksmo",
-            "img": "https://cdn.book24.ru/v2/ITD000000001155734/COVER/cover13d__w410.webp"
+            "img": "https://s1.livelib.ru/boocover/1006894984/o/082c/Kadzuo_Isiguro__Klara_i_Solntse.jpeg"
+        },
+        {
+            "author": "Кадзуо Исигуро",
+            "book": "Не отпускай меня",
+            "year": "2021",
+            "buyDate": "11/28/21",
+            "price": "401",
+            "publisher": "Эксмо",
+            "shelf": "eksmo",
+            "img": "https://s1.livelib.ru/boocover/1006894990/o/202a/Kadzuo_Isiguro__Ne_otpuskaj_menya.jpeg"
         },
         {
             "author": "Пол Бейти",
@@ -10579,7 +10589,7 @@
             "author": "Кэтрин Купер",
             "book": "Шале",
             "year": "2021",
-            "buyDate": "11/30/21",
+            "buyDate": "12/12/21",
             "price": "317",
             "publisher": "Эксмо",
             "shelf": "eksmo white",
@@ -10599,8 +10609,10 @@
             "author": "Джонсон Клэйборн",
             "book": "В другой раз повезет!",
             "year": "2021",
+            "buyDate": "11/28/21",
+            "price": "300",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria wishlist",
+            "shelf": "eksmo inspiria",
             "img": "https://s1.livelib.ru/boocover/1005948097/o/ff93/Dzhuliya_Dzhonson__V_drugoj_raz_povezet.jpeg"
         },
         {
@@ -10614,10 +10626,20 @@
             "img": "https://s1.livelib.ru/boocover/1006778734/o/2556/Dzhuliya_Dzhonson__Bud_so_mnoj_chesten.jpeg"
         },
         {
+            "author": "Брендон Тейлор",
+            "book": "Настоящая жизнь",
+            "year": "2021",
+            "buyDate": "11/28/21",
+            "price": "350",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria",
+            "img": "https://cdn.book24.ru/v2/ITD000000001153056/COVER/cover13d__w410.webp"
+        },
+        {
             "author": "Дуглас Стюарт",
             "book": "Шагги Бейн",
             "year": "2021",
-            "buyDate": "11/30/21",
+            "buyDate": "12/12/21",
             "price": "414",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria buker",
