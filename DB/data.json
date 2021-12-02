@@ -4647,7 +4647,9 @@
             "author": "Джефф Кинни",
             "book": "Дневник слабака-14. Сокрушительный удар",
             "year": "2021",
-            "shelf": "slabak wishlist new",
+            "buyDate": "12/6/21",
+            "price": "322",
+            "shelf": "slabak",
             "img": "https://cdn.ast.ru/v2/ASE000000000852042/COVER/cover1__w600.jpg"
         },
         {
@@ -8201,7 +8203,7 @@
             "buyDate": "11/6/21",
             "price": "394",
             "publisher": "Corpus",
-            "shelf": "corpus russian",
+            "shelf": "corpus primus russian",
             "img": "https://www.corpus.ru/picts/products/Fufaeva-Women-1000.jpg"
         },
         {
@@ -8845,9 +8847,21 @@
             "author": "Ян Немец",
             "book": "Возможности любовного романа",
             "year": "2021",
+            "buyDate": "12/6/21",
+            "price": "470",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new",
+            "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/cover-nemetz.jpg"
+        },
+        {
+            "author": "Наталья Конрадова",
+            "book": "Археология русского интернета",
+            "year": "2021",
+            "buyDate": "12/6/21",
+            "price": "420",
+            "publisher": "Corpus",
+            "shelf": "corpus primus",
+            "img": "https://www.corpus.ru/picts/products/cover1-runet.jpg"
         },
         {
             "id": "687",
@@ -9594,6 +9608,12 @@
             "price": "346",
             "shelf": "kasten",
             "img": "https://s1.livelib.ru/boocover/1006211509/o/c4a0/Mona_Kasten__Doversya_mne.jpeg"
+        },
+        {
+            "author": "Мона Кастен",
+            "book": "Снова почувствуй",
+            "year": "2022",
+            "shelf": "kasten wishlist new"
         },
         {
             "author": "Мэри Энн Марлоу",
@@ -10640,6 +10660,20 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria",
             "img": "https://cdn.book24.ru/v2/ITD000000001153056/COVER/cover13d__w410.webp"
+        },
+        {
+            "author": "Хейзел Прайор",
+            "book": "Как пингвины спасли Веронику",
+            "year": "2021",
+            "shelf": "wishlist new",
+            "img": "https://s1.livelib.ru/boocover/1006842790/o/5ec7/Hejzel_Prajor__Kak_pingviny_spasli_Veroniku.jpeg"
+        },
+        {
+            "author": "Джон Айронмонгер",
+            "book": "Кит на краю света",
+            "year": "2021",
+            "shelf": "wishlist new",
+            "img": "https://cdn.book24.ru/v2/ASE000000000859846/COVER/cover13d__w410.webp"
         },
         {
             "author": "Дуглас Стюарт",
