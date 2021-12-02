@@ -453,6 +453,7 @@
             "book": "Норма",
             "year": "2019",
             "buyDate": "11/5/21",
+            "readDate": "11/29/21",
             "price": "505",
             "publisher": "Corpus",
             "shelf": "corpus sorokin",
@@ -1326,6 +1327,7 @@
             "book": "У тебя все получится, дорогая моя",
             "year": "2014",
             "buyDate": "1/19/15",
+            "readDate": "12/2/21",
             "price": "217",
             "publisher": "Corpus",
             "shelf": "martin-lugand corpus happy",
@@ -4266,8 +4268,11 @@
         {
             "author": "Марк Гоулстон",
             "book": "Как разговаривать с мудаками. Что делать с неадекватными и невыносимыми людьми в вашей жизни",
+            "year": "2017",
             "buyDate": "12/27/17",
             "price": "510",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif",
             "img": "https://cv1.litres.ru/pub/c/elektronnaya-kniga/cover_415/22430819-mark-goulston-kak-razgovarivat-s-m-dakami-chto-delat-s-neadekvatnymi-i-nevynosimymi-ludmi-v-vashey-zhizni-22430819.jpg"
         },
         {
@@ -7823,7 +7828,7 @@
             "price": "245",
             "publisher": "Corpus",
             "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1002837483/o/f97b/Timoti_Devid_Snajder__O_tiranii._20_urokov_XX_veka.jpeg"
+            "img": "https://www.corpus.ru/picts/products/SNYDER_cover.jpg"
         },
         {
             "id": "467",
@@ -7947,7 +7952,7 @@
             "price": "428",
             "publisher": "Corpus",
             "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1002812210/o/73f1/Madlen_Ten__Ne_govori_chto_u_nas_nichego_net.jpeg"
+            "img": "https://www.corpus.ru/picts/products/Tien-Ne-govori-1000.jpg"
         },
         {
             "id": "508",
@@ -9146,7 +9151,7 @@
             "year": "2021",
             "publisher": "Иностранка",
             "shelf": "kolgan inostranka wishlist new",
-            "img": "https://sun9-24.userapi.com/impg/AXJFFiGYofQppgOlBpuhJQpFPErhiQcdYJaRuQ/w9FVdQvaasU.jpg?size=1000x1554&quality=96&sign=dee57c91d85907247e4822dc2dad3ef6&type=album"
+            "img": "https://s1.livelib.ru/boocover/1006858030/o/ffc7/Dzhenni_Kolgan__Rozhdestvo_na_ostrove_sbornik.jpeg"
         },
         {
             "author": "Билл Сэмюэл",
@@ -9284,7 +9289,7 @@
             "price": "332",
             "publisher": "Бомбора",
             "shelf": "bombora",
-            "img": "https://img4.labirint.ru/rc/9aa1e00cf68cd1c7aa1691235b726eb4/220x340/books76/758906/cover.jpg?1596259548"
+            "img": "https://s1.livelib.ru/boocover/1005765184/o/aedb/Natalya_Korneva__Avtostopom_po_Rossii._Zahvatyvayuschee_puteshestvie_ot_Peterbur.jpeg"
         },
         {
             "author": "Галина Турецкая",
@@ -9306,7 +9311,7 @@
             "price": "399",
             "publisher": "АСТ",
             "shelf": "prison ast",
-            "img": "https://sun9-47.userapi.com/impg/1oNoA3scaEGutrg6Fuve6u8yCb8m90M88cXw5Q/Y1PVhrzJIP4.jpg?size=381x604&quality=90&sign=42dfd6c4c12d6dfd7bf50b703abf237e"
+            "img": "https://s1.livelib.ru/boocover/1005515491/o/9e01/Mariya_Butina__Tyuremnyj_dnevnik.jpeg"
         },
         {
             "author": "Евгения Горац",
@@ -9336,7 +9341,7 @@
             "price": "667",
             "publisher": "АСТ",
             "shelf": "sport",
-            "img": "https://cdn.ast.ru/v2/AST000000000153082/COVER/cover1__w600.jpg"
+            "img": "https://s1.livelib.ru/boocover/1001059086/o/9b97/Aleks_Fergyuson__Avtobiografiya.jpeg"
         },
         {
             "author": "Дункан Кларк",
@@ -9345,17 +9350,17 @@
             "buyDate": "11/3/20",
             "price": "503",
             "publisher": "Эксмо",
-            "img": "https://cdn1.ozone.ru/s3/multimedia-o/wc1200/6020010264.jpg"
+            "img": "https://s1.livelib.ru/boocover/1003980172/o/f320/Dunkan_Klark__Alibaba._Istoriya_mirovogo_voshozhdeniya_ot_pervogo_litsa.jpeg"
         },
         {
             "author": "Кен Косиенда",
-            "book": "Кен Косиенда: Творческий отбор. Как создавались лучшие продукты Apple во времена Стива Джобса",
+            "book": "Творческий отбор. Как создавались лучшие продукты Apple во времена Стива Джобса",
             "year": "2020",
             "buyDate": "11/3/20",
             "price": "521",
             "publisher": "Бомбора",
             "shelf": "bombora apple",
-            "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc1200/6021866961.jpg"
+            "img": "https://s1.livelib.ru/boocover/1005639622/o/96fa/Ken_Kosienda__Tvorcheskij_otbor_kak_sozdavalis_luchshie_produkty_Apple_vo_vremen.jpeg"
         },
         {
             "author": "Брайан Мерчант",
@@ -9365,7 +9370,7 @@
             "price": "485",
             "publisher": "Бомбора",
             "shelf": "bombora apple",
-            "img": "https://cdn1.ozone.ru/s3/multimedia-9/wc1200/6013704201.jpg"
+            "img": "https://s1.livelib.ru/boocover/1002954947/o/0b60/Brajan_Merchant__Universalnoe_ustrojstvo._Neizvestnaya_istoriya_sozdaniya_iPhone.jpeg"
         },
         {
             "author": "Андрей Беловешкин",
@@ -9375,7 +9380,7 @@
             "price": "295.9",
             "publisher": "Бомбора",
             "shelf": "bombora food",
-            "img": "https://cdn1.ozone.ru/s3/multimedia-l/wc1200/6008624289.jpg"
+            "img": "https://s1.livelib.ru/boocover/1003404944/o/abb7/Andrej_Beloveshkin__Chto_i_kogda_est._Kak_najti_zolotuyu_seredinu_mezhdu_golodom.jpeg"
         },
         {
             "author": "Мишель Обама",
@@ -9512,10 +9517,10 @@
         },
         {
             "author": "Салли Руни",
-            "book": "Прекрасный мир, где ты?",
+            "book": "Прекрасный мир, где же ты",
             "year": "2022",
             "shelf": "runi wishlist new",
-            "img": "https://sun9-34.userapi.com/impg/vMbSUy5SJyDKlH5e9QkN3-sFSr4rDb6XmuEgNg/IwkqTKxliEE.jpg?size=684x1080&quality=96&sign=095d3717c9ad45ebf55789823d223d62&type=album"
+            "img": "https://s1.livelib.ru/boocover/1006912807/o/a419/Salli_Runi__Prekrasnyj_mir_gde_zhe_ty.jpeg"
         },
         {
             "author": "Джессика Фокс",
@@ -9718,7 +9723,7 @@
             "price": "334",
             "publisher": "Эксмо",
             "shelf": "maknamara eksmo inspiria",
-            "img": "https://cdn.book24.ru/v2/ITD000000001176294/COVER/cover13d__w410.webp"
+            "img": "https://s1.livelib.ru/boocover/1006890874/o/f8da/Eli_Maknamara__Magazinchik_schastya_Kejt_i_Klary.jpeg"
         },
         {
             "author": "Джоджо Мойес",
@@ -9809,7 +9814,7 @@
             "price": "334",
             "publisher": "АСТ",
             "shelf": "bookstore ast",
-            "img": "https://cdn.book24.ru/v2/ASE000000000849436/COVER/cover3d1__w674.webp"
+            "img": "https://s1.livelib.ru/boocover/1005584584/o/03ca/Majerson_Emi__Knizhnyj_magazinchik_proshlogo.jpeg"
         },
         {
             "author": "Джули Кэплин",
@@ -9949,7 +9954,7 @@
             "price": "351",
             "publisher": "АСТ",
             "shelf": "ast different-life",
-            "img": "https://cdn.book24.ru/v2/ASE000000000854834/COVER/cover13d__w410.webp"
+            "img": "https://s1.livelib.ru/boocover/1006897279/o/c980/Ketrin_Hyuz__Poslednee_obeschanie.jpeg"
         },
         {
             "author": "Яна Хлюстова",
@@ -9998,7 +10003,7 @@
             "price": "433",
             "publisher": "АСТ",
             "shelf": "ast science",
-            "img": "https://cdn.book24.ru/v2/ASE000000000848870/COVER/cover13d__w410.webp"
+            "img": "https://s1.livelib.ru/boocover/1006846660/o/e3ac/So_Joson__Mozg_i_razum_v_epohu_virtualnoj_realnosti.jpeg"
         },
         {
             "author": "Лейла Слимани",
@@ -10090,7 +10095,7 @@
             "price": "317",
             "publisher": "Эксмо",
             "shelf": "eksmo biden",
-            "img": "https://cdn.book24.ru/v2/ITD000000001158127/COVER/cover13d__w410.webp"
+            "img": "https://s1.livelib.ru/boocover/1006876483/o/788c/Dzhill_Bajden__Tam_gde_svet._Istoriya_pervoj_ledi_SShA.jpeg"
         },
         {
             "author": "Лин Рина",
@@ -10207,7 +10212,7 @@
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo music lennon beatles wishlist new",
-            "img": "https://cdn.book24.ru/v2/ITD000000001202745/COVER/cover13d__w410.webp"
+            "img": "https://s1.livelib.ru/boocover/1006825414/o/0c44/__Poslednie_dni_Dzhona_Lennona.jpeg"
         },
         {
             "author": "Ханна Кент",
@@ -10247,7 +10252,7 @@
             "price": "763",
             "publisher": "Питер",
             "shelf": "piter",
-            "img": "https://kniga.lv/wp-content/uploads/2021/09/44612952.jpg"
+            "img": "https://s1.livelib.ru/boocover/1006881304/o/f829/__Vnutri_Facebook._Golaya_pravda.jpeg"
         },
         {
             "author": "Марк Рэндольф",
@@ -10319,7 +10324,7 @@
             "year": "2021",
             "publisher": "Бомбора",
             "shelf": "bombora kuni moloko wishlist new",
-            "img": "https://cdn.book24.ru/v2/ITD000000001092230/COVER/cover13d__w410.webp"
+            "img": "https://s1.livelib.ru/boocover/1006842709/o/4fbb/Kerolajn_B._Kuni__Klyuch_k_proshlomu.jpeg"
         },
         {
             "author": "Кэролайн Б. Куни",
@@ -10644,7 +10649,7 @@
             "price": "414",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria buker",
-            "img": "https://i.ebayimg.com/images/g/-ysAAOSw42Nft24r/s-l1600.jpg"
+            "img": "https://s1.livelib.ru/boocover/1006855729/o/b650/Duglas_Styuart__Shaggi_Bejn.jpeg"
         },
         {
             "author": "Мартин Лейтем",
