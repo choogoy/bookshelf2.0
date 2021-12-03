@@ -1,5 +1,5 @@
 {
-    "books": [
+    "book24": [
         {
             "id": "255",
             "author": "Ася Казанцева",
@@ -3821,7 +3821,7 @@
             "author": "Маша Трауб",
             "book": "Посмотри на меня",
             "year": "2021",
-            "buyDate": "12/12/21",
+            "buyDate": "12/4/21",
             "price": "285",
             "publisher": "Эксмо",
             "shelf": "traub eksmo",
@@ -4647,8 +4647,8 @@
             "author": "Джефф Кинни",
             "book": "Дневник слабака-14. Сокрушительный удар",
             "year": "2021",
-            "buyDate": "12/6/21",
-            "price": "322",
+            "buyDate": "12/7/21",
+            "price": "306",
             "shelf": "slabak",
             "img": "https://cdn.ast.ru/v2/ASE000000000852042/COVER/cover1__w600.jpg"
         },
@@ -8847,17 +8847,18 @@
             "author": "Ян Немец",
             "book": "Возможности любовного романа",
             "year": "2021",
-            "buyDate": "12/6/21",
+            "buyDate": "12/7/21",
             "price": "470",
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/cover-nemetz.jpg"
         },
         {
+            "id": "n",
             "author": "Наталья Конрадова",
             "book": "Археология русского интернета",
             "year": "2021",
-            "buyDate": "12/6/21",
+            "buyDate": "12/7/21",
             "price": "420",
             "publisher": "Corpus",
             "shelf": "corpus primus",
@@ -10662,6 +10663,16 @@
             "img": "https://cdn.book24.ru/v2/ITD000000001153056/COVER/cover13d__w410.webp"
         },
         {
+            "author": "Дуглас Стюарт",
+            "book": "Шагги Бейн",
+            "year": "2021",
+            "buyDate": "12/4/21",
+            "price": "414",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria buker",
+            "img": "https://img4.labirint.ru/rc/13430f73546c13906d8950587ed09994/594x918/books83/825998/cover.jpg?1638458707"
+        },
+        {
             "author": "Хейзел Прайор",
             "book": "Как пингвины спасли Веронику",
             "year": "2021",
@@ -10676,14 +10687,17 @@
             "img": "https://cdn.book24.ru/v2/ASE000000000859846/COVER/cover13d__w410.webp"
         },
         {
-            "author": "Дуглас Стюарт",
-            "book": "Шагги Бейн",
+            "author": "Карина Ян Глейзер",
+            "book": "Вандербикеры с 141-й улицы",
             "year": "2021",
-            "buyDate": "12/12/21",
-            "price": "414",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria buker",
-            "img": "https://s1.livelib.ru/boocover/1006855729/o/b650/Duglas_Styuart__Shaggi_Bejn.jpeg"
+            "shelf": "wishlist new",
+            "img": "https://www.clever-media.ru/upload/iblock/8dd/8dde90bc197dbde39a1792c1858194e2.jpg"
+        },
+        {
+            "author": "Карина Ян Глейзер",
+            "book": "Вандербикеры и таинственный сад",
+            "shelf": "wishlist new",
+            "img": "https://www.clever-media.ru/upload/resize_cache/iblock/2db/800_600_090cf9bfc02c81ba0a02cc940d6445018/2dbab2fe72995177c9ebbe81fe892d27.jpg"
         },
         {
             "author": "Мартин Лейтем",
