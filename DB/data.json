@@ -5388,8 +5388,10 @@
             "author": "Жоэль Диккер",
             "book": "Последние дни наших отцов",
             "year": "2021",
+            "buyDate": "12/8/21",
+            "price": "587",
             "publisher": "Corpus",
-            "shelf": "dikker corpus wishlist new",
+            "shelf": "dikker corpus",
             "img": "https://www.corpus.ru/picts/products/cover1-dicker-otsy.jpg"
         },
         {
@@ -6337,8 +6339,10 @@
             "author": "Олег Радзинский",
             "book": "Боги и лишние. неГероический эпос",
             "year": "2021",
+            "buyDate": "12/8/21",
+            "price": "500",
             "publisher": "Corpus",
-            "shelf": "corpus radzinsky wishlist new",
+            "shelf": "corpus radzinsky",
             "img": "https://www.corpus.ru/picts/products/cover1-lishnie.jpg"
         },
         {
@@ -9164,8 +9168,10 @@
             "author": "Дженни Колган",
             "book": "Рождество на острове",
             "year": "2021",
+            "buyDate": "12/8/21",
+            "price": "270",
             "publisher": "Иностранка",
-            "shelf": "kolgan inostranka wishlist new",
+            "shelf": "kolgan inostranka",
             "img": "https://s1.livelib.ru/boocover/1006858030/o/ffc7/Dzhenni_Kolgan__Rozhdestvo_na_ostrove_sbornik.jpeg"
         },
         {
@@ -10676,7 +10682,8 @@
             "author": "Хейзел Прайор",
             "book": "Как пингвины спасли Веронику",
             "year": "2021",
-            "shelf": "wishlist new",
+            "buyDate": "12/8/21",
+            "price": "337",
             "img": "https://s1.livelib.ru/boocover/1006842790/o/5ec7/Hejzel_Prajor__Kak_pingviny_spasli_Veroniku.jpeg"
         },
         {
@@ -10685,6 +10692,27 @@
             "year": "2021",
             "shelf": "wishlist new",
             "img": "https://cdn.book24.ru/v2/ASE000000000859846/COVER/cover13d__w410.webp"
+        },
+        {
+            "author": "Луанн Райс",
+            "book": "Ящик Пандоры",
+            "year": "2021",
+            "buyDate": "12/8/21",
+            "price": "337",
+            "shelf": "puzzle",
+            "img": "https://s1.livelib.ru/boocover/1006766875/o/6a73/Luann_Rajs__Yaschik_Pandory.jpeg"
+        },
+        {
+            "author": "Трейси Бьюканан",
+            "book": "Стена тишины",
+            "shelf": "puzzle wishlist new",
+            "img": "https://cdn.book24.ru/v2/ASE000000000852964/COVER/cover13d__w410.webp"
+        },
+        {
+            "author": "А.Р. Торре",
+            "book": "Последний секрет",
+            "shelf": "puzzle wishlist new",
+            "img": "https://cdn.book24.ru/v2/ASE000000000858774/COVER/cover13d__w410.webp"
         },
         {
             "author": "Карина Ян Глейзер",
