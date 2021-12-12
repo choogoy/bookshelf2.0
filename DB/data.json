@@ -1363,6 +1363,7 @@
             "book": "Ты слышишь нашу музыку?",
             "year": "2017",
             "buyDate": "12/24/17",
+            "readDate": "12/10/21",
             "price": "253",
             "publisher": "Corpus",
             "shelf": "martin-lugand corpus happy",
@@ -1422,7 +1423,8 @@
             "book": "Атлант расправил плечи (комлект из 3-х книг)",
             "buyDate": "4/22/17",
             "price": "745",
-            "shelf": "rand",
+            "publisher": "Альпина Паблишер",
+            "shelf": "rand alpina",
             "img": "https://s1.livelib.ru/boocover/1000423408/o/a997/Ajn_Rend__Atlant_raspravil_plechi_komplekt_iz_3_knig.jpeg"
         },
         {
@@ -1430,7 +1432,8 @@
             "book": "Источник (комплект из 2-х книг)",
             "buyDate": "10/13/20",
             "price": "569.67",
-            "shelf": "rand",
+            "publisher": "Альпина Паблишер",
+            "shelf": "rand alpina",
             "img": "https://s1.livelib.ru/boocover/1000535134/o/f86e/Ajn_Rend__Istochnik_komplekt_iz_2_knig.jpeg"
         },
         {
@@ -1438,7 +1441,8 @@
             "book": "Мы живые",
             "buyDate": "10/13/20",
             "price": "423.21",
-            "shelf": "rand",
+            "publisher": "Альпина Паблишер",
+            "shelf": "rand alpina",
             "img": "https://s1.livelib.ru/boocover/1000457259/o/34e0/Ajn_Rend__My_zhivye.jpeg"
         },
         {
@@ -1446,7 +1450,8 @@
             "book": "Гимн",
             "buyDate": "10/13/20",
             "price": "203.12",
-            "shelf": "rand",
+            "publisher": "Альпина Паблишер",
+            "shelf": "rand alpina",
             "img": "https://s1.livelib.ru/boocover/1001158335/o/deb9/Ajn_Rend__Gimn.jpeg"
         },
         {
@@ -2524,6 +2529,14 @@
             "publisher": "Corpus",
             "shelf": "namedni corpus",
             "img": "https://www.corpus.ru/picts/products/cover1-namedni-2011-2015.png"
+        },
+        {
+            "id": "n",
+            "author": "Леонид Парфенов",
+            "book": "Намедни. Наша эра. 2016-2020",
+            "year": "2023",
+            "publisher": "Corpus",
+            "shelf": "namedni corpus wishlist"
         },
         {
             "author": "Мишель Уэльбек",
@@ -4543,7 +4556,8 @@
             "book": "Дневник слабака",
             "buyDate": "10/17/20",
             "price": "280",
-            "shelf": "slabak",
+            "publisher": "АСТ",
+            "shelf": "slabak ast",
             "img": "https://cdn.ast.ru/v2/ASE000000000720900/COVER/cover1__w600.jpg"
         },
         {
@@ -4551,7 +4565,8 @@
             "book": "Дневник слабака-2. Родрик рулит",
             "buyDate": "10/17/20",
             "price": "280",
-            "shelf": "slabak",
+            "publisher": "АСТ",
+            "shelf": "slabak ast",
             "img": "https://cdn.ast.ru/v2/ASE000000000720901/COVER/cover1__w600.jpg"
         },
         {
@@ -4559,7 +4574,8 @@
             "book": "Дневник слабака-3. Последняя капля",
             "buyDate": "10/16/20",
             "price": "280",
-            "shelf": "slabak",
+            "publisher": "АСТ",
+            "shelf": "slabak ast",
             "img": "https://cdn.ast.ru/v2/ASE000000000720913/COVER/cover1__w600.jpg"
         },
         {
@@ -4567,7 +4583,8 @@
             "book": "Дневник слабака-4. Собачья жизнь",
             "buyDate": "10/17/20",
             "price": "280",
-            "shelf": "slabak",
+            "publisher": "АСТ",
+            "shelf": "slabak ast",
             "img": "https://cdn.ast.ru/v2/ASE000000000827192/COVER/cover1__w600.jpg"
         },
         {
@@ -4575,7 +4592,8 @@
             "book": "Дневник слабака-5. Неприглядная правда",
             "buyDate": "10/16/20",
             "price": "280",
-            "shelf": "slabak",
+            "publisher": "АСТ",
+            "shelf": "slabak ast",
             "img": "https://cdn.ast.ru/v2/ASE000000000831481/COVER/cover1__w600.jpg"
         },
         {
@@ -4583,7 +4601,8 @@
             "book": "Дневник слабака-6. Предпраздничная лихорадка",
             "buyDate": "10/16/20",
             "price": "280",
-            "shelf": "slabak",
+            "publisher": "АСТ",
+            "shelf": "slabak ast",
             "img": "https://cdn.ast.ru/v2/ASE000000000835140/COVER/cover1__w600.jpg"
         },
         {
@@ -4591,7 +4610,8 @@
             "book": "Дневник слабака-7. Третий лишний",
             "buyDate": "10/17/20",
             "price": "280",
-            "shelf": "slabak",
+            "publisher": "АСТ",
+            "shelf": "slabak ast",
             "img": "https://cdn.ast.ru/v2/ASE000000000839342/COVER/cover1__w600.jpg"
         },
         {
@@ -4599,7 +4619,8 @@
             "book": "Дневник слабака-8. Полоса невезения",
             "buyDate": "10/16/20",
             "price": "280",
-            "shelf": "slabak",
+            "publisher": "АСТ",
+            "shelf": "slabak ast",
             "img": "https://cdn.ast.ru/v2/ASE000000000842560/COVER/cover1__w600.jpg"
         },
         {
@@ -4607,7 +4628,8 @@
             "book": "Дневник слабака-9. Долгая дорога",
             "buyDate": "10/17/20",
             "price": "280",
-            "shelf": "slabak",
+            "publisher": "АСТ",
+            "shelf": "slabak ast",
             "img": "https://cdn.ast.ru/v2/ASE000000000843605/COVER/cover1__w600.jpg"
         },
         {
@@ -4615,7 +4637,8 @@
             "book": "Дневник слабака-10. Как в старые добрые времена",
             "buyDate": "10/17/20",
             "price": "280",
-            "shelf": "slabak",
+            "publisher": "АСТ",
+            "shelf": "slabak ast",
             "img": "https://cdn.ast.ru/v2/ASE000000000846068/COVER/cover1__w600.jpg"
         },
         {
@@ -4623,7 +4646,8 @@
             "book": "Дневник слабака-11. Ставки повышаются",
             "buyDate": "10/17/20",
             "price": "280",
-            "shelf": "slabak",
+            "publisher": "АСТ",
+            "shelf": "slabak ast",
             "img": "https://cdn.ast.ru/v2/ASE000000000843608/COVER/cover1__w600.jpg"
         },
         {
@@ -4632,7 +4656,8 @@
             "year": "2020",
             "buyDate": "11/3/20",
             "price": "315",
-            "shelf": "slabak",
+            "publisher": "АСТ",
+            "shelf": "slabak ast",
             "img": "https://cdn.ast.ru/v2/ASE000000000850185/COVER/cover1__w600.jpg"
         },
         {
@@ -4641,7 +4666,8 @@
             "year": "2021",
             "buyDate": "3/31/21",
             "price": "313",
-            "shelf": "slabak",
+            "publisher": "АСТ",
+            "shelf": "slabak ast",
             "img": "https://cdn.ast.ru/v2/ASE000000000852041/COVER/cover1__w600.jpg"
         },
         {
@@ -4650,7 +4676,8 @@
             "year": "2021",
             "buyDate": "12/11/21",
             "price": "306",
-            "shelf": "slabak",
+            "publisher": "АСТ",
+            "shelf": "slabak ast",
             "img": "https://cdn.ast.ru/v2/ASE000000000852042/COVER/cover1__w600.jpg"
         },
         {
@@ -4685,7 +4712,8 @@
             "year": "2019",
             "buyDate": "10/17/20",
             "price": "282",
-            "shelf": "slabak",
+            "publisher": "АСТ",
+            "shelf": "slabak ast",
             "img": "https://cdn.ast.ru/v2/ASE000000000847580/COVER/cover1__w600.jpg"
         },
         {
@@ -7374,49 +7402,6 @@
             "img": "https://cdn1.ozone.ru/s3/multimedia-b/wc1200/6008814431.jpg"
         },
         {
-            "author": "Джейсон Фанг",
-            "book": "Код ожирения. Глобальное медицинское исследование о том, как подсчет калорий, увеличение активности",
-            "year": "2020",
-            "buyDate": "7/21/20",
-            "readDate": "8/2/20",
-            "price": "472",
-            "publisher": "Бомбора",
-            "shelf": "bombora food",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001110084/COVER/cover1__w600.jpg"
-        },
-        {
-            "author": "Джейсон Фанг",
-            "book": "Интервальное голодание. Как восстановить свой организм, похудеть и активизировать работу мозга",
-            "year": "2020",
-            "buyDate": "12/13/20",
-            "price": "410",
-            "publisher": "Бомбора",
-            "shelf": "bombora food",
-            "img": "https://book.sibverk.ru/image/trumb/500x500/13-857776.jpg"
-        },
-        {
-            "author": "Ксения Кнорре Дмитриева",
-            "book": "Найден, жив! Записки о поисковом отряде «Лиза Алерт»",
-            "year": "2020",
-            "buyDate": "8/16/20",
-            "readDate": "9/4/20",
-            "price": "347",
-            "publisher": "Бомбора",
-            "shelf": "bombora",
-            "img": "https://s1.livelib.ru/boocover/1004747155/o/3b49/Kseniya_KnorreDmitrieva__Najden_zhiv_Zapiski_o_poiskovom_otryade_Liza_Alert.jpeg"
-        },
-        {
-            "author": "Катрин Стейерт",
-            "book": "Добро пожаловать на борт! Что делают бортпроводники во время полета и после приземления",
-            "year": "2020",
-            "buyDate": "9/18/20",
-            "readDate": "11/11/20",
-            "price": "350",
-            "publisher": "Бомбора",
-            "shelf": "bombora",
-            "img": "https://s1.livelib.ru/boocover/1004535604/o/a18b/Katrin_Stejert__Dobro_pozhalovat_na_bort_Chto_delayut_bortprovodniki_vo_vremya_p.jpeg"
-        },
-        {
             "id": "406",
             "author": "Ханья Янагихара",
             "book": "Маленькая жизнь",
@@ -9274,14 +9259,147 @@
             "img": "https://s1.livelib.ru/boocover/1004631232/o/9827/Fredrik_Bakman__Trevozhnye_lyudi.jpeg"
         },
         {
-            "author": "Денис Ступников",
-            "book": "АРИЯ: Возрождение легенды. Авторизованная биография группы",
+            "author": "Салли Руни",
+            "book": "Разговоры с друзьями",
             "year": "2020",
-            "buyDate": "12/25/20",
-            "price": "544",
-            "publisher": "АСТ",
-            "shelf": "ast music stupnikov",
-            "img": "https://s1.livelib.ru/boocover/1005527488/o/411f/Denis_Stupnikov__Ariya_Vozrozhdenie_Legendy._Avtorizovannaya_biografiya_gruppy.jpeg"
+            "buyDate": "1/7/21",
+            "readDate": "10/2/21",
+            "price": "379",
+            "publisher": "Синдбад",
+            "shelf": "runi sindbad",
+            "img": "https://s1.livelib.ru/boocover/1004112313/o/03d6/Salli_Runi__Razgovory_s_druzyami.jpeg"
+        },
+        {
+            "author": "Салли Руни",
+            "book": "Нормальные люди",
+            "year": "2020",
+            "buyDate": "1/7/21",
+            "readDate": "10/5/21",
+            "price": "331",
+            "publisher": "Синдбад",
+            "shelf": "runi sindbad",
+            "img": "https://s1.livelib.ru/boocover/1003635319/o/d7f5/Salli_Runi__Normalnye_lyudi.jpeg"
+        },
+        {
+            "author": "Салли Руни",
+            "book": "Прекрасный мир, где же ты",
+            "year": "2022",
+            "publisher": "Синдбад",
+            "shelf": "runi sindbad wishlist new",
+            "img": "https://s1.livelib.ru/boocover/1006912807/o/a419/Salli_Runi__Prekrasnyj_mir_gde_zhe_ty.jpeg"
+        },
+        {
+            "author": "Лейла Слимани",
+            "book": "Идеальная няня",
+            "year": "2018",
+            "buyDate": "7/8/21",
+            "price": "321",
+            "publisher": "Синдбад",
+            "shelf": "goncur sindbad",
+            "img": "https://s1.livelib.ru/boocover/1002805865/o/c871/Lejla_Slimani__Idealnaya_nyanya.jpeg"
+        },
+        {
+            "author": "Ханна Кент",
+            "book": "Вкус дыма",
+            "year": "2019",
+            "buyDate": "8/17/21",
+            "price": "432",
+            "publisher": "Синдбад",
+            "shelf": "kent sindbad",
+            "img": "https://s1.livelib.ru/boocover/1003636472/o/14c9/Hanna_Kent__Vkus_dyma.jpeg"
+        },
+        {
+            "author": "Ханна Кент",
+            "book": "Темная вода",
+            "year": "2019",
+            "buyDate": "8/17/21",
+            "price": "432",
+            "publisher": "Синдбад",
+            "shelf": "kent sindbad",
+            "img": "https://s1.livelib.ru/boocover/1002896100/o/34cd/Hanna_Kent__Temnaya_voda.jpeg"
+        },
+        {
+            "author": "Патрик Федра",
+            "book": "Артур Пеппер и загадочный браслет",
+            "year": "2018",
+            "buyDate": "1/31/21",
+            "price": "251.71",
+            "publisher": "Синдбад",
+            "shelf": "fedra sindbad",
+            "img": "https://s1.livelib.ru/boocover/1002891333/o/0011/Fedra_Patrik__Artur_Pepper_i_zagadochnyj_braslet.jpeg"
+        },
+        {
+            "author": "Патрик Федра",
+            "book": "Библиотека утрат и находок",
+            "year": "2021",
+            "buyDate": "2/3/21",
+            "price": "297.31",
+            "publisher": "Эксмо",
+            "shelf": "inspiria fedra bookstore eksmo",
+            "img": "https://s1.livelib.ru/boocover/1005478291/o/4556/Fedra_Patrik__Biblioteka_utrat_i_nahodok.jpeg"
+        },
+        {
+            "author": "Мэри Энн Марлоу",
+            "book": "Книжный магазинчик Мэделин",
+            "year": "2019",
+            "buyDate": "1/7/21",
+            "price": "300",
+            "publisher": "Эксмо",
+            "shelf": "bookstore eksmo",
+            "img": "https://s1.livelib.ru/boocover/1003269569/o/608b/Meri_Enn_Marlou__Knizhnyj_magazinchik_Medelin.jpeg"
+        },
+        {
+            "author": "Фрида Шибек",
+            "book": "Книжный магазин у реки",
+            "year": "2020",
+            "buyDate": "1/8/21",
+            "price": "356",
+            "publisher": "Эксмо",
+            "shelf": "inspiria bookstore eksmo",
+            "img": "https://s1.livelib.ru/boocover/1005437305/o/7c14/Frida_Shibek__Knizhnyj_magazin_u_reki.jpeg"
+        },
+        {
+            "author": "Джейсон Фанг",
+            "book": "Код ожирения. Глобальное медицинское исследование о том, как подсчет калорий, увеличение активности",
+            "year": "2020",
+            "buyDate": "7/21/20",
+            "readDate": "8/2/20",
+            "price": "472",
+            "publisher": "Бомбора",
+            "shelf": "bombora food",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001110084/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Джейсон Фанг",
+            "book": "Интервальное голодание. Как восстановить свой организм, похудеть и активизировать работу мозга",
+            "year": "2020",
+            "buyDate": "12/13/20",
+            "price": "410",
+            "publisher": "Бомбора",
+            "shelf": "bombora food",
+            "img": "https://book.sibverk.ru/image/trumb/500x500/13-857776.jpg"
+        },
+        {
+            "author": "Ксения Кнорре Дмитриева",
+            "book": "Найден, жив! Записки о поисковом отряде «Лиза Алерт»",
+            "year": "2020",
+            "buyDate": "8/16/20",
+            "readDate": "9/4/20",
+            "price": "347",
+            "publisher": "Бомбора",
+            "shelf": "bombora",
+            "img": "https://s1.livelib.ru/boocover/1004747155/o/3b49/Kseniya_KnorreDmitrieva__Najden_zhiv_Zapiski_o_poiskovom_otryade_Liza_Alert.jpeg"
+        },
+        {
+            "author": "Катрин Стейерт",
+            "book": "Добро пожаловать на борт! Что делают бортпроводники во время полета и после приземления",
+            "year": "2020",
+            "buyDate": "9/18/20",
+            "readDate": "11/11/20",
+            "price": "350",
+            "publisher": "Бомбора",
+            "shelf": "bombora",
+            "img": "https://s1.livelib.ru/boocover/1004535604/o/a18b/Katrin_Stejert__Dobro_pozhalovat_na_bort_Chto_delayut_bortprovodniki_vo_vremya_p.jpeg"
         },
         {
             "author": "Келси Миллер",
@@ -9325,6 +9443,16 @@
             "img": "https://s1.livelib.ru/boocover/1005116581/o/c980/Galina_Turetskaya__Teoriya_bolshogo_sryva._Kak_pohudet_bez_diet_trenazherov_i_do.jpeg"
         },
         {
+            "author": "Денис Ступников",
+            "book": "АРИЯ: Возрождение легенды. Авторизованная биография группы",
+            "year": "2020",
+            "buyDate": "12/25/20",
+            "price": "544",
+            "publisher": "АСТ",
+            "shelf": "ast music stupnikov",
+            "img": "https://s1.livelib.ru/boocover/1005527488/o/411f/Denis_Stupnikov__Ariya_Vozrozhdenie_Legendy._Avtorizovannaya_biografiya_gruppy.jpeg"
+        },
+        {
             "author": "Мария Бутина",
             "book": "Тюремный дневник",
             "year": "2020",
@@ -9334,6 +9462,36 @@
             "publisher": "АСТ",
             "shelf": "prison ast",
             "img": "https://s1.livelib.ru/boocover/1005515491/o/9e01/Mariya_Butina__Tyuremnyj_dnevnik.jpeg"
+        },
+        {
+            "author": "Алекс Фергюсон",
+            "book": "Автобиография",
+            "year": "2014",
+            "buyDate": "11/3/20",
+            "price": "667",
+            "publisher": "АСТ",
+            "shelf": "sport",
+            "img": "https://s1.livelib.ru/boocover/1001059086/o/9b97/Aleks_Fergyuson__Avtobiografiya.jpeg"
+        },
+        {
+            "author": "Эбби Ваксман",
+            "book": "Книжная жизнь Нины Хилл",
+            "year": "2020",
+            "buyDate": "1/8/21",
+            "price": "355",
+            "publisher": "АСТ",
+            "shelf": "bookstore ast",
+            "img": "https://s1.livelib.ru/boocover/1003696308/o/7129/Ebbi_Vaksman__Knizhnaya_zhizn_Niny_Hill.jpeg"
+        },
+        {
+            "author": "Эми Майерсон",
+            "book": "Книжный магазинчик прошлого",
+            "year": "2021",
+            "buyDate": "2/16/21",
+            "price": "334",
+            "publisher": "АСТ",
+            "shelf": "bookstore ast",
+            "img": "https://s1.livelib.ru/boocover/1005584584/o/03ca/Majerson_Emi__Knizhnyj_magazinchik_proshlogo.jpeg"
         },
         {
             "author": "Евгения Горац",
@@ -9354,25 +9512,6 @@
             "publisher": "Портал",
             "shelf": "food",
             "img": "https://s1.livelib.ru/boocover/1003628978/o/b457/Evgeniya_Gorats__Chelovek_poedayuschij_tselebnoe_i_vrazhdebnoe.jpeg"
-        },
-        {
-            "author": "Алекс Фергюсон",
-            "book": "Автобиография",
-            "year": "2014",
-            "buyDate": "11/3/20",
-            "price": "667",
-            "publisher": "АСТ",
-            "shelf": "sport",
-            "img": "https://s1.livelib.ru/boocover/1001059086/o/9b97/Aleks_Fergyuson__Avtobiografiya.jpeg"
-        },
-        {
-            "author": "Дункан Кларк",
-            "book": "Alibaba. История мирового восхождения от первого лица",
-            "year": "2019",
-            "buyDate": "11/3/20",
-            "price": "503",
-            "publisher": "Эксмо",
-            "img": "https://s1.livelib.ru/boocover/1003980172/o/f320/Dunkan_Klark__Alibaba._Istoriya_mirovogo_voshozhdeniya_ot_pervogo_litsa.jpeg"
         },
         {
             "author": "Кен Косиенда",
@@ -9413,6 +9552,25 @@
             "publisher": "Бомбора",
             "shelf": "obama bombora",
             "img": "https://s1.livelib.ru/boocover/1003235332/o/df51/Mishel_Obama__Becoming._Moya_istoriya.jpeg"
+        },
+        {
+            "author": "Уилл Швальбе",
+            "book": "Книжный клуб конца жизни",
+            "year": "2018",
+            "buyDate": "2/1/21",
+            "price": "306.13",
+            "publisher": "Бомбора",
+            "shelf": "bombora secret bookstore",
+            "img": "https://s1.livelib.ru/boocover/1002760230/o/96ab/Uill_Shvalbe__Knizhnyj_klub_kontsa_zhizni.jpeg"
+        },
+        {
+            "author": "Мип Гиз",
+            "book": "Я прятала Анну Франк. История женщины, которая пыталась спасти семью Франк от нацистов",
+            "buyDate": "3/21/21",
+            "price": "255.23",
+            "publisher": "Бомбора",
+            "shelf": "bombora secret anna-frank",
+            "img": "https://s1.livelib.ru/boocover/1002989556/o/3786/Mip_Gis__Ya_pryatala_Annu_Frank._Istoriya_zhenschiny_kotoraya_pytalas_spasti_sem.jpeg"
         },
         {
             "author": "Кэтрин Мэнникс",
@@ -9499,6 +9657,47 @@
             "img": "https://s1.livelib.ru/boocover/1005786691/o/c29b/Shon_Bajtell__Sem_tipov_lyudej_kotoryh_mozhno_vstretit_v_knizhnom_magazine.jpeg"
         },
         {
+            "author": "Джессика Фокс",
+            "book": "Три вещи, которые нужно знать о ракетах. Дневник девушки книготорговца",
+            "year": "2020",
+            "buyDate": "1/8/21",
+            "readDate": "4/26/21",
+            "price": "321",
+            "publisher": "КоЛибри",
+            "shelf": "bookstore kolibri",
+            "img": "https://s1.livelib.ru/boocover/1005249529/o/8c84/Dzhessika_Foks__Tri_veschi_kotorye_nuzhno_znat_o_raketah._Dnevnik_devushki_knigo.jpeg"
+        },
+        {
+            "author": "Марианна Вулф",
+            "book": "Пруст и кальмар. Нейробиология чтения",
+            "year": "2002",
+            "buyDate": "6/1/21",
+            "price": "395",
+            "publisher": "КоЛибри",
+            "shelf": "bookstore kolibri",
+            "img": "https://s1.livelib.ru/boocover/1005533218/o/1485/Marianna_Vulf__Prust_i_kalmar._Nejrobiologiya_chteniya.jpeg"
+        },
+        {
+            "author": "Рэй Коннолли",
+            "book": "Быть Джоном Ленноном",
+            "year": "2021",
+            "buyDate": "8/13/21",
+            "price": "540",
+            "publisher": "КоЛибри",
+            "shelf": "kolibri music lennon beatles",
+            "img": "https://s1.livelib.ru/boocover/1006029007/o/78f6/Rej_Konnolli__Byt_Dzhonom_Lennonom.jpeg"
+        },
+        {
+            "author": "Крейг Браун",
+            "book": "One Two Three Four: «Битлз» в ритме времени",
+            "year": "2021",
+            "buyDate": "10/16/21",
+            "price": "753",
+            "publisher": "КоЛибри",
+            "shelf": "kolibri music beatles",
+            "img": "https://s1.livelib.ru/boocover/1006726699/o/9842/Krejg_Braun__One_Two_Three_Four_Bitlz_v_ritme_vremeni.jpeg"
+        },
+        {
             "author": "Кит Мелтон и Роберт Уоллес",
             "book": "Секретная инструкция ЦРУ по технике обманных трюков и введению в заблуждение",
             "buyDate": "12/24/20",
@@ -9514,67 +9713,6 @@
             "buyDate": "12/25/20",
             "price": "548",
             "img": "https://s1.livelib.ru/boocover/1005578212/o/5b55/Deniel_Sasskind__Buduschee_bez_raboty._Tehnologii_avtomatizatsiya_i_stoit_li_ih_.jpeg"
-        },
-        {
-            "author": "Салли Руни",
-            "book": "Разговоры с друзьями",
-            "year": "2020",
-            "buyDate": "1/7/21",
-            "readDate": "10/2/21",
-            "price": "379",
-            "publisher": "Синдбад",
-            "shelf": "runi sindbad",
-            "img": "https://s1.livelib.ru/boocover/1004112313/o/03d6/Salli_Runi__Razgovory_s_druzyami.jpeg"
-        },
-        {
-            "author": "Салли Руни",
-            "book": "Нормальные люди",
-            "year": "2020",
-            "buyDate": "1/7/21",
-            "readDate": "10/5/21",
-            "price": "331",
-            "publisher": "Синдбад",
-            "shelf": "runi sindbad",
-            "img": "https://s1.livelib.ru/boocover/1003635319/o/d7f5/Salli_Runi__Normalnye_lyudi.jpeg"
-        },
-        {
-            "author": "Салли Руни",
-            "book": "Прекрасный мир, где же ты",
-            "year": "2022",
-            "shelf": "runi wishlist new",
-            "img": "https://s1.livelib.ru/boocover/1006912807/o/a419/Salli_Runi__Prekrasnyj_mir_gde_zhe_ty.jpeg"
-        },
-        {
-            "author": "Джессика Фокс",
-            "book": "Три вещи, которые нужно знать о ракетах. Дневник девушки книготорговца",
-            "year": "2020",
-            "buyDate": "1/8/21",
-            "readDate": "4/26/21",
-            "price": "321",
-            "publisher": "КоЛибри",
-            "shelf": "bookstore kolibri",
-            "img": "https://s1.livelib.ru/boocover/1005249529/o/8c84/Dzhessika_Foks__Tri_veschi_kotorye_nuzhno_znat_o_raketah._Dnevnik_devushki_knigo.jpeg"
-        },
-        {
-            "author": "Эбби Ваксман",
-            "book": "Книжная жизнь Нины Хилл",
-            "year": "2020",
-            "buyDate": "1/8/21",
-            "price": "355",
-            "publisher": "АСТ",
-            "shelf": "bookstore ast",
-            "img": "https://s1.livelib.ru/boocover/1003696308/o/7129/Ebbi_Vaksman__Knizhnaya_zhizn_Niny_Hill.jpeg"
-        },
-        {
-            "author": "Эрик де Кермель",
-            "book": "Хозяйка книжной лавки на площади Трав",
-            "year": "2020",
-            "buyDate": "1/8/21",
-            "readDate": "6/23/21",
-            "price": "327",
-            "publisher": "Центрполиграф",
-            "shelf": "bookstore poligraf",
-            "img": "https://s1.livelib.ru/boocover/1002987456/o/8e8c/Erik_de_Kermel__Hozyajka_knizhnoj_lavki_na_ploschadi_Trav.jpeg"
         },
         {
             "author": "Мона Кастен",
@@ -9621,80 +9759,12 @@
             "author": "Мона Кастен",
             "book": "Снова почувствуй",
             "year": "2022",
-            "shelf": "kasten wishlist new"
-        },
-        {
-            "author": "Мэри Энн Марлоу",
-            "book": "Книжный магазинчик Мэделин",
-            "year": "2019",
-            "buyDate": "1/7/21",
-            "price": "300",
-            "publisher": "Эксмо",
-            "shelf": "bookstore eksmo",
-            "img": "https://s1.livelib.ru/boocover/1003269569/o/608b/Meri_Enn_Marlou__Knizhnyj_magazinchik_Medelin.jpeg"
-        },
-        {
-            "author": "Фрида Шибек",
-            "book": "Книжный магазин у реки",
-            "year": "2020",
-            "buyDate": "1/8/21",
-            "price": "356",
-            "publisher": "Эксмо",
-            "shelf": "inspiria bookstore eksmo",
-            "img": "https://s1.livelib.ru/boocover/1005437305/o/7c14/Frida_Shibek__Knizhnyj_magazin_u_reki.jpeg"
-        },
-        {
-            "author": "Уилл Швальбе",
-            "book": "Книжный клуб конца жизни",
-            "year": "2018",
-            "buyDate": "2/1/21",
-            "price": "306.13",
-            "publisher": "Бомбора",
-            "shelf": "bombora secret bookstore",
-            "img": "https://s1.livelib.ru/boocover/1002760230/o/96ab/Uill_Shvalbe__Knizhnyj_klub_kontsa_zhizni.jpeg"
-        },
-        {
-            "author": "Мип Гиз",
-            "book": "Я прятала Анну Франк. История женщины, которая пыталась спасти семью Франк от нацистов",
-            "buyDate": "3/21/21",
-            "price": "255.23",
-            "publisher": "Бомбора",
-            "shelf": "bombora secret anna-frank",
-            "img": "https://s1.livelib.ru/boocover/1002989556/o/3786/Mip_Gis__Ya_pryatala_Annu_Frank._Istoriya_zhenschiny_kotoraya_pytalas_spasti_sem.jpeg"
-        },
-        {
-            "author": "Патрик Федра",
-            "book": "Библиотека утрат и находок",
-            "year": "2021",
-            "buyDate": "2/3/21",
-            "price": "297.31",
-            "publisher": "Эксмо",
-            "shelf": "inspiria fedra bookstore eksmo",
-            "img": "https://s1.livelib.ru/boocover/1005478291/o/4556/Fedra_Patrik__Biblioteka_utrat_i_nahodok.jpeg"
-        },
-        {
-            "author": "Патрик Федра",
-            "book": "Артур Пеппер и загадочный браслет",
-            "year": "2018",
-            "buyDate": "1/31/21",
-            "price": "251.71",
-            "publisher": "Синдбад",
-            "shelf": "fedra sindbad",
-            "img": "https://s1.livelib.ru/boocover/1002891333/o/0011/Fedra_Patrik__Artur_Pepper_i_zagadochnyj_braslet.jpeg"
-        },
-        {
-            "author": "Чарльз Джанет Скеслин",
-            "book": "Библиотека в Париже",
-            "year": "2020",
-            "buyDate": "2/1/21",
-            "price": "271",
-            "publisher": "Азбука",
-            "shelf": "bookstore azbuka",
-            "img": "https://s1.livelib.ru/boocover/1005449014/o/1c50/Dzhanet_Skeslin_Charlz__Biblioteka_v_Parizhe.jpeg"
+            "shelf": "kasten wishlist new",
+            "img": "https://s1.livelib.ru/boocover/1006927741/o/b528/Mona_Kasten__Snova_pochuvstvuj.jpeg"
         },
         {
             "author": "Пули Клэр",
-            "book": "Правдивая история",
+            "book": "Книжная лавка",
             "year": "2020",
             "buyDate": "2/1/21",
             "price": "258",
@@ -9703,8 +9773,36 @@
             "img": "https://s1.livelib.ru/boocover/1005380905/o/2dbb/Kler_Puli__Pravdivaya_istoriya.jpeg"
         },
         {
+            "author": "Джоджо Мойес",
+            "book": "Дарующий звезды",
+            "year": "2019",
+            "buyDate": "2/14/21",
+            "price": "332",
+            "publisher": "Иностранка",
+            "shelf": "bookstore inostranka",
+            "img": "https://s1.livelib.ru/boocover/1003461978/o/fea9/Dzhodzho_Mojes__Daruyuschij_zvezdy.jpeg"
+        },
+        {
+            "author": "Маттиас Энар",
+            "book": "Компас",
+            "year": "2018",
+            "buyDate": "8/20/21",
+            "price": "509",
+            "publisher": "Иностранка",
+            "shelf": "goncur inostranka",
+            "img": "https://s1.livelib.ru/boocover/1002901715/o/35ad/Matias_Enar__Kompas.jpeg"
+        },
+        {
+            "author": "Дункан Кларк",
+            "book": "Alibaba. История мирового восхождения от первого лица",
+            "year": "2019",
+            "buyDate": "11/3/20",
+            "price": "503",
+            "publisher": "Эксмо",
+            "img": "https://s1.livelib.ru/boocover/1003980172/o/f320/Dunkan_Klark__Alibaba._Istoriya_mirovogo_voshozhdeniya_ot_pervogo_litsa.jpeg"
+        },
+        {
             "author": "Пенелопа Фицджеральд",
-            "book": "Книжная лавка",
             "year": "2018",
             "buyDate": "2/9/21",
             "readDate": "5/6/21",
@@ -9722,6 +9820,36 @@
             "publisher": "Эксмо",
             "shelf": "fizgerald eksmo buker",
             "img": "https://s1.livelib.ru/boocover/1002893856/o/d1d2/Penelopa_Fitsdzherald__V_otkrytom_more.jpeg"
+        },
+        {
+            "author": "Джули Кэплин",
+            "book": "Маленькое кафе в Копенгагене",
+            "year": "2020",
+            "buyDate": "2/19/21",
+            "price": "290",
+            "publisher": "Эксмо",
+            "shelf": "kaplin eksmo",
+            "img": "https://s1.livelib.ru/boocover/1005067297/o/5d88/Dzhuli_Keplin__Malenkoe_kafe_v_Kopengagene.jpeg"
+        },
+        {
+            "author": "Джули Кэплин",
+            "book": "Маленькая кондитерская в Бруклине",
+            "year": "2020",
+            "buyDate": "2/19/21",
+            "price": "290",
+            "publisher": "Эксмо",
+            "shelf": "kaplin eksmo",
+            "img": "https://s1.livelib.ru/boocover/1005067336/o/00c9/Dzhuli_Keplin__Malenkaya_konditerskaya_v_Brukline.jpeg"
+        },
+        {
+            "author": "Хелен Рольф",
+            "book": "Маленькое кафе в конце пирса",
+            "year": "2021",
+            "buyDate": "2/19/21",
+            "price": "367",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria",
+            "img": "https://s1.livelib.ru/boocover/1005631348/o/57b2/Helen_Rolf__Malenkoe_kafe_v_kontse_pirsa.jpeg"
         },
         {
             "author": "Эли Макнамара",
@@ -9754,14 +9882,34 @@
             "img": "https://s1.livelib.ru/boocover/1006890874/o/f8da/Eli_Maknamara__Magazinchik_schastya_Kejt_i_Klary.jpeg"
         },
         {
-            "author": "Джоджо Мойес",
-            "book": "Дарующий звезды",
+            "author": "Жан-Поль Дюбуа",
+            "book": "Наследие",
             "year": "2019",
-            "buyDate": "2/14/21",
+            "buyDate": "6/3/21",
             "price": "332",
-            "publisher": "Иностранка",
-            "shelf": "bookstore inostranka",
-            "img": "https://s1.livelib.ru/boocover/1003461978/o/fea9/Dzhodzho_Mojes__Daruyuschij_zvezdy.jpeg"
+            "publisher": "Эксмо",
+            "shelf": "dubua eksmo",
+            "img": "https://s1.livelib.ru/boocover/1002947197/o/dffa/ZhanPol_Dyubua__Nasledie.jpeg"
+        },
+        {
+            "author": "Жан-Поль Дюбуа",
+            "book": "Не все люди живут одинаково",
+            "year": "2021",
+            "buyDate": "6/3/21",
+            "price": "365",
+            "publisher": "Эксмо",
+            "shelf": "dubua eksmo goncur",
+            "img": "https://s1.livelib.ru/boocover/1005707824/o/c44e/ZhanPol_Dyubua__Ne_vse_lyudi_zhivut_odinakovo.jpeg"
+        },
+        {
+            "author": "Чарльз Джанет Скеслин",
+            "book": "Библиотека в Париже",
+            "year": "2020",
+            "buyDate": "2/1/21",
+            "price": "271",
+            "publisher": "Азбука",
+            "shelf": "bookstore azbuka",
+            "img": "https://s1.livelib.ru/boocover/1005449014/o/1c50/Dzhanet_Skeslin_Charlz__Biblioteka_v_Parizhe.jpeg"
         },
         {
             "author": "Нина Георге",
@@ -9814,6 +9962,27 @@
             "img": "https://s1.livelib.ru/boocover/1001569364/o/bdff/Ketrin_Stokett__Prisluga.jpeg"
         },
         {
+            "author": "Эллен Фелдман",
+            "book": "Париж никогда тебя не оставит",
+            "year": "2021",
+            "buyDate": "10/30/21",
+            "price": "388",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-press bookstore",
+            "img": "https://s1.livelib.ru/boocover/1006811251/o/ecd1/Ellen_Feldman__Parizh_nikogda_tebya_ne_ostavit.jpeg"
+        },
+        {
+            "author": "Эрик де Кермель",
+            "book": "Хозяйка книжной лавки на площади Трав",
+            "year": "2020",
+            "buyDate": "1/8/21",
+            "readDate": "6/23/21",
+            "price": "327",
+            "publisher": "Центрполиграф",
+            "shelf": "bookstore poligraf",
+            "img": "https://s1.livelib.ru/boocover/1002987456/o/8e8c/Erik_de_Kermel__Hozyajka_knizhnoj_lavki_na_ploschadi_Trav.jpeg"
+        },
+        {
             "author": "Крейг Маклей",
             "book": "Книжная лавка",
             "year": "2016",
@@ -9835,46 +10004,6 @@
             "img": "https://img4.labirint.ru/rc/174d787be546c2d208d55ed180a9f496/348x537/books56/551850/cover.jpg?1563947434"
         },
         {
-            "author": "Эми Майерсон",
-            "book": "Книжный магазинчик прошлого",
-            "year": "2021",
-            "buyDate": "2/16/21",
-            "price": "334",
-            "publisher": "АСТ",
-            "shelf": "bookstore ast",
-            "img": "https://s1.livelib.ru/boocover/1005584584/o/03ca/Majerson_Emi__Knizhnyj_magazinchik_proshlogo.jpeg"
-        },
-        {
-            "author": "Джули Кэплин",
-            "book": "Маленькое кафе в Копенгагене",
-            "year": "2020",
-            "buyDate": "2/19/21",
-            "price": "290",
-            "publisher": "Эксмо",
-            "shelf": "kaplin eksmo",
-            "img": "https://s1.livelib.ru/boocover/1005067297/o/5d88/Dzhuli_Keplin__Malenkoe_kafe_v_Kopengagene.jpeg"
-        },
-        {
-            "author": "Джули Кэплин",
-            "book": "Маленькая кондитерская в Бруклине",
-            "year": "2020",
-            "buyDate": "2/19/21",
-            "price": "290",
-            "publisher": "Эксмо",
-            "shelf": "kaplin eksmo",
-            "img": "https://s1.livelib.ru/boocover/1005067336/o/00c9/Dzhuli_Keplin__Malenkaya_konditerskaya_v_Brukline.jpeg"
-        },
-        {
-            "author": "Хелен Рольф",
-            "book": "Маленькое кафе в конце пирса",
-            "year": "2021",
-            "buyDate": "2/19/21",
-            "price": "367",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria",
-            "img": "https://s1.livelib.ru/boocover/1005631348/o/57b2/Helen_Rolf__Malenkoe_kafe_v_kontse_pirsa.jpeg"
-        },
-        {
             "author": "Хорхе Каррион",
             "book": "Книжные магазины",
             "year": "2018",
@@ -9892,36 +10021,6 @@
             "price": "420",
             "shelf": "fsb",
             "img": "https://cdn1.ozone.ru/s3/multimedia-v/wc1200/6017651479.jpg"
-        },
-        {
-            "author": "Марианна Вулф",
-            "book": "Пруст и кальмар. Нейробиология чтения",
-            "year": "2002",
-            "buyDate": "6/1/21",
-            "price": "395",
-            "publisher": "КоЛибри",
-            "shelf": "bookstore kolibri",
-            "img": "https://s1.livelib.ru/boocover/1005533218/o/1485/Marianna_Vulf__Prust_i_kalmar._Nejrobiologiya_chteniya.jpeg"
-        },
-        {
-            "author": "Жан-Поль Дюбуа",
-            "book": "Наследие",
-            "year": "2019",
-            "buyDate": "6/3/21",
-            "price": "332",
-            "publisher": "Эксмо",
-            "shelf": "dubua eksmo",
-            "img": "https://s1.livelib.ru/boocover/1002947197/o/dffa/ZhanPol_Dyubua__Nasledie.jpeg"
-        },
-        {
-            "author": "Жан-Поль Дюбуа",
-            "book": "Не все люди живут одинаково",
-            "year": "2021",
-            "buyDate": "6/3/21",
-            "price": "365",
-            "publisher": "Эксмо",
-            "shelf": "dubua eksmo goncur",
-            "img": "https://s1.livelib.ru/boocover/1005707824/o/c44e/ZhanPol_Dyubua__Ne_vse_lyudi_zhivut_odinakovo.jpeg"
         },
         {
             "author": "Карен Дюкесс",
@@ -10034,16 +10133,6 @@
             "img": "https://s1.livelib.ru/boocover/1006846660/o/e3ac/So_Joson__Mozg_i_razum_v_epohu_virtualnoj_realnosti.jpeg"
         },
         {
-            "author": "Лейла Слимани",
-            "book": "Идеальная няня",
-            "year": "2018",
-            "buyDate": "7/8/21",
-            "price": "321",
-            "publisher": "Синдбад",
-            "shelf": "goncur sindbad",
-            "img": "https://s1.livelib.ru/boocover/1002805865/o/c871/Lejla_Slimani__Idealnaya_nyanya.jpeg"
-        },
-        {
             "author": "Лидия Сальвер",
             "book": "Не плакать",
             "year": "2016",
@@ -10146,16 +10235,6 @@
             "img": "https://s1.livelib.ru/boocover/1006013569/o/0847/Lin_Rina__Vselennaya_Animant_Kramb._Londonskie_hroniki.jpeg"
         },
         {
-            "author": "Маттиас Энар",
-            "book": "Компас",
-            "year": "2018",
-            "buyDate": "8/20/21",
-            "price": "509",
-            "publisher": "Иностранка",
-            "shelf": "goncur",
-            "img": "https://s1.livelib.ru/boocover/1002901715/o/35ad/Matias_Enar__Kompas.jpeg"
-        },
-        {
             "author": "Эрик Асфог",
             "book": "Когда у Земли было две Луны: Планеты-каннибалы, ледяные гиганты, грязевые кометы и другие светила ночного неба",
             "year": "2021",
@@ -10205,62 +10284,12 @@
             "img": "https://s1.livelib.ru/boocover/1002619017/o/ffe8/Karl_Sagan__Golubaya_tochka.jpeg"
         },
         {
-            "author": "Рэй Коннолли",
-            "book": "Быть Джоном Ленноном",
-            "year": "2021",
-            "buyDate": "8/13/21",
-            "price": "540",
-            "publisher": "КоЛибри",
-            "shelf": "kolibri music lennon beatles",
-            "img": "https://s1.livelib.ru/boocover/1006029007/o/78f6/Rej_Konnolli__Byt_Dzhonom_Lennonom.jpeg"
-        },
-        {
-            "author": "Крейг Браун",
-            "book": "One Two Three Four: «Битлз» в ритме времени",
-            "year": "2021",
-            "buyDate": "10/16/21",
-            "price": "753",
-            "publisher": "КоЛибри",
-            "shelf": "kolibri music beatles",
-            "img": "https://s1.livelib.ru/boocover/1006726699/o/9842/Krejg_Braun__One_Two_Three_Four_Bitlz_v_ritme_vremeni.jpeg"
-        },
-        {
-            "author": "Лесли-Энн Джонс",
-            "book": "Кто убил Джона Леннона? Жизнь, смерть и любовь величайшей рок-звезды XX века",
-            "year": "2020",
-            "buyDate": "10/16/21",
-            "price": "516",
-            "publisher": "Бомбора",
-            "shelf": "bombora music lennon beatles",
-            "img": "https://s1.livelib.ru/boocover/1005604954/o/a169/LesliEnn_Dzhons__Kto_ubil_Dzhona_Lennona_Zhizn_smert_i_lyubov_velichajshej_rokzv.jpeg"
-        },
-        {
             "author": "Джеймс Паттерсон, Кейси Шерман и Дейв Уэдж",
             "book": "Последние дни Джона Леннона",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo music lennon beatles wishlist new",
             "img": "https://s1.livelib.ru/boocover/1006825414/o/0c44/__Poslednie_dni_Dzhona_Lennona.jpeg"
-        },
-        {
-            "author": "Ханна Кент",
-            "book": "Вкус дыма",
-            "year": "2019",
-            "buyDate": "8/17/21",
-            "price": "432",
-            "publisher": "Синдбад",
-            "shelf": "kent sindbad",
-            "img": "https://s1.livelib.ru/boocover/1003636472/o/14c9/Hanna_Kent__Vkus_dyma.jpeg"
-        },
-        {
-            "author": "Ханна Кент",
-            "book": "Темная вода",
-            "year": "2019",
-            "buyDate": "8/17/21",
-            "price": "432",
-            "publisher": "Синдбад",
-            "shelf": "kent sindbad",
-            "img": "https://s1.livelib.ru/boocover/1002896100/o/34cd/Hanna_Kent__Temnaya_voda.jpeg"
         },
         {
             "author": "Эрик Шмидт, Алан Игл и Джонатан Розенберг",
@@ -10283,6 +10312,16 @@
             "img": "https://s1.livelib.ru/boocover/1006881304/o/f829/__Vnutri_Facebook._Golaya_pravda.jpeg"
         },
         {
+            "author": "Лесли-Энн Джонс",
+            "book": "Кто убил Джона Леннона? Жизнь, смерть и любовь величайшей рок-звезды XX века",
+            "year": "2020",
+            "buyDate": "10/16/21",
+            "price": "516",
+            "publisher": "Бомбора",
+            "shelf": "bombora music lennon beatles",
+            "img": "https://s1.livelib.ru/boocover/1005604954/o/a169/LesliEnn_Dzhons__Kto_ubil_Dzhona_Lennona_Zhizn_smert_i_lyubov_velichajshej_rokzv.jpeg"
+        },
+        {
             "author": "Марк Рэндольф",
             "book": "That will never work. Это никогда не будет работать. История создания Netflix, рассказанная ее основателем",
             "year": "2021",
@@ -10302,16 +10341,6 @@
             "publisher": "Бомбора",
             "shelf": "bombora russian",
             "img": "https://s1.livelib.ru/boocover/1003171247/o/b863/Uchitel_Russkogo__50_smertnyh_grehov_v_russkom_yazyke._Govori_i_pishi_pravilno.jpeg"
-        },
-        {
-            "author": "Майкл Керриган",
-            "book": "Взламывая код «Энигмы»",
-            "year": "2021",
-            "buyDate": "9/30/21",
-            "price": "363",
-            "publisher": "АСТ",
-            "shelf": "ast",
-            "img": "https://s1.livelib.ru/boocover/1006269337/o/996c/Majkl_Kerrigan__Vzlamyvaya_kod_Enigmy.jpeg"
         },
         {
             "author": "Кэролайн Б. Куни",
@@ -10363,6 +10392,16 @@
             "img": "https://s1.livelib.ru/boocover/1000641776/o/50d7/Caroline_B._Cooney__Janie_Face_to_Face.jpeg"
         },
         {
+            "author": "Майкл Керриган",
+            "book": "Взламывая код «Энигмы»",
+            "year": "2021",
+            "buyDate": "9/30/21",
+            "price": "363",
+            "publisher": "АСТ",
+            "shelf": "ast",
+            "img": "https://s1.livelib.ru/boocover/1006269337/o/996c/Majkl_Kerrigan__Vzlamyvaya_kod_Enigmy.jpeg"
+        },
+        {
             "author": "Синтия Суонсон",
             "book": "Книжная лавка",
             "year": "2017",
@@ -10409,7 +10448,7 @@
             "buyDate": "10/4/21",
             "price": "331",
             "publisher": "Азбука",
-            "shelf": "bookstore",
+            "shelf": "azbuka bookstore",
             "img": "https://s1.livelib.ru/boocover/1002911319/o/81c6/__Vo_vsjom_vinovata_kniga_sbornik.jpeg"
         },
         {
@@ -10418,7 +10457,7 @@
             "buyDate": "10/4/21",
             "price": "407",
             "publisher": "Азбука",
-            "shelf": "bookstore",
+            "shelf": "azbuka bookstore",
             "img": "https://s1.livelib.ru/boocover/1002997157/o/0969/__Vo_vsem_vinovata_kniga__2_sbornik.jpeg"
         },
         {
@@ -10533,7 +10572,7 @@
             "author": "Алекс Кристофи",
             "book": "Достоевский in love",
             "year": "2021",
-            "buyDate": "12/19/21",
+            "buyDate": "12/13/21",
             "price": "347",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria",
@@ -10623,40 +10662,30 @@
             "author": "Кэтрин Купер",
             "book": "Шале",
             "year": "2021",
-            "buyDate": "12/19/21",
+            "buyDate": "12/13/21",
             "price": "317",
             "publisher": "Эксмо",
             "shelf": "eksmo white",
             "img": "https://s1.livelib.ru/boocover/1006829059/o/9ad3/Ketrin_Kuper__Shale.jpeg"
         },
         {
-            "author": "Эллен Фелдман",
-            "book": "Париж никогда тебя не оставит",
-            "year": "2021",
-            "buyDate": "10/30/21",
-            "price": "388",
-            "publisher": "Фантом Пресс",
-            "shelf": "fantom-press bookstore",
-            "img": "https://s1.livelib.ru/boocover/1006811251/o/ecd1/Ellen_Feldman__Parizh_nikogda_tebya_ne_ostavit.jpeg"
-        },
-        {
-            "author": "Джонсон Клэйборн",
+            "author": "Джулия Клэйборн Джонсон",
             "book": "В другой раз повезет!",
             "year": "2021",
             "buyDate": "11/28/21",
             "price": "300",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria",
+            "shelf": "eksmo inspiria claiborne-johnson",
             "img": "https://s1.livelib.ru/boocover/1005948097/o/ff93/Dzhuliya_Dzhonson__V_drugoj_raz_povezet.jpeg"
         },
         {
-            "author": "Джонсон Клэйборн",
+            "author": "Джулия Клэйборн Джонсон",
             "book": "Будь со мной честен",
             "year": "2021",
             "buyDate": "11/14/21",
             "price": "335",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria",
+            "shelf": "eksmo inspiria claiborne-johnson",
             "img": "https://s1.livelib.ru/boocover/1006778734/o/2556/Dzhuliya_Dzhonson__Bud_so_mnoj_chesten.jpeg"
         },
         {
@@ -10685,13 +10714,14 @@
             "year": "2021",
             "buyDate": "12/11/21",
             "price": "337",
+            "shelf": "miracle",
             "img": "https://s1.livelib.ru/boocover/1006842790/o/5ec7/Hejzel_Prajor__Kak_pingviny_spasli_Veroniku.jpeg"
         },
         {
             "author": "Джон Айронмонгер",
             "book": "Кит на краю света",
             "year": "2021",
-            "shelf": "wishlist new",
+            "shelf": "miracle wishlist new",
             "img": "https://cdn.book24.ru/v2/ASE000000000859846/COVER/cover13d__w410.webp"
         },
         {
@@ -10719,13 +10749,13 @@
             "author": "Карина Ян Глейзер",
             "book": "Вандербикеры с 141-й улицы",
             "year": "2021",
-            "shelf": "wishlist new",
+            "shelf": "glazer wishlist new",
             "img": "https://www.clever-media.ru/upload/iblock/8dd/8dde90bc197dbde39a1792c1858194e2.jpg"
         },
         {
             "author": "Карина Ян Глейзер",
             "book": "Вандербикеры и таинственный сад",
-            "shelf": "wishlist new",
+            "shelf": "glazer wishlist new",
             "img": "https://www.clever-media.ru/upload/resize_cache/iblock/2db/800_600_090cf9bfc02c81ba0a02cc940d6445018/2dbab2fe72995177c9ebbe81fe892d27.jpg"
         },
         {
