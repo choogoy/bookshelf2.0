@@ -1375,6 +1375,7 @@
             "book": "Однажды я станцую для тебя",
             "year": "2019",
             "buyDate": "7/22/19",
+            "readDate": "12/14/21",
             "price": "275",
             "publisher": "Corpus",
             "shelf": "martin-lugand corpus happy",
@@ -3389,7 +3390,7 @@
             "book": "Рождение звука",
             "year": "2022",
             "shelf": "palanik wishlist new",
-            "img": "https://img4.labirint.ru/rc/253b2479e49cee1808a85bea533863f8/594x918/books78/771942/cover.jpg?1602757507"
+            "img": "https://www.bookvoed.ru/files/1836/12/28/75/68.jpeg"
         },
         {
             "author": "Джек Керуак",
@@ -5446,6 +5447,7 @@
             "img": "https://www.corpus.ru/picts/products/cover-intellect.jpg"
         },
         {
+            "id": "674",
             "author": "Дэниел Гоулман",
             "book": "Фокус. О внимании, рассеянности и жизненном успехе",
             "year": "2021",
@@ -8940,6 +8942,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-glick.jpg"
         },
         {
+            "id": "651",
             "author": "Джеймс Глик",
             "book": "Хаос. Создание новой науки",
             "year": "2021",
@@ -10284,16 +10287,6 @@
             "img": "https://s1.livelib.ru/boocover/1002619017/o/ffe8/Karl_Sagan__Golubaya_tochka.jpeg"
         },
         {
-            "author": "Джеймс Паттерсон, Кейси Шерман и Дейв Уэдж",
-            "book": "Последние дни Джона Леннона",
-            "year": "2021",
-            "buyDate": "12/20/21",
-            "price": "524",
-            "publisher": "Эксмо",
-            "shelf": "eksmo music lennon beatles",
-            "img": "https://s1.livelib.ru/boocover/1006825414/o/0c44/__Poslednie_dni_Dzhona_Lennona.jpeg"
-        },
-        {
             "author": "Эрик Шмидт, Алан Игл и Джонатан Розенберг",
             "book": "Как работает Google",
             "year": "2021",
@@ -10322,6 +10315,16 @@
             "publisher": "Бомбора",
             "shelf": "bombora music lennon beatles",
             "img": "https://s1.livelib.ru/boocover/1005604954/o/a169/LesliEnn_Dzhons__Kto_ubil_Dzhona_Lennona_Zhizn_smert_i_lyubov_velichajshej_rokzv.jpeg"
+        },
+        {
+            "author": "Джеймс Паттерсон, Кейси Шерман и Дейв Уэдж",
+            "book": "Последние дни Джона Леннона",
+            "year": "2021",
+            "buyDate": "12/20/21",
+            "price": "524",
+            "publisher": "Бомбора",
+            "shelf": "bombora music lennon beatles",
+            "img": "https://s1.livelib.ru/boocover/1006825414/o/0c44/__Poslednie_dni_Dzhona_Lennona.jpeg"
         },
         {
             "author": "Марк Рэндольф",
@@ -10556,7 +10559,7 @@
             "author": "Лисса Кей Адамс",
             "book": "Bromance. Все секреты книжного клуба",
             "year": "2021",
-            "buyDate": "12/31/21",
+            "buyDate": "12/15/21",
             "price": "343",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria kei-adams",
