@@ -8029,8 +8029,10 @@
             "author": "Массимилиано Вирджилио",
             "book": "Американец",
             "year": "2020",
+            "buyDate": "12/19/21",
+            "price": "51",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
+            "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/cover1-virgilio.jpg"
         },
         {
