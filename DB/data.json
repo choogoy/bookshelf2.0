@@ -3012,8 +3012,10 @@
             "author": "Андрей Князев",
             "book": "Король и Шут. Старая книга II. Незавершенные истории",
             "year": "2021",
-            "shelf": "music kish wishlist new",
-            "img": "https://img-gorod.ru/28/746/2874670_detail.jpg"
+            "buyDate": "12/22/21",
+            "price": "897",
+            "shelf": "music kish",
+            "img": "https://s1.livelib.ru/boocover/1006824388/o/c1ec/Andrej_Knyazev__Korol_i_Shut._Staraya_kniga_2._Nezavershennye_istorii.jpeg"
         },
         {
             "author": "Евгения Либабова",
@@ -10734,6 +10736,24 @@
             "img": "https://cdn.book24.ru/v2/ASE000000000859846/COVER/cover13d__w410.webp"
         },
         {
+            "author": "Татьяна Хабенская",
+            "book": "Мой адмирал",
+            "year": "2021",
+            "price": "350",
+            "publisher": "АСТ",
+            "shelf": "ast",
+            "img": "https://s1.livelib.ru/boocover/1006918774/o/b5c0/Tatyana_Habenskaya__Moj_admiral.jpeg"
+        },
+        {
+            "author": "Сергей Рязанский",
+            "book": "Можно ли забить гвоздь в космосе и другие вопросы о космонавтике",
+            "year": "2021",
+            "price": "350",
+            "publisher": "Бомбора",
+            "shelf": "bombora",
+            "img": "https://s1.livelib.ru/boocover/1003020646/o/a9c9/Sergej_Ryazanskij__Mozhno_li_zabit_gvozd_v_kosmose_i_drugie_voprosy_o_kosmonavti.jpeg"
+        },
+        {
             "author": "Луанн Райс",
             "book": "Ящик Пандоры",
             "year": "2021",
@@ -10743,16 +10763,19 @@
             "img": "https://s1.livelib.ru/boocover/1006766875/o/6a73/Luann_Rajs__Yaschik_Pandory.jpeg"
         },
         {
+            "author": "А.Р. Торре",
+            "book": "Последний секрет",
+            "year": "2021",
+            "buyDate": "12/22/21",
+            "price": "350",
+            "shelf": "puzzle",
+            "img": "https://s1.livelib.ru/boocover/1006842763/o/fe2f/Alessandra_Torre__Poslednij_sekret.jpeg"
+        },
+        {
             "author": "Трейси Бьюканан",
             "book": "Стена тишины",
             "shelf": "puzzle wishlist new",
             "img": "https://cdn.book24.ru/v2/ASE000000000852964/COVER/cover13d__w410.webp"
-        },
-        {
-            "author": "А.Р. Торре",
-            "book": "Последний секрет",
-            "shelf": "puzzle wishlist new",
-            "img": "https://cdn.book24.ru/v2/ASE000000000858774/COVER/cover13d__w410.webp"
         },
         {
             "author": "Карина Ян Глейзер",
