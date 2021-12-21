@@ -1387,6 +1387,7 @@
             "book": "Мы не могли разминуться",
             "year": "2020",
             "buyDate": "6/15/20",
+            "readDate": "12/18/21",
             "price": "329",
             "publisher": "Corpus",
             "shelf": "martin-lugand corpus happy",
@@ -1398,6 +1399,7 @@
             "book": "Мне надо кое в чем тебе признаться…",
             "year": "2021",
             "buyDate": "3/31/21",
+            "readDate": "12/21/21",
             "price": "250",
             "publisher": "Corpus",
             "shelf": "martin-lugand corpus happy",
@@ -3012,7 +3014,7 @@
             "author": "Андрей Князев",
             "book": "Король и Шут. Старая книга II. Незавершенные истории",
             "year": "2021",
-            "buyDate": "12/22/21",
+            "buyDate": "12/20/21",
             "price": "897",
             "shelf": "music kish",
             "img": "https://s1.livelib.ru/boocover/1006824388/o/c1ec/Andrej_Knyazev__Korol_i_Shut._Staraya_kniga_2._Nezavershennye_istorii.jpeg"
@@ -4269,7 +4271,7 @@
             "img": "https://s1.livelib.ru/boocover/1001969390/o/acb8/Anneliz_Mariya_Frank__Dnevnik_v_pismah.jpeg"
         },
         {
-            "author": "Энрдю Ходжес",
+            "author": "Эндрю Ходжес",
             "book": "Вселенная Алана Тьюринга",
             "buyDate": "1/15/18",
             "price": "284",
@@ -10478,8 +10480,15 @@
             "buyDate": "10/9/21",
             "price": "441",
             "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif",
+            "shelf": "mif osman",
             "img": "https://s1.livelib.ru/boocover/1006238035/o/08a6/Richard_Osman__Klub_ubijstv_po_chetvergam.jpeg"
+        },
+        {
+            "author": "Ричард Осман",
+            "book": "Человек, который умер дважды",
+            "year": "2021",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif osman wishlist new"
         },
         {
             "author": "Канаэ Минато",
@@ -10739,7 +10748,7 @@
             "author": "Татьяна Хабенская",
             "book": "Мой адмирал",
             "year": "2021",
-            "buyDate": "12/22/21",
+            "buyDate": "12/20/21",
             "price": "350",
             "publisher": "АСТ",
             "shelf": "ast",
@@ -10749,7 +10758,7 @@
             "author": "Сергей Рязанский",
             "book": "Можно ли забить гвоздь в космосе и другие вопросы о космонавтике",
             "year": "2021",
-            "buyDate": "12/22/21",
+            "buyDate": "12/20/21",
             "price": "350",
             "publisher": "Бомбора",
             "shelf": "bombora space",
@@ -10768,7 +10777,7 @@
             "author": "А.Р. Торре",
             "book": "Последний секрет",
             "year": "2021",
-            "buyDate": "12/22/21",
+            "buyDate": "12/20/21",
             "price": "350",
             "shelf": "puzzle",
             "img": "https://s1.livelib.ru/boocover/1006842763/o/fe2f/Alessandra_Torre__Poslednij_sekret.jpeg"
@@ -10819,6 +10828,18 @@
             "publisher": "Бомбора",
             "shelf": "bombora obama wishlist new",
             "img": "https://cdn24.img.ria.ru/images/07e4/0b/11/1584987671_0:0:710:1080_1920x0_80_0_0_d2ae700f948a1aa4f503ff9779f955ca.jpg"
+        },
+        {
+            "author": "Tracy Dobmeier, Wendy Katzman",
+            "book": "Girl with Bright Futures",
+            "year": "2022",
+            "shelf": "wishlist new"
+        },
+        {
+            "author": "Али Новак",
+            "book": "Моя жизнь с братьями Уолтер",
+            "year": "2022",
+            "shelf": "wishlist new"
         },
         {
             "author": "Джей Рейнер",
