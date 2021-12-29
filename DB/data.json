@@ -603,9 +603,10 @@
             "id": "679",
             "author": "Владимир Набоков",
             "book": "Бледный огонь",
-            "year": "2021",
+            "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new"
+            "shelf": "corpus nabokov wishlist new",
+            "img": "https://www.corpus.ru/picts/products/cover-bledny-ogon.jpg"
         },
         {
             "author": "Владимир Набоков",
@@ -1407,7 +1408,7 @@
         },
         {
             "author": "Аньес Мартен-Люган",
-            "book": "La Datcha",
+            "book": "Гостиница «Дача»",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "martin-lugand corpus happy wishlist new",
@@ -3886,10 +3887,17 @@
             "author": "Григорий Остер",
             "book": "Физика с Григорием Остером",
             "year": "2021",
-            "buyDate": "12/31/21",
+            "buyDate": "12/26/21",
             "price": "252",
             "shelf": "education oster",
-            "img": "https://cdn.book24.ru/v2/ASE000000000841307/COVER/cover13d__w410.webp"
+            "img": "https://cdn.ast.ru/v2/ASE000000000841307/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Андрей Усачев и Алеша Дмитриев",
+            "book": "История с Андреем Усачевым и Алешей Дмитриевым",
+            "year": "2021",
+            "shelf": "education wishlist new",
+            "img": "https://cdn.ast.ru/v2/ASE000000000861353/COVER/cover1__w600.jpg"
         },
         {
             "book": "Истории любви",
@@ -8873,8 +8881,8 @@
         },
         {
             "author": "Михаил Фишман",
-            "book": "Преемник",
-            "year": "2021",
+            "book": "Преемник. История Бориса Немцова и страны, в которой он не стал президентом",
+            "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist new"
         },
@@ -9728,7 +9736,8 @@
             "book": "Спаси меня. Книга 1",
             "buyDate": "1/7/21",
             "price": "312",
-            "shelf": "kasten",
+            "publisher": "Like Book",
+            "shelf": "like-book kasten",
             "img": "https://s1.livelib.ru/boocover/1003034423/o/ffc4/Mona_Kasten__Spasi_menya.jpeg"
         },
         {
@@ -9736,7 +9745,8 @@
             "book": "Спаси себя. Книга 2",
             "buyDate": "1/7/21",
             "price": "312",
-            "shelf": "kasten",
+            "publisher": "Like Book",
+            "shelf": "like-book kasten",
             "img": "https://s1.livelib.ru/boocover/1003273467/o/7879/Mona_Kasten__Spasi_sebya.jpeg"
         },
         {
@@ -9744,7 +9754,8 @@
             "book": "Спаси нас. Книга 3",
             "buyDate": "1/7/21",
             "price": "340",
-            "shelf": "kasten",
+            "publisher": "Like Book",
+            "shelf": "like-book kasten",
             "img": "https://s1.livelib.ru/boocover/1003861579/o/5eab/Mona_Kasten__Spasi_nas.jpeg"
         },
         {
@@ -9752,7 +9763,8 @@
             "book": "Начни сначала",
             "buyDate": "1/7/21",
             "price": "340",
-            "shelf": "kasten",
+            "publisher": "Like Book",
+            "shelf": "like-book kasten",
             "img": "https://s1.livelib.ru/boocover/1005497107/o/8381/Mona_Kasten__Nachni_snachala.jpeg"
         },
         {
@@ -9761,14 +9773,16 @@
             "year": "2021",
             "buyDate": "8/6/21",
             "price": "346",
-            "shelf": "kasten",
+            "publisher": "Like Book",
+            "shelf": "like-book kasten",
             "img": "https://s1.livelib.ru/boocover/1006211509/o/c4a0/Mona_Kasten__Doversya_mne.jpeg"
         },
         {
             "author": "Мона Кастен",
             "book": "Снова почувствуй",
             "year": "2022",
-            "shelf": "kasten wishlist new",
+            "publisher": "Like Book",
+            "shelf": "like-book kasten wishlist new",
             "img": "https://s1.livelib.ru/boocover/1006927741/o/b528/Mona_Kasten__Snova_pochuvstvuj.jpeg"
         },
         {
@@ -10486,7 +10500,14 @@
         {
             "author": "Ричард Осман",
             "book": "Человек, который умер дважды",
-            "year": "2021",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif osman wishlist new"
+        },
+        {
+            "author": "Ричард Осман",
+            "book": "Клуб убийств по четвергам-3",
+            "year": "2022",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif osman wishlist new"
         },
@@ -11143,6 +11164,8 @@
         {
             "author": "Дмитрий Глуховский",
             "book": "Текст",
+            "year": "2017",
+            "readDate": "12/28/21",
             "shelf": "gluhovsky wishlist",
             "img": "https://s1.livelib.ru/boocover/1002267379/o/db8a/Dmitrij_Gluhovskij__Tekst.jpeg"
         },
@@ -11160,11 +11183,6 @@
             "year": "2019",
             "shelf": "wishlist",
             "img": "https://monster-book.com/sites/default/files/styles/sc290x400/public/books/put-frilansera-kniga.png?itok=HK10R2KO"
-        },
-        {
-            "book": "Конституция РФ",
-            "price": "36",
-            "img": "https://avatars.mds.yandex.net/get-mpic/4113189/img_id5720735707042936185.jpeg/orig"
         }
     ]
 }
