@@ -509,7 +509,8 @@
             "book": "Роман",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist"
+            "shelf": "corpus sorokin wishlist new",
+            "img": "https://www.corpus.ru/picts/products/cover1-sorokin-roman.jpg"
         },
         {
             "id": "658",
@@ -635,7 +636,8 @@
         },
         {
             "author": "Владимир Набоков",
-            "book": "Ада, или Эротиада: Семейная хроника",
+            "book": "Ада, или Отрада",
+            "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus nabokov wishlist"
         },
@@ -8555,17 +8557,6 @@
             "img": "https://www.corpus.ru/picts/products/Stap-Pariki-1000.jpg"
         },
         {
-            "id": "522",
-            "author": "Сергей Плохий",
-            "book": "Человек, стрелявший ядом История одного шпиона времен холодной войны",
-            "year": "2019",
-            "buyDate": "5/26/21",
-            "price": "574",
-            "publisher": "Corpus",
-            "shelf": "corpus razvedcorpus",
-            "img": "https://www.corpus.ru/picts/products/Plohiy-Poison-1000.jpg"
-        },
-        {
             "id": "600",
             "author": "Кристина Ульсон",
             "book": "Лотос-блюз",
@@ -8754,6 +8745,17 @@
             "img": "https://www.corpus.ru/picts/products/shpion-na-milliard-dollarov.jpg"
         },
         {
+            "id": "522",
+            "author": "Сергей Плохий",
+            "book": "Человек, стрелявший ядом История одного шпиона времен холодной войны",
+            "year": "2019",
+            "buyDate": "5/26/21",
+            "price": "574",
+            "publisher": "Corpus",
+            "shelf": "corpus razvedcorpus",
+            "img": "https://www.corpus.ru/picts/products/Plohiy-Poison-1000.jpg"
+        },
+        {
             "id": "439",
             "author": "Бен Макинтайр",
             "book": "Шпион среди друзей. Великое предательство Кима Филби",
@@ -8781,6 +8783,17 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus razvedcorpus wishlist new"
+        },
+        {
+            "id": "612",
+            "author": "Билл Франсуа",
+            "book": "Красноречие сардинки. Невероятные истории подводного мира",
+            "year": "2020",
+            "buyDate": "1/4/22",
+            "price": "375",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/cover1-sardinka.jpg"
         },
         {
             "id": "630",
@@ -8903,6 +8916,27 @@
             "img": "https://www.corpus.ru/picts/news/21_20211111025806fYtf-OOCtwk.jpg"
         },
         {
+            "author": "Андрей Бабиков",
+            "book": "Игра слов. Практика и идеология перевода",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist new"
+        },
+        {
+            "author": "Альберт Санчес Пиньоль",
+            "book": "Фунгус",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist new"
+        },
+        {
+            "author": "Мария Конникова",
+            "book": "Величайший блеф",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist new"
+        },
+        {
             "id": "n",
             "author": "Ханна Фрай",
             "book": "Hello World",
@@ -8972,7 +9006,7 @@
             "buyDate": "10/18/21",
             "price": "622",
             "publisher": "Corpus",
-            "shelf": "corpus politeh",
+            "shelf": "corpus politeh gazzaniga",
             "img": "https://www.corpus.ru/picts/products/Gazzaniga-Mozg-1000.jpg"
         },
         {
@@ -8983,8 +9017,15 @@
             "buyDate": "11/29/21",
             "price": "620",
             "publisher": "Corpus",
-            "shelf": "corpus politeh",
+            "shelf": "corpus politeh gazzaniga",
             "img": "https://www.corpus.ru/picts/products/cover1-glavnogo.jpg"
+        },
+        {
+            "author": "Майкл Газзанига",
+            "book": "Инстинкт сознания",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus gazzaniga wishlist new"
         },
         {
             "author": "Сьюзан Хокфилд",
@@ -10405,6 +10446,7 @@
             "book": "Ключ к прошлому",
             "year": "2021",
             "buyDate": "12/20/21",
+            "readDate": "12/31/21",
             "price": "316",
             "publisher": "Бомбора",
             "shelf": "bombora kuni moloko",
@@ -10416,7 +10458,7 @@
             "year": "2022",
             "publisher": "Бомбора",
             "shelf": "bombora kuni moloko wishlist new",
-            "img": "https://s1.livelib.ru/boocover/1000641776/o/50d7/Caroline_B._Cooney__Janie_Face_to_Face.jpeg"
+            "img": "https://bombora.ru/upload/adwex.minified/webp/f6a/90/f6a49f56a9e26ad88660501499541370.webp"
         },
         {
             "author": "Майкл Керриган",
