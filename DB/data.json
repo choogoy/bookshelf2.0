@@ -611,6 +611,14 @@
         },
         {
             "author": "Владимир Набоков",
+            "book": "Другие берега",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus nabokov wishlist new",
+            "img": "https://cdn.book24.ru/v2/ASE000000000858726/COVER/cover13d__w410.webp"
+        },
+        {
+            "author": "Владимир Набоков",
             "book": "Дар",
             "year": "2022",
             "publisher": "Corpus",
@@ -3129,6 +3137,7 @@
             "author": "Пауло Коэльо",
             "book": "Вероника решает умереть",
             "year": "1998",
+            "readDate": "1/2/22",
             "shelf": "koelho",
             "img": "https://s1.livelib.ru/boocover/1000309059/o/82aa/Paulo_Koelo__Veronika_reshaet_umeret.jpeg"
         },
@@ -3143,6 +3152,7 @@
             "author": "Пауло Коэльо",
             "book": "Одиннадцать минут",
             "year": "2003",
+            "readDate": "1/6/22",
             "shelf": "koelho",
             "img": "https://s1.livelib.ru/boocover/1000364361/o/3278/Koelo_Paulo__Odinnadtsat_minut.jpeg"
         },
@@ -8108,6 +8118,17 @@
             "img": "https://www.corpus.ru/picts/products/cover1-motova.jpg"
         },
         {
+            "id": "612",
+            "author": "Билл Франсуа",
+            "book": "Красноречие сардинки. Невероятные истории подводного мира",
+            "year": "2020",
+            "buyDate": "1/3/22",
+            "price": "375",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/cover1-sardinka.jpg"
+        },
+        {
             "id": "616",
             "author": "Арсен Ревазов",
             "book": "Одиночество-12",
@@ -8711,7 +8732,7 @@
         {
             "author": "Кристер Стурмарк",
             "book": "Светоч разума. Рациональное мышление в XXI веке",
-            "year": "2021",
+            "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus social wishlist new",
             "img": "https://www.corpus.ru/picts/products/cover1sturmark.jpg"
@@ -8785,17 +8806,6 @@
             "shelf": "corpus razvedcorpus wishlist new"
         },
         {
-            "id": "612",
-            "author": "Билл Франсуа",
-            "book": "Красноречие сардинки. Невероятные истории подводного мира",
-            "year": "2020",
-            "buyDate": "1/4/22",
-            "price": "375",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/cover1-sardinka.jpg"
-        },
-        {
             "id": "630",
             "author": "Катарина Фолкмер",
             "book": "Еврейский член",
@@ -8845,6 +8855,7 @@
             "book": "Аномалия",
             "year": "2021",
             "buyDate": "11/18/21",
+            "readDate": "1/3/22",
             "price": "424",
             "publisher": "Corpus",
             "shelf": "corpus goncur",
@@ -8887,7 +8898,7 @@
             "id": "687",
             "author": "Клэр Чемберс",
             "book": "Простые радости",
-            "year": "2021",
+            "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist new",
             "img": "https://www.corpus.ru/picts/products/cover1-chembers.jpg"
@@ -10458,7 +10469,7 @@
             "year": "2022",
             "publisher": "Бомбора",
             "shelf": "bombora kuni moloko wishlist new",
-            "img": "https://bombora.ru/upload/adwex.minified/webp/f6a/90/f6a49f56a9e26ad88660501499541370.webp"
+            "img": "https://cdn.book24.ru/v2/ITD000000001101405/COVER/cover13d__w410.webp"
         },
         {
             "author": "Майкл Керриган",
@@ -10867,7 +10878,7 @@
         {
             "author": "Мартин Лейтем",
             "book": "Истории торговца книгами",
-            "year": "2021",
+            "year": "2022",
             "shelf": "bookstore wishlist new",
             "img": "https://s1.livelib.ru/boocover/1006841884/o/e3d9/Martin_Lejtem__Istorii_torgovtsa_knigami.jpeg"
         },
