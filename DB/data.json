@@ -1991,10 +1991,10 @@
         },
         {
             "author": "Харуки Мураками",
-            "book": "First Person Singular: Stories",
-            "year": "2021",
+            "book": "От первого лица",
+            "year": "2022",
             "shelf": "haruki-murakami wishlist new",
-            "img": "https://images2.penguinrandomhouse.com/cover/9780593318072?height=295&alt=cover_coming_soon.jpg"
+            "img": "https://s1.livelib.ru/boocover/1006978093/o/a868/Haruki_Murakami__Ot_pervogo_litsa.jpeg"
         },
         {
             "author": "Рю Мураками",
@@ -3910,6 +3910,13 @@
             "year": "2021",
             "shelf": "education wishlist new",
             "img": "https://cdn.ast.ru/v2/ASE000000000861353/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Дмитрий Быков",
+            "book": "Литература с Дмитрием Быковым",
+            "year": "2022",
+            "shelf": "education wishlist new",
+            "img": "https://cdn.ast.ru/v2/ASE000000000857180/COVER/cover1__w600.jpg"
         },
         {
             "book": "Истории любви",
@@ -8209,8 +8216,10 @@
             "author": "Ирина Левонтина",
             "book": "Русский со словарем",
             "year": "2016",
+            "buyDate": "1/17/22",
+            "price": "660",
             "publisher": "Corpus",
-            "shelf": "corpus russian levontina wishlist",
+            "shelf": "corpus russian levontina",
             "img": "https://www.corpus.ru/picts/products/Levontina-Russky-1000.jpg"
         },
         {
@@ -9326,6 +9335,13 @@
             "publisher": "Синдбад",
             "shelf": "bakman sindbad",
             "img": "https://s1.livelib.ru/boocover/1004631232/o/9827/Fredrik_Bakman__Trevozhnye_lyudi.jpeg"
+        },
+        {
+            "author": "Фредрик Бакман",
+            "book": "Победители",
+            "year": "2022",
+            "publisher": "Синдбад",
+            "shelf": "bakman sindbad wishlist new"
         },
         {
             "author": "Салли Руни",
@@ -10914,6 +10930,12 @@
             "book": "Моя жизнь с братьями Уолтер",
             "year": "2022",
             "shelf": "wishlist new"
+        },
+        {
+            "author": "Дэймон Гэлгут",
+            "book": "Обещание",
+            "year": "2022",
+            "shelf": "buker wishlist new"
         },
         {
             "author": "Джей Рейнер",
