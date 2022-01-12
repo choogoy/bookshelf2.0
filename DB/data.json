@@ -5455,6 +5455,7 @@
             "book": "Последние дни наших отцов",
             "year": "2021",
             "buyDate": "12/11/21",
+            "readDate": "1/12/22",
             "price": "586",
             "publisher": "Corpus",
             "shelf": "dikker corpus",
@@ -10584,11 +10585,12 @@
             "book": "Человек, который умер дважды",
             "year": "2022",
             "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif osman wishlist new"
+            "shelf": "mif osman wishlist new",
+            "img": "https://s1.livelib.ru/boocover/1006866829/o/aa02/Richard_Osman__Chelovek_kotoryj_umer_dvazhdy.jpeg"
         },
         {
             "author": "Ричард Осман",
-            "book": "Клуб убийств по четвергам-3",
+            "book": "Клуб убийств по четвергам - 3",
             "year": "2022",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif osman wishlist new"
@@ -10680,6 +10682,16 @@
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria kei-adams",
             "img": "https://s1.livelib.ru/boocover/1006847557/o/f4f7/Lissa_Kej_Adams__Bromance._Vse_sekrety_knizhnogo_kluba.jpeg"
+        },
+        {
+            "author": "Лисса Кей Адамс",
+            "book": "Bromance. Книжный клуб спешит на помощь",
+            "year": "2022",
+            "buyDate": "2/22/22",
+            "price": "437",
+            "publisher": "Эксмо",
+            "shelf": "bookstore eksmo inspiria kei-adams",
+            "img": "https://s1.livelib.ru/boocover/1006993807/o/b33a/Lissa_Kej_Adams__Bromance._Knizhnyj_klub_speshit_na_pomosch.jpeg"
         },
         {
             "author": "Натали Дженнер",
