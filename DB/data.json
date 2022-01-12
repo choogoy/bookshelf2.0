@@ -1702,10 +1702,13 @@
         },
         {
             "author": "Бернар Вербер",
-            "book": "La Planète des chats",
+            "book": "Планета кошек",
             "year": "2022",
-            "shelf": "verber wishlist new",
-            "img": "https://club-stephenking.fr/wp-content/uploads/2020/08/bernardwerber-couverture-laplanetedeschats-couv.jpg"
+            "buyDate": "2/22/22",
+            "price": "427",
+            "publisher": "Эксмо",
+            "shelf": "verber eksmo",
+            "img": "https://cdn.book24.ru/v2/ITD000000001174207/COVER/cover13d__w410.webp"
         },
         {
             "author": "Харуки Мураками",
@@ -3908,7 +3911,9 @@
             "author": "Андрей Усачев и Алеша Дмитриев",
             "book": "История с Андреем Усачевым и Алешей Дмитриевым",
             "year": "2021",
-            "shelf": "education wishlist new",
+            "buyDate": "1/17/22",
+            "price": "286",
+            "shelf": "education",
             "img": "https://cdn.ast.ru/v2/ASE000000000861353/COVER/cover1__w600.jpg"
         },
         {
@@ -8742,8 +8747,10 @@
             "author": "Кристер Стурмарк",
             "book": "Светоч разума. Рациональное мышление в XXI веке",
             "year": "2022",
+            "buyDate": "1/17/22",
+            "price": "719",
             "publisher": "Corpus",
-            "shelf": "corpus social wishlist new",
+            "shelf": "corpus social",
             "img": "https://www.corpus.ru/picts/products/cover1sturmark.jpg"
         },
         {
@@ -8908,8 +8915,10 @@
             "author": "Клэр Чемберс",
             "book": "Простые радости",
             "year": "2022",
+            "buyDate": "1/17/22",
+            "price": "490",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new",
+            "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/cover1-chembers.jpg"
         },
         {
@@ -9341,7 +9350,8 @@
             "book": "Победители",
             "year": "2022",
             "publisher": "Синдбад",
-            "shelf": "bakman sindbad wishlist new"
+            "shelf": "bakman sindbad wishlist new",
+            "img": "https://www.salomonssonagency.se/wp-content/uploads/2021/09/SE-FB-Vinnarna-cover-649x1024.jpg"
         },
         {
             "author": "Салли Руни",
@@ -9828,7 +9838,7 @@
         },
         {
             "author": "Мона Кастен",
-            "book": "Начни сначала",
+            "book": "Начни сначала. Книга 1",
             "buyDate": "1/7/21",
             "price": "340",
             "publisher": "Like Book",
@@ -9837,7 +9847,7 @@
         },
         {
             "author": "Мона Кастен",
-            "book": "Доверься мне",
+            "book": "Доверься мне. Книга 2",
             "year": "2021",
             "buyDate": "8/6/21",
             "price": "346",
@@ -9847,15 +9857,17 @@
         },
         {
             "author": "Мона Кастен",
-            "book": "Снова почувствуй",
+            "book": "Снова почувствуй. Книга 3",
             "year": "2022",
+            "buyDate": "2/22/22",
+            "price": "407",
             "publisher": "Like Book",
-            "shelf": "like-book kasten wishlist new",
+            "shelf": "like-book kasten",
             "img": "https://s1.livelib.ru/boocover/1006927741/o/b528/Mona_Kasten__Snova_pochuvstvuj.jpeg"
         },
         {
             "author": "Пули Клэр",
-            "book": "Книжная лавка",
+            "book": "Правдивая история",
             "year": "2020",
             "buyDate": "2/1/21",
             "price": "258",
@@ -9894,6 +9906,7 @@
         },
         {
             "author": "Пенелопа Фицджеральд",
+            "book": "Книжная лавка",
             "year": "2018",
             "buyDate": "2/9/21",
             "readDate": "5/6/21",
@@ -10824,14 +10837,18 @@
             "year": "2021",
             "buyDate": "12/11/21",
             "price": "337",
-            "shelf": "miracle",
+            "publisher": "АСТ",
+            "shelf": "ast miracle",
             "img": "https://s1.livelib.ru/boocover/1006842790/o/5ec7/Hejzel_Prajor__Kak_pingviny_spasli_Veroniku.jpeg"
         },
         {
             "author": "Джон Айронмонгер",
             "book": "Кит на краю света",
-            "year": "2021",
-            "shelf": "miracle wishlist new",
+            "year": "2022",
+            "buyDate": "1/17/21",
+            "price": "347",
+            "publisher": "АСТ",
+            "shelf": "ast miracle",
             "img": "https://cdn.book24.ru/v2/ASE000000000859846/COVER/cover13d__w410.webp"
         },
         {
@@ -10875,8 +10892,28 @@
         {
             "author": "Трейси Бьюканан",
             "book": "Стена тишины",
-            "shelf": "puzzle wishlist new",
+            "year": "2021",
+            "buyDate": "1/17/22",
+            "price": "347",
+            "shelf": "puzzle",
             "img": "https://cdn.book24.ru/v2/ASE000000000852964/COVER/cover13d__w410.webp"
+        },
+        {
+            "author": "Эбби Дэвис",
+            "book": "Культ",
+            "year": "2022",
+            "shelf": "puzzle wishlist new",
+            "img": "https://cdn.book24.ru/v2/ASE000000000861831/COVER/cover13d__w410.webp"
+        },
+        {
+            "author": "Мэри Эллен Тейлор",
+            "book": "Сад нашей памяти",
+            "year": "2022",
+            "buyDate": "1/31/22",
+            "price": "393",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria",
+            "img": "https://s1.livelib.ru/boocover/1006973803/o/8f1f/Meri_Ellen_Tejlor__Sad_nashej_pamyati.jpeg"
         },
         {
             "author": "Карина Ян Глейзер",
