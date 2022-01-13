@@ -1783,6 +1783,7 @@
             "author": "Харуки Мураками",
             "book": "Норвежский лес",
             "year": "1987",
+            "readDate": "1/13/22",
             "shelf": "haruki-murakami",
             "img": "https://s1.livelib.ru/boocover/1000318748/o/e1cf/Haruki_Murakami__Norvezhskij_les.jpeg"
         },
@@ -4334,13 +4335,6 @@
             "img": "https://s1.livelib.ru/boocover/1001008023/o/c8fb/Dirk_Bekman__A_kak_postupili_by_v_Apple.jpeg"
         },
         {
-            "author": "Алексей Милов",
-            "book": "Курс молодого отца. Папа близняшек дает советы",
-            "buyDate": "11/28/16",
-            "shelf": "gift",
-            "img": "https://s1.livelib.ru/boocover/1001295840/o/7360/Aleksej_Milov__Kurs_molodogo_ottsa._Papa_bliznyashek_daet_sovety.jpeg"
-        },
-        {
             "author": "Юрек Бекер",
             "book": "Яков-лжец",
             "buyDate": "4/17/17",
@@ -4534,22 +4528,6 @@
             "publisher": "bombora",
             "shelf": "bombora elon-musk",
             "img": "https://s1.livelib.ru/boocover/1005641776/o/f821/Ozan_Varol__Dumaj_kak_Ilon_Mask._I_drugie_prostye_strategii_dlya_gigantskogo_ska.jpeg"
-        },
-        {
-            "author": "Ирина Чеснова",
-            "book": "Первый год с малышом. Как мы учились быть папой и мамой",
-            "buyDate": "6/18/13",
-            "price": "154",
-            "shelf": "kids",
-            "img": "https://s1.livelib.ru/boocover/1000437185/o/abef/Irina_Chesnova__Pervyj_god_s_malyshom._Kak_my_uchilis_byt_papoj_i_mamoj.jpeg"
-        },
-        {
-            "author": "Ирина Чеснова",
-            "book": "Малыш: мамино счастье",
-            "buyDate": "6/18/13",
-            "price": "389",
-            "shelf": "kids",
-            "img": "https://s1.livelib.ru/boocover/1000579037/o/c48c/Irina_Chesnova__Malysh_mamino_schaste.jpeg"
         },
         {
             "author": "Юлия Борисовна Гиппенрейтер",
@@ -7465,7 +7443,8 @@
             "book": "В сторону рая",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "ianagihara corpus wishlist"
+            "shelf": "ianagihara corpus wishlist new",
+            "img": "https://coollib.net/i/52/553552/img_0.webp"
         },
         {
             "id": "301",
@@ -8820,7 +8799,8 @@
             "book": "Агент Соня",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus razvedcorpus wishlist new"
+            "shelf": "corpus razvedcorpus wishlist new",
+            "img": "https://img1.od-cdn.com/ImageType-100/1191-1/%7B21D4BC86-57B2-426D-8C72-E149C4F66DC6%7DImg100.jpg"
         },
         {
             "id": "630",
@@ -10670,7 +10650,7 @@
             "buyDate": "10/14/21",
             "price": "354",
             "publisher": "Эксмо",
-            "shelf": "bookstore eksmo inspiria kei-adams",
+            "shelf": "bookstore eksmo inspiria bromance kei-adams",
             "img": "https://s1.livelib.ru/boocover/1006265569/o/c980/Lissa_Kej_Adams__Bromance._Tajnyj_klub_romantikov.jpeg"
         },
         {
@@ -10680,7 +10660,7 @@
             "buyDate": "12/15/21",
             "price": "343",
             "publisher": "Эксмо",
-            "shelf": "bookstore eksmo inspiria kei-adams",
+            "shelf": "bookstore eksmo inspiria bromance kei-adams",
             "img": "https://s1.livelib.ru/boocover/1006847557/o/f4f7/Lissa_Kej_Adams__Bromance._Vse_sekrety_knizhnogo_kluba.jpeg"
         },
         {
@@ -10690,7 +10670,7 @@
             "buyDate": "2/22/22",
             "price": "437",
             "publisher": "Эксмо",
-            "shelf": "bookstore eksmo inspiria kei-adams",
+            "shelf": "bookstore eksmo inspiria bromance kei-adams",
             "img": "https://s1.livelib.ru/boocover/1006993807/o/b33a/Lissa_Kej_Adams__Bromance._Knizhnyj_klub_speshit_na_pomosch.jpeg"
         },
         {
@@ -10857,7 +10837,7 @@
             "author": "Джон Айронмонгер",
             "book": "Кит на краю света",
             "year": "2022",
-            "buyDate": "1/17/21",
+            "buyDate": "1/17/22",
             "price": "347",
             "publisher": "АСТ",
             "shelf": "ast miracle",
@@ -10889,7 +10869,8 @@
             "year": "2021",
             "buyDate": "12/11/21",
             "price": "337",
-            "shelf": "puzzle",
+            "publisher": "АСТ",
+            "shelf": "ast puzzle",
             "img": "https://s1.livelib.ru/boocover/1006766875/o/6a73/Luann_Rajs__Yaschik_Pandory.jpeg"
         },
         {
@@ -10898,7 +10879,8 @@
             "year": "2021",
             "buyDate": "12/20/21",
             "price": "350",
-            "shelf": "puzzle",
+            "publisher": "АСТ",
+            "shelf": "ast puzzle",
             "img": "https://s1.livelib.ru/boocover/1006842763/o/fe2f/Alessandra_Torre__Poslednij_sekret.jpeg"
         },
         {
@@ -10907,14 +10889,16 @@
             "year": "2021",
             "buyDate": "1/17/22",
             "price": "347",
-            "shelf": "puzzle",
+            "publisher": "АСТ",
+            "shelf": "ast puzzle",
             "img": "https://cdn.book24.ru/v2/ASE000000000852964/COVER/cover13d__w410.webp"
         },
         {
             "author": "Эбби Дэвис",
             "book": "Культ",
             "year": "2022",
-            "shelf": "puzzle wishlist new",
+            "publisher": "АСТ",
+            "shelf": "ast puzzle wishlist new",
             "img": "https://cdn.book24.ru/v2/ASE000000000861831/COVER/cover13d__w410.webp"
         },
         {
@@ -10972,19 +10956,22 @@
             "author": "Tracy Dobmeier, Wendy Katzman",
             "book": "Girl with Bright Futures",
             "year": "2022",
-            "shelf": "wishlist new"
+            "shelf": "wishlist new",
+            "img": "https://1.bp.blogspot.com/-uageEVFvc5I/YCf2jW47A0I/AAAAAAAAQTI/FTbEz-L7XT8Xn_wDmle_XomcUDI_m3deACLcBGAsYHQ/s2048/91ChjAIV7KL.jpg"
         },
         {
             "author": "Али Новак",
             "book": "Моя жизнь с братьями Уолтер",
             "year": "2022",
-            "shelf": "wishlist new"
+            "shelf": "wishlist new",
+            "img": "https://img1.od-cdn.com/ImageType-100/0174-1/%7B9B25F10E-4FD7-4709-A9C4-DD84337F550B%7DImg100.jpg"
         },
         {
             "author": "Дэймон Гэлгут",
             "book": "Обещание",
             "year": "2022",
-            "shelf": "buker wishlist new"
+            "shelf": "buker wishlist new",
+            "img": "https://pbs.twimg.com/media/E4KKKaVWEAMdut7.jpg"
         },
         {
             "author": "Джей Рейнер",
