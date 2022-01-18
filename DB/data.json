@@ -1997,7 +1997,9 @@
             "author": "Харуки Мураками",
             "book": "От первого лица",
             "year": "2022",
-            "shelf": "haruki-murakami wishlist new",
+            "buyDate": "2/22/22",
+            "price": "485",
+            "shelf": "haruki-murakami",
             "img": "https://s1.livelib.ru/boocover/1006978093/o/a868/Haruki_Murakami__Ot_pervogo_litsa.jpeg"
         },
         {
@@ -2703,6 +2705,12 @@
             "publisher": "Corpus",
             "shelf": "houellebecq corpus",
             "img": "https://www.corpus.ru/picts/products/Houellebecq-Serotonin-1000.jpg"
+        },
+        {
+            "author": "Мишель Уэльбек",
+            "year": "2022",
+            "shelf": "houellebecq wishlist new",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Anéantir_%28Michel_Houellebecq%29_-_bandeau_rouge.jpg/1200px-Anéantir_%28Michel_Houellebecq%29_-_bandeau_rouge.jpg"
         },
         {
             "author": "Питер Гитерс",
@@ -6141,7 +6149,7 @@
         {
             "id": "n",
             "author": "Иван Чистяков",
-            "book": "Сибирской дальней стороной. Дневник охранника БАМа, 1935–1936",
+            "book": "Сибирской дальней стороной. Дневник охранника БАМа, 1935-1936",
             "year": "2014",
             "buyDate": "7/24/20",
             "price": "74",
@@ -8201,7 +8209,7 @@
             "author": "Ирина Левонтина",
             "book": "Русский со словарем",
             "year": "2016",
-            "buyDate": "1/17/22",
+            "buyDate": "1/15/22",
             "price": "660",
             "publisher": "Corpus",
             "shelf": "corpus russian levontina",
@@ -10668,7 +10676,7 @@
             "book": "Bromance. Книжный клуб спешит на помощь",
             "year": "2022",
             "buyDate": "2/22/22",
-            "price": "437",
+            "price": "374",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria bromance kei-adams",
             "img": "https://s1.livelib.ru/boocover/1006993807/o/b33a/Lissa_Kej_Adams__Bromance._Knizhnyj_klub_speshit_na_pomosch.jpeg"
@@ -10905,7 +10913,7 @@
             "author": "Мартин Лейтем",
             "book": "Истории торговца книгами",
             "year": "2022",
-            "buyDate": "1/18/22",
+            "buyDate": "1/16/22",
             "price": "431",
             "publisher": "КоЛибри",
             "shelf": "kolibri bookstore",
