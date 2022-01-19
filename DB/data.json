@@ -4578,6 +4578,26 @@
             "img": "https://s1.livelib.ru/boocover/1003624072/o/1724/Valentina_Dzhianella__Menya_zovut_Greta._Golos_kotoryj_vdohnovil_ves_mir.jpeg"
         },
         {
+            "author": "Грег Джеймс и Крис Смит",
+            "book": "Обычный ребенок",
+            "year": "2019",
+            "buyDate": "1/22/22",
+            "price": "295",
+            "publisher": "АСТ",
+            "shelf": "slabak ast",
+            "img": "https://cdn.ast.ru/v2/ASE000000000841283/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Стефан Пастис",
+            "book": "Дневник «Эпик Фейл». Мы снова встретились!",
+            "year": "2020",
+            "buyDate": "1/22/22",
+            "price": "234",
+            "publisher": "АСТ",
+            "shelf": "slabak ast",
+            "img": "https://cdn.ast.ru/v2/ASE000000000849627/COVER/cover1__w600.jpg"
+        },
+        {
             "author": "Джефф Кинни",
             "book": "Дневник слабака",
             "buyDate": "10/17/20",
@@ -8690,6 +8710,17 @@
             "publisher": "Corpus",
             "shelf": "corpus beizel",
             "img": "https://www.corpus.ru/picts/products/Bazell-Tvar-1000.jpg"
+        },
+        {
+            "id": "479",
+            "author": "Джоби Уоррик",
+            "book": "Черные флаги. Ближний Восток на рубеже тысячелетий",
+            "year": "2018",
+            "buyDate": "1/21/22",
+            "price": "322",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Warrick-Flagi-1000.jpg"
         },
         {
             "id": "531",
