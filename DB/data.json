@@ -375,8 +375,10 @@
             "author": "Владимир Сорокин",
             "book": "Первый субботник",
             "year": "2018",
+            "buyDate": "1/20/22",
+            "price": "478",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist",
+            "shelf": "corpus sorokin",
             "img": "https://www.corpus.ru/picts/products/Sorokin-Subbotnik-1000.jpg"
         },
         {
@@ -2708,6 +2710,7 @@
         },
         {
             "author": "Мишель Уэльбек",
+            "book": "Уничтожить",
             "year": "2022",
             "shelf": "houellebecq wishlist new",
             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Anéantir_%28Michel_Houellebecq%29_-_bandeau_rouge.jpg/1200px-Anéantir_%28Michel_Houellebecq%29_-_bandeau_rouge.jpg"
@@ -3920,7 +3923,7 @@
             "author": "Андрей Усачев и Алеша Дмитриев",
             "book": "История с Андреем Усачевым и Алешей Дмитриевым",
             "year": "2021",
-            "buyDate": "1/17/22",
+            "buyDate": "1/22/22",
             "price": "286",
             "shelf": "education",
             "img": "https://cdn.ast.ru/v2/ASE000000000861353/COVER/cover1__w600.jpg"
@@ -5397,6 +5400,7 @@
             "book": "Правда о деле Гарри Квеберта",
             "year": "2017",
             "buyDate": "7/21/20",
+            "readDate": "1/19/22",
             "price": "535",
             "publisher": "Corpus",
             "shelf": "dikker corpus",
@@ -8735,7 +8739,7 @@
             "author": "Кристер Стурмарк",
             "book": "Светоч разума. Рациональное мышление в XXI веке",
             "year": "2022",
-            "buyDate": "1/17/22",
+            "buyDate": "1/22/22",
             "price": "719",
             "publisher": "Corpus",
             "shelf": "corpus social",
@@ -8904,7 +8908,7 @@
             "author": "Клэр Чемберс",
             "book": "Простые радости",
             "year": "2022",
-            "buyDate": "1/17/22",
+            "buyDate": "1/22/22",
             "price": "490",
             "publisher": "Corpus",
             "shelf": "corpus",
@@ -8915,7 +8919,7 @@
             "book": "Преемник. История Бориса Немцова и страны, в которой он не стал президентом",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new"
+            "shelf": "corpus nemcov wishlist new"
         },
         {
             "author": "Дженнифер Сэйнт",
@@ -10490,6 +10494,26 @@
             "img": "https://cdn.book24.ru/v2/ITD000000001101405/COVER/cover13d__w410.webp"
         },
         {
+            "author": "Сергей Рязанский",
+            "book": "Можно ли забить гвоздь в космосе и другие вопросы о космонавтике",
+            "year": "2021",
+            "buyDate": "12/20/21",
+            "price": "350",
+            "publisher": "Бомбора",
+            "shelf": "bombora space",
+            "img": "https://s1.livelib.ru/boocover/1003020646/o/a9c9/Sergej_Ryazanskij__Mozhno_li_zabit_gvozd_v_kosmose_i_drugie_voprosy_o_kosmonavti.jpeg"
+        },
+        {
+            "author": "Жанна Немцова",
+            "book": "Дочь своего отца",
+            "year": "2022",
+            "buyDate": "1/20/22",
+            "price": "583",
+            "publisher": "Бомбора",
+            "shelf": "bombora nemcov",
+            "img": "https://s1.livelib.ru/boocover/1006937089/o/0a86/Zhanna_Nemtsova__Doch_svoego_ottsa.jpeg"
+        },
+        {
             "author": "Майкл Керриган",
             "book": "Взламывая код «Энигмы»",
             "year": "2021",
@@ -10845,7 +10869,7 @@
             "author": "Джон Айронмонгер",
             "book": "Кит на краю света",
             "year": "2022",
-            "buyDate": "1/17/22",
+            "buyDate": "1/22/22",
             "price": "347",
             "publisher": "АСТ",
             "shelf": "ast miracle",
@@ -10860,16 +10884,6 @@
             "publisher": "АСТ",
             "shelf": "ast",
             "img": "https://s1.livelib.ru/boocover/1006918774/o/b5c0/Tatyana_Habenskaya__Moj_admiral.jpeg"
-        },
-        {
-            "author": "Сергей Рязанский",
-            "book": "Можно ли забить гвоздь в космосе и другие вопросы о космонавтике",
-            "year": "2021",
-            "buyDate": "12/20/21",
-            "price": "350",
-            "publisher": "Бомбора",
-            "shelf": "bombora space",
-            "img": "https://s1.livelib.ru/boocover/1003020646/o/a9c9/Sergej_Ryazanskij__Mozhno_li_zabit_gvozd_v_kosmose_i_drugie_voprosy_o_kosmonavti.jpeg"
         },
         {
             "author": "Луанн Райс",
@@ -10895,7 +10909,7 @@
             "author": "Трейси Бьюканан",
             "book": "Стена тишины",
             "year": "2021",
-            "buyDate": "1/17/22",
+            "buyDate": "1/22/22",
             "price": "347",
             "publisher": "АСТ",
             "shelf": "ast puzzle",
