@@ -3923,7 +3923,7 @@
             "author": "Андрей Усачев и Алеша Дмитриев",
             "book": "История с Андреем Усачевым и Алешей Дмитриевым",
             "year": "2021",
-            "buyDate": "1/22/22",
+            "buyDate": "1/20/22",
             "price": "286",
             "shelf": "education",
             "img": "https://cdn.ast.ru/v2/ASE000000000861353/COVER/cover1__w600.jpg"
@@ -5380,6 +5380,14 @@
             "publisher": "Corpus",
             "shelf": "grun corpus",
             "img": "https://www.corpus.ru/picts/products/Grun-New-1000.jpg"
+        },
+        {
+            "author": "Хендрик Грун",
+            "book": "Живи и давай жить другим",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "grun corpus wishlist new",
+            "img": "https://cdn.ast.ru/v2/ASE000000000844798/COVER/cover1__w600.jpg"
         },
         {
             "id": "504",
@@ -8770,7 +8778,7 @@
             "author": "Кристер Стурмарк",
             "book": "Светоч разума. Рациональное мышление в XXI веке",
             "year": "2022",
-            "buyDate": "1/22/22",
+            "buyDate": "1/20/22",
             "price": "719",
             "publisher": "Corpus",
             "shelf": "corpus social",
@@ -8939,11 +8947,19 @@
             "author": "Клэр Чемберс",
             "book": "Простые радости",
             "year": "2022",
-            "buyDate": "1/22/22",
+            "buyDate": "1/20/22",
             "price": "490",
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/cover1-chembers.jpg"
+        },
+        {
+            "author": "Лола Лафон",
+            "book": "Ошибка Клео",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist new",
+            "img": "https://cdn.ast.ru/v2/ASE000000000856406/COVER/cover1__w600.jpg"
         },
         {
             "author": "Михаил Фишман",
@@ -10900,7 +10916,7 @@
             "author": "Джон Айронмонгер",
             "book": "Кит на краю света",
             "year": "2022",
-            "buyDate": "1/22/22",
+            "buyDate": "1/20/22",
             "price": "347",
             "publisher": "АСТ",
             "shelf": "ast miracle",
@@ -10940,7 +10956,7 @@
             "author": "Трейси Бьюканан",
             "book": "Стена тишины",
             "year": "2021",
-            "buyDate": "1/22/22",
+            "buyDate": "1/20/22",
             "price": "347",
             "publisher": "АСТ",
             "shelf": "ast puzzle",
