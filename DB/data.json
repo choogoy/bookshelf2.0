@@ -607,8 +607,10 @@
             "author": "Владимир Набоков",
             "book": "Бледный огонь",
             "year": "2022",
+            "buyDate": "1/27/22",
+            "price": "369",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new",
+            "shelf": "corpus nabokov",
             "img": "https://www.corpus.ru/picts/products/cover-bledny-ogon.jpg"
         },
         {
@@ -4581,7 +4583,7 @@
             "author": "Грег Джеймс и Крис Смит",
             "book": "Обычный ребенок",
             "year": "2019",
-            "buyDate": "1/22/22",
+            "buyDate": "1/21/22",
             "price": "295",
             "publisher": "АСТ",
             "shelf": "slabak ast",
@@ -4591,7 +4593,7 @@
             "author": "Стефан Пастис",
             "book": "Дневник «Эпик Фейл». Мы снова встретились!",
             "year": "2020",
-            "buyDate": "1/22/22",
+            "buyDate": "1/21/22",
             "price": "234",
             "publisher": "АСТ",
             "shelf": "slabak ast",
@@ -4736,7 +4738,7 @@
             "author": "Джефф Кинни",
             "book": "Diary of a Wimpy Kid: Big Shot",
             "shelf": "slabak wishlist",
-            "img": "https://static.wikia.nocookie.net/doawk/images/4/40/Big_Shot.jpg/revision/latest/scale-to-width-down/640?cb=20210526130943"
+            "img": "https://www.penguin.co.uk/content/dam/prh/books/313/313149/9780241396650.jpg.transform/PRHDesktopWide_small/image.jpg"
         },
         {
             "author": "Джефф Кинни",
@@ -5382,6 +5384,7 @@
             "img": "https://www.corpus.ru/picts/products/Grun-New-1000.jpg"
         },
         {
+            "id": "693",
             "author": "Хендрик Грун",
             "book": "Живи и давай жить другим",
             "year": "2022",
@@ -7007,6 +7010,7 @@
             "id": "128",
             "author": "Дон Уинслоу",
             "book": "Зимняя гонка Фрэнки Машины",
+            "year": "2011",
             "buyDate": "7/27/20",
             "price": "188.9",
             "publisher": "Corpus",
@@ -8775,6 +8779,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-turkle-govorit.jpg"
         },
         {
+            "id": "682",
             "author": "Кристер Стурмарк",
             "book": "Светоч разума. Рациональное мышление в XXI веке",
             "year": "2022",
@@ -9757,6 +9762,16 @@
             "publisher": "Бомбора",
             "shelf": "bombora",
             "img": "https://img-gorod.ru/28/626/2862699_detail.jpg"
+        },
+        {
+            "author": "Джеффри Кейн",
+            "book": "Взлет Samsung. История самой выдающейся и скандальной технокомпании в мире",
+            "year": "2022",
+            "buyDate": "1/23/22",
+            "price": "641",
+            "publisher": "Бомбора",
+            "shelf": "bombora",
+            "img": "https://s1.livelib.ru/boocover/1006842802/o/bac0/Dzheffri_Kejn__Vzlet_Samsung._Istoriya_samoj_vydayuschejsya_i_skandalnoj_tehnoko.jpeg"
         },
         {
             "author": "Шон Байтелл",
