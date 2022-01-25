@@ -622,6 +622,14 @@
             "img": "https://cdn.book24.ru/v2/ASE000000000858726/COVER/cover13d__w410.webp"
         },
         {
+            "id": "696",
+            "author": "Владимир Набоков",
+            "book": "Волшебник",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus nabokov wishlist new"
+        },
+        {
             "author": "Владимир Набоков",
             "book": "Дар",
             "year": "2022",
@@ -668,12 +676,6 @@
         {
             "author": "Владимир Набоков",
             "book": "Лаура и её оригинал",
-            "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist"
-        },
-        {
-            "author": "Владимир Набоков",
-            "book": "Волшебник",
             "publisher": "Corpus",
             "shelf": "corpus nabokov wishlist"
         },
@@ -5443,6 +5445,7 @@
             "book": "Книга Балтиморов",
             "year": "2017",
             "buyDate": "7/21/20",
+            "readDate": "1/24/22",
             "price": "508",
             "publisher": "Corpus",
             "shelf": "dikker corpus",
