@@ -1,0 +1,167 @@
+@media (max-width: 1430px) {
+  .book-slider__inner {
+    width: calc(100% + 20px);
+  }
+  .book-slider .books__item {
+    margin: 10px 10px 20px 10px;
+  }
+}
+
+@media (max-width: 1400px) {
+  .section-books {
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+  }
+
+  .books__item {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 1000px) {
+  .categories__list {
+    max-height: 144px;
+    overflow-y: scroll;
+  }
+
+  .section-books {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 850px) {
+    .modal-cart {
+      &.modal-content {     
+        width: calc(100% - 50px);
+      }
+      & .cart-title {
+        text-align: left;
+      }
+      & .cart-item__book {
+        text-align: left;
+        max-width: calc(100% - 215px);
+      }
+    }
+  }
+
+  @media (max-width: 750px) {
+    .section-books {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 700px) {
+    .book-slider__inner {
+      width: calc(100% + 10px);
+      margin-left: -5px;
+    }
+    .book-slider .books__item {
+      margin: 10px 5px 15px 5px;
+    }
+  }
+  
+  @media (max-width: 550px) {
+    .cart-item {
+      flex-wrap: wrap;
+    }
+    .cart-content {
+      margin-bottom: 80px;
+    }
+    .modal-cart .cart-item__book {
+      max-width: 100%;
+      margin-bottom: 10px;
+    }
+    .cart-item__count {
+      margin-left: auto;
+    }
+    .cart-item__name {
+      margin-right: 20px;
+    }
+    .cart-item__delete {
+      bottom: 7px;
+      top: auto;
+    }
+  }
+
+  @media (max-width: 500px) {
+    .section-books {
+      grid-gap: 10px;
+      margin: 0 -5px;
+    }
+
+    .books__item {
+      padding: 10px 5px;
+      &-img img {
+        width: calc(100% - 5px);
+        height: 200px;
+      }
+      & p {
+        font-size: 12px;
+      }
+    }
+
+    .book-name {
+      padding: 0 5px;
+      min-height: 20px;
+    }
+
+    .book-footer {
+      margin-bottom: 0;
+    }
+    .book-add-to-cart {
+      right: 5px;
+    }
+  }
+
+  @media (max-width: 400px) {
+    .header-title {
+      display: block;
+      width: 30px;
+      height: 30px;
+    }
+  
+    .header h3 span {
+      display: none;
+    }
+  }
+  
+  @media (max-width: 375px) {
+    .cart-item__book {
+      font-size: 13px;
+    }
+    .order-btn {
+      width: calc(100% - 50px);
+    }
+  }
+
+  @media (max-width: 319px) {
+    body {
+      opacity: 0.1;
+    }
+  }
+
+
+  
+// @media (max-width: 915px) {
+//   .books__item {
+//     width: 200px;
+//     margin: 10px;
+//   }
+
+//   .books__item-img img {
+//     width: 170px;
+//     height: 250px;
+//   }
+// }
+
+// @media (max-width: 486px) {
+//   .books__item {
+//     width: calc(100% / 2 - 10px);
+//     margin: 10px 5px;
+//   }
+
+//   .books__item-img img {
+//     width: calc(100% - 10px);
+//     height: 180px;
+//   }
+// }

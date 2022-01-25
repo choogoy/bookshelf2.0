@@ -1,0 +1,136 @@
+.section-books {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 30px;
+}
+
+.books__item {
+    border: 1px solid rgba(0, 255, 127, 0.1);
+    background: rgba(0, 255, 127, 0.1);
+    max-width: 256px;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    transition: all 0.4s;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .books__item:hover {
+    cursor: pointer;
+    border: 1px solid transparent;
+    box-shadow: 5px 5px 15px springgreen;
+  }
+  
+  .books__item--read {
+    border: 1px solid rgba(255, 150, 0, 0.1);
+    background: rgba(255, 150, 0, 0.1);
+  }
+  
+  .books__item--read:hover {
+    cursor: pointer;
+    border: 1px solid transparent;
+    box-shadow: 5px 5px 15px #ff9600;
+  }
+  
+  .books__item-img {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+  
+  .books__item-img img {
+    width: 200px;
+    height: 300px;
+    object-fit: contain;
+  }
+  
+  .book-price {
+    font-weight: 600;
+    font-size: 16px;
+    color:rgba(222, 10, 0, 0.7);
+  }
+  
+  .book-author {
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-bottom: 4px;
+  }
+
+  .book-name {
+    font-weight: 600;
+    margin-bottom: 10px;
+    min-height: 28px;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .book-readdate {
+    margin-bottom: 10px;
+  }
+  
+  .book-tag {
+    margin-right: 5px;
+    color:rgba(222, 10, 0, 0.7);
+    transition: all 0.3s;
+    &:last-child {
+      margin-right: 0;
+    }
+    &:hover {
+      color: black;
+    }
+  }
+  
+  .book-footer {
+    height: 30px;
+    margin-top: auto;
+    margin-bottom: 10px;
+    position: relative;
+  }
+  
+  .book-more {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    &:hover {
+      font-weight: 600;
+      color:rgba(222, 10, 0, 0.7);
+    }
+  }
+  
+  .book-add-to-cart {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    right: 0;
+    bottom: 0;
+    transition: all 0.3s;
+    & img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    &:active {
+      transform: scale(1.1);
+    }
+  }
+  
+  .item-false {
+    border: 1px solid rgba(222, 10, 0, 0.1);
+    background: rgba(222, 10, 0, 0.1);
+    & .book-footer {
+      display: none;
+    }
+  }
+  
+  .item-false:hover {
+    border: 1px solid transparent;
+    box-shadow: 5px 5px 15px rgba(222, 10, 0, 0.1);
+  }
