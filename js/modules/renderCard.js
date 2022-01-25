@@ -12,9 +12,9 @@ const renderCard = data => {
 
     card.innerHTML = `        
         <div class="books__item-img"><img src="${img ? img : './images/no-cover.jpg'}" loading="lazy" alt="${author ? `${author} - ` : ''}${book}"></div>
-        ${author ? `<p>${author}</p>` : ''}
+        ${author ? `<p class="book-author">${author}</p>` : ''}
         <p class="book-name">${book}</p>
-        ${readDate ? `<p>${showDate(readDate)}</p>` : ''}
+        ${readDate ? `<p class="book-readdate">${showDate(readDate)}</p>` : ''}
         ${price ? `<p class="book-price">${price} ₽</p>` : ''}
         <div class="book-footer">
             ${price ? `<p class="book-add-to-cart"><img src="./images/shopping-bag.svg"></p>` : ''}

@@ -21,7 +21,7 @@ const modal = data => {
                             <div class="modal-dialog">
                                 <div class="modal-content">
                                     <div class="close"></div>
-                                    <div class="modal-content__img"><img src="${img ? img : '../images/no-cover.jpg'}" alt="${author} - ${book}"></div>
+                                    <div class="modal-content__img"><img src="${img ? img : './images/no-cover.jpg'}" alt="${author} - ${book}"></div>
                                     <div class="modal-content__text">
                                         ${author ? `<p>${author}</p>` : ''}
                                         <p><b>${book}</b></p>

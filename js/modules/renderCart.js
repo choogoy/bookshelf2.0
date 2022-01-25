@@ -31,7 +31,7 @@ const renderCart = data => {
                                     <button class="cart-item__count--minus">-</button><span>${elem.count} шт.</span><button class="cart-item__count--plus">+</button>
                                 </div>
                                 <div class="cart-item__cost" data-cost="${(good.price).toFixed(2)}">${prettify((good.price * elem.count).toFixed(2))} ₽</div>
-                                <button class="cart-item__delete" data-book-id="${good.bookID}"><img src="./images/close.svg"></button>
+                                <button class="cart-item__delete" data-book-id="${good.bookID}"><img class="cart-item__delete-img" src="./images/close.svg"></button>
                             </div>`;
     
                     total += good.price * elem.count;

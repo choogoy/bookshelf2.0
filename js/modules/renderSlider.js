@@ -9,35 +9,28 @@ const renderSlider = data => {
     $(document).ready(function () {
         $('.book-slider__inner').slick({
             arrows: true,
-            slidesToShow: 4,
+            slidesToShow: 5,
             slidesToScroll: 1,
             prevArrow: '<button class="slick-arrow slick-prev"><img src="./images/prev.svg" alt="prev"></button>',
             nextArrow: '<button class="slick-arrow slick-next"><img src="./images/next.svg" alt="next"></button>',
             responsive: [{
-                    breakpoint: 1200,
+                    breakpoint: 1201,
+                    settings: {
+                        slidesToShow: 4,
+                        slidesToScroll: 1,
+                    }
+                },
+                {
+                    breakpoint: 951,
                     settings: {
                         slidesToShow: 3,
                         slidesToScroll: 1,
                     }
                 },
                 {
-                    breakpoint: 1000,
+                    breakpoint: 701,
                     settings: {
                         slidesToShow: 2,
-                        slidesToScroll: 1,
-                    }
-                },
-                {
-                    breakpoint: 700,
-                    settings: {
-                        slidesToShow: 1,
-                        slidesToScroll: 1,
-                    }
-                },
-                {
-                    breakpoint: 400,
-                    settings: {
-                        slidesToShow: 1,
                         slidesToScroll: 1,
                         arrows: false,
                     }
