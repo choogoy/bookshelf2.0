@@ -361,6 +361,10 @@ button {
   transition: all 0.2s;
 }
 
+.categories__item .nav-category {
+  white-space: nowrap;
+}
+
 .categories__item:hover {
   cursor: pointer;
   color: white;
