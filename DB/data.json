@@ -511,7 +511,7 @@
             "book": "Роман",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist new",
+            "shelf": "corpus sorokin wishlist new 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-sorokin-roman.jpg"
         },
         {
@@ -610,7 +610,7 @@
             "buyDate": "1/26/22",
             "price": "369",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov",
+            "shelf": "corpus nabokov 2022",
             "img": "https://www.corpus.ru/picts/products/cover-bledny-ogon.jpg"
         },
         {
@@ -618,23 +618,23 @@
             "book": "Другие берега",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new",
-            "img": "https://cdn.book24.ru/v2/ASE000000000858726/COVER/cover13d__w410.webp"
+            "shelf": "corpus nabokov wishlist new 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-berega.jpg"
         },
         {
             "id": "696",
             "author": "Владимир Набоков",
-            "book": "Волшебник",
+            "book": "Волшебник. Solus Rex",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new"
+            "shelf": "corpus nabokov wishlist new 2022"
         },
         {
             "author": "Владимир Набоков",
             "book": "Дар",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist"
+            "shelf": "corpus nabokov wishlist new 2022"
         },
         {
             "author": "Владимир Набоков",
@@ -659,7 +659,7 @@
             "book": "Ада, или Отрада",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist"
+            "shelf": "corpus nabokov wishlist new 2022"
         },
         {
             "author": "Владимир Набоков",
@@ -977,7 +977,7 @@
             "book": "Перекрестки: роман. Ключ ко всем мифологиям, том 1",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "franzen corpus wishlist new",
+            "shelf": "franzen corpus wishlist new 2022",
             "img": "https://s1.livelib.ru/boocover/1005800143/o/3073/Dzhonatan_Erl_Franzen__Crossroads_A_Key_to_All_Mythologies_1.jpeg"
         },
         {
@@ -1427,7 +1427,7 @@
             "book": "Гостиница «Дача»",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "martin-lugand corpus happy wishlist new",
+            "shelf": "martin-lugand corpus happy wishlist new 2022",
             "img": "https://s1.livelib.ru/boocover/1006118407/o/85a8/Anes_MartenLyugan__La_Datcha.jpeg"
         },
         {
@@ -1711,9 +1711,9 @@
             "book": "Планета кошек",
             "year": "2022",
             "buyDate": "2/22/22",
-            "price": "427",
+            "price": "407",
             "publisher": "Эксмо",
-            "shelf": "verber eksmo",
+            "shelf": "verber eksmo 2022",
             "img": "https://cdn.book24.ru/v2/ITD000000001174207/COVER/cover13d__w410.webp"
         },
         {
@@ -2005,7 +2005,7 @@
             "year": "2022",
             "buyDate": "2/22/22",
             "price": "485",
-            "shelf": "haruki-murakami",
+            "shelf": "haruki-murakami 2022",
             "img": "https://s1.livelib.ru/boocover/1006978093/o/a868/Haruki_Murakami__Ot_pervogo_litsa.jpeg"
         },
         {
@@ -2490,7 +2490,7 @@
             "book": "Намедни. Наша эра. 1961-1970",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "namedni corpus wishlist new",
+            "shelf": "namedni corpus wishlist new 2022",
             "img": "https://s1.livelib.ru/boocover/1000567141/o/bac3/Parfjonov_Leonid__Namedni._Nasha_era._19611970.jpeg"
         },
         {
@@ -2716,7 +2716,7 @@
             "author": "Мишель Уэльбек",
             "book": "Уничтожить",
             "year": "2022",
-            "shelf": "houellebecq wishlist new",
+            "shelf": "houellebecq wishlist new 2022",
             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Anéantir_%28Michel_Houellebecq%29_-_bandeau_rouge.jpg/1200px-Anéantir_%28Michel_Houellebecq%29_-_bandeau_rouge.jpg"
         },
         {
@@ -3425,7 +3425,7 @@
             "author": "Чак Паланик",
             "book": "Рождение звука",
             "year": "2022",
-            "shelf": "palanik wishlist new",
+            "shelf": "palanik wishlist new 2022",
             "img": "https://www.bookvoed.ru/files/1836/12/28/75/68.jpeg"
         },
         {
@@ -3936,7 +3936,7 @@
             "author": "Дмитрий Быков",
             "book": "Литература с Дмитрием Быковым",
             "year": "2022",
-            "shelf": "education wishlist new",
+            "shelf": "education wishlist new 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000857180/COVER/cover1__w600.jpg"
         },
         {
@@ -5346,7 +5346,7 @@
             "book": "Silverview",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "le-karre corpus wishlist new",
+            "shelf": "le-karre corpus wishlist new 2022",
             "img": "https://www.logobook.ru/bi/15527616/15527616_102662.jpg"
         },
         {
@@ -5391,8 +5391,8 @@
             "book": "Живи и давай жить другим",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "grun corpus wishlist new",
-            "img": "https://cdn.ast.ru/v2/ASE000000000844798/COVER/cover1__w600.jpg"
+            "shelf": "grun corpus wishlist new 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1.jpg"
         },
         {
             "id": "504",
@@ -5457,6 +5457,7 @@
             "book": "Исчезновение Стефани Майлер",
             "year": "2019",
             "buyDate": "7/21/20",
+            "readDate": "1/28/22",
             "price": "535",
             "publisher": "Corpus",
             "shelf": "dikker corpus",
@@ -7490,7 +7491,7 @@
             "book": "В сторону рая",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "ianagihara corpus wishlist new",
+            "shelf": "ianagihara corpus wishlist new 2022",
             "img": "https://coollib.net/i/52/553552/img_0.webp"
         },
         {
@@ -7614,7 +7615,7 @@
             "book": "Владыка мой и победитель",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus dezerabl wishlist new",
+            "shelf": "corpus dezerabl wishlist new 2022",
             "img": "https://images-na.ssl-images-amazon.com/images/I/41Q0UKuMStL._SX339_BO1,204,203,200_.jpg"
         },
         {
@@ -8445,7 +8446,7 @@
             "price": "416",
             "publisher": "Corpus",
             "shelf": "corpus motorov",
-            "img": "https://cdn.book24.ru/v2/ASE000000000860429/COVER/cover13d__w410.webp"
+            "img": "https://www.corpus.ru/picts/products/cover1-parovozov-new.jpg"
         },
         {
             "id": "666",
@@ -8457,7 +8458,7 @@
             "price": "416",
             "publisher": "Corpus",
             "shelf": "corpus motorov",
-            "img": "https://cdn.book24.ru/v2/ASE000000000860432/COVER/cover13d__w410.webp"
+            "img": "https://www.corpus.ru/picts/products/cover1-parovozov3.jpg"
         },
         {
             "id": "667",
@@ -8468,7 +8469,7 @@
             "price": "394",
             "publisher": "Corpus",
             "shelf": "corpus motorov",
-            "img": "https://cdn.book24.ru/v2/ASE000000000858103/COVER/cover13d__w410.webp"
+            "img": "https://www.corpus.ru/picts/products/cover1-dezhurstvo.jpg"
         },
         {
             "id": "188",
@@ -8773,7 +8774,7 @@
         {
             "id": "650",
             "author": "Шерри Тёркл",
-            "book": "Живым голосом",
+            "book": "Живым голосом. Зачем в цифровую эру говорить и слушать",
             "year": "2021",
             "buyDate": "8/20/21",
             "price": "566",
@@ -8789,8 +8790,16 @@
             "buyDate": "1/20/22",
             "price": "719",
             "publisher": "Corpus",
-            "shelf": "corpus social",
+            "shelf": "corpus social 2022",
             "img": "https://www.corpus.ru/picts/products/cover1sturmark.jpg"
+        },
+        {
+            "author": "Денворт Лидия",
+            "book": "О дружбе. Эволюция, биология и суперсила главных в жизни связей",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus social wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000853219/COVER/cover1__w600.jpg"
         },
         {
             "author": "Дэвид Дарлинг и Агниджо Банерджи",
@@ -8858,7 +8867,7 @@
             "book": "Агент Соня",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus razvedcorpus wishlist new",
+            "shelf": "corpus razvedcorpus wishlist new 2022",
             "img": "https://img1.od-cdn.com/ImageType-100/1191-1/%7B21D4BC86-57B2-426D-8C72-E149C4F66DC6%7DImg100.jpg"
         },
         {
@@ -8958,7 +8967,7 @@
             "buyDate": "1/20/22",
             "price": "490",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-chembers.jpg"
         },
         {
@@ -8966,7 +8975,7 @@
             "book": "Ошибка Клео",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new",
+            "shelf": "corpus wishlist new 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000856406/COVER/cover1__w600.jpg"
         },
         {
@@ -8974,14 +8983,14 @@
             "book": "Преемник. История Бориса Немцова и страны, в которой он не стал президентом",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus nemcov wishlist new"
+            "shelf": "corpus nemcov wishlist new 2022"
         },
         {
             "author": "Дженнифер Сэйнт",
             "book": "Ариадна",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new",
+            "shelf": "corpus wishlist new 2022",
             "img": "https://www.corpus.ru/picts/news/93_20211102225137ariadne-31.jpg"
         },
         {
@@ -8989,7 +8998,7 @@
             "book": "Первая кровь",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus notomb wishlist new",
+            "shelf": "corpus notomb wishlist new 2022",
             "img": "https://www.corpus.ru/picts/news/21_20211111025806fYtf-OOCtwk.jpg"
         },
         {
@@ -8997,21 +9006,21 @@
             "book": "Игра слов. Практика и идеология перевода",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new"
+            "shelf": "corpus wishlist new 2022"
         },
         {
             "author": "Альберт Санчес Пиньоль",
             "book": "Фунгус",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new"
+            "shelf": "corpus wishlist new 2022"
         },
         {
             "author": "Мария Конникова",
             "book": "Величайший блеф",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new"
+            "shelf": "corpus wishlist new 2022"
         },
         {
             "id": "n",
@@ -9102,7 +9111,7 @@
             "book": "Инстинкт сознания",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus gazzaniga wishlist new"
+            "shelf": "corpus gazzaniga wishlist new 2022"
         },
         {
             "author": "Сьюзан Хокфилд",
@@ -9169,7 +9178,7 @@
             "book": "Ящик. Как грузовой контейнер сделал мир меньше, а мировую экономику больше",
             "year": "2022",
             "publisher": "Бомбора",
-            "shelf": "bombora politeh wishlist new",
+            "shelf": "bombora politeh wishlist new 2022",
             "img": "https://seatracker.ru/pictures/692c5efd5b746f63fcc042a45179c799.jpg"
         },
         {
@@ -9398,7 +9407,7 @@
             "book": "Победители",
             "year": "2022",
             "publisher": "Синдбад",
-            "shelf": "bakman sindbad wishlist new",
+            "shelf": "bakman sindbad wishlist new 2022",
             "img": "https://www.salomonssonagency.se/wp-content/uploads/2021/09/SE-FB-Vinnarna-cover-649x1024.jpg"
         },
         {
@@ -9428,7 +9437,7 @@
             "book": "Прекрасный мир, где же ты",
             "year": "2022",
             "publisher": "Синдбад",
-            "shelf": "runi sindbad wishlist new",
+            "shelf": "runi sindbad wishlist new 2022",
             "img": "https://s1.livelib.ru/boocover/1006912807/o/a419/Salli_Runi__Prekrasnyj_mir_gde_zhe_ty.jpeg"
         },
         {
@@ -9773,7 +9782,7 @@
             "buyDate": "1/23/22",
             "price": "641",
             "publisher": "Бомбора",
-            "shelf": "bombora",
+            "shelf": "bombora 2022",
             "img": "https://s1.livelib.ru/boocover/1006842802/o/bac0/Dzheffri_Kejn__Vzlet_Samsung._Istoriya_samoj_vydayuschejsya_i_skandalnoj_tehnoko.jpeg"
         },
         {
@@ -9918,9 +9927,9 @@
             "book": "Снова почувствуй. Книга 3",
             "year": "2022",
             "buyDate": "2/22/22",
-            "price": "407",
+            "price": "370",
             "publisher": "Like Book",
-            "shelf": "like-book kasten",
+            "shelf": "like-book kasten 2022",
             "img": "https://s1.livelib.ru/boocover/1006927741/o/b528/Mona_Kasten__Snova_pochuvstvuj.jpeg"
         },
         {
@@ -10555,7 +10564,7 @@
             "book": "Лицом к лицу",
             "year": "2022",
             "publisher": "Бомбора",
-            "shelf": "bombora kuni moloko wishlist new",
+            "shelf": "bombora kuni moloko wishlist new 2022",
             "img": "https://cdn.book24.ru/v2/ITD000000001101405/COVER/cover13d__w410.webp"
         },
         {
@@ -10575,8 +10584,18 @@
             "buyDate": "1/20/22",
             "price": "583",
             "publisher": "Бомбора",
-            "shelf": "bombora nemcov",
+            "shelf": "bombora nemcov 2022",
             "img": "https://s1.livelib.ru/boocover/1006937089/o/0a86/Zhanna_Nemtsova__Doch_svoego_ottsa.jpeg"
+        },
+        {
+            "author": "Уилл Смит и Марк Мэнсон",
+            "book": "Will. Чему может научить нас простой парень, ставший самым высокооплачиваемым актером Голливуда",
+            "year": "2021",
+            "buyDate": "1/31/22",
+            "price": "556",
+            "publisher": "Бомбора",
+            "shelf": "bombora",
+            "img": "https://s1.livelib.ru/boocover/1006926346/o/c980/__Will._Chemu_mozhet_nauchit_nas_prostoj_paren_stavshij_samym_vysokooplachivaemy.jpeg"
         },
         {
             "author": "Майкл Керриган",
@@ -10662,7 +10681,7 @@
             "book": "Человек, который умер дважды",
             "year": "2022",
             "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif osman wishlist new",
+            "shelf": "mif osman wishlist new 2022",
             "img": "https://s1.livelib.ru/boocover/1006866829/o/aa02/Richard_Osman__Chelovek_kotoryj_umer_dvazhdy.jpeg"
         },
         {
@@ -10670,7 +10689,7 @@
             "book": "Клуб убийств по четвергам - 3",
             "year": "2022",
             "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif osman wishlist new"
+            "shelf": "mif osman wishlist new 2022"
         },
         {
             "author": "Канаэ Минато",
@@ -10767,7 +10786,7 @@
             "buyDate": "2/22/22",
             "price": "374",
             "publisher": "Эксмо",
-            "shelf": "bookstore eksmo inspiria bromance kei-adams",
+            "shelf": "bookstore eksmo inspiria bromance kei-adams 2022",
             "img": "https://s1.livelib.ru/boocover/1006993807/o/b33a/Lissa_Kej_Adams__Bromance._Knizhnyj_klub_speshit_na_pomosch.jpeg"
         },
         {
@@ -10937,7 +10956,7 @@
             "buyDate": "1/20/22",
             "price": "347",
             "publisher": "АСТ",
-            "shelf": "ast miracle",
+            "shelf": "ast miracle 2022",
             "img": "https://cdn.book24.ru/v2/ASE000000000859846/COVER/cover13d__w410.webp"
         },
         {
@@ -10977,7 +10996,7 @@
             "buyDate": "1/20/22",
             "price": "347",
             "publisher": "АСТ",
-            "shelf": "ast puzzle",
+            "shelf": "ast puzzle 2022",
             "img": "https://cdn.book24.ru/v2/ASE000000000852964/COVER/cover13d__w410.webp"
         },
         {
@@ -10985,7 +11004,7 @@
             "book": "Культ",
             "year": "2022",
             "publisher": "АСТ",
-            "shelf": "ast puzzle wishlist new",
+            "shelf": "ast puzzle wishlist new 2022",
             "img": "https://cdn.book24.ru/v2/ASE000000000861831/COVER/cover13d__w410.webp"
         },
         {
@@ -10995,7 +11014,7 @@
             "buyDate": "1/16/22",
             "price": "431",
             "publisher": "КоЛибри",
-            "shelf": "kolibri bookstore",
+            "shelf": "kolibri bookstore 2022",
             "img": "https://s1.livelib.ru/boocover/1006841884/o/e3d9/Martin_Lejtem__Istorii_torgovtsa_knigami.jpeg"
         },
         {
@@ -11005,8 +11024,18 @@
             "buyDate": "1/27/22",
             "price": "393",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria",
+            "shelf": "eksmo inspiria 2022",
             "img": "https://s1.livelib.ru/boocover/1006973803/o/8f1f/Meri_Ellen_Tejlor__Sad_nashej_pamyati.jpeg"
+        },
+        {
+            "author": "Марк Биллингхэм",
+            "book": "Вниз по кроличьей норе",
+            "year": "2022",
+            "buyDate": "2/22/22",
+            "price": "355",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria 2022",
+            "img": "https://s1.livelib.ru/boocover/1007020618/o/a295/Mark_Billingem__Vniz_po_krolichej_nore.jpeg"
         },
         {
             "author": "Карина Ян Глейзер",
@@ -11039,28 +11068,28 @@
             "book": "A Promised Land",
             "year": "2022",
             "publisher": "Бомбора",
-            "shelf": "bombora obama wishlist new",
+            "shelf": "bombora obama wishlist new 2022",
             "img": "https://cdn24.img.ria.ru/images/07e4/0b/11/1584987671_0:0:710:1080_1920x0_80_0_0_d2ae700f948a1aa4f503ff9779f955ca.jpg"
         },
         {
             "author": "Tracy Dobmeier, Wendy Katzman",
             "book": "Girl with Bright Futures",
             "year": "2022",
-            "shelf": "wishlist new",
+            "shelf": "wishlist new 2022",
             "img": "https://1.bp.blogspot.com/-uageEVFvc5I/YCf2jW47A0I/AAAAAAAAQTI/FTbEz-L7XT8Xn_wDmle_XomcUDI_m3deACLcBGAsYHQ/s2048/91ChjAIV7KL.jpg"
         },
         {
             "author": "Али Новак",
             "book": "Моя жизнь с братьями Уолтер",
             "year": "2022",
-            "shelf": "wishlist new",
+            "shelf": "wishlist new 2022",
             "img": "https://img1.od-cdn.com/ImageType-100/0174-1/%7B9B25F10E-4FD7-4709-A9C4-DD84337F550B%7DImg100.jpg"
         },
         {
             "author": "Дэймон Гэлгут",
             "book": "Обещание",
             "year": "2022",
-            "shelf": "buker wishlist new",
+            "shelf": "buker wishlist new 2022",
             "img": "https://pbs.twimg.com/media/E4KKKaVWEAMdut7.jpg"
         },
         {
