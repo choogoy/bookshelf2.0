@@ -206,7 +206,7 @@
             "readDate": "1/10/21",
             "price": "261",
             "publisher": "КоЛибри",
-            "shelf": "grishkovets kolibri",
+            "shelf": "grishkovets kolibri 2020",
             "img": "https://s1.livelib.ru/boocover/1004046322/o/2307/Evgenij_Grishkovets__Vodka_kak_nechto_bolshee.jpeg"
         },
         {
@@ -216,7 +216,7 @@
             "buyDate": "7/17/20",
             "price": "322",
             "publisher": "КоЛибри",
-            "shelf": "grishkovets kolibri",
+            "shelf": "grishkovets kolibri 2020",
             "img": "https://s1.livelib.ru/boocover/1004046322/o/2307/Evgenij_Grishkovets__Vodka_kak_nechto_bolshee.jpeg"
         },
         {
@@ -226,7 +226,7 @@
             "buyDate": "7/27/20",
             "price": "336",
             "publisher": "КоЛибри",
-            "shelf": "grishkovets kolibri",
+            "shelf": "grishkovets kolibri 2020",
             "img": "https://s1.livelib.ru/boocover/1004046322/o/2307/Evgenij_Grishkovets__Vodka_kak_nechto_bolshee.jpeg"
         },
         {
@@ -235,7 +235,7 @@
             "year": "2020",
             "buyDate": "9/19/20",
             "publisher": "КоЛибри",
-            "shelf": "grishkovets kolibri gift",
+            "shelf": "grishkovets kolibri gift 2020",
             "img": "https://s1.livelib.ru/boocover/1005067234/o/4fd6/Evgenij_Grishkovets__Uzelki.jpeg"
         },
         {
@@ -245,7 +245,7 @@
             "buyDate": "5/14/21",
             "price": "436",
             "publisher": "КоЛибри",
-            "shelf": "grishkovets kolibri",
+            "shelf": "grishkovets kolibri 2021",
             "img": "https://ndc.book24.ru/resize/820x1192/iblock/c5c/c5cf3610e8ddde842a4fdfe04f08fab8/16341f4a6fc3c72d9897609c088fd4a6.jpg"
         },
         {
@@ -491,7 +491,7 @@
             "buyDate": "11/5/21",
             "price": "498",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin",
+            "shelf": "corpus sorokin 2021",
             "img": "https://www.corpus.ru/picts/products/cover-doctor-garin.jpg"
         },
         {
@@ -522,7 +522,7 @@
             "buyDate": "9/9/21",
             "price": "271",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov",
+            "shelf": "corpus nabokov 2021",
             "img": "https://www.corpus.ru/picts/products/cover-nabokov-obdkur.jpg"
         },
         {
@@ -533,7 +533,7 @@
             "buyDate": "9/9/21",
             "price": "311",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov",
+            "shelf": "corpus nabokov 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-nabokov-lolita.jpg"
         },
         {
@@ -544,7 +544,7 @@
             "buyDate": "10/2/21",
             "price": "379",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov",
+            "shelf": "corpus nabokov 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-mashenka.jpg"
         },
         {
@@ -555,7 +555,7 @@
             "buyDate": "9/23/21",
             "price": "300",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov",
+            "shelf": "corpus nabokov 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-otchayanie.jpg"
         },
         {
@@ -566,7 +566,7 @@
             "buyDate": "10/18/21",
             "price": "330",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov",
+            "shelf": "corpus nabokov 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-kqj.jpg"
         },
         {
@@ -577,7 +577,7 @@
             "buyDate": "11/1/21",
             "price": "367",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov",
+            "shelf": "corpus nabokov 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-luzhin.jpg"
         },
         {
@@ -588,7 +588,7 @@
             "buyDate": "11/5/21",
             "price": "301",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov",
+            "shelf": "corpus nabokov 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-kazn.jpg"
         },
         {
@@ -599,7 +599,7 @@
             "buyDate": "11/27/21",
             "price": "319",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov",
+            "shelf": "corpus nabokov 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-soglyadatay.jpg"
         },
         {
@@ -974,7 +974,7 @@
         },
         {
             "author": "Джонатан Франзен",
-            "book": "Перекрестки: роман. Ключ ко всем мифологиям, том 1",
+            "book": "Перекрестки",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "franzen corpus wishlist new 2022",
@@ -1168,6 +1168,13 @@
             "price": "618.2",
             "shelf": "begbeder",
             "img": "https://s1.livelib.ru/boocover/1005446380/o/180e/Frederik_Begbeder__Chelovek_kotoryj_plakal_ot_smeha.jpeg"
+        },
+        {
+            "author": "Фредерик Бегбедер",
+            "book": "Un barrage contre l'Atlantique",
+            "year": "2022",
+            "shelf": "begbeder wishlist new 2022",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1641656614l/60062767._SY475_.jpg"
         },
         {
             "author": "Дэн Браун",
@@ -1407,7 +1414,7 @@
             "readDate": "12/18/21",
             "price": "329",
             "publisher": "Corpus",
-            "shelf": "martin-lugand corpus happy",
+            "shelf": "martin-lugand corpus happy 2020",
             "img": "https://www.corpus.ru/picts/products/agnes-marten-cover1.jpg"
         },
         {
@@ -1419,7 +1426,7 @@
             "readDate": "12/21/21",
             "price": "250",
             "publisher": "Corpus",
-            "shelf": "martin-lugand corpus happy",
+            "shelf": "martin-lugand corpus happy 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-lugand.jpg"
         },
         {
@@ -2202,7 +2209,7 @@
             "year": "2021",
             "buyDate": "3/31/21",
             "price": "313",
-            "shelf": "slava",
+            "shelf": "slava 2021",
             "img": "https://s1.livelib.ru/boocover/1005811825/o/202f/Slava_Se__Malenkaya_opera.jpeg"
         },
         {
@@ -2450,7 +2457,7 @@
             "buyDate": "12/8/20",
             "price": "2036",
             "publisher": "Corpus",
-            "shelf": "namedni corpus",
+            "shelf": "namedni corpus 2020",
             "img": "https://www.corpus.ru/picts/products/parfenov-21-30.jpg"
         },
         {
@@ -2553,7 +2560,7 @@
             "buyDate": "11/27/21",
             "price": "2282",
             "publisher": "Corpus",
-            "shelf": "namedni corpus",
+            "shelf": "namedni corpus 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-namedni-2011-2015.png"
         },
         {
@@ -2819,6 +2826,13 @@
             "img": "https://s1.livelib.ru/boocover/1006146166/o/c169/Mildred_Ebbott__Hrustyaschie_pechenyushki.jpeg"
         },
         {
+            "author": "Милдред Эбботт",
+            "book": "Корги-детектив. хитрые мордашки",
+            "year": "2022",
+            "shelf": "animals ebbott wishlist new 2022",
+            "img": "https://static.my-shop.ru/product/3/479/4782656.jpg"
+        },
+        {
             "author": "Джорджи Кроули",
             "book": "Корги по имени Генри",
             "year": "2020",
@@ -2935,7 +2949,7 @@
             "buyDate": "3/31/21",
             "price": "396",
             "publisher": "Бомбора",
-            "shelf": "bombora cincero",
+            "shelf": "bombora cincero 2021",
             "img": "https://s1.livelib.ru/boocover/1005833662/o/c980/Dzhen_Sinsero__NI_ZYa._Otkazhis_ot_pagubnyh_slabostej_obreti_silu_duha_i_stan_ho.jpeg"
         },
         {
@@ -3046,7 +3060,7 @@
             "year": "2021",
             "buyDate": "12/20/21",
             "price": "897",
-            "shelf": "music kish",
+            "shelf": "music kish 2021",
             "img": "https://s1.livelib.ru/boocover/1006824388/o/c1ec/Andrej_Knyazev__Korol_i_Shut._Staraya_kniga_2._Nezavershennye_istorii.jpeg"
         },
         {
@@ -3248,7 +3262,7 @@
             "buyDate": "6/27/21",
             "readDate": "7/23/21",
             "price": "289",
-            "shelf": "koelho",
+            "shelf": "koelho 2021",
             "img": "https://s1.livelib.ru/boocover/1005937894/o/c8b8/Paulo_Koelo__Luchnik.jpeg"
         },
         {
@@ -3855,7 +3869,7 @@
             "buyDate": "5/2/21",
             "price": "302",
             "publisher": "Эксмо",
-            "shelf": "traub eksmo",
+            "shelf": "traub eksmo 2021",
             "img": "https://s1.livelib.ru/boocover/1005910882/o/cc8d/Masha_Traub__Ne_mamkaj.jpeg"
         },
         {
@@ -3865,7 +3879,7 @@
             "buyDate": "8/18/21",
             "price": "284",
             "publisher": "Эксмо",
-            "shelf": "traub eksmo",
+            "shelf": "traub eksmo 2021",
             "img": "https://s1.livelib.ru/boocover/1006218328/o/e52f/Masha_Traub__Sup_vtoroe_i_kompot.jpeg"
         },
         {
@@ -3875,7 +3889,7 @@
             "buyDate": "12/4/21",
             "price": "285",
             "publisher": "Эксмо",
-            "shelf": "traub eksmo",
+            "shelf": "traub eksmo 2021",
             "img": "https://cdn.book24.ru/v2/ITD000000001199847/COVER/cover13d__w410.webp"
         },
         {
@@ -3884,7 +3898,7 @@
             "year": "2020",
             "buyDate": "11/18/20",
             "price": "273",
-            "shelf": "traub education russian",
+            "shelf": "traub education russian 2020",
             "img": "https://s1.livelib.ru/boocover/1005563767/o/c980/Masha_Traub__Russkij_yazyk_s_Mashej_Traub.jpeg"
         },
         {
@@ -3893,7 +3907,7 @@
             "year": "2021",
             "buyDate": "5/2/21",
             "price": "278",
-            "shelf": "traub education",
+            "shelf": "traub education 2021",
             "img": "https://s1.livelib.ru/boocover/1005976483/o/5cbc/Masha_Traub__Fizika_s_Mashej_Traub_i_Vasiliem_Kolesnikovym.jpeg"
         },
         {
@@ -3902,7 +3916,7 @@
             "year": "2021",
             "buyDate": "5/2/21",
             "price": "294",
-            "shelf": "education oster",
+            "shelf": "education oster 2021",
             "img": "https://s1.livelib.ru/boocover/1005568957/o/02aa/Grigorij_Oster__Matematika_s_Grigoriem_Osterom.jpeg"
         },
         {
@@ -3911,7 +3925,7 @@
             "year": "2021",
             "buyDate": "8/13/21",
             "price": "301",
-            "shelf": "education space",
+            "shelf": "education space 2021",
             "img": "https://cv7.litres.ru/pub/c/pdf-kniga/cover_max1500/65586076-author-g_surdin_v-kniga_astronomiya_s_vladimirom_surdinyim.jpg"
         },
         {
@@ -3920,7 +3934,7 @@
             "year": "2021",
             "buyDate": "12/26/21",
             "price": "252",
-            "shelf": "education oster",
+            "shelf": "education oster 2021",
             "img": "https://cdn.ast.ru/v2/ASE000000000841307/COVER/cover1__w600.jpg"
         },
         {
@@ -3929,7 +3943,7 @@
             "year": "2021",
             "buyDate": "1/20/22",
             "price": "286",
-            "shelf": "education",
+            "shelf": "education 2021",
             "img": "https://cdn.ast.ru/v2/ASE000000000861353/COVER/cover1__w600.jpg"
         },
         {
@@ -4531,7 +4545,7 @@
             "buyDate": "3/31/21",
             "price": "408",
             "publisher": "bombora",
-            "shelf": "bombora elon-musk",
+            "shelf": "bombora elon-musk 2020",
             "img": "https://s1.livelib.ru/boocover/1004444617/o/f2cf/Mej_Mask__Zhenschina_u_kotoroj_est_plan._Pravila_schastlivoj_zhizni.jpeg"
         },
         {
@@ -4541,7 +4555,7 @@
             "buyDate": "7/21/21",
             "price": "482",
             "publisher": "bombora",
-            "shelf": "bombora elon-musk",
+            "shelf": "bombora elon-musk 2021",
             "img": "https://s1.livelib.ru/boocover/1005641776/o/f821/Ozan_Varol__Dumaj_kak_Ilon_Mask._I_drugie_prostye_strategii_dlya_gigantskogo_ska.jpeg"
         },
         {
@@ -4717,7 +4731,7 @@
             "buyDate": "3/31/21",
             "price": "313",
             "publisher": "АСТ",
-            "shelf": "slabak ast",
+            "shelf": "slabak ast 2021",
             "img": "https://cdn.ast.ru/v2/ASE000000000852041/COVER/cover1__w600.jpg"
         },
         {
@@ -4727,7 +4741,7 @@
             "buyDate": "12/11/21",
             "price": "306",
             "publisher": "АСТ",
-            "shelf": "slabak ast",
+            "shelf": "slabak ast 2021",
             "img": "https://cdn.ast.ru/v2/ASE000000000852042/COVER/cover1__w600.jpg"
         },
         {
@@ -5338,7 +5352,7 @@
             "buyDate": "6/18/21",
             "price": "386",
             "publisher": "Corpus",
-            "shelf": "le-karre corpus",
+            "shelf": "le-karre corpus 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-agent.jpg"
         },
         {
@@ -5454,7 +5468,7 @@
         {
             "id": "542",
             "author": "Жоэль Диккер",
-            "book": "Исчезновение Стефани Майлер",
+            "book": "Исчезновение Стефани Мейлер",
             "year": "2019",
             "buyDate": "7/21/20",
             "readDate": "1/28/22",
@@ -5469,9 +5483,10 @@
             "book": "Загадка номера 622",
             "year": "2021",
             "buyDate": "3/31/21",
+            "readDate": "2/3/22",
             "price": "550",
             "publisher": "Corpus",
-            "shelf": "dikker corpus",
+            "shelf": "dikker corpus 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-dicker.jpg"
         },
         {
@@ -5483,7 +5498,7 @@
             "readDate": "1/12/22",
             "price": "586",
             "publisher": "Corpus",
-            "shelf": "dikker corpus",
+            "shelf": "dikker corpus 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-dicker-otsy.jpg"
         },
         {
@@ -5505,7 +5520,7 @@
             "buyDate": "6/29/21",
             "price": "579",
             "publisher": "Corpus",
-            "shelf": "corpus goulman social",
+            "shelf": "corpus goulman social 2021",
             "img": "https://www.corpus.ru/picts/products/cover-intellect.jpg"
         },
         {
@@ -5559,7 +5574,7 @@
             "buyDate": "6/18/21",
             "price": "447",
             "publisher": "Corpus",
-            "shelf": "corpus schweblin",
+            "shelf": "corpus schweblin 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-kentuki.jpg"
         },
         {
@@ -6435,7 +6450,7 @@
             "buyDate": "12/11/21",
             "price": "470",
             "publisher": "Corpus",
-            "shelf": "corpus radzinsky",
+            "shelf": "corpus radzinsky 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-lishnie.jpg"
         },
         {
@@ -8188,7 +8203,7 @@
             "readDate": "3/24/21",
             "price": "433",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-fauler.jpg"
         },
         {
@@ -8200,7 +8215,7 @@
             "readDate": "3/17/21",
             "price": "346",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-agatha.jpg"
         },
         {
@@ -8263,7 +8278,7 @@
             "buyDate": "3/31/21",
             "price": "691",
             "publisher": "Corpus",
-            "shelf": "corpus russian levontina",
+            "shelf": "corpus russian levontina 2021",
             "img": "https://www.corpus.ru/picts/products/cover-chestnoe-slovo.jpg"
         },
         {
@@ -8445,7 +8460,7 @@
             "readDate": "11/6/21",
             "price": "416",
             "publisher": "Corpus",
-            "shelf": "corpus motorov",
+            "shelf": "corpus motorov 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-parovozov-new.jpg"
         },
         {
@@ -8457,7 +8472,7 @@
             "readDate": "11/11/21",
             "price": "416",
             "publisher": "Corpus",
-            "shelf": "corpus motorov",
+            "shelf": "corpus motorov 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-parovozov3.jpg"
         },
         {
@@ -8468,7 +8483,7 @@
             "buyDate": "9/23/21",
             "price": "394",
             "publisher": "Corpus",
-            "shelf": "corpus motorov",
+            "shelf": "corpus motorov 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-dezhurstvo.jpg"
         },
         {
@@ -8551,7 +8566,7 @@
             "readDate": "9/8/21",
             "price": "478",
             "publisher": "Corpus",
-            "shelf": "corpus morgenstern",
+            "shelf": "corpus morgenstern 2021",
             "img": "https://www.corpus.ru/picts/products/cover-cirk-new.jpg"
         },
         {
@@ -8563,7 +8578,7 @@
             "readDate": "10/6/21",
             "price": "563",
             "publisher": "Corpus",
-            "shelf": "corpus morgenstern",
+            "shelf": "corpus morgenstern 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-morgenstern.jpg"
         },
         {
@@ -8575,7 +8590,7 @@
             "readDate": "7/3/21",
             "price": "471",
             "publisher": "Corpus",
-            "shelf": "corpus unasson",
+            "shelf": "corpus unasson 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-negramotnaya.jpg"
         },
         {
@@ -8587,7 +8602,7 @@
             "readDate": "6/26/21",
             "price": "471",
             "publisher": "Corpus",
-            "shelf": "corpus unasson",
+            "shelf": "corpus unasson 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-sto-let.jpg"
         },
         {
@@ -8628,7 +8643,7 @@
             "readDate": "11/21/21",
             "price": "602",
             "publisher": "Corpus",
-            "shelf": "corpus ulson",
+            "shelf": "corpus ulson 2020",
             "img": "https://www.corpus.ru/picts/products/Ulson-Lotus-1000.jpg"
         },
         {
@@ -8640,7 +8655,7 @@
             "readDate": "11/24/21",
             "price": "425",
             "publisher": "Corpus",
-            "shelf": "corpus ulson",
+            "shelf": "corpus ulson 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-ulson.jpg"
         },
         {
@@ -8652,7 +8667,7 @@
             "readDate": "11/15/21",
             "price": "544",
             "publisher": "Corpus",
-            "shelf": "corpus adolfsson",
+            "shelf": "corpus adolfsson 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-shagi.jpg"
         },
         {
@@ -8664,7 +8679,7 @@
             "readDate": "11/18/21",
             "price": "495",
             "publisher": "Corpus",
-            "shelf": "corpus adolfsson",
+            "shelf": "corpus adolfsson 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-adolfsson.jpg"
         },
         {
@@ -8757,7 +8772,7 @@
             "buyDate": "8/20/21",
             "price": "484",
             "publisher": "Corpus",
-            "shelf": "corpus social",
+            "shelf": "corpus social 2021",
             "img": "https://www.corpus.ru/picts/products/cover-bez-vidimyh.jpg"
         },
         {
@@ -8768,7 +8783,7 @@
             "buyDate": "9/3/21",
             "price": "821",
             "publisher": "Corpus",
-            "shelf": "corpus social",
+            "shelf": "corpus social 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-grimes-fin.jpg"
         },
         {
@@ -8779,7 +8794,7 @@
             "buyDate": "8/20/21",
             "price": "566",
             "publisher": "Corpus",
-            "shelf": "corpus social",
+            "shelf": "corpus social 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-turkle-govorit.jpg"
         },
         {
@@ -8799,14 +8814,14 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus social wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000853219/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-denvort-druzhba.jpg"
         },
         {
             "author": "Дэвид Дарлинг и Агниджо Банерджи",
             "book": "Эта странная математика. На краю бесконечности и за ним",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
+            "shelf": "corpus wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-matematika.jpg"
         },
         {
@@ -8859,7 +8874,7 @@
             "buyDate": "9/9/21",
             "price": "566",
             "publisher": "Corpus",
-            "shelf": "corpus razvedcorpus",
+            "shelf": "corpus razvedcorpus 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-macintair-spion.jpg"
         },
         {
@@ -8878,7 +8893,7 @@
             "buyDate": "9/30/21",
             "price": "250",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-folkmer.jpg"
         },
         {
@@ -8889,7 +8904,7 @@
             "buyDate": "6/26/21",
             "price": "419",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-tuil.jpg"
         },
         {
@@ -8900,7 +8915,7 @@
             "buyDate": "9/30/21",
             "price": "326",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-anfert-ptichnik.jpg"
         },
         {
@@ -8911,7 +8926,7 @@
             "buyDate": "10/18/21",
             "price": "451",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-koroleva.jpg"
         },
         {
@@ -8923,7 +8938,7 @@
             "readDate": "1/3/22",
             "price": "424",
             "publisher": "Corpus",
-            "shelf": "corpus goncur",
+            "shelf": "corpus goncur 2021",
             "img": "https://www.corpus.ru/picts/products/cover-anomaliya.jpg"
         },
         {
@@ -8934,7 +8949,7 @@
             "buyDate": "10/18/21",
             "price": "470",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-kronin.jpg"
         },
         {
@@ -8945,7 +8960,7 @@
             "buyDate": "12/11/21",
             "price": "470",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus 2021",
             "img": "https://www.corpus.ru/picts/products/cover-nemetz.jpg"
         },
         {
@@ -8956,7 +8971,7 @@
             "buyDate": "12/11/21",
             "price": "420",
             "publisher": "Corpus",
-            "shelf": "corpus primus",
+            "shelf": "corpus primus 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-runet.jpg"
         },
         {
@@ -8977,6 +8992,13 @@
             "publisher": "Corpus",
             "shelf": "corpus wishlist new 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000856406/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Лейла Слимани",
+            "book": "Страна других. Книга 1. Рождество под кипарисами",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus slimani wishlist new 2022"
         },
         {
             "author": "Михаил Фишман",
@@ -9081,7 +9103,7 @@
             "book": "Хаос. Создание новой науки",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus glik wishlist",
+            "shelf": "corpus glik wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-glick-new.jpg"
         },
         {
@@ -9092,7 +9114,7 @@
             "buyDate": "10/18/21",
             "price": "622",
             "publisher": "Corpus",
-            "shelf": "corpus politeh gazzaniga",
+            "shelf": "corpus politeh gazzaniga 2021",
             "img": "https://www.corpus.ru/picts/products/Gazzaniga-Mozg-1000.jpg"
         },
         {
@@ -9103,7 +9125,7 @@
             "buyDate": "11/29/21",
             "price": "620",
             "publisher": "Corpus",
-            "shelf": "corpus politeh gazzaniga",
+            "shelf": "corpus politeh gazzaniga 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-glavnogo.jpg"
         },
         {
@@ -9120,7 +9142,7 @@
             "buyDate": "12/9/20",
             "price": "409.96",
             "publisher": "Альпина нон-фикшн",
-            "shelf": "politeh alpina",
+            "shelf": "politeh alpina 2020",
             "img": "https://s1.livelib.ru/boocover/1005539686/o/b0f3/Syuzan_Hokfild__Vremya_zhivyh_mashin_Biologicheskaya_revolyutsiya_v_tehnologiyah.jpeg"
         },
         {
@@ -9130,7 +9152,7 @@
             "buyDate": "12/9/20",
             "price": "409.96",
             "publisher": "Альпина нон-фикшн",
-            "shelf": "politeh alpina",
+            "shelf": "politeh alpina 2020",
             "img": "https://s1.livelib.ru/boocover/1005550894/o/d752/Majkl_Gratsiano__Nauka_soznaniya._Sovremennaya_teoriya_subektivnogo_opyta.jpeg"
         },
         {
@@ -9140,7 +9162,7 @@
             "buyDate": "12/9/20",
             "price": "409.95",
             "publisher": "Альпина нон-фикшн",
-            "shelf": "politeh alpina",
+            "shelf": "politeh alpina 2020",
             "img": "https://s1.livelib.ru/boocover/1005550729/o/10fc/__Legko_li_plyt_v_sirope_Otkuda_berutsya_strannye_nauchnye_otkrytiya.jpeg"
         },
         {
@@ -9150,7 +9172,7 @@
             "buyDate": "3/9/21",
             "price": "472",
             "publisher": "Альпина нон-фикшн",
-            "shelf": "politeh alpina",
+            "shelf": "politeh alpina 2021",
             "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc1200/6038144463.jpg"
         },
         {
@@ -9160,7 +9182,7 @@
             "buyDate": "11/18/21",
             "price": "545",
             "publisher": "Альпина нон-фикшн",
-            "shelf": "politeh alpina",
+            "shelf": "politeh alpina 2021",
             "img": "https://nonfiction.ru/assets/images/products/1772/galiley-obl.jpg"
         },
         {
@@ -9170,7 +9192,7 @@
             "buyDate": "12/24/20",
             "price": "486",
             "publisher": "Бомбора",
-            "shelf": "bombora politeh",
+            "shelf": "bombora politeh 2020",
             "img": "https://bombora.ru/upload/resize_cache/iblock/aea/206_323_1/cover1.jpg"
         },
         {
@@ -9189,7 +9211,7 @@
             "readDate": "9/4/21",
             "price": "472",
             "publisher": "Бомбора",
-            "shelf": "bombora",
+            "shelf": "bombora 2021",
             "img": "https://s1.livelib.ru/boocover/1003171297/o/b81c/Richard_Uotson__Tehnologii_protiv_Cheloveka._Kak_my_budem_zhit_lyubit_i_dumat_v_.jpeg"
         },
         {
@@ -9199,7 +9221,7 @@
             "buyDate": "11/26/20",
             "price": "496",
             "publisher": "Бомбора",
-            "shelf": "bombora",
+            "shelf": "bombora 2020",
             "img": "https://s1.livelib.ru/boocover/1004786515/o/c162/Bi_Dzhej_Fogg__Nanoprivychki._Malenkie_shagi_kotorye_privedut_k_bolshim_peremena.jpeg"
         },
         {
@@ -9209,7 +9231,7 @@
             "buyDate": "11/17/20",
             "price": "502.2",
             "publisher": "Бомбора",
-            "shelf": "bombora music",
+            "shelf": "bombora music 2020",
             "img": "https://s1.livelib.ru/boocover/1005074263/o/a93b/Majkl_Azerrad__Come_as_you_are_istoriya_Nirvana_rasskazannaya_Kurtom_Kobejnom_i_.jpeg"
         },
         {
@@ -9219,7 +9241,7 @@
             "buyDate": "8/12/21",
             "price": "518",
             "publisher": "Бомбора",
-            "shelf": "bombora music",
+            "shelf": "bombora music 2021",
             "img": "https://s1.livelib.ru/boocover/1005652753/o/1e4c/Charlz_Kross__Tyazhelee_nebes._Zhizn_i_smert_Kurta_Kobejna_o_kotoryh_vy_nichego_.jpeg"
         },
         {
@@ -9230,7 +9252,7 @@
             "readDate": "5/25/21",
             "price": "327",
             "publisher": "Иностранка",
-            "shelf": "kolgan bookstore inostranka",
+            "shelf": "kolgan bookstore inostranka 2020",
             "img": "https://s1.livelib.ru/boocover/1003626849/o/8057/Dzhenni_Kolgan__Knizhnyj_magazinchik_schastya.jpeg"
         },
         {
@@ -9241,7 +9263,7 @@
             "readDate": "6/21/21",
             "price": "326",
             "publisher": "Иностранка",
-            "shelf": "kolgan inostranka",
+            "shelf": "kolgan inostranka 2020",
             "img": "https://s1.livelib.ru/boocover/1003963972/o/7779/Dzhenni_Kolgan__Shokoladnaya_lavka_v_Parizhe.jpeg"
         },
         {
@@ -9251,7 +9273,7 @@
             "buyDate": "11/26/20",
             "price": "327",
             "publisher": "Иностранка",
-            "shelf": "kolgan inostranka",
+            "shelf": "kolgan inostranka 2020",
             "img": "https://s1.livelib.ru/boocover/1004124577/o/4cc0/Dzhenni_Kolgan__Letnij_restoranchik_na_beregu.jpeg"
         },
         {
@@ -9261,7 +9283,7 @@
             "buyDate": "12/11/20",
             "price": "263",
             "publisher": "Иностранка",
-            "shelf": "kolgan bookstore inostranka",
+            "shelf": "kolgan bookstore inostranka 2020",
             "img": "https://s1.livelib.ru/boocover/1005533206/o/b9e3/Dzhenni_Kolgan__Knizhnyj_magazinchik_u_ozera.jpeg"
         },
         {
@@ -9271,7 +9293,7 @@
             "buyDate": "3/10/21",
             "price": "308",
             "publisher": "Иностранка",
-            "shelf": "kolgan inostranka",
+            "shelf": "kolgan inostranka 2021",
             "img": "https://s1.livelib.ru/boocover/1005712474/o/1c25/Dzhenni_Kolgan__500_mil_do_tebya.jpeg"
         },
         {
@@ -9281,7 +9303,7 @@
             "buyDate": "5/25/21",
             "price": "274",
             "publisher": "Иностранка",
-            "shelf": "kolgan inostranka",
+            "shelf": "kolgan inostranka 2021",
             "img": "https://s1.livelib.ru/boocover/1005935824/o/954e/Dzhenni_Kolgan__Bereg_schastlivyh_vstrech.jpeg"
         },
         {
@@ -9291,7 +9313,7 @@
             "buyDate": "10/20/21",
             "price": "269.26",
             "publisher": "Иностранка",
-            "shelf": "kolgan inostranka",
+            "shelf": "kolgan inostranka 2021",
             "img": "https://s1.livelib.ru/boocover/1006726651/o/b960/Dzhenni_Kolgan__Vstretimsya_v_kafe_Kapkejk.jpeg"
         },
         {
@@ -9301,7 +9323,7 @@
             "buyDate": "12/11/21",
             "price": "270",
             "publisher": "Иностранка",
-            "shelf": "kolgan inostranka",
+            "shelf": "kolgan inostranka 2021",
             "img": "https://s1.livelib.ru/boocover/1006858030/o/ffc7/Dzhenni_Kolgan__Rozhdestvo_na_ostrove_sbornik.jpeg"
         },
         {
@@ -9311,7 +9333,7 @@
             "buyDate": "12/11/20",
             "price": "286",
             "publisher": "Азбука Бизнес",
-            "shelf": "bookstore",
+            "shelf": "bookstore 2020",
             "img": "https://s1.livelib.ru/boocover/1005485959/o/9197/Bill_Semyuel__Istoriya_Foyles._Knigotorgovets_po_sluchayu.jpeg"
         },
         {
@@ -9447,7 +9469,7 @@
             "buyDate": "7/8/21",
             "price": "321",
             "publisher": "Синдбад",
-            "shelf": "goncur sindbad",
+            "shelf": "goncur sindbad slimani",
             "img": "https://s1.livelib.ru/boocover/1002805865/o/c871/Lejla_Slimani__Idealnaya_nyanya.jpeg"
         },
         {
@@ -9507,8 +9529,15 @@
             "buyDate": "1/8/21",
             "price": "356",
             "publisher": "Эксмо",
-            "shelf": "inspiria bookstore eksmo",
+            "shelf": "inspiria shibek bookstore eksmo 2020",
             "img": "https://s1.livelib.ru/boocover/1005437305/o/7c14/Frida_Shibek__Knizhnyj_magazin_u_reki.jpeg"
+        },
+        {
+            "author": "Фрида Шибек",
+            "book": "Книжный клуб на краю света",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "inspiria shibek bookstore eksmo wishlist new 2022"
         },
         {
             "author": "Джейсон Фанг",
@@ -9560,7 +9589,7 @@
             "buyDate": "9/29/20",
             "price": "490",
             "publisher": "Бомбора",
-            "shelf": "bombora friends",
+            "shelf": "bombora friends 2020",
             "img": "https://s1.livelib.ru/boocover/1003406887/o/e5fd/Kelsi_Miller__Druzya._Bolshe_chem_prosto_serial._Istoriya_sozdaniya_samogo_popul.jpeg"
         },
         {
@@ -9570,7 +9599,7 @@
             "buyDate": "3/31/21",
             "price": "456",
             "publisher": "Бомбора",
-            "shelf": "bombora friends",
+            "shelf": "bombora friends 2021",
             "img": "https://s1.livelib.ru/boocover/1005665719/o/b3ce/Sol_Austerlits__Druzya._25_let_vmeste._Kak_snimali_glavnyj_serial_epohi.jpeg"
         },
         {
@@ -9580,7 +9609,7 @@
             "buyDate": "9/29/20",
             "price": "332",
             "publisher": "Бомбора",
-            "shelf": "bombora",
+            "shelf": "bombora 2020",
             "img": "https://s1.livelib.ru/boocover/1005765184/o/aedb/Natalya_Korneva__Avtostopom_po_Rossii._Zahvatyvayuschee_puteshestvie_ot_Peterbur.jpeg"
         },
         {
@@ -9591,7 +9620,7 @@
             "readDate": "10/9/20",
             "price": "310",
             "publisher": "Бомбора",
-            "shelf": "bombora food",
+            "shelf": "bombora food 2020",
             "img": "https://s1.livelib.ru/boocover/1005116581/o/c980/Galina_Turetskaya__Teoriya_bolshogo_sryva._Kak_pohudet_bez_diet_trenazherov_i_do.jpeg"
         },
         {
@@ -9601,7 +9630,7 @@
             "buyDate": "12/25/20",
             "price": "544",
             "publisher": "АСТ",
-            "shelf": "ast music stupnikov",
+            "shelf": "ast music stupnikov 2020",
             "img": "https://s1.livelib.ru/boocover/1005527488/o/411f/Denis_Stupnikov__Ariya_Vozrozhdenie_Legendy._Avtorizovannaya_biografiya_gruppy.jpeg"
         },
         {
@@ -9612,7 +9641,7 @@
             "readDate": "8/21/21",
             "price": "399",
             "publisher": "АСТ",
-            "shelf": "prison ast",
+            "shelf": "prison ast 2020",
             "img": "https://s1.livelib.ru/boocover/1005515491/o/9e01/Mariya_Butina__Tyuremnyj_dnevnik.jpeg"
         },
         {
@@ -9731,7 +9760,7 @@
             "buyDate": "7/21/21",
             "price": "365",
             "publisher": "Бомбора",
-            "shelf": "bombora",
+            "shelf": "bombora 2021",
             "img": "https://s1.livelib.ru/boocover/1006101517/o/e20a/Ketrin_Menniks__Kak_my_umiraem._Otvet_na_zagadku_smerti_kotoryj_dolzhen_znat_kaz.jpeg"
         },
         {
@@ -9741,7 +9770,7 @@
             "buyDate": "8/5/21",
             "price": "378",
             "publisher": "Бомбора",
-            "shelf": "bombora",
+            "shelf": "bombora 2021",
             "img": "https://s1.livelib.ru/boocover/1006118440/o/5d38/Mishel_Sapane__Reportazh_iz_morga._Kak_sudmedekspert_zastavlyaet_govorit_mertvyh.jpeg"
         },
         {
@@ -9752,7 +9781,7 @@
             "readDate": "9/11/21",
             "price": "555",
             "publisher": "Бомбора",
-            "shelf": "bombora",
+            "shelf": "bombora 2021",
             "img": "https://s1.livelib.ru/boocover/1005915181/o/37f1/Nikkei_Design__Dizajn_IKEA._Iskusstvo_sozdaniya_produktov_kotorye_prodayutsya_sa.jpeg"
         },
         {
@@ -9763,7 +9792,7 @@
             "readDate": "8/29/21",
             "price": "502",
             "publisher": "Бомбора",
-            "shelf": "bombora",
+            "shelf": "bombora 2021",
             "img": "https://s1.livelib.ru/boocover/1005900013/o/6865/Sara_Frajer__No_Filter._Istoriya_Instagram.jpeg"
         },
         {
@@ -9772,7 +9801,7 @@
             "buyDate": "8/15/21",
             "price": "248",
             "publisher": "Бомбора",
-            "shelf": "bombora",
+            "shelf": "bombora 2021",
             "img": "https://img-gorod.ru/28/626/2862699_detail.jpg"
         },
         {
@@ -9815,7 +9844,7 @@
             "readDate": "6/8/21",
             "price": "279",
             "publisher": "КоЛибри",
-            "shelf": "baitell bookstore kolibri",
+            "shelf": "baitell bookstore kolibri 2021",
             "img": "https://s1.livelib.ru/boocover/1005786691/o/c29b/Shon_Bajtell__Sem_tipov_lyudej_kotoryh_mozhno_vstretit_v_knizhnom_magazine.jpeg"
         },
         {
@@ -9846,7 +9875,7 @@
             "buyDate": "8/13/21",
             "price": "540",
             "publisher": "КоЛибри",
-            "shelf": "kolibri music lennon beatles",
+            "shelf": "kolibri music lennon beatles 2021",
             "img": "https://s1.livelib.ru/boocover/1006029007/o/78f6/Rej_Konnolli__Byt_Dzhonom_Lennonom.jpeg"
         },
         {
@@ -9856,7 +9885,7 @@
             "buyDate": "10/16/21",
             "price": "753",
             "publisher": "КоЛибри",
-            "shelf": "kolibri music beatles",
+            "shelf": "kolibri music beatles 2021",
             "img": "https://s1.livelib.ru/boocover/1006726699/o/9842/Krejg_Braun__One_Two_Three_Four_Bitlz_v_ritme_vremeni.jpeg"
         },
         {
@@ -9919,7 +9948,7 @@
             "buyDate": "8/6/21",
             "price": "346",
             "publisher": "Like Book",
-            "shelf": "like-book kasten",
+            "shelf": "like-book kasten 2021",
             "img": "https://s1.livelib.ru/boocover/1006211509/o/c4a0/Mona_Kasten__Doversya_mne.jpeg"
         },
         {
@@ -10049,7 +10078,7 @@
             "buyDate": "11/29/21",
             "price": "334",
             "publisher": "Эксмо",
-            "shelf": "maknamara eksmo inspiria",
+            "shelf": "maknamara eksmo inspiria 2021",
             "img": "https://s1.livelib.ru/boocover/1006890874/o/f8da/Eli_Maknamara__Magazinchik_schastya_Kejt_i_Klary.jpeg"
         },
         {
@@ -10109,7 +10138,7 @@
             "buyDate": "6/18/21",
             "price": "371",
             "publisher": "Азбука",
-            "shelf": "george azbuka",
+            "shelf": "george azbuka 2021",
             "img": "https://s1.livelib.ru/boocover/1005875920/o/8f54/Nina_George__Kniga_snov.jpeg"
         },
         {
@@ -10139,7 +10168,7 @@
             "buyDate": "10/30/21",
             "price": "388",
             "publisher": "Фантом Пресс",
-            "shelf": "fantom-press bookstore",
+            "shelf": "fantom-press bookstore 2021",
             "img": "https://s1.livelib.ru/boocover/1006811251/o/ecd1/Ellen_Feldman__Parizh_nikogda_tebya_ne_ostavit.jpeg"
         },
         {
@@ -10221,7 +10250,7 @@
             "readDate": "7/22/21",
             "price": "259",
             "publisher": "АСТ",
-            "shelf": "bookstore ast different-life",
+            "shelf": "bookstore ast different-life 2021",
             "img": "https://s1.livelib.ru/boocover/1005993481/o/3051/Syuzen_Uiggs__Knizhnyj_magazin_Byuro_nahodok.jpeg"
         },
         {
@@ -10251,7 +10280,7 @@
             "buyDate": "11/27/21",
             "price": "351",
             "publisher": "АСТ",
-            "shelf": "ast different-life",
+            "shelf": "ast different-life 2021",
             "img": "https://s1.livelib.ru/boocover/1006897279/o/c980/Ketrin_Hyuz__Poslednee_obeschanie.jpeg"
         },
         {
@@ -10300,7 +10329,7 @@
             "buyDate": "10/18/21",
             "price": "433",
             "publisher": "АСТ",
-            "shelf": "ast science",
+            "shelf": "ast science 2021",
             "img": "https://s1.livelib.ru/boocover/1006846660/o/e3ac/So_Joson__Mozg_i_razum_v_epohu_virtualnoj_realnosti.jpeg"
         },
         {
@@ -10392,7 +10421,7 @@
             "buyDate": "7/22/21",
             "price": "419",
             "publisher": "Эксмо",
-            "shelf": "eksmo bookstore rina animant-kramb",
+            "shelf": "eksmo bookstore rina animant-kramb 2021",
             "img": "https://s1.livelib.ru/boocover/1005605500/o/fd0b/Lin_Rina__Knizhnye_hroniki_Animant_Kramb.jpeg"
         },
         {
@@ -10471,7 +10500,7 @@
             "buyDate": "9/6/21",
             "price": "763",
             "publisher": "Питер",
-            "shelf": "piter",
+            "shelf": "piter 2021",
             "img": "https://s1.livelib.ru/boocover/1006881304/o/f829/__Vnutri_Facebook._Golaya_pravda.jpeg"
         },
         {
@@ -10491,7 +10520,7 @@
             "buyDate": "12/20/21",
             "price": "524",
             "publisher": "Бомбора",
-            "shelf": "bombora music lennon beatles",
+            "shelf": "bombora music lennon beatles 2021",
             "img": "https://s1.livelib.ru/boocover/1006825414/o/0c44/__Poslednie_dni_Dzhona_Lennona.jpeg"
         },
         {
@@ -10501,7 +10530,7 @@
             "buyDate": "9/9/21",
             "price": "560",
             "publisher": "Бомбора",
-            "shelf": "bombora",
+            "shelf": "bombora 2021",
             "img": "https://s1.livelib.ru/boocover/1005705988/o/c980/Mark_Rendolf__That_will_never_work._Istoriya_sozdaniya_Netflix_rasskazannaya_ee_.jpeg"
         },
         {
@@ -10523,7 +10552,7 @@
             "readDate": "9/9/21",
             "price": "272",
             "publisher": "Бомбора",
-            "shelf": "bombora kuni moloko",
+            "shelf": "bombora kuni moloko 2021",
             "img": "https://s1.livelib.ru/boocover/1006102507/o/3847/Kerolajn_B._Kuni__Litso_na_pakete_moloka.jpeg"
         },
         {
@@ -10534,7 +10563,7 @@
             "readDate": "9/17/21",
             "price": "271",
             "publisher": "Бомбора",
-            "shelf": "bombora kuni moloko",
+            "shelf": "bombora kuni moloko 2021",
             "img": "https://s1.livelib.ru/boocover/1006300618/o/b02a/Kerolajn_B._Kuni__Pritvoris_moej_sestroj.jpeg"
         },
         {
@@ -10545,7 +10574,7 @@
             "readDate": "11/1/21",
             "price": "268",
             "publisher": "Бомбора",
-            "shelf": "bombora kuni moloko",
+            "shelf": "bombora kuni moloko 2021",
             "img": "https://s1.livelib.ru/boocover/1006468216/o/2eed/Kerolajn_B._Kuni__Golos_v_radioefire.jpeg"
         },
         {
@@ -10556,7 +10585,7 @@
             "readDate": "12/31/21",
             "price": "316",
             "publisher": "Бомбора",
-            "shelf": "bombora kuni moloko",
+            "shelf": "bombora kuni moloko 2021",
             "img": "https://s1.livelib.ru/boocover/1006842709/o/4fbb/Kerolajn_B._Kuni__Klyuch_k_proshlomu.jpeg"
         },
         {
@@ -10574,7 +10603,7 @@
             "buyDate": "12/20/21",
             "price": "350",
             "publisher": "Бомбора",
-            "shelf": "bombora space",
+            "shelf": "bombora space 2021",
             "img": "https://s1.livelib.ru/boocover/1003020646/o/a9c9/Sergej_Ryazanskij__Mozhno_li_zabit_gvozd_v_kosmose_i_drugie_voprosy_o_kosmonavti.jpeg"
         },
         {
@@ -10594,7 +10623,7 @@
             "buyDate": "1/31/22",
             "price": "556",
             "publisher": "Бомбора",
-            "shelf": "bombora",
+            "shelf": "bombora 2021",
             "img": "https://s1.livelib.ru/boocover/1006926346/o/c980/__Will._Chemu_mozhet_nauchit_nas_prostoj_paren_stavshij_samym_vysokooplachivaemy.jpeg"
         },
         {
@@ -10604,7 +10633,7 @@
             "buyDate": "9/30/21",
             "price": "363",
             "publisher": "АСТ",
-            "shelf": "ast",
+            "shelf": "ast 2021",
             "img": "https://s1.livelib.ru/boocover/1006269337/o/996c/Majkl_Kerrigan__Vzlamyvaya_kod_Enigmy.jpeg"
         },
         {
@@ -10625,7 +10654,7 @@
             "buyDate": "10/2/21",
             "price": "542",
             "publisher": "Поляндрия",
-            "shelf": "bookstore hinata polandria",
+            "shelf": "bookstore hinata polandria 2021",
             "img": "https://s1.livelib.ru/boocover/1005994903/o/b1ef/Rieko_Hinata__Knizhnaya_lavka_pod_dozhdjom.jpeg"
         },
         {
@@ -10635,7 +10664,7 @@
             "buyDate": "10/2/21",
             "price": "555",
             "publisher": "Поляндрия",
-            "shelf": "bookstore hinata polandria",
+            "shelf": "bookstore hinata polandria 2021",
             "img": "https://s1.livelib.ru/boocover/1005994909/o/b2b0/Rieko_Hinata__Knizhnaya_lavka_pod_dozhdjom_i_kostyanoj_drakon.jpeg"
         },
         {
@@ -10645,7 +10674,7 @@
             "buyDate": "10/3/21",
             "price": "355",
             "publisher": "Эксмо",
-            "shelf": "bookstore eksmo inspiria",
+            "shelf": "bookstore eksmo inspiria 2021",
             "img": "https://s1.livelib.ru/boocover/1006229521/o/77b9/Maryan_Kamali__Malenkij_knizhnyj_magazinchik_v_Tegerane.jpeg"
         },
         {
@@ -10673,7 +10702,7 @@
             "buyDate": "10/9/21",
             "price": "441",
             "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif osman",
+            "shelf": "mif osman 2021",
             "img": "https://s1.livelib.ru/boocover/1006238035/o/08a6/Richard_Osman__Klub_ubijstv_po_chetvergam.jpeg"
         },
         {
@@ -10756,7 +10785,7 @@
             "buyDate": "10/11/21",
             "price": "437",
             "publisher": "Livebook",
-            "shelf": "shipnigov",
+            "shelf": "shipnigov 2021",
             "img": "https://s1.livelib.ru/boocover/1006268077/o/4e6e/Ivan_Shipnigov__Strim.jpeg"
         },
         {
@@ -10766,7 +10795,7 @@
             "buyDate": "10/14/21",
             "price": "354",
             "publisher": "Эксмо",
-            "shelf": "bookstore eksmo inspiria bromance kei-adams",
+            "shelf": "bookstore eksmo inspiria bromance kei-adams 2021",
             "img": "https://s1.livelib.ru/boocover/1006265569/o/c980/Lissa_Kej_Adams__Bromance._Tajnyj_klub_romantikov.jpeg"
         },
         {
@@ -10776,7 +10805,7 @@
             "buyDate": "12/15/21",
             "price": "343",
             "publisher": "Эксмо",
-            "shelf": "bookstore eksmo inspiria bromance kei-adams",
+            "shelf": "bookstore eksmo inspiria bromance kei-adams 2021",
             "img": "https://s1.livelib.ru/boocover/1006847557/o/f4f7/Lissa_Kej_Adams__Bromance._Vse_sekrety_knizhnogo_kluba.jpeg"
         },
         {
@@ -10796,7 +10825,7 @@
             "buyDate": "11/12/21",
             "price": "305",
             "publisher": "Эксмо",
-            "shelf": "bookstore eksmo inspiria",
+            "shelf": "bookstore eksmo inspiria 2021",
             "img": "https://s1.livelib.ru/boocover/1006779994/o/5068/Natali_Dzhenner__Obschestvo_Dzhejn_Osten.jpeg"
         },
         {
@@ -10806,7 +10835,7 @@
             "buyDate": "12/13/21",
             "price": "347",
             "publisher": "Эксмо",
-            "shelf": "bookstore eksmo inspiria",
+            "shelf": "bookstore eksmo inspiria 2021",
             "img": "https://s1.livelib.ru/boocover/1006834942/o/0ffc/Aleks_Kristofi__Dostoevskij_in_love.jpeg"
         },
         {
@@ -10816,7 +10845,7 @@
             "buyDate": "11/19/21",
             "price": "421",
             "publisher": "Эксмо",
-            "shelf": "eksmo isiguro",
+            "shelf": "eksmo isiguro 2021",
             "img": "https://s1.livelib.ru/boocover/1006894984/o/082c/Kadzuo_Isiguro__Klara_i_Solntse.jpeg"
         },
         {
@@ -10826,7 +10855,7 @@
             "buyDate": "11/28/21",
             "price": "401",
             "publisher": "Эксмо",
-            "shelf": "eksmo isiguro",
+            "shelf": "eksmo isiguro 2021",
             "img": "https://s1.livelib.ru/boocover/1006894990/o/202a/Kadzuo_Isiguro__Ne_otpuskaj_menya.jpeg"
         },
         {
@@ -10866,7 +10895,7 @@
             "buyDate": "10/16/21",
             "price": "305",
             "publisher": "Эксмо",
-            "shelf": "eksmo white",
+            "shelf": "eksmo white 2021",
             "img": "https://s1.livelib.ru/boocover/1006270843/o/04f8/Rouz_Karlajl__Devushka_v_zerkale.jpeg"
         },
         {
@@ -10876,7 +10905,7 @@
             "buyDate": "10/28/21",
             "price": "290",
             "publisher": "Эксмо",
-            "shelf": "eksmo glenkonner white",
+            "shelf": "eksmo glenkonner white 2021",
             "img": "https://s1.livelib.ru/boocover/1006756276/o/c10d/Enn_Glenkonner__Ubijstvo_na_ostrove_Myustik.jpeg"
         },
         {
@@ -10886,7 +10915,7 @@
             "buyDate": "11/16/21",
             "price": "364",
             "publisher": "Эксмо",
-            "shelf": "eksmo glenkonner",
+            "shelf": "eksmo glenkonner 2021",
             "img": "https://s1.livelib.ru/boocover/1006864759/o/899e/Enn_Glenkonner__Frejlina._Moya_neveroyatnaya_zhizn_v_teni_Korolevy.jpeg"
         },
         {
@@ -10896,7 +10925,7 @@
             "buyDate": "12/13/21",
             "price": "317",
             "publisher": "Эксмо",
-            "shelf": "eksmo white",
+            "shelf": "eksmo white 2021",
             "img": "https://s1.livelib.ru/boocover/1006829059/o/9ad3/Ketrin_Kuper__Shale.jpeg"
         },
         {
@@ -10906,7 +10935,7 @@
             "buyDate": "11/28/21",
             "price": "300",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria claiborne-johnson",
+            "shelf": "eksmo inspiria claiborne-johnson 2021",
             "img": "https://s1.livelib.ru/boocover/1005948097/o/ff93/Dzhuliya_Dzhonson__V_drugoj_raz_povezet.jpeg"
         },
         {
@@ -10916,7 +10945,7 @@
             "buyDate": "11/14/21",
             "price": "335",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria claiborne-johnson",
+            "shelf": "eksmo inspiria claiborne-johnson 2021",
             "img": "https://s1.livelib.ru/boocover/1006778734/o/2556/Dzhuliya_Dzhonson__Bud_so_mnoj_chesten.jpeg"
         },
         {
@@ -10926,7 +10955,7 @@
             "buyDate": "11/28/21",
             "price": "350",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria",
+            "shelf": "eksmo inspiria 2021",
             "img": "https://cdn.book24.ru/v2/ITD000000001153056/COVER/cover13d__w410.webp"
         },
         {
@@ -10936,7 +10965,7 @@
             "buyDate": "12/4/21",
             "price": "414",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria buker",
+            "shelf": "eksmo inspiria buker 2021",
             "img": "https://img4.labirint.ru/rc/13430f73546c13906d8950587ed09994/594x918/books83/825998/cover.jpg?1638458707"
         },
         {
@@ -10946,7 +10975,7 @@
             "buyDate": "12/11/21",
             "price": "337",
             "publisher": "АСТ",
-            "shelf": "ast miracle",
+            "shelf": "ast miracle 2021",
             "img": "https://s1.livelib.ru/boocover/1006842790/o/5ec7/Hejzel_Prajor__Kak_pingviny_spasli_Veroniku.jpeg"
         },
         {
@@ -10966,7 +10995,7 @@
             "buyDate": "12/20/21",
             "price": "350",
             "publisher": "АСТ",
-            "shelf": "ast",
+            "shelf": "ast 2021",
             "img": "https://s1.livelib.ru/boocover/1006918774/o/b5c0/Tatyana_Habenskaya__Moj_admiral.jpeg"
         },
         {
@@ -10976,7 +11005,7 @@
             "buyDate": "12/11/21",
             "price": "337",
             "publisher": "АСТ",
-            "shelf": "ast puzzle",
+            "shelf": "ast puzzle 2021",
             "img": "https://s1.livelib.ru/boocover/1006766875/o/6a73/Luann_Rajs__Yaschik_Pandory.jpeg"
         },
         {
@@ -10986,8 +11015,16 @@
             "buyDate": "12/20/21",
             "price": "350",
             "publisher": "АСТ",
-            "shelf": "ast puzzle",
+            "shelf": "ast puzzle 2021",
             "img": "https://s1.livelib.ru/boocover/1006842763/o/fe2f/Alessandra_Torre__Poslednij_sekret.jpeg"
+        },
+        {
+            "author": "А.Р. Торре",
+            "book": "Ложь во благо",
+            "year": "2022",
+            "publisher": "АСТ",
+            "shelf": "ast puzzle wishlist new 2022",
+            "img": "https://cdn.book24.ru/v2/ASE000000000862844/COVER/cover13d__w410.webp"
         },
         {
             "author": "Трейси Бьюканан",
@@ -11054,7 +11091,7 @@
             "author": "Квентин Тарантино",
             "book": "Однажды в Голливуде",
             "year": "2021",
-            "shelf": "wishlist new",
+            "shelf": "wishlist new 2021",
             "img": "https://s1.livelib.ru/boocover/1006767091/o/b171/Kventin_Tarantino__Odnazhdy_v_Gollivude.jpeg"
         },
         {
