@@ -469,7 +469,7 @@
             "buyDate": "11/6/21",
             "price": "423",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin",
+            "shelf": "corpus sorokin 2020",
             "img": "https://www.corpus.ru/picts/products/cover1-sorokin.jpg"
         },
         {
@@ -480,7 +480,7 @@
             "buyDate": "11/15/21",
             "price": "459",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin",
+            "shelf": "corpus sorokin 2020",
             "img": "https://www.corpus.ru/picts/products/cover1-pir.jpg"
         },
         {
@@ -502,7 +502,7 @@
             "buyDate": "11/9/21",
             "price": "421",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin",
+            "shelf": "corpus sorokin 2021",
             "img": "https://www.corpus.ru/picts/products/Sorokin-4-1000.jpg"
         },
         {
@@ -1050,7 +1050,7 @@
             "buyDate": "8/26/21",
             "price": "636",
             "publisher": "Бомбора",
-            "shelf": "izakson bombora",
+            "shelf": "izakson bombora 2021",
             "img": "https://s1.livelib.ru/boocover/1006270357/o/c980/Uolter_Ajzekson__Invent_and_Wander._Izbrannye_stati_sozdatelya_Amazon_Dzheffa_Be.jpeg"
         },
         {
@@ -1174,7 +1174,7 @@
             "book": "Un barrage contre l'Atlantique",
             "year": "2022",
             "shelf": "begbeder wishlist new 2022",
-            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1641656614l/60062767._SY475_.jpg"
+            "img": "https://m.media-amazon.com/images/I/41Iuf5OSO7L.jpg"
         },
         {
             "author": "Дэн Браун",
@@ -1710,7 +1710,7 @@
             "buyDate": "9/9/20",
             "price": "322",
             "publisher": "Эксмо",
-            "shelf": "verber eksmo",
+            "shelf": "verber eksmo 2020",
             "img": "https://s1.livelib.ru/boocover/1005046231/o/6263/Bernar_Verber__Ee_velichestvo_koshka.jpeg"
         },
         {
@@ -9193,7 +9193,7 @@
             "price": "486",
             "publisher": "Бомбора",
             "shelf": "bombora politeh 2020",
-            "img": "https://bombora.ru/upload/resize_cache/iblock/aea/206_323_1/cover1.jpg"
+            "img": "https://cdn.eksmo.ru/v2/ITD000000000963510/COVER/cover1__w820.jpg"
         },
         {
             "author": "Марк Левинсон",
@@ -11053,6 +11053,16 @@
             "publisher": "КоЛибри",
             "shelf": "kolibri bookstore 2022",
             "img": "https://s1.livelib.ru/boocover/1006841884/o/e3d9/Martin_Lejtem__Istorii_torgovtsa_knigami.jpeg"
+        },
+        {
+            "author": "Мэриел Шиндлер",
+            "book": "Утраченное кафе «У Шиндлеров». История Холокоста и судьба одной австро-венгерской семьи",
+            "year": "2022",
+            "buyDate": "2/11/22",
+            "price": "466",
+            "publisher": "КоЛибри",
+            "shelf": "kolibri 2022",
+            "img": "https://cdn.azbooka.ru/cv/w1100/df64b7d7-243c-4004-bd36-1d6613df3163.jpg"
         },
         {
             "author": "Мэри Эллен Тейлор",
