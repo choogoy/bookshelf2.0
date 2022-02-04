@@ -2829,7 +2829,9 @@
             "author": "Милдред Эбботт",
             "book": "Корги-детектив. хитрые мордашки",
             "year": "2022",
-            "shelf": "animals ebbott wishlist new 2022",
+            "buyDate": "2/22/22",
+            "price": "426",
+            "shelf": "animals ebbott new 2022",
             "img": "https://static.my-shop.ru/product/3/479/4782656.jpg"
         },
         {
@@ -11055,7 +11057,7 @@
             "img": "https://s1.livelib.ru/boocover/1006841884/o/e3d9/Martin_Lejtem__Istorii_torgovtsa_knigami.jpeg"
         },
         {
-            "author": "Мэриел Шиндлер",
+            "author": "Мериел Шиндлер",
             "book": "Утраченное кафе «У Шиндлеров». История Холокоста и судьба одной австро-венгерской семьи",
             "year": "2022",
             "buyDate": "2/11/22",
