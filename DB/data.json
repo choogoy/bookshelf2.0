@@ -2722,8 +2722,9 @@
         {
             "author": "Мишель Уэльбек",
             "book": "Уничтожить",
-            "year": "2022",
-            "shelf": "houellebecq wishlist new 2022",
+            "year": "2023",
+            "publisher": "Corpus",
+            "shelf": "houellebecq corpus wishlist new 2022",
             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Anéantir_%28Michel_Houellebecq%29_-_bandeau_rouge.jpg/1200px-Anéantir_%28Michel_Houellebecq%29_-_bandeau_rouge.jpg"
         },
         {
@@ -3892,7 +3893,17 @@
             "price": "285",
             "publisher": "Эксмо",
             "shelf": "traub eksmo 2021",
-            "img": "https://cdn.book24.ru/v2/ITD000000001199847/COVER/cover13d__w410.webp"
+            "img": "https://s1.livelib.ru/boocover/1006824217/o/e18d/Masha_Traub__Posmotri_na_menya.jpeg"
+        },
+        {
+            "author": "Маша Трауб",
+            "book": "Когда мама - это ты",
+            "year": "2022",
+            "buyDate": "3/19/22",
+            "price": "349",
+            "publisher": "Эксмо",
+            "shelf": "traub eksmo 2022",
+            "img": "https://img-gorod.ru/28/984/2898446_detail.jpg"
         },
         {
             "author": "Маша Трауб",
@@ -7516,6 +7527,7 @@
             "author": "Донна Тартт",
             "book": "Тайная история",
             "buyDate": "9/19/20",
+            "readDate": "2/11/22",
             "price": "469",
             "publisher": "Corpus",
             "shelf": "tartt corpus",
@@ -10100,17 +10112,17 @@
             "buyDate": "6/3/21",
             "price": "365",
             "publisher": "Эксмо",
-            "shelf": "dubua eksmo goncur",
+            "shelf": "dubua eksmo goncur 2021",
             "img": "https://s1.livelib.ru/boocover/1005707824/o/c44e/ZhanPol_Dyubua__Ne_vse_lyudi_zhivut_odinakovo.jpeg"
         },
         {
-            "author": "Чарльз Джанет Скеслин",
+            "author": "Джанет Скеслин Чарльз",
             "book": "Библиотека в Париже",
             "year": "2020",
             "buyDate": "2/1/21",
             "price": "271",
             "publisher": "Азбука",
-            "shelf": "bookstore azbuka",
+            "shelf": "bookstore azbuka 2020",
             "img": "https://s1.livelib.ru/boocover/1005449014/o/1c50/Dzhanet_Skeslin_Charlz__Biblioteka_v_Parizhe.jpeg"
         },
         {
@@ -11060,7 +11072,7 @@
             "author": "Мериел Шиндлер",
             "book": "Утраченное кафе «У Шиндлеров». История Холокоста и судьба одной австро-венгерской семьи",
             "year": "2022",
-            "buyDate": "2/11/22",
+            "buyDate": "2/9/22",
             "price": "466",
             "publisher": "КоЛибри",
             "shelf": "kolibri 2022",
