@@ -510,8 +510,10 @@
             "author": "Владимир Сорокин",
             "book": "Роман",
             "year": "2022",
+            "buyDate": "2/21/22",
+            "price": "743",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist new 2022",
+            "shelf": "corpus sorokin 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-sorokin-roman.jpg"
         },
         {
@@ -2830,7 +2832,7 @@
             "author": "Милдред Эбботт",
             "book": "Корги-детектив. хитрые мордашки",
             "year": "2022",
-            "buyDate": "2/22/22",
+            "buyDate": "2/12/22",
             "price": "426",
             "shelf": "animals ebbott 2022",
             "img": "https://static.my-shop.ru/product/3/479/4782656.jpg"
@@ -11057,6 +11059,16 @@
             "publisher": "АСТ",
             "shelf": "ast puzzle wishlist new 2022",
             "img": "https://cdn.book24.ru/v2/ASE000000000861831/COVER/cover13d__w410.webp"
+        },
+        {
+            "author": "Мэтью Квортруп",
+            "book": "Ангела Меркель. Самый влиятельный политик Европы",
+            "year": "2022",
+            "buyDate": "2/21/22",
+            "price": "501",
+            "publisher": "АСТ",
+            "shelf": "ast 2022",
+            "img": "https://s1.livelib.ru/boocover/1006973839/o/3177/Metyu_Kvortrup__Angela_Merkel._Samyj_vliyatelnyj_politik_Evropy.jpeg"
         },
         {
             "author": "Мартин Лейтем",
