@@ -616,11 +616,14 @@
             "img": "https://www.corpus.ru/picts/products/cover-bledny-ogon.jpg"
         },
         {
+            "id": "688",
             "author": "Владимир Набоков",
             "book": "Другие берега",
             "year": "2022",
+            "buyDate": "3/19/22",
+            "price": "355",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new 2022",
+            "shelf": "corpus nabokov 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-berega.jpg"
         },
         {
@@ -3902,7 +3905,7 @@
             "book": "Когда мама - это ты",
             "year": "2022",
             "buyDate": "3/19/22",
-            "price": "349",
+            "price": "317",
             "publisher": "Эксмо",
             "shelf": "traub eksmo 2022",
             "img": "https://img-gorod.ru/28/984/2898446_detail.jpg"
@@ -9677,7 +9680,7 @@
             "buyDate": "1/8/21",
             "price": "355",
             "publisher": "АСТ",
-            "shelf": "bookstore ast",
+            "shelf": "bookstore ast 2020",
             "img": "https://s1.livelib.ru/boocover/1003696308/o/7129/Ebbi_Vaksman__Knizhnaya_zhizn_Niny_Hill.jpeg"
         },
         {
@@ -9687,7 +9690,7 @@
             "buyDate": "2/16/21",
             "price": "334",
             "publisher": "АСТ",
-            "shelf": "bookstore ast",
+            "shelf": "bookstore ast 2021",
             "img": "https://s1.livelib.ru/boocover/1005584584/o/03ca/Majerson_Emi__Knizhnyj_magazinchik_proshlogo.jpeg"
         },
         {
@@ -10526,7 +10529,7 @@
             "buyDate": "10/16/21",
             "price": "516",
             "publisher": "Бомбора",
-            "shelf": "bombora music lennon beatles",
+            "shelf": "bombora music lennon beatles 2020",
             "img": "https://s1.livelib.ru/boocover/1005604954/o/a169/LesliEnn_Dzhons__Kto_ubil_Dzhona_Lennona_Zhizn_smert_i_lyubov_velichajshej_rokzv.jpeg"
         },
         {
@@ -10557,7 +10560,7 @@
             "readDate": "10/9/21",
             "price": "300",
             "publisher": "Бомбора",
-            "shelf": "bombora russian",
+            "shelf": "bombora russian 2020",
             "img": "https://s1.livelib.ru/boocover/1003171247/o/b863/Uchitel_Russkogo__50_smertnyh_grehov_v_russkom_yazyke._Govori_i_pishi_pravilno.jpeg"
         },
         {
@@ -10608,8 +10611,10 @@
             "author": "Кэролайн Б. Куни",
             "book": "Лицом к лицу",
             "year": "2022",
+            "buyDate": "3/19/22",
+            "price": "317",
             "publisher": "Бомбора",
-            "shelf": "bombora kuni moloko wishlist new 2022",
+            "shelf": "bombora kuni moloko 2022",
             "img": "https://cdn.book24.ru/v2/ITD000000001101405/COVER/cover13d__w410.webp"
         },
         {
@@ -11164,6 +11169,13 @@
             "year": "2022",
             "shelf": "buker wishlist new 2022",
             "img": "https://pbs.twimg.com/media/E4KKKaVWEAMdut7.jpg"
+        },
+        {
+            "author": "Мохамед Мбугар Сарр",
+            "book": "Самое секретное воспоминание мужчин",
+            "year": "2022",
+            "shelf": "goncur wishlist new 2022",
+            "img": "https://m.media-amazon.com/images/I/61f47xfM6PL._AC_UL960_QL65_.jpg"
         },
         {
             "author": "Джей Рейнер",
