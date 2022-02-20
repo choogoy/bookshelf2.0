@@ -566,6 +566,7 @@
             "book": "Король, дама, валет",
             "year": "2021",
             "buyDate": "10/18/21",
+            "readDate": "2/20/22",
             "price": "330",
             "publisher": "Corpus",
             "shelf": "corpus nabokov 2021",
@@ -632,7 +633,8 @@
             "book": "Волшебник. Solus Rex",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new 2022"
+            "shelf": "corpus nabokov wishlist new 2022",
+            "img": "https://cdn.book24.ru/v2/ASE000000000858738/COVER/cover13d__w410.webp"
         },
         {
             "author": "Владимир Набоков",
@@ -2913,7 +2915,7 @@
             "buyDate": "9/6/20",
             "readDate": "9/20/20",
             "price": "243",
-            "shelf": "brusov",
+            "shelf": "brusov 2020",
             "img": "https://s1.livelib.ru/boocover/1005073870/o/93a5/Serzh_Brusov__MoBibliya.jpeg"
         },
         {
@@ -7556,7 +7558,7 @@
             "price": "542.35",
             "publisher": "Corpus",
             "shelf": "tartt corpus",
-            "img": "https://interkniga.net/app/files/2020/10/ASE000000000701162_cover1-1.jpg"
+            "img": "https://s1.livelib.ru/boocover/1002970280/o/bdd7/Donna_Tartt__Malenkij_drug.jpeg"
         },
         {
             "id": "349",
@@ -9005,6 +9007,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-chembers.jpg"
         },
         {
+            "id": "692",
             "author": "Лола Лафон",
             "book": "Ошибка Клео",
             "year": "2022",
@@ -10834,7 +10837,7 @@
             "book": "Bromance. Книжный клуб спешит на помощь",
             "year": "2022",
             "buyDate": "2/22/22",
-            "price": "374",
+            "price": "343",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria bromance kei-adams 2022",
             "img": "https://s1.livelib.ru/boocover/1006993807/o/b33a/Lissa_Kej_Adams__Bromance._Knizhnyj_klub_speshit_na_pomosch.jpeg"
@@ -11109,11 +11112,30 @@
             "author": "Марк Биллингхэм",
             "book": "Вниз по кроличьей норе",
             "year": "2022",
-            "buyDate": "2/22/22",
+            "buyDate": "2/19/22",
             "price": "323",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
             "img": "https://s1.livelib.ru/boocover/1007020618/o/a295/Mark_Billingem__Vniz_po_krolichej_nore.jpeg"
+        },
+        {
+            "author": "Кристин Хармель",
+            "book": "Книга утраченных имен",
+            "year": "2022",
+            "shelf": "wishlist new 2022",
+            "img": "https://s1.livelib.ru/boocover/1007028469/o/fbb6/Kristin_Harmel__Kniga_utrachennyh_imen.jpeg"
+        },
+        {
+            "author": "Мартин Маделин",
+            "book": "Последняя книжная лавка в Лондоне",
+            "shelf": "bookstore wishlist new 2022",
+            "img": "https://s1.livelib.ru/boocover/1007022082/o/c159/Madelin_Martin__Poslednyaya_knizhnaya_lavka_v_Londone.jpeg"
+        },
+        {
+            "author": "Элиф Шафак",
+            "book": "10 минут 38 секунд в этом странном мире",
+            "shelf": "wishlist new",
+            "img": "https://cdn.azbooka.ru/cv/w1100/fca94a94-5372-4c7a-a470-ef8695a03fdd.jpg"
         },
         {
             "author": "Карина Ян Глейзер",
