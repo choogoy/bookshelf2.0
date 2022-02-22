@@ -145,7 +145,7 @@
             "img": "https://cv4.litres.ru/pub/c/elektronnaya-kniga/cover_415/6696945-evgeniy-grishkovec-bol-2.jpg"
         },
         {
-            "author": "Евгений Гришковец, Анна Матисон",
+            "author": "Евгений Гришковец и Анна Матисон",
             "book": "Уик энд. Конец недели",
             "year": "2014",
             "buyDate": "4/22/14",
@@ -211,7 +211,7 @@
         },
         {
             "author": "Евгений Гришковец",
-            "book": "Водка как нечто большее (книга с опечаткой)",
+            "book": "Водка как нечто большее. Труд (с опечаткой)",
             "year": "2020",
             "buyDate": "7/17/20",
             "price": "322",
@@ -221,7 +221,7 @@
         },
         {
             "author": "Евгений Гришковец",
-            "book": "Водка как нечто большее (книга с опечаткой, с автографом автора)",
+            "book": "Водка как нечто большее. Труд (с опечаткой, с автографом автора)",
             "year": "2020",
             "buyDate": "7/27/20",
             "price": "336",
@@ -5416,7 +5416,7 @@
             "readDate": "8/13/20",
             "price": "482",
             "publisher": "Corpus",
-            "shelf": "grun corpus",
+            "shelf": "grun corpus 2020",
             "img": "https://www.corpus.ru/picts/products/Grun-New-1000.jpg"
         },
         {
@@ -5533,6 +5533,15 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Goulman-Fokus-1000.jpg"
         },
         {
+            "id": "674",
+            "author": "Дэниел Гоулман",
+            "book": "Фокус. О внимании, рассеянности и жизненном успехе",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus goulman 2021 wishlist",
+            "img": "https://www.corpus.ru/picts/products/cover1-ficus.jpg"
+        },
+        {
             "id": "643",
             "author": "Дэниел Гоулман",
             "book": "Социальный интеллект. Новая наука о человеческих отношениях",
@@ -5542,15 +5551,6 @@
             "publisher": "Corpus",
             "shelf": "corpus goulman social 2021",
             "img": "https://www.corpus.ru/picts/products/cover-intellect.jpg"
-        },
-        {
-            "id": "674",
-            "author": "Дэниел Гоулман",
-            "book": "Фокус. О внимании, рассеянности и жизненном успехе",
-            "year": "2021",
-            "publisher": "Corpus",
-            "shelf": "corpus goulman wishlist",
-            "img": "https://www.corpus.ru/picts/products/cover1-ficus.jpg"
         },
         {
             "id": "357",
@@ -5603,9 +5603,10 @@
             "book": "Девушка, которая читала в метро",
             "year": "2018",
             "buyDate": "2/25/19",
+            "readDate": "2/20/22",
             "price": "277",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus bookstore",
             "img": "https://www.corpus.ru/picts/products/Feret-Fleury-Devushka-1000.jpg"
         },
         {
@@ -6710,6 +6711,7 @@
             "book": "Ты и я",
             "year": "2013",
             "buyDate": "8/3/20",
+            "readDate": "2/22/22",
             "price": "161",
             "publisher": "Corpus",
             "shelf": "corpus",
@@ -6799,7 +6801,7 @@
             "buyDate": "8/5/20",
             "price": "163",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus osten",
             "img": "https://s1.livelib.ru/boocover/1000449844/o/bdf3/Ben_Uinters__Razum_i_chuvstva_i_gady_morskie.jpeg"
         },
         {
@@ -10790,7 +10792,7 @@
             "year": "2006",
             "buyDate": "10/29/21",
             "price": "250",
-            "shelf": "bookstore",
+            "shelf": "bookstore osten",
             "img": "https://img4.labirint.ru/rc/9032c317657e7db8439a83839db0b5b7/594x918/books13/121988/cover.jpg?1280394613"
         },
         {
@@ -10849,7 +10851,7 @@
             "buyDate": "11/12/21",
             "price": "305",
             "publisher": "Эксмо",
-            "shelf": "bookstore eksmo inspiria 2021",
+            "shelf": "bookstore eksmo inspiria osten 2021",
             "img": "https://s1.livelib.ru/boocover/1006779994/o/5068/Natali_Dzhenner__Obschestvo_Dzhejn_Osten.jpeg"
         },
         {
