@@ -1724,7 +1724,7 @@
             "author": "Бернар Вербер",
             "book": "Планета кошек",
             "year": "2022",
-            "buyDate": "2/22/22",
+            "buyDate": "3/5/22",
             "price": "370",
             "publisher": "Эксмо",
             "shelf": "verber eksmo 2022",
@@ -2017,7 +2017,7 @@
             "author": "Харуки Мураками",
             "book": "От первого лица",
             "year": "2022",
-            "buyDate": "2/22/22",
+            "buyDate": "3/5/22",
             "price": "422",
             "shelf": "haruki-murakami 2022",
             "img": "https://s1.livelib.ru/boocover/1006978093/o/a868/Haruki_Murakami__Ot_pervogo_litsa.jpeg"
@@ -5558,6 +5558,7 @@
             "book": "Утренний чтец",
             "year": "2016",
             "buyDate": "7/23/20",
+            "readDate": "2/23/22",
             "price": "309.37",
             "publisher": "Corpus",
             "shelf": "corpus happy",
@@ -9015,14 +9016,15 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000856406/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-lafon.jpg"
         },
         {
             "author": "Лейла Слимани",
             "book": "Страна других. Книга 1. Рождество под кипарисами",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus slimani wishlist new 2022"
+            "shelf": "corpus slimani wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000855128/COVER/cover1__w600.jpg"
         },
         {
             "author": "Михаил Фишман",
@@ -9030,6 +9032,13 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus nemcov wishlist new 2022"
+        },
+        {
+            "author": "Альберт Санчес Пиньоль",
+            "book": "Фунгус",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist new 2022"
         },
         {
             "author": "Дженнифер Сэйнт",
@@ -9050,13 +9059,6 @@
         {
             "author": "Андрей Бабиков",
             "book": "Игра слов. Практика и идеология перевода",
-            "year": "2022",
-            "publisher": "Corpus",
-            "shelf": "corpus wishlist new 2022"
-        },
-        {
-            "author": "Альберт Санчес Пиньоль",
-            "book": "Фунгус",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist new 2022"
@@ -9979,7 +9981,7 @@
             "author": "Мона Кастен",
             "book": "Снова почувствуй. Книга 3",
             "year": "2022",
-            "buyDate": "2/22/22",
+            "buyDate": "3/5/22",
             "price": "352",
             "publisher": "Like Book",
             "shelf": "like-book kasten 2022",
@@ -10838,7 +10840,7 @@
             "author": "Лисса Кей Адамс",
             "book": "Bromance. Книжный клуб спешит на помощь",
             "year": "2022",
-            "buyDate": "2/22/22",
+            "buyDate": "3/5/22",
             "price": "343",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria bromance kei-adams 2022",
@@ -10953,6 +10955,16 @@
             "publisher": "Эксмо",
             "shelf": "eksmo white 2021",
             "img": "https://s1.livelib.ru/boocover/1006829059/o/9ad3/Ketrin_Kuper__Shale.jpeg"
+        },
+        {
+            "author": "Линда Кейр",
+            "book": "Темное озеро",
+            "year": "2022",
+            "buyDate": "4/9/22",
+            "price": "358",
+            "publisher": "Эксмо",
+            "shelf": "eksmo white 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001162801/COVER/cover1__w820.jpg"
         },
         {
             "author": "Джулия Клэйборн Джонсон",
