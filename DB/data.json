@@ -1724,7 +1724,7 @@
             "author": "Бернар Вербер",
             "book": "Планета кошек",
             "year": "2022",
-            "buyDate": "3/5/22",
+            "buyDate": "2/26/22",
             "price": "370",
             "publisher": "Эксмо",
             "shelf": "verber eksmo 2022",
@@ -5570,6 +5570,7 @@
             "book": "Вся оставшаяся жизнь",
             "year": "2018",
             "buyDate": "7/23/20",
+            "readDate": "2/27/22",
             "price": "329",
             "publisher": "Corpus",
             "shelf": "corpus happy",
@@ -9038,7 +9039,8 @@
             "book": "Фунгус",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new 2022"
+            "shelf": "corpus wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000852346/COVER/cover1__w600.jpg"
         },
         {
             "author": "Дженнифер Сэйнт",
