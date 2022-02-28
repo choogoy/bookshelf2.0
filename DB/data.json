@@ -1437,8 +1437,9 @@
             "img": "https://www.corpus.ru/picts/products/cover1-lugand.jpg"
         },
         {
+            "id": "707",
             "author": "Аньес Мартен-Люган",
-            "book": "Гостиница «Дача»",
+            "book": "Отель «Дача»",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "martin-lugand corpus happy wishlist new 2022",
@@ -7559,6 +7560,7 @@
             "author": "Донна Тартт",
             "book": "Маленький друг",
             "buyDate": "9/21/20",
+            "readDate": "2/28/22",
             "price": "542.35",
             "publisher": "Corpus",
             "shelf": "tartt corpus",
@@ -9020,6 +9022,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-lafon.jpg"
         },
         {
+            "id": "698",
             "author": "Лейла Слимани",
             "book": "Страна других. Книга 1. Рождество под кипарисами",
             "year": "2022",
@@ -9028,19 +9031,21 @@
             "img": "https://cdn.ast.ru/v2/ASE000000000855128/COVER/cover1__w600.jpg"
         },
         {
-            "author": "Михаил Фишман",
-            "book": "Преемник. История Бориса Немцова и страны, в которой он не стал президентом",
-            "year": "2022",
-            "publisher": "Corpus",
-            "shelf": "corpus nemcov wishlist new 2022"
-        },
-        {
+            "id": "702",
             "author": "Альберт Санчес Пиньоль",
             "book": "Фунгус",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist new 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000852346/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Михаил Фишман",
+            "book": "Преемник. История Бориса Немцова и страны, в которой он не стал президентом",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus nemcov wishlist new 2022",
+            "img": "https://sun1-13.userapi.com/impg/FpMfjnpa_7p1kssC6cAU9rqAWp6MxrqHm691BA/tfUCIdTubPc.jpg?size=740x1080&quality=95&sign=43800b3cd360ca9faeb3c008156bc958&type=album"
         },
         {
             "author": "Дженнифер Сэйнт",
