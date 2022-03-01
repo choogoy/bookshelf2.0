@@ -2019,7 +2019,7 @@
             "book": "От первого лица",
             "year": "2022",
             "buyDate": "3/5/22",
-            "price": "422",
+            "price": "390",
             "shelf": "haruki-murakami 2022",
             "img": "https://s1.livelib.ru/boocover/1006978093/o/a868/Haruki_Murakami__Ot_pervogo_litsa.jpeg"
         },
@@ -9989,7 +9989,7 @@
             "book": "Снова почувствуй. Книга 3",
             "year": "2022",
             "buyDate": "3/5/22",
-            "price": "352",
+            "price": "311",
             "publisher": "Like Book",
             "shelf": "like-book kasten 2022",
             "img": "https://s1.livelib.ru/boocover/1006927741/o/b528/Mona_Kasten__Snova_pochuvstvuj.jpeg"
@@ -10744,8 +10744,10 @@
             "author": "Ричард Осман",
             "book": "Человек, который умер дважды",
             "year": "2022",
+            "buyDate": "3/19/22",
+            "price": "456",
             "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif osman wishlist new 2022",
+            "shelf": "mif osman 2022",
             "img": "https://s1.livelib.ru/boocover/1006866829/o/aa02/Richard_Osman__Chelovek_kotoryj_umer_dvazhdy.jpeg"
         },
         {
@@ -10848,7 +10850,7 @@
             "book": "Bromance. Книжный клуб спешит на помощь",
             "year": "2022",
             "buyDate": "3/5/22",
-            "price": "343",
+            "price": "331",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria bromance kei-adams 2022",
             "img": "https://s1.livelib.ru/boocover/1006993807/o/b33a/Lissa_Kej_Adams__Bromance._Knizhnyj_klub_speshit_na_pomosch.jpeg"
@@ -10968,7 +10970,7 @@
             "book": "Темное озеро",
             "year": "2022",
             "buyDate": "4/9/22",
-            "price": "358",
+            "price": "345",
             "publisher": "Эксмо",
             "shelf": "eksmo white 2022",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001162801/COVER/cover1__w820.jpg"
@@ -11140,10 +11142,46 @@
             "img": "https://s1.livelib.ru/boocover/1007020618/o/a295/Mark_Billingem__Vniz_po_krolichej_nore.jpeg"
         },
         {
+            "author": "Ричард Руссо",
+            "book": "Непосредственный человек",
+            "shelf": "russo wishlist",
+            "img": "https://s1.livelib.ru/boocover/1005249535/o/4865/Richard_Russo__Neposredstvennyj_chelovek.jpeg"
+        },
+        {
+            "author": "Ричард Руссо",
+            "book": "Эмпайр Фоллз",
+            "shelf": "russo wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002908550/o/1acf/Richard_Russo__Empajr_Follz.jpeg"
+        },
+        {
+            "author": "Ричард Руссо",
+            "book": "Шансы есть...",
+            "shelf": "russo wishlist",
+            "img": "https://s1.livelib.ru/boocover/1005638782/o/8d16/Richard_Russo__Shansy_est....jpeg"
+        },
+        {
+            "author": "Кристин Хармель",
+            "book": "Забвение пахнет корицей",
+            "shelf": "harmel wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006848787/o/9240/Kristin_Harmel__Zabvenie_pahnet_koritsej.jpeg"
+        },
+        {
+            "author": "Кристин Хармель",
+            "book": "Жизнь, которая не стала моей",
+            "shelf": "harmel wishlist",
+            "img": "https://img3.labirint.ru/rc/63b2f3398cb1488ab8009d1e4185459f/220x340/books82/813103/cover.jpg?1626082066"
+        },
+        {
+            "author": "Кристин Хармель",
+            "book": "Жена винодела",
+            "shelf": "harmel wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006898164/o/7f3a/Kristin_Harmel__Zhena_vinodela.jpeg"
+        },
+        {
             "author": "Кристин Хармель",
             "book": "Книга утраченных имен",
             "year": "2022",
-            "shelf": "wishlist new 2022",
+            "shelf": "harmel wishlist new 2022",
             "img": "https://s1.livelib.ru/boocover/1007028469/o/fbb6/Kristin_Harmel__Kniga_utrachennyh_imen.jpeg"
         },
         {
