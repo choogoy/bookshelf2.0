@@ -980,12 +980,13 @@
             "img": "https://cv1.litres.ru/pub/c/elektronnaya-kniga/cover_415/48408211-dzhonatan-franzen-konec-konca-zemli.jpg"
         },
         {
+            "id": "699",
             "author": "Джонатан Франзен",
             "book": "Перекрестки",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "franzen corpus wishlist new 2022",
-            "img": "https://s1.livelib.ru/boocover/1005800143/o/3073/Dzhonatan_Erl_Franzen__Crossroads_A_Key_to_All_Mythologies_1.jpeg"
+            "img": "https://cdn.ast.ru/v2/ASE000000000856182/COVER/cover1__w600.jpg"
         },
         {
             "author": "Николай Кононов",
@@ -993,12 +994,15 @@
             "year": "2013",
             "buyDate": "5/28/14",
             "price": "420",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif",
             "img": "https://s1.livelib.ru/boocover/1000583272/o/917a/Nikolaj_Viktorovich_Kononov__Kod_Durova._Realnaya_istoriya_VKontakte_i_ee_sozdat.jpeg"
         },
         {
             "author": "Уолтер Айзексон",
             "book": "Бенджамин Франклин. Биография",
-            "shelf": "izakson wishlist",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "izakson mif wishlist",
             "img": "https://s1.livelib.ru/boocover/1000668506/o/96c8/Uolter_Ajzekson__Bendzhamin_Franklin._Biografiya.jpeg"
         },
         {
@@ -2018,7 +2022,7 @@
             "author": "Харуки Мураками",
             "book": "От первого лица",
             "year": "2022",
-            "buyDate": "3/5/22",
+            "buyDate": "3/4/22",
             "price": "390",
             "shelf": "haruki-murakami 2022",
             "img": "https://s1.livelib.ru/boocover/1006978093/o/a868/Haruki_Murakami__Ot_pervogo_litsa.jpeg"
@@ -2970,7 +2974,7 @@
             "buyDate": "12/25/20",
             "price": "378",
             "publisher": "Бомбора",
-            "shelf": "bombora cincero",
+            "shelf": "bombora cincero 2020",
             "img": "https://s1.livelib.ru/boocover/1005610594/o/c980/Kamal_Ravikant__Lyubi_sebya._Slovno_ot_etogo_zavisit_tvoya_zhizn.jpeg"
         },
         {
@@ -7577,28 +7581,6 @@
             "img": "https://www.corpus.ru/picts/products/Bignardi-Lubov-1000.jpg"
         },
         {
-            "id": "568",
-            "author": "Филип Норман",
-            "book": "Пол Маккартни. Биография",
-            "year": "2020",
-            "buyDate": "9/29/20",
-            "price": "1018",
-            "publisher": "Corpus",
-            "shelf": "corpus music beatles",
-            "img": "https://www.corpus.ru/picts/products/Norman-Mccartney-1000.jpg"
-        },
-        {
-            "id": "574",
-            "author": "Ханс Рослинг",
-            "book": "Фактологичность. Десять причин наших заблуждений о мире - и почему все не так плохо, как кажется",
-            "year": "2020",
-            "buyDate": "9/29/20",
-            "price": "480",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Rosling-Factfillness-1000.jpg"
-        },
-        {
             "id": "516",
             "author": "Юрий Слёзкин",
             "book": "Дом правительства. Сага о русской революции",
@@ -7619,6 +7601,28 @@
             "publisher": "Corpus",
             "shelf": "corpus slezkin",
             "img": "https://www.corpus.ru/picts/products/Slezkin-Merkury-1000.jpg"
+        },
+        {
+            "id": "568",
+            "author": "Филип Норман",
+            "book": "Пол Маккартни. Биография",
+            "year": "2020",
+            "buyDate": "9/29/20",
+            "price": "1018",
+            "publisher": "Corpus",
+            "shelf": "corpus music beatles",
+            "img": "https://www.corpus.ru/picts/products/Norman-Mccartney-1000.jpg"
+        },
+        {
+            "id": "574",
+            "author": "Ханс Рослинг",
+            "book": "Фактологичность. Десять причин наших заблуждений о мире - и почему все не так плохо, как кажется",
+            "year": "2020",
+            "buyDate": "9/29/20",
+            "price": "480",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Rosling-Factfillness-1000.jpg"
         },
         {
             "id": "132",
@@ -9988,7 +9992,7 @@
             "author": "Мона Кастен",
             "book": "Снова почувствуй. Книга 3",
             "year": "2022",
-            "buyDate": "3/5/22",
+            "buyDate": "3/6/22",
             "price": "311",
             "publisher": "Like Book",
             "shelf": "like-book kasten 2022",
@@ -10849,7 +10853,7 @@
             "author": "Лисса Кей Адамс",
             "book": "Bromance. Книжный клуб спешит на помощь",
             "year": "2022",
-            "buyDate": "3/5/22",
+            "buyDate": "3/14/22",
             "price": "331",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria bromance kei-adams 2022",
