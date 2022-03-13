@@ -1143,6 +1143,7 @@
         {
             "author": "Фредерик Бегбедер",
             "book": "Конец света. Первые итоги",
+            "year": "2014",
             "buyDate": "4/4/14",
             "price": "304",
             "shelf": "begbeder",
@@ -1151,6 +1152,7 @@
         {
             "author": "Фредерик Бегбедер",
             "book": "Уна & Сэлинджер",
+            "year": "2015",
             "buyDate": "6/17/15",
             "price": "243",
             "shelf": "begbeder",
@@ -1175,9 +1177,10 @@
         {
             "author": "Фредерик Бегбедер",
             "book": "Человек, который плакал от смеха",
+            "year": "2020",
             "buyDate": "10/13/20",
             "price": "618.2",
-            "shelf": "begbeder",
+            "shelf": "begbeder 2020",
             "img": "https://s1.livelib.ru/boocover/1005446380/o/180e/Frederik_Begbeder__Chelovek_kotoryj_plakal_ot_smeha.jpeg"
         },
         {
@@ -1692,6 +1695,7 @@
         {
             "author": "Бернар Вербер",
             "book": "Завтрашний день кошки",
+            "year": "2017",
             "buyDate": "4/28/17",
             "price": "268",
             "shelf": "verber",
@@ -1700,6 +1704,7 @@
         {
             "author": "Бернар Вербер",
             "book": "С того света",
+            "year": "2018",
             "buyDate": "9/23/18",
             "price": "308",
             "publisher": "Эксмо",
@@ -1709,6 +1714,7 @@
         {
             "author": "Бернар Вербер",
             "book": "Ящик Пандоры",
+            "year": "2019",
             "buyDate": "7/22/19",
             "price": "306",
             "publisher": "Эксмо",
@@ -2019,7 +2025,7 @@
             "buyDate": "1/8/21",
             "price": "424",
             "publisher": "Эксмо-пресс",
-            "shelf": "haruki-murakami",
+            "shelf": "haruki-murakami 2020",
             "img": "https://s1.livelib.ru/boocover/1005504460/o/95c4/Haruki_Murakami__Besedy_o_muzyke_s_Sejdzi_Odzavoj.jpeg"
         },
         {
@@ -5243,6 +5249,63 @@
             "img": "https://s1.livelib.ru/boocover/1000447789/o/0f09/Fej_Ueldon__Nenavizhu_semejnuyu_zhizn.jpeg"
         },
         {
+            "id": "10",
+            "author": "Максим Осипов",
+            "book": "Грех жаловаться",
+            "year": "2009",
+            "buyDate": "9/21/20",
+            "price": "95",
+            "publisher": "Corpus",
+            "shelf": "osipov corpus",
+            "img": "https://www.corpus.ru/picts/products/Osipov-Grekh-1000tt.jpg"
+        },
+        {
+            "author": "Максим Осипов",
+            "book": "Крик домашней птицы",
+            "year": "2011",
+            "buyDate": "10/13/20",
+            "price": "194",
+            "publisher": "Corpus",
+            "shelf": "osipov corpus",
+            "img": "https://www.corpus.ru/picts/products/Osipov-Krik-1000tt.jpg"
+        },
+        {
+            "author": "Максим Осипов",
+            "book": "Человек эпохи возрождения",
+            "year": "2012",
+            "publisher": "Corpus",
+            "shelf": "osipov corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Osipov-Vozrazhdenie-1000tt.jpg"
+        },
+        {
+            "id": "267",
+            "author": "Максим Осипов",
+            "book": "Волною морскою",
+            "year": "2014",
+            "buyDate": "7/27/20",
+            "price": "188.9",
+            "publisher": "Corpus",
+            "shelf": "osipov corpus",
+            "img": "https://www.corpus.ru/picts/products/Osipov-Volna-1000.jpg"
+        },
+        {
+            "id": "452",
+            "author": "Максим Осипов",
+            "book": "пгт Вечность",
+            "year": "2017",
+            "publisher": "Corpus",
+            "shelf": "osipov corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Osipov-Vechnost-1000.jpg"
+        },
+        {
+            "author": "Максим Осипов",
+            "book": "«Люксембург» и другие русские истории",
+            "year": "2020",
+            "publisher": "Corpus",
+            "shelf": "osipov corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Osipov-Luxemburg-1000.jpg"
+        },
+        {
             "id": "12",
             "author": "Тони Моррисон",
             "book": "Жалость",
@@ -6971,15 +7034,14 @@
             "img": "https://www.corpus.ru/picts/products/Piy-Sumrak-1000.jpg"
         },
         {
-            "id": "412",
-            "author": "Дон Делилло",
-            "book": "Ноль К",
-            "year": "2017",
-            "buyDate": "7/27/20",
-            "price": "199.89",
+            "id": "33",
+            "author": "Колин Харрисон",
+            "book": "Манхеттенский ноктюрн",
+            "buyDate": "8/5/20",
+            "price": "185",
             "publisher": "Corpus",
             "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Delillo-Zero K-1000.jpg"
+            "img": "https://s1.livelib.ru/boocover/1000466924/o/0126/Kolin_Harrison__Manhettenskij_noktyurn.jpeg"
         },
         {
             "id": "62",
@@ -6992,30 +7054,73 @@
             "img": "https://s1.livelib.ru/boocover/1000456864/o/34e0/Kolin_Harrison__Ubijstvo_so_vzlomom.jpeg"
         },
         {
-            "id": "33",
-            "author": "Колин Харрисон",
-            "book": "Манхеттенский ноктюрн",
-            "buyDate": "8/5/20",
-            "price": "185",
+            "id": "41",
+            "author": "Кристиан Мёрк",
+            "book": "Песий остров",
+            "buyDate": "10/13/20",
+            "price": "183",
             "publisher": "Corpus",
             "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000466924/o/0126/Kolin_Harrison__Manhettenskij_noktyurn.jpeg"
+            "img": "https://s1.livelib.ru/boocover/1000444144/o/004d/Kristian_Merk__Pesij_ostrov.jpeg"
         },
         {
-            "id": "187",
-            "author": "Алессандро Пиперно",
-            "book": "Ошибка Ле Понтекорво",
-            "year": "2013",
+            "id": "44",
+            "author": "Хуан Мадрид",
+            "book": "Прощай, принцесса",
+            "year": "2010",
             "buyDate": "7/27/20",
-            "price": "198.89",
+            "price": "182.79",
             "publisher": "Corpus",
             "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Piperno-Pontecorvo-1000.jpg"
+            "img": "https://www.corpus.ru/picts/products/Madrid-Princesa-1000.jpg"
+        },
+        {
+            "id": "50",
+            "author": "Джона Лерер",
+            "book": "Как мы принимаем решения",
+            "year": "2010",
+            "buyDate": "11/20/20",
+            "price": "387.67",
+            "publisher": "Corpus",
+            "shelf": "lerer corpus",
+            "img": "https://www.corpus.ru/picts/products/Lehrer-Decide-1000.jpg"
+        },
+        {
+            "id": "216",
+            "author": "Джона Лерер",
+            "book": "Вообрази. Как работает креативность",
+            "year": "2013",
+            "buyDate": "9/21/20",
+            "price": "188.39",
+            "publisher": "Corpus",
+            "shelf": "lerer corpus psychology",
+            "img": "https://www.corpus.ru/picts/products/lehrer-imagine-1000.jpg"
+        },
+        {
+            "id": "572",
+            "author": "Джона Лерер",
+            "book": "Книга о любви",
+            "year": "2020",
+            "buyDate": "9/29/20",
+            "price": "461",
+            "publisher": "Corpus",
+            "shelf": "lerer corpus",
+            "img": "https://www.corpus.ru/picts/products/Lehrer-Love-1000.jpg"
+        },
+        {
+            "id": "87",
+            "author": "Сири Хустведт",
+            "book": "Печали американца",
+            "year": "2011",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Hustvedt-Pechali-1000.jpg"
         },
         {
             "id": "184",
             "author": "Сири Хустведт",
             "book": "За гранью нервного срыва",
+            "year": "2012",
             "buyDate": "7/27/20",
             "price": "191.9",
             "publisher": "Corpus",
@@ -7030,12 +7135,226 @@
             "img": "https://www.corpus.ru/picts/products/Hustvedt-Chto-ya-lubil-1000.jpg"
         },
         {
-            "author": "Сири Хустведт",
-            "book": "Печали американца",
+            "id": "102",
+            "author": "Зое Шарп",
+            "book": "Второй выстрел",
+            "year": "2011",
+            "buyDate": "7/29/20",
+            "price": "149.92",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000475279/o/5e0f/Zoe_Sharp__Vtoroj_vystrel.jpeg"
+        },
+        {
+            "id": "113",
+            "author": "Дон Уинслоу",
+            "book": "Час джентельменов",
             "year": "2011",
             "publisher": "Corpus",
+            "shelf": "corpus winslow wishlist",
+            "img": "https://www.corpus.ru/picts/products/winslow-gentelmen-1000.jpg"
+        },
+        {
+            "id": "128",
+            "author": "Дон Уинслоу",
+            "book": "Зимняя гонка Фрэнки Машины",
+            "year": "2011",
+            "buyDate": "7/27/20",
+            "price": "188.9",
+            "publisher": "Corpus",
+            "shelf": "corpus winslow",
+            "img": "https://s1.livelib.ru/boocover/1000495132/o/3bad/Don_Uinslou__Zimnyaya_gonka_Frenki_Mashiny.jpeg"
+        },
+        {
+            "author": "Дон Уинслоу",
+            "book": "Особо опасны",
+            "year": "2012",
+            "publisher": "Corpus",
+            "shelf": "corpus winslow wishlist",
+            "img": "https://www.corpus.ru/picts/products/winslow-savages-1000.jpg"
+        },
+        {
+            "author": "Дон Уинслоу",
+            "book": "Сатори",
+            "year": "2013",
+            "publisher": "Corpus",
+            "shelf": "corpus winslow wishlist",
+            "img": "https://www.corpus.ru/picts/products/winslow-satori-1000.jpg"
+        },
+        {
+            "id": "132",
+            "author": "Сиссель Йо-Газан",
+            "book": "Перо динозавра",
+            "buyDate": "10/13/20",
+            "price": "183",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000495136/o/3bad/SisselJo_Gazan__Pero_dinozavra.jpeg"
+        },
+        {
+            "id": "152",
+            "author": "Елена Бочоришвили",
+            "book": "Голова моего отца",
+            "publisher": "Corpus",
             "shelf": "corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Hustvedt-Pechali-1000.jpg"
+            "img": "https://www.corpus.ru/picts/products/tnw239-Bochorishvili-Head-1000.jpg"
+        },
+        {
+            "id": "311",
+            "author": "Елена Бочоришвили",
+            "book": "Только ждать и смотреть",
+            "year": "2015",
+            "buyDate": "9/1/20",
+            "price": "189",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/tnw239-Bochorichvily-Tolko_Jdat-1000.jpg"
+        },
+        {
+            "id": "163",
+            "author": "Сергей Гандлевский",
+            "book": "Бездумное былое",
+            "year": "2013",
+            "buyDate": "10/1/20",
+            "price": "195",
+            "publisher": "Corpus",
+            "shelf": "corpus gandlevsky",
+            "img": "https://www.corpus.ru/picts/products/Gandlevsky-Biloe-1000.jpg"
+        },
+        {
+            "id": "502",
+            "author": "Сергей Гандлевский",
+            "book": "Счастливая ошибка. Стихи и эссе о стихах",
+            "year": "2018",
+            "publisher": "Corpus",
+            "shelf": "corpus gandlevsky wishlist",
+            "img": "https://www.corpus.ru/picts/products/Gandlevsly-Oshibka-1000.jpg"
+        },
+        {
+            "id": "544",
+            "author": "Сергей Гандлевский",
+            "book": "В сторону Новой Зеландии",
+            "year": "2019",
+            "publisher": "Corpus",
+            "shelf": "corpus gandlevsky wishlist",
+            "img": "https://www.corpus.ru/picts/products/Gandlevsky-Zeeland-1000.jpg"
+        },
+        {
+            "id": "165",
+            "author": "Лев Рубинштейн",
+            "book": "Знаки внимания",
+            "year": "2012",
+            "buyDate": "8/28/20",
+            "price": "235",
+            "publisher": "Corpus",
+            "shelf": "rubinstein corpus",
+            "img": "https://www.corpus.ru/picts/products/tnw239-rubinshtein-znaki-1000.jpg"
+        },
+        {
+            "id": "241",
+            "author": "Лев Рубинштейн",
+            "book": "Скорее всего",
+            "year": "2013",
+            "publisher": "Corpus",
+            "shelf": "rubinstein corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/tnw239-Rubinstein-Skoree-1000.jpg"
+        },
+        {
+            "id": "382",
+            "author": "Лев Рубинштейн",
+            "book": "Причинное время",
+            "year": "2016",
+            "buyDate": "8/31/20",
+            "price": "168",
+            "publisher": "Corpus",
+            "shelf": "rubinstein corpus",
+            "img": "https://www.corpus.ru/picts/products/tnw239-Rubinstein-vremya-1000.JPG"
+        },
+        {
+            "id": "493",
+            "author": "Лев Рубинштейн",
+            "book": "Что слышно",
+            "year": "2018",
+            "buyDate": "11/26/20",
+            "price": "345",
+            "publisher": "Corpus",
+            "shelf": "rubinstein corpus",
+            "img": "https://www.corpus.ru/picts/products/tnw239-Rubinshtein-Slyshno-1000.jpg"
+        },
+        {
+            "id": "170",
+            "author": "Александар Хемон",
+            "book": "Проект «Лазарь»",
+            "year": "2012",
+            "buyDate": "7/27/20",
+            "price": "188.9",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/hemon-lazarus-1000.jpg"
+        },
+        {
+            "id": "180",
+            "author": "Джон Кампфнер",
+            "book": "Свобода на продажу",
+            "year": "2012",
+            "buyDate": "10/1/20",
+            "price": "245",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/kampfner-freedomsale-1000.jpg"
+        },
+        {
+            "id": "371",
+            "author": "Джон Кампфнер",
+            "book": "Богачи",
+            "year": "2016",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Kampfner-Bogachi-1000.jpg"
+        },
+        {
+            "id": "187",
+            "author": "Алессандро Пиперно",
+            "book": "Ошибка Ле Понтекорво",
+            "year": "2013",
+            "buyDate": "7/27/20",
+            "price": "198.89",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Piperno-Pontecorvo-1000.jpg"
+        },
+        {
+            "id": "188",
+            "author": "Ребекка Маккаи",
+            "book": "Запретное чтение",
+            "year": "2013",
+            "buyDate": "12/18/20",
+            "price": "150",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/makkai-borrower-1000.jpg"
+        },
+        {
+            "id": "193",
+            "author": "Джастин Торрес",
+            "book": "Мы, животные",
+            "year": "2013",
+            "buyDate": "8/25/20",
+            "price": "86",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/torres-animals-1000.jpg"
+        },
+        {
+            "id": "197",
+            "author": "Карл Фруде Тиллер",
+            "book": "Замыкая круг",
+            "year": "2013",
+            "buyDate": "7/27/20",
+            "price": "166.91",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Tiller-Krug-1000.jpg"
         },
         {
             "id": "199",
@@ -7060,83 +7379,37 @@
             "img": "https://www.corpus.ru/picts/products/hanna-krall-portret-pulej-cheljusti-drugie-istorii.jpg"
         },
         {
-            "id": "128",
-            "author": "Дон Уинслоу",
-            "book": "Зимняя гонка Фрэнки Машины",
-            "year": "2011",
-            "buyDate": "7/27/20",
-            "price": "188.9",
-            "publisher": "Corpus",
-            "shelf": "corpus winslow",
-            "img": "https://s1.livelib.ru/boocover/1000495132/o/3bad/Don_Uinslou__Zimnyaya_gonka_Frenki_Mashiny.jpeg"
-        },
-        {
-            "author": "Дон Уинслоу",
-            "book": "Сатори",
+            "id": "206",
+            "author": "Евгений Ухналев",
+            "book": "Это моё",
             "year": "2013",
-            "publisher": "Corpus",
-            "shelf": "corpus winslow wishlist",
-            "img": "https://www.corpus.ru/picts/products/winslow-satori-1000.jpg"
-        },
-        {
-            "author": "Дон Уинслоу",
-            "book": "Особо опасны",
-            "year": "2012",
-            "publisher": "Corpus",
-            "shelf": "corpus winslow wishlist",
-            "img": "https://www.corpus.ru/picts/products/winslow-savages-1000.jpg"
-        },
-        {
-            "author": "Дон Уинслоу",
-            "book": "Час джентельменов",
-            "year": "2011",
-            "publisher": "Corpus",
-            "shelf": "corpus winslow wishlist",
-            "img": "https://www.corpus.ru/picts/products/winslow-gentelmen-1000.jpg"
-        },
-        {
-            "id": "331",
-            "author": "Алисия Хименес Бартлетт",
-            "book": "А собаку я возьму себе",
-            "year": "2015",
-            "buyDate": "8/8/20",
-            "price": "140.5",
-            "publisher": "Corpus",
-            "shelf": "bartlett corpus",
-            "img": "https://www.corpus.ru/picts/products/gemenes-bartlett-Sobaka-1000.jpg"
-        },
-        {
-            "id": "334",
-            "author": "Алисия Хименес Бартлетт",
-            "book": "Не зови меня больше в Рим",
-            "year": "2015",
-            "buyDate": "7/27/20",
-            "price": "188.9",
-            "publisher": "Corpus",
-            "shelf": "bartlett corpus",
-            "img": "https://www.corpus.ru/picts/products/gemenes-bartlett-Roma-1000.jpg"
-        },
-        {
-            "id": "431",
-            "author": "Алисия Хименес Бартлетт",
-            "book": "Убийство на фоне глянца",
-            "year": "2017",
-            "buyDate": "7/27/20",
-            "price": "99.95",
-            "publisher": "Corpus",
-            "shelf": "bartlett corpus",
-            "img": "https://www.corpus.ru/picts/products/Himenes-Bartlett-Ubiystva-1000.jpg"
-        },
-        {
-            "id": "170",
-            "author": "Александар Хемон",
-            "book": "Проект «Лазарь»",
-            "year": "2012",
-            "buyDate": "7/27/20",
-            "price": "188.9",
+            "buyDate": "7/28/20",
+            "price": "93",
             "publisher": "Corpus",
             "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/hemon-lazarus-1000.jpg"
+            "img": "https://www.corpus.ru/picts/products/ukhnalev-moe-1000.jpg"
+        },
+        {
+            "id": "220",
+            "author": "Франсиско Голдман",
+            "book": "Скажи ее имя",
+            "year": "2013",
+            "buyDate": "7/27/20",
+            "price": "148.92",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/goldman-name-1000.jpg"
+        },
+        {
+            "id": "227",
+            "author": "Олег Дорман",
+            "book": "Нота. Жизнь Рудольфа Баршая, рассказанная им в фильме Олега Дормана",
+            "year": "2013",
+            "buyDate": "8/28/20",
+            "price": "233",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/tnw239-Dorman-Nota-1000.jpg"
         },
         {
             "id": "236",
@@ -7172,6 +7445,41 @@
             "img": "https://www.corpus.ru/picts/products/Gessen-Bialostok-1000.jpg"
         },
         {
+            "id": "301",
+            "author": "Донна Тартт",
+            "book": "Тайная история",
+            "year": "2014",
+            "buyDate": "9/19/20",
+            "readDate": "2/11/22",
+            "price": "469",
+            "publisher": "Corpus",
+            "shelf": "tartt corpus",
+            "img": "https://s1.livelib.ru/boocover/1002970279/o/b6d8/Donna_Tartt__Tajnaya_istoriya.jpeg"
+        },
+        {
+            "id": "302",
+            "author": "Донна Тартт",
+            "book": "Щегол",
+            "year": "2014",
+            "buyDate": "9/19/20",
+            "price": "469",
+            "publisher": "Corpus",
+            "shelf": "tartt corpus",
+            "img": "https://s1.livelib.ru/boocover/1002970278/o/6ae1/Donna_Tartt__Schegol.jpeg"
+        },
+        {
+            "id": "348",
+            "author": "Донна Тартт",
+            "book": "Маленький друг",
+            "year": "2015",
+            "buyDate": "9/21/20",
+            "readDate": "2/28/22",
+            "price": "542.35",
+            "publisher": "Corpus",
+            "shelf": "tartt corpus",
+            "img": "https://s1.livelib.ru/boocover/1002970280/o/bdd7/Donna_Tartt__Malenkij_drug.jpeg"
+        },
+        {
             "id": "305",
             "author": "Гауте Хейволл",
             "book": "Язык огня",
@@ -7183,105 +7491,97 @@
             "img": "https://www.corpus.ru/picts/products/Heivoll-Yazyk_ognya-1000.jpg"
         },
         {
-            "id": "10",
-            "author": "Максим Осипов",
-            "book": "Грех жаловаться",
-            "year": "2009",
-            "buyDate": "9/21/20",
-            "price": "95",
+            "id": "331",
+            "author": "Алисия Хименес Бартлетт",
+            "book": "А собаку я возьму себе",
+            "year": "2015",
+            "buyDate": "8/8/20",
+            "price": "140.5",
             "publisher": "Corpus",
-            "shelf": "osipov corpus",
-            "img": "https://www.corpus.ru/picts/products/Osipov-Grekh-1000tt.jpg"
+            "shelf": "bartlett corpus",
+            "img": "https://www.corpus.ru/picts/products/gemenes-bartlett-Sobaka-1000.jpg"
         },
         {
-            "author": "Максим Осипов",
-            "book": "Крик домашней птицы",
-            "year": "2011",
-            "buyDate": "10/13/20",
-            "price": "194",
-            "publisher": "Corpus",
-            "shelf": "osipov corpus",
-            "img": "https://www.corpus.ru/picts/products/Osipov-Krik-1000tt.jpg"
-        },
-        {
-            "author": "Максим Осипов",
-            "book": "Человек эпохи возрождения",
-            "year": "2012",
-            "publisher": "Corpus",
-            "shelf": "osipov corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Osipov-Vozrazhdenie-1000tt.jpg"
-        },
-        {
-            "id": "267",
-            "author": "Максим Осипов",
-            "book": "Волною морскою",
-            "year": "2014",
+            "id": "334",
+            "author": "Алисия Хименес Бартлетт",
+            "book": "Не зови меня больше в Рим",
+            "year": "2015",
             "buyDate": "7/27/20",
             "price": "188.9",
             "publisher": "Corpus",
-            "shelf": "osipov corpus",
-            "img": "https://www.corpus.ru/picts/products/Osipov-Volna-1000.jpg"
+            "shelf": "bartlett corpus",
+            "img": "https://www.corpus.ru/picts/products/gemenes-bartlett-Roma-1000.jpg"
         },
         {
-            "id": "452",
-            "author": "Максим Осипов",
-            "book": "пгт Вечность",
+            "id": "431",
+            "author": "Алисия Хименес Бартлетт",
+            "book": "Убийство на фоне глянца",
             "year": "2017",
-            "publisher": "Corpus",
-            "shelf": "osipov corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Osipov-Vechnost-1000.jpg"
-        },
-        {
-            "author": "Максим Осипов",
-            "book": "«Люксембург» и другие русские истории",
-            "year": "2020",
-            "publisher": "Corpus",
-            "shelf": "osipov corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Osipov-Luxemburg-1000.jpg"
-        },
-        {
-            "id": "44",
-            "author": "Хуан Мадрид",
-            "book": "Прощай, принцесса",
-            "year": "2010",
             "buyDate": "7/27/20",
-            "price": "182.79",
+            "price": "99.95",
             "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Madrid-Princesa-1000.jpg"
+            "shelf": "bartlett corpus",
+            "img": "https://www.corpus.ru/picts/products/Himenes-Bartlett-Ubiystva-1000.jpg"
         },
         {
-            "id": "197",
-            "author": "Карл Фруде Тиллер",
-            "book": "Замыкая круг",
-            "year": "2013",
+            "id": "349",
+            "author": "Дарья Биньярди",
+            "book": "Любовь надо заслужить",
+            "buyDate": "9/29/20",
+            "price": "165.29",
+            "publisher": "Corpus",
+            "shelf": "corpus happy",
+            "img": "https://www.corpus.ru/picts/products/Bignardi-Lubov-1000.jpg"
+        },
+        {
+            "id": "406",
+            "author": "Ханья Янагихара",
+            "book": "Маленькая жизнь",
+            "buyDate": "9/23/20",
+            "price": "446.5",
+            "publisher": "Corpus",
+            "shelf": "ianagihara corpus",
+            "img": "https://www.corpus.ru/picts/products/Yanagihara-LittleLife-1000.jpg"
+        },
+        {
+            "id": "455",
+            "author": "Ханья Янагихара",
+            "book": "Люди среди деревьев",
+            "buyDate": "9/23/20",
+            "price": "446.5",
+            "publisher": "Corpus",
+            "shelf": "ianagihara corpus",
+            "img": "https://www.corpus.ru/picts/products/ljudi-sredi-derevev-janagihara.jpg"
+        },
+        {
+            "author": "Ханья Янагихара",
+            "book": "В сторону рая",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "ianagihara corpus wishlist new 2022",
+            "img": "https://coollib.net/i/52/553552/img_0.webp"
+        },
+        {
+            "id": "412",
+            "author": "Дон Делилло",
+            "book": "Ноль К",
+            "year": "2017",
             "buyDate": "7/27/20",
-            "price": "166.91",
+            "price": "199.89",
             "publisher": "Corpus",
             "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Tiller-Krug-1000.jpg"
+            "img": "https://www.corpus.ru/picts/products/Delillo-Zero K-1000.jpg"
         },
         {
-            "id": "220",
-            "author": "Франсиско Голдман",
-            "book": "Скажи ее имя",
-            "year": "2013",
-            "buyDate": "7/27/20",
-            "price": "148.92",
+            "id": "486",
+            "author": "Гаэль Фай",
+            "book": "Маленькая страна",
+            "year": "2018",
+            "buyDate": "8/28/20",
+            "price": "231",
             "publisher": "Corpus",
             "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/goldman-name-1000.jpg"
-        },
-        {
-            "id": "102",
-            "author": "Зое Шарп",
-            "book": "Второй выстрел",
-            "year": "2011",
-            "buyDate": "7/29/20",
-            "price": "149.92",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000475279/o/5e0f/Zoe_Sharp__Vtoroj_vystrel.jpeg"
+            "img": "https://www.corpus.ru/picts/products/tnw239-Faye-Strana-1000.jpg"
         },
         {
             "id": "n",
@@ -7293,17 +7593,6 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/Oksanen-Golubi-1000.jpg"
-        },
-        {
-            "id": "206",
-            "author": "Евгений Ухналев",
-            "book": "Это моё",
-            "year": "2013",
-            "buyDate": "7/28/20",
-            "price": "93",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/ukhnalev-moe-1000.jpg"
         },
         {
             "id": "n",
@@ -7357,28 +7646,6 @@
             "img": "https://www.corpus.ru/picts/products/Ocharovannyi-1000.jpg"
         },
         {
-            "id": "193",
-            "author": "Джастин Торрес",
-            "book": "Мы, животные",
-            "year": "2013",
-            "buyDate": "8/25/20",
-            "price": "86",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/torres-animals-1000.jpg"
-        },
-        {
-            "id": "227",
-            "author": "Олег Дорман",
-            "book": "Нота. Жизнь Рудольфа Баршая, рассказанная им в фильме Олега Дормана",
-            "year": "2013",
-            "buyDate": "8/28/20",
-            "price": "233",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/tnw239-Dorman-Nota-1000.jpg"
-        },
-        {
             "id": "n",
             "author": "Шон Кэролл",
             "book": "Бесконечное число самых прекрасных форм",
@@ -7388,110 +7655,6 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/Carroll-Beskonechnoe-1000.jpg"
-        },
-        {
-            "id": "486",
-            "author": "Гаэль Фай",
-            "book": "Маленькая страна",
-            "year": "2018",
-            "buyDate": "8/28/20",
-            "price": "231",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/tnw239-Faye-Strana-1000.jpg"
-        },
-        {
-            "id": "165",
-            "author": "Лев Рубинштейн",
-            "book": "Знаки внимания",
-            "year": "2012",
-            "buyDate": "8/28/20",
-            "price": "235",
-            "publisher": "Corpus",
-            "shelf": "rubinstein corpus",
-            "img": "https://www.corpus.ru/picts/products/tnw239-rubinshtein-znaki-1000.jpg"
-        },
-        {
-            "id": "241",
-            "author": "Лев Рубинштейн",
-            "book": "Скорее всего",
-            "year": "2013",
-            "publisher": "Corpus",
-            "shelf": "rubinstein corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/tnw239-Rubinstein-Skoree-1000.jpg"
-        },
-        {
-            "id": "382",
-            "author": "Лев Рубинштейн",
-            "book": "Причинное время",
-            "year": "2016",
-            "buyDate": "8/31/20",
-            "price": "168",
-            "publisher": "Corpus",
-            "shelf": "rubinstein corpus",
-            "img": "https://www.corpus.ru/picts/products/tnw239-Rubinstein-vremya-1000.JPG"
-        },
-        {
-            "id": "493",
-            "author": "Лев Рубинштейн",
-            "book": "Что слышно",
-            "year": "2018",
-            "buyDate": "11/26/20",
-            "price": "345",
-            "publisher": "Corpus",
-            "shelf": "rubinstein corpus",
-            "img": "https://www.corpus.ru/picts/products/tnw239-Rubinshtein-Slyshno-1000.jpg"
-        },
-        {
-            "id": "311",
-            "author": "Елена Бочоришвили",
-            "book": "Только ждать и смотреть",
-            "year": "2015",
-            "buyDate": "9/1/20",
-            "price": "189",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/tnw239-Bochorichvily-Tolko_Jdat-1000.jpg"
-        },
-        {
-            "author": "Елена Бочоришвили",
-            "book": "Голова моего отца",
-            "publisher": "Corpus",
-            "shelf": "corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/tnw239-Bochorishvili-Head-1000.jpg"
-        },
-        {
-            "id": "50",
-            "author": "Джона Лерер",
-            "book": "Как мы принимаем решения",
-            "year": "2010",
-            "buyDate": "11/20/20",
-            "price": "387.67",
-            "publisher": "Corpus",
-            "shelf": "lerer corpus",
-            "img": "https://www.corpus.ru/picts/products/Lehrer-Decide-1000.jpg"
-        },
-        {
-            "id": "216",
-            "author": "Джона Лерер",
-            "book": "Вообрази. Как работает креативность",
-            "year": "2013",
-            "buyDate": "9/21/20",
-            "price": "188.39",
-            "publisher": "Corpus",
-            "shelf": "lerer corpus psychology",
-            "img": "https://www.corpus.ru/picts/products/lehrer-imagine-1000.jpg"
-        },
-        {
-            "id": "572",
-            "author": "Джона Лерер",
-            "book": "Книга о любви",
-            "year": "2020",
-            "buyDate": "9/29/20",
-            "price": "461",
-            "publisher": "Corpus",
-            "shelf": "lerer corpus",
-            "img": "https://www.corpus.ru/picts/products/Lehrer-Love-1000.jpg"
         },
         {
             "id": "469",
@@ -7514,76 +7677,6 @@
             "price": "74",
             "shelf": "prison",
             "img": "https://cdn1.ozone.ru/s3/multimedia-b/wc1200/6008814431.jpg"
-        },
-        {
-            "id": "406",
-            "author": "Ханья Янагихара",
-            "book": "Маленькая жизнь",
-            "buyDate": "9/23/20",
-            "price": "446.5",
-            "publisher": "Corpus",
-            "shelf": "ianagihara corpus",
-            "img": "https://www.corpus.ru/picts/products/Yanagihara-LittleLife-1000.jpg"
-        },
-        {
-            "id": "455",
-            "author": "Ханья Янагихара",
-            "book": "Люди среди деревьев",
-            "buyDate": "9/23/20",
-            "price": "446.5",
-            "publisher": "Corpus",
-            "shelf": "ianagihara corpus",
-            "img": "https://www.corpus.ru/picts/products/ljudi-sredi-derevev-janagihara.jpg"
-        },
-        {
-            "author": "Ханья Янагихара",
-            "book": "В сторону рая",
-            "year": "2022",
-            "publisher": "Corpus",
-            "shelf": "ianagihara corpus wishlist new 2022",
-            "img": "https://coollib.net/i/52/553552/img_0.webp"
-        },
-        {
-            "id": "301",
-            "author": "Донна Тартт",
-            "book": "Тайная история",
-            "buyDate": "9/19/20",
-            "readDate": "2/11/22",
-            "price": "469",
-            "publisher": "Corpus",
-            "shelf": "tartt corpus",
-            "img": "https://s1.livelib.ru/boocover/1002970279/o/b6d8/Donna_Tartt__Tajnaya_istoriya.jpeg"
-        },
-        {
-            "id": "302",
-            "author": "Донна Тартт",
-            "book": "Щегол",
-            "buyDate": "9/19/20",
-            "price": "469",
-            "publisher": "Corpus",
-            "shelf": "tartt corpus",
-            "img": "https://s1.livelib.ru/boocover/1002970278/o/6ae1/Donna_Tartt__Schegol.jpeg"
-        },
-        {
-            "id": "348",
-            "author": "Донна Тартт",
-            "book": "Маленький друг",
-            "buyDate": "9/21/20",
-            "readDate": "2/28/22",
-            "price": "542.35",
-            "publisher": "Corpus",
-            "shelf": "tartt corpus",
-            "img": "https://s1.livelib.ru/boocover/1002970280/o/bdd7/Donna_Tartt__Malenkij_drug.jpeg"
-        },
-        {
-            "id": "349",
-            "author": "Дарья Биньярди",
-            "book": "Любовь надо заслужить",
-            "buyDate": "9/29/20",
-            "price": "165.29",
-            "publisher": "Corpus",
-            "shelf": "corpus happy",
-            "img": "https://www.corpus.ru/picts/products/Bignardi-Lubov-1000.jpg"
         },
         {
             "id": "516",
@@ -7628,26 +7721,6 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/Rosling-Factfillness-1000.jpg"
-        },
-        {
-            "id": "132",
-            "author": "Сиссель Йо-Газан",
-            "book": "Перо динозавра",
-            "buyDate": "10/13/20",
-            "price": "183",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000495136/o/3bad/SisselJo_Gazan__Pero_dinozavra.jpeg"
-        },
-        {
-            "id": "41",
-            "author": "Кристиан Мёрк",
-            "book": "Песий остров",
-            "buyDate": "10/13/20",
-            "price": "183",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000444144/o/004d/Kristian_Merk__Pesij_ostrov.jpeg"
         },
         {
             "id": "509",
@@ -7790,26 +7863,6 @@
             "img": "https://www.corpus.ru/picts/products/Nyberg-Moscow-1000.jpg"
         },
         {
-            "id": "180",
-            "author": "Джон Кампфнер",
-            "book": "Свобода на продажу",
-            "year": "2012",
-            "buyDate": "10/1/20",
-            "price": "245",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/kampfner-freedomsale-1000.jpg"
-        },
-        {
-            "id": "371",
-            "author": "Джон Кампфнер",
-            "book": "Богачи",
-            "year": "2016",
-            "publisher": "Corpus",
-            "shelf": "corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Kampfner-Bogachi-1000.jpg"
-        },
-        {
             "author": "Пико Айер",
             "book": "Искусство покоя. Захватывающие приключения в полной неподвижности",
             "buyDate": "10/1/20",
@@ -7817,35 +7870,6 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/Iyer-Stillness-1000.jpg"
-        },
-        {
-            "id": "163",
-            "author": "Сергей Гандлевский",
-            "book": "Бездумное былое",
-            "year": "2013",
-            "buyDate": "10/1/20",
-            "price": "195",
-            "publisher": "Corpus",
-            "shelf": "corpus gandlevsky",
-            "img": "https://www.corpus.ru/picts/products/Gandlevsky-Biloe-1000.jpg"
-        },
-        {
-            "id": "502",
-            "author": "Сергей Гандлевский",
-            "book": "Счастливая ошибка. Стихи и эссе о стихах",
-            "year": "2018",
-            "publisher": "Corpus",
-            "shelf": "corpus gandlevsky wishlist",
-            "img": "https://www.corpus.ru/picts/products/Gandlevsly-Oshibka-1000.jpg"
-        },
-        {
-            "id": "544",
-            "author": "Сергей Гандлевский",
-            "book": "В сторону Новой Зеландии",
-            "year": "2019",
-            "publisher": "Corpus",
-            "shelf": "corpus gandlevsky wishlist",
-            "img": "https://www.corpus.ru/picts/products/Gandlevsky-Zeeland-1000.jpg"
         },
         {
             "id": "195",
@@ -8523,17 +8547,6 @@
             "img": "https://www.corpus.ru/picts/products/cover1-dezhurstvo.jpg"
         },
         {
-            "id": "188",
-            "author": "Ребекка Маккаи",
-            "book": "Запретное чтение",
-            "year": "2012",
-            "buyDate": "12/18/20",
-            "price": "150",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/makkai-borrower-1000.jpg"
-        },
-        {
             "id": "n",
             "author": "Василий Гроссман и Илья Эренбург",
             "book": "Черная книга",
@@ -9026,8 +9039,10 @@
             "author": "Лола Лафон",
             "book": "Ошибка Клео",
             "year": "2022",
+            "buyDate": "3/17/22",
+            "price": "419",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new 2022",
+            "shelf": "corpus 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-lafon.jpg"
         },
         {
@@ -9058,7 +9073,7 @@
         },
         {
             "author": "Владимир Бабков",
-            "book": "Игра слов. Практика и идеология перевода",
+            "book": "Игра слов. Практика и идеология художественного перевода",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist new 2022",
@@ -10005,6 +10020,13 @@
             "img": "https://s1.livelib.ru/boocover/1006927741/o/b528/Mona_Kasten__Snova_pochuvstvuj.jpeg"
         },
         {
+            "author": "Мона Кастен",
+            "book": "Снова надейся. Книга 4",
+            "year": "2022",
+            "publisher": "Like Book",
+            "shelf": "like-book kasten wishlist new 2022"
+        },
+        {
             "author": "Пули Клэр",
             "book": "Правдивая история",
             "year": "2020",
@@ -10091,8 +10113,22 @@
             "buyDate": "2/19/21",
             "price": "367",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria",
+            "shelf": "eksmo inspiria rolf",
             "img": "https://s1.livelib.ru/boocover/1005631348/o/57b2/Helen_Rolf__Malenkoe_kafe_v_kontse_pirsa.jpeg"
+        },
+        {
+            "author": "Хелен Рольф",
+            "book": "Библиотека всего на свете",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria rolf bookstore 2022",
+            "img": "https://img-gorod.ru/29/057/2905780_detail.jpg"
+        },
+        {
+            "author": "Фрейя Сэмпсон",
+            "book": "Библиотека последней надежды",
+            "year": "2022",
+            "shelf": "eksmo inspiria bookstore 2022"
         },
         {
             "author": "Эли Макнамара",
@@ -10444,7 +10480,7 @@
             "buyDate": "7/22/21",
             "price": "460",
             "publisher": "Эксмо",
-            "shelf": "eksmo biden",
+            "shelf": "eksmo biden politics",
             "img": "https://s1.livelib.ru/boocover/1006269307/o/28e4/Dzho_Bajden__Sderzhat_obeschaniya._V_zhizni_i_politike.jpeg"
         },
         {
@@ -10454,7 +10490,7 @@
             "buyDate": "11/29/21",
             "price": "317",
             "publisher": "Эксмо",
-            "shelf": "eksmo biden",
+            "shelf": "eksmo biden politics",
             "img": "https://s1.livelib.ru/boocover/1006876483/o/788c/Dzhill_Bajden__Tam_gde_svet._Istoriya_pervoj_ledi_SShA.jpeg"
         },
         {
@@ -10646,6 +10682,7 @@
             "book": "Можно ли забить гвоздь в космосе и другие вопросы о космонавтике",
             "year": "2021",
             "buyDate": "12/20/21",
+            "readDate": "3/13/22",
             "price": "350",
             "publisher": "Бомбора",
             "shelf": "bombora space 2021",
@@ -10659,7 +10696,7 @@
             "readDate": "3/8/22",
             "price": "583",
             "publisher": "Бомбора",
-            "shelf": "bombora nemcov 2022",
+            "shelf": "bombora nemcov politics 2022",
             "img": "https://s1.livelib.ru/boocover/1006937089/o/0a86/Zhanna_Nemtsova__Doch_svoego_ottsa.jpeg"
         },
         {
@@ -10860,8 +10897,8 @@
             "author": "Лисса Кей Адамс",
             "book": "Bromance. Книжный клуб спешит на помощь",
             "year": "2022",
-            "buyDate": "3/14/22",
-            "price": "331",
+            "buyDate": "3/12/22",
+            "price": "312",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria bromance kei-adams 2022",
             "img": "https://s1.livelib.ru/boocover/1006993807/o/b33a/Lissa_Kej_Adams__Bromance._Knizhnyj_klub_speshit_na_pomosch.jpeg"
@@ -11109,8 +11146,16 @@
             "buyDate": "2/21/22",
             "price": "501",
             "publisher": "АСТ",
-            "shelf": "ast 2022",
+            "shelf": "ast merkel politics 2022",
             "img": "https://s1.livelib.ru/boocover/1006973839/o/3177/Metyu_Kvortrup__Angela_Merkel._Samyj_vliyatelnyj_politik_Evropy.jpeg"
+        },
+        {
+            "author": "Урсула Вайденфельд",
+            "book": "Ангела Меркель. Женщина – канцлер. Портрет эпохи",
+            "year": "2022",
+            "publisher": "АСТ",
+            "shelf": "ast merkel politics 2022",
+            "img": "https://cdn.book24.ru/v2/ASE000000000860653/COVER/cover13d__w410.webp"
         },
         {
             "author": "Мартин Лейтем",
@@ -11248,7 +11293,7 @@
             "book": "A Promised Land",
             "year": "2022",
             "publisher": "Бомбора",
-            "shelf": "bombora obama wishlist new 2022",
+            "shelf": "bombora obama politics wishlist new 2022",
             "img": "https://cdn24.img.ria.ru/images/07e4/0b/11/1584987671_0:0:710:1080_1920x0_80_0_0_d2ae700f948a1aa4f503ff9779f955ca.jpg"
         },
         {
@@ -11270,7 +11315,7 @@
             "book": "Обещание",
             "year": "2022",
             "shelf": "buker wishlist new 2022",
-            "img": "https://pbs.twimg.com/media/E4KKKaVWEAMdut7.jpg"
+            "img": "https://upload.wikimedia.org/wikipedia/en/6/68/The_Promise_%28Damon_Galgut%29.png"
         },
         {
             "author": "Мохамед Мбугар Сарр",
