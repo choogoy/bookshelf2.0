@@ -634,7 +634,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus nabokov wishlist new 2022",
-            "img": "https://cdn.book24.ru/v2/ASE000000000858738/COVER/cover13d__w410.webp"
+            "img": "https://www.corpus.ru/picts/products/Nabokov-Volshebnik-1000.jpg"
         },
         {
             "author": "Владимир Набоков",
@@ -3990,6 +3990,13 @@
             "img": "https://cdn.ast.ru/v2/ASE000000000857180/COVER/cover1__w600.jpg"
         },
         {
+            "author": "Марк Кьюбан",
+            "book": "Бизнес с миллиардером Марком Кьюбаном",
+            "year": "2022",
+            "shelf": "education wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000862687/COVER/cover1__w600.jpg"
+        },
+        {
             "book": "Истории любви",
             "year": "2008",
             "buyDate": "4/20/12",
@@ -7104,7 +7111,7 @@
             "buyDate": "9/29/20",
             "price": "461",
             "publisher": "Corpus",
-            "shelf": "lerer corpus",
+            "shelf": "lerer corpus 2020",
             "img": "https://www.corpus.ru/picts/products/Lehrer-Love-1000.jpg"
         },
         {
@@ -7462,6 +7469,7 @@
             "book": "Щегол",
             "year": "2014",
             "buyDate": "9/19/20",
+            "readDate": "3/17/22",
             "price": "469",
             "publisher": "Corpus",
             "shelf": "tartt corpus",
@@ -7708,7 +7716,7 @@
             "buyDate": "9/29/20",
             "price": "1018",
             "publisher": "Corpus",
-            "shelf": "corpus music beatles",
+            "shelf": "corpus music beatles 2020",
             "img": "https://www.corpus.ru/picts/products/Norman-Mccartney-1000.jpg"
         },
         {
@@ -7719,7 +7727,7 @@
             "buyDate": "9/29/20",
             "price": "480",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus 2020",
             "img": "https://www.corpus.ru/picts/products/Rosling-Factfillness-1000.jpg"
         },
         {
@@ -7762,7 +7770,7 @@
             "readDate": "7/1/21",
             "price": "440",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus 2020",
             "img": "https://www.corpus.ru/picts/products/tnw239-Avdic-Isola-1000.jpg"
         },
         {
@@ -7919,7 +7927,7 @@
             "buyDate": "11/3/20",
             "price": "416",
             "publisher": "Corpus",
-            "shelf": "corpus patti",
+            "shelf": "corpus patti 2020",
             "img": "https://www.corpus.ru/picts/products/cover1-obesyana.jpg"
         },
         {
@@ -8129,7 +8137,7 @@
             "buyDate": "10/5/20",
             "price": "370",
             "publisher": "Corpus",
-            "shelf": "corpus miller",
+            "shelf": "corpus miller 2020",
             "img": "https://www.corpus.ru/picts/products/tnw239-cover1-miller.jpg"
         },
         {
@@ -8138,7 +8146,7 @@
             "book": "Грязь кладбищенская",
             "year": "2020",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
+            "shelf": "corpus wishlist 2020",
             "img": "https://www.corpus.ru/picts/products/O_Cadhain-Dirty-1000.jpg"
         },
         {
@@ -8149,7 +8157,7 @@
             "buyDate": "11/3/20",
             "price": "663.03",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus 2020",
             "img": "https://www.corpus.ru/picts/products/cover1-sety.jpg"
         },
         {
@@ -8160,7 +8168,7 @@
             "buyDate": "11/3/20",
             "price": "637",
             "publisher": "Corpus",
-            "shelf": "corpus prison fsb razvedcorpus",
+            "shelf": "corpus prison fsb razvedcorpus 2020",
             "img": "https://www.corpus.ru/picts/products/cover1-shpionka.jpg"
         },
         {
@@ -8171,7 +8179,7 @@
             "buyDate": "12/19/21",
             "price": "51",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus 2020",
             "img": "https://www.corpus.ru/picts/products/cover1-virgilio.jpg"
         },
         {
@@ -8183,7 +8191,7 @@
             "readDate": "10/16/21",
             "price": "259",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus 2020",
             "img": "https://www.corpus.ru/picts/products/cover1-lebedev.jpg"
         },
         {
@@ -8195,7 +8203,7 @@
             "readDate": "12/1/20",
             "price": "383",
             "publisher": "Corpus",
-            "shelf": "corpus prison",
+            "shelf": "corpus prison 2020",
             "img": "https://www.corpus.ru/picts/products/cover1-yarnysh.jpg"
         },
         {
@@ -8206,7 +8214,7 @@
             "buyDate": "11/29/20",
             "price": "574",
             "publisher": "Corpus",
-            "shelf": "corpus fsb",
+            "shelf": "corpus fsb 2020",
             "img": "https://www.corpus.ru/picts/products/cover1-forgach.jpg"
         },
         {
@@ -8229,7 +8237,7 @@
             "readDate": "4/2/21",
             "price": "416",
             "publisher": "Corpus",
-            "shelf": "corpus motova food",
+            "shelf": "corpus motova food 2020",
             "img": "https://www.corpus.ru/picts/products/cover1-motova.jpg"
         },
         {
@@ -8240,7 +8248,7 @@
             "buyDate": "1/3/22",
             "price": "375",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus 2020",
             "img": "https://www.corpus.ru/picts/products/cover1-sardinka.jpg"
         },
         {
@@ -8251,7 +8259,7 @@
             "buyDate": "12/11/20",
             "price": "438",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus 2020",
             "img": "https://www.corpus.ru/picts/products/cover1-revasov.jpg"
         },
         {
@@ -8349,7 +8357,7 @@
             "buyDate": "11/6/21",
             "price": "394",
             "publisher": "Corpus",
-            "shelf": "corpus primus russian",
+            "shelf": "corpus primus russian 2020",
             "img": "https://www.corpus.ru/picts/products/Fufaeva-Women-1000.jpg"
         },
         {
@@ -9039,7 +9047,7 @@
             "author": "Лола Лафон",
             "book": "Ошибка Клео",
             "year": "2022",
-            "buyDate": "3/17/22",
+            "buyDate": "3/16/22",
             "price": "419",
             "publisher": "Corpus",
             "shelf": "corpus 2022",
@@ -9069,7 +9077,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus nemcov wishlist new 2022",
-            "img": "https://sun1-13.userapi.com/impg/FpMfjnpa_7p1kssC6cAU9rqAWp6MxrqHm691BA/tfUCIdTubPc.jpg?size=740x1080&quality=95&sign=43800b3cd360ca9faeb3c008156bc958&type=album"
+            "img": "https://cdn.ast.ru/v2/ASE000000000853782/COVER/cover1__w600.jpg"
         },
         {
             "author": "Владимир Бабков",
@@ -9187,11 +9195,13 @@
             "img": "https://www.corpus.ru/picts/products/cover1-glavnogo.jpg"
         },
         {
+            "id": "n",
             "author": "Майкл Газзанига",
-            "book": "Инстинкт сознания",
+            "book": "Сознание как инстинкт. Загадки мозга: откуда берется психика",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus gazzaniga wishlist new 2022"
+            "shelf": "corpus gazzaniga wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000853259/COVER/cover1__w600.jpg"
         },
         {
             "author": "Сьюзан Хокфилд",
@@ -10027,6 +10037,14 @@
             "shelf": "like-book kasten wishlist new 2022"
         },
         {
+            "author": "Мона Кастен",
+            "book": "Lonely Heart",
+            "year": "2022",
+            "publisher": "Like Book",
+            "shelf": "like-book kasten wishlist new 2022",
+            "img": "https://sun9-56.userapi.com/impf/Chl1Md1kojL4mUvboL1yzinZfj_PjttJR9SW4A/trcV4ReFiCY.jpg?size=645x1024&quality=96&sign=80c3466082181471ee9ce0cb3b4a4088&type=album"
+        },
+        {
             "author": "Пули Клэр",
             "book": "Правдивая история",
             "year": "2020",
@@ -10121,14 +10139,14 @@
             "book": "Библиотека всего на свете",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria rolf bookstore 2022",
+            "shelf": "eksmo inspiria rolf bookstore new wishlist 2022",
             "img": "https://img-gorod.ru/29/057/2905780_detail.jpg"
         },
         {
             "author": "Фрейя Сэмпсон",
             "book": "Библиотека последней надежды",
             "year": "2022",
-            "shelf": "eksmo inspiria bookstore 2022"
+            "shelf": "eksmo inspiria bookstore new wishlist 2022"
         },
         {
             "author": "Эли Макнамара",
@@ -10846,6 +10864,14 @@
             "img": "https://s1.livelib.ru/boocover/1006752724/o/6b46/Kotaro_Isaka__Poezd_ubijts.jpeg"
         },
         {
+            "author": "Нацухико Кёгоку",
+            "book": "Лето злых духов убумэ",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo japan inspiria wishlist new 2022",
+            "img": "https://cdn.book24.ru/v2/ITD000000001247673/COVER/cover13d__w410.webp"
+        },
+        {
             "author": "Карен Джой Фаулер",
             "book": "Книжный клуб Джейн Остен",
             "year": "2006",
@@ -11110,7 +11136,7 @@
             "buyDate": "12/20/21",
             "price": "350",
             "publisher": "АСТ",
-            "shelf": "ast puzzle 2021",
+            "shelf": "ast puzzle torre 2021",
             "img": "https://s1.livelib.ru/boocover/1006842763/o/fe2f/Alessandra_Torre__Poslednij_sekret.jpeg"
         },
         {
@@ -11118,7 +11144,7 @@
             "book": "Ложь во благо",
             "year": "2022",
             "publisher": "АСТ",
-            "shelf": "ast puzzle wishlist new 2022",
+            "shelf": "ast puzzle torre wishlist new 2022",
             "img": "https://cdn.book24.ru/v2/ASE000000000862844/COVER/cover13d__w410.webp"
         },
         {
@@ -11140,6 +11166,14 @@
             "img": "https://cdn.book24.ru/v2/ASE000000000861831/COVER/cover13d__w410.webp"
         },
         {
+            "author": "Кирстен Модглин",
+            "book": "Пока смерть не разлучит нас",
+            "year": "2022",
+            "publisher": "АСТ",
+            "shelf": "ast puzzle wishlist new 2022",
+            "img": "https://cdn.book24.ru/v2/ASE000000000861835/COVER/cover13d__w410.webp"
+        },
+        {
             "author": "Мэтью Квортруп",
             "book": "Ангела Меркель. Самый влиятельный политик Европы",
             "year": "2022",
@@ -11151,10 +11185,10 @@
         },
         {
             "author": "Урсула Вайденфельд",
-            "book": "Ангела Меркель. Женщина – канцлер. Портрет эпохи",
+            "book": "Ангела Меркель. Женщина - канцлер. Портрет эпохи",
             "year": "2022",
             "publisher": "АСТ",
-            "shelf": "ast merkel politics 2022",
+            "shelf": "ast merkel politics wishlist new 2022",
             "img": "https://cdn.book24.ru/v2/ASE000000000860653/COVER/cover13d__w410.webp"
         },
         {
@@ -11208,6 +11242,14 @@
             "img": "https://cdn.book24.ru/v2/ITD000000001250977/COVER/cover13d__w410.webp"
         },
         {
+            "author": "Натали Дэниелс",
+            "book": "Кукушка",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist new 2022",
+            "img": "https://s1.livelib.ru/boocover/1003469864/o/df5e/Natali_Deniels__Kukushka.jpeg"
+        },
+        {
             "author": "Ричард Руссо",
             "book": "Непосредственный человек",
             "shelf": "russo wishlist",
@@ -11253,8 +11295,16 @@
         {
             "author": "Мартин Маделин",
             "book": "Последняя книжная лавка в Лондоне",
+            "year": "2022",
             "shelf": "bookstore wishlist new 2022",
             "img": "https://s1.livelib.ru/boocover/1007022082/o/c159/Madelin_Martin__Poslednyaya_knizhnaya_lavka_v_Londone.jpeg"
+        },
+        {
+            "author": "Джулия Келли",
+            "book": "Последний сад Англии",
+            "year": "2022",
+            "shelf": "wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000860117/COVER/cover1__w600.jpg"
         },
         {
             "author": "Элиф Шафак",
