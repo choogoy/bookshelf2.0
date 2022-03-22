@@ -9,7 +9,7 @@
             "price": "390",
             "publisher": "Corpus",
             "shelf": "kazantseva corpus",
-            "img": "https://cv0.litres.ru/pub/c/elektronnaya-kniga/cover_415/6568003-asya-kazanceva-kto-by-mog-podumat-kak-mozg-zastavlyaet-nas-delat-gluposti.jpg"
+            "img": "https://s1.livelib.ru/boocover/1000780712/o/fade/Asya_Kazantseva__Kto_by_mog_podumat_Kak_mozg_zastavlyaet_nas_delat_gluposti.jpeg"
         },
         {
             "id": "362",
@@ -621,7 +621,7 @@
             "author": "Владимир Набоков",
             "book": "Другие берега",
             "year": "2022",
-            "buyDate": "3/19/22",
+            "buyDate": "3/23/22",
             "price": "355",
             "publisher": "Corpus",
             "shelf": "corpus nabokov 2022",
@@ -641,74 +641,65 @@
             "book": "Дар",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new 2022"
+            "shelf": "corpus nabokov wishlist new 2022",
+            "img": "https://s1.livelib.ru/boocover/1002037387/o/41d7/Vladimir_Nabokov__Dar.jpeg"
         },
         {
             "author": "Владимир Набоков",
-            "book": "Истинная жизнь Себастьяна Найта",
+            "book": "Истинная жизнь Себастьяна Найта. Просвечивающие предметы",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist"
+            "shelf": "corpus nabokov wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002927787/o/84dd/Vladimir_Nabokov__Istinnaya_zhizn_Sebastyana_Najta._Prosvechivayuschie_predmety.jpeg"
         },
         {
             "author": "Владимир Набоков",
             "book": "Под знаком незаконнорождённых",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist"
+            "shelf": "corpus nabokov wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002108810/o/9b92/Vladimir_Nabokov__Pod_znakom_nezakonnorozhdennyh.jpeg"
         },
         {
             "author": "Владимир Набоков",
             "book": "Пнин",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist"
+            "shelf": "corpus nabokov wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002598444/o/371f/Vladimir_Nabokov__Pnin.jpeg"
         },
         {
             "author": "Владимир Набоков",
             "book": "Ада, или Отрада",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new 2022"
+            "shelf": "corpus nabokov wishlist new 2022",
+            "img": "https://s1.livelib.ru/boocover/1002076595/o/2033/Vladimir_Nabokov__Ada_ili_radosti_strasti.jpeg"
         },
         {
             "author": "Владимир Набоков",
-            "book": "Прозрачные вещи",
+            "book": "Взгляни на арлекинов!",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist"
-        },
-        {
-            "author": "Владимир Набоков",
-            "book": "Смотри на арлекинов!",
-            "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist"
+            "shelf": "corpus nabokov wishlist",
+            "img": "https://s1.livelib.ru/boocover/1003326334/o/34c2/Vladimir_Nabokov__Vzglyani_na_arlekinov.jpeg"
         },
         {
             "author": "Владимир Набоков",
             "book": "Лаура и её оригинал",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist"
-        },
-        {
-            "author": "Владимир Набоков",
-            "book": "Мадемуазель О.",
-            "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist"
+            "shelf": "corpus nabokov wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002109237/o/19b0/Vladimir_Nabokov__Laura_i_ee_original.jpeg"
         },
         {
             "author": "Владимир Набоков",
             "book": "Возвращение Чорба",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist"
-        },
-        {
-            "author": "Владимир Набоков",
-            "book": "Девять историй",
-            "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist"
+            "shelf": "corpus nabokov wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000668887/o/8426/Vladimir_Nabokov__Vozvraschenie_Chorba_sbornik.jpeg"
         },
         {
             "author": "Владимир Набоков",
             "book": "Весна в Фиальте",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist"
+            "shelf": "corpus nabokov wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000607191/o/f66c/Vladimir_Nabokov__Vesna_v_Fialte_sbornik.jpeg"
         },
         {
             "author": "Эрленд Лу",
@@ -3466,7 +3457,7 @@
             "book": "Рождение звука",
             "year": "2022",
             "shelf": "palanik wishlist new 2022",
-            "img": "https://www.bookvoed.ru/files/1836/12/28/75/68.jpeg"
+            "img": "https://cdn.ast.ru/v2/ASE000000000861539/COVER/cover1__w600.jpg"
         },
         {
             "author": "Джек Керуак",
@@ -3922,7 +3913,7 @@
             "author": "Маша Трауб",
             "book": "Когда мама - это ты",
             "year": "2022",
-            "buyDate": "3/19/22",
+            "buyDate": "3/23/22",
             "price": "317",
             "publisher": "Эксмо",
             "shelf": "traub eksmo 2022",
@@ -5504,8 +5495,10 @@
             "author": "Хендрик Грун",
             "book": "Живи и давай жить другим",
             "year": "2022",
+            "buyDate": "3/21/22",
+            "price": "465",
             "publisher": "Corpus",
-            "shelf": "grun corpus wishlist new 2022",
+            "shelf": "grun corpus 2022",
             "img": "https://www.corpus.ru/picts/products/cover1.jpg"
         },
         {
@@ -5618,7 +5611,7 @@
             "book": "Фокус. О внимании, рассеянности и жизненном успехе",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus goulman 2021 wishlist",
+            "shelf": "corpus goulman wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-ficus.jpg"
         },
         {
@@ -8866,11 +8859,14 @@
             "img": "https://www.corpus.ru/picts/products/cover1sturmark.jpg"
         },
         {
+            "id": "690",
             "author": "Денворт Лидия",
             "book": "О дружбе. Эволюция, биология и суперсила главных в жизни связей",
             "year": "2022",
+            "buyDate": "3/21/22",
+            "price": "645",
             "publisher": "Corpus",
-            "shelf": "corpus social wishlist new 2022",
+            "shelf": "corpus social 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-denvort-druzhba.jpg"
         },
         {
@@ -9251,7 +9247,15 @@
             "price": "545",
             "publisher": "Альпина нон-фикшн",
             "shelf": "politeh alpina 2021",
-            "img": "https://nonfiction.ru/assets/images/products/1772/galiley-obl.jpg"
+            "img": "https://alpinabook.ru/resize/1230x1800/upload/iblock/a4c/u6szgg8jnlrfjjs4c82ibgasus1ea09x.jpg"
+        },
+        {
+            "author": "Дэвид Линден",
+            "book": "Почему люди разные. Научный взгляд на человеческую индивидуальность",
+            "year": "2022",
+            "publisher": "Альпина нон-фикшн",
+            "shelf": "politeh alpina wishlist new 2022",
+            "img": "https://alpinabook.ru/resize/1230x1800/upload/iblock/2ba/q2nqmy97m4k8yhzmwiynr1yd2wcw1cih/face_1230px_RGB_BIG%20pochemu%20lyudi%20raznye%20obl%2012%202021.jpg"
         },
         {
             "author": "Лоуренс Бернс и Кристофер Шульган",
@@ -10160,6 +10164,22 @@
         },
         {
             "author": "Эли Макнамара",
+            "book": "Маленький цветочный магазин у моря",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "maknamara eksmo wishlist 2021",
+            "img": "https://cdn.book24.ru/v2/ITD000000001175748/COVER/cover13d__w410.webp"
+        },
+        {
+            "author": "Эли Макнамара",
+            "book": "Маленький цветочный магазин у моря",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "maknamara eksmo wishlist new 2022",
+            "img": "https://cdn.book24.ru/v2/ITD000000001249943/COVER/cover13d__w410.webp"
+        },
+        {
+            "author": "Эли Макнамара",
             "book": "Письма с «Маяка»",
             "year": "2020",
             "buyDate": "2/13/21",
@@ -10388,7 +10408,7 @@
             "price": "390",
             "publisher": "АСТ",
             "shelf": "ast science",
-            "img": "https://img-gorod.ru/28/643/2864374_detail.jpg"
+            "img": "https://cdn.ast.ru/v2/ASE000000000852775/COVER/cover1__w600.jpg"
         },
         {
             "author": "Хью Баркер",
@@ -10398,7 +10418,7 @@
             "price": "331",
             "publisher": "АСТ",
             "shelf": "ast science",
-            "img": "https://s1.livelib.ru/boocover/1006252918/o/e9ea/Hyu_Barker__Matematika_na_million_dollarov_kak_tsifry_mogut_sdelat_vas_bogatym_i.jpeg"
+            "img": "https://cdn.ast.ru/v2/ASE000000000849136/COVER/cover1__w600.jpg"
         },
         {
             "book": "Автостопом по науке. 70 фактов из истории великих открытий",
@@ -10407,7 +10427,7 @@
             "price": "331",
             "publisher": "АСТ",
             "shelf": "ast science",
-            "img": "https://s1.livelib.ru/boocover/1006075249/o/acf6/bez_avtora__Avtostopom_po_nauke__70_faktov_iz_istorii_velikih_otkrytij.jpeg"
+            "img": "https://cdn.ast.ru/v2/ASE000000000840892/COVER/cover1__w600.jpg"
         },
         {
             "author": "Борис Штерн и Валерий Рубаков",
@@ -10417,7 +10437,7 @@
             "price": "350",
             "publisher": "АСТ",
             "shelf": "ast science",
-            "img": "https://s1.livelib.ru/boocover/1005463762/o/757c/Shtern_Boris__Astrofizika._Troitskij_variant.jpeg"
+            "img": "https://cdn.ast.ru/v2/ASE000000000839802/COVER/cover1__w600.jpg"
         },
         {
             "author": "Со Ёсон",
@@ -10427,7 +10447,15 @@
             "price": "433",
             "publisher": "АСТ",
             "shelf": "ast science 2021",
-            "img": "https://s1.livelib.ru/boocover/1006846660/o/e3ac/So_Joson__Mozg_i_razum_v_epohu_virtualnoj_realnosti.jpeg"
+            "img": "https://cdn.ast.ru/v2/ASE000000000848870/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Марина Корсакова",
+            "book": "Мозг и музыка. Как чувства проявляют себя в музыке и почему ее понимание доступно всем",
+            "year": "2022",
+            "publisher": "АСТ",
+            "shelf": "ast science wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000863839/COVER/cover1__w600.jpg"
         },
         {
             "author": "Лидия Сальвер",
@@ -10689,11 +10717,11 @@
             "author": "Кэролайн Б. Куни",
             "book": "Лицом к лицу",
             "year": "2022",
-            "buyDate": "3/19/22",
+            "buyDate": "3/23/22",
             "price": "317",
             "publisher": "Бомбора",
             "shelf": "bombora kuni moloko 2022",
-            "img": "https://cdn.book24.ru/v2/ITD000000001101405/COVER/cover13d__w410.webp"
+            "img": "https://s1.livelib.ru/boocover/1006993831/o/7af7/Kerolajn_B._Kuni__Litsom_k_litsu.jpeg"
         },
         {
             "author": "Сергей Рязанский",
@@ -10810,7 +10838,7 @@
             "author": "Ричард Осман",
             "book": "Человек, который умер дважды",
             "year": "2022",
-            "buyDate": "3/19/22",
+            "buyDate": "3/21/22",
             "price": "430",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif osman 2022",
@@ -10867,9 +10895,11 @@
             "author": "Нацухико Кёгоку",
             "book": "Лето злых духов убумэ",
             "year": "2022",
+            "buyDate": "4/30/22",
+            "price": "420",
             "publisher": "Эксмо",
-            "shelf": "eksmo japan inspiria wishlist new 2022",
-            "img": "https://cdn.book24.ru/v2/ITD000000001247673/COVER/cover13d__w410.webp"
+            "shelf": "eksmo japan inspiria 2022",
+            "img": "https://s1.livelib.ru/boocover/1007122870/o/be37/Natsuhiko_Kjogoku__Leto_zlyh_duhov_ubume.jpeg"
         },
         {
             "author": "Карен Джой Фаулер",
@@ -10904,6 +10934,7 @@
             "book": "Bromance. Тайный клуб романтиков",
             "year": "2021",
             "buyDate": "10/14/21",
+            "readDate": "3/22/22",
             "price": "354",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria bromance kei-adams 2021",
@@ -10928,6 +10959,14 @@
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria bromance kei-adams 2022",
             "img": "https://s1.livelib.ru/boocover/1006993807/o/b33a/Lissa_Kej_Adams__Bromance._Knizhnyj_klub_speshit_na_pomosch.jpeg"
+        },
+        {
+            "author": "Лисса Кей Адамс",
+            "book": "Bromance. Isn't It Bromantic?",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "bookstore eksmo inspiria bromance kei-adams wishlist new 2022",
+            "img": "https://images.squarespace-cdn.com/content/v1/5598157ae4b0eb5f83814c0c/1627610730554-1MUQE8WNFWQ4J9H7PNAQ/Isn%27t+It+Bromantic.png"
         },
         {
             "author": "Натали Дженнер",
@@ -11047,7 +11086,7 @@
             "price": "345",
             "publisher": "Эксмо",
             "shelf": "eksmo white 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001162801/COVER/cover1__w820.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007087785/o/8797/Linda_Kejr__Temnoe_ozero.jpeg"
         },
         {
             "author": "Джулия Клэйборн Джонсон",
@@ -11087,7 +11126,7 @@
             "price": "414",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria buker 2021",
-            "img": "https://img4.labirint.ru/rc/13430f73546c13906d8950587ed09994/594x918/books83/825998/cover.jpg?1638458707"
+            "img": "https://s1.livelib.ru/boocover/1006855729/o/b650/Duglas_Styuart__Shaggi_Bejn.jpeg"
         },
         {
             "author": "Хейзел Прайор",
@@ -11107,7 +11146,7 @@
             "price": "347",
             "publisher": "АСТ",
             "shelf": "ast miracle 2022",
-            "img": "https://cdn.book24.ru/v2/ASE000000000859846/COVER/cover13d__w410.webp"
+            "img": "https://s1.livelib.ru/boocover/1006969126/o/41d7/Dzhon_Ajronmonger__Kit_na_krayu_sveta.jpeg"
         },
         {
             "author": "Татьяна Хабенская",
@@ -11161,8 +11200,10 @@
             "author": "Эбби Дэвис",
             "book": "Культ",
             "year": "2022",
+            "buyDate": "3/21/22",
+            "price": "334",
             "publisher": "АСТ",
-            "shelf": "ast puzzle wishlist new 2022",
+            "shelf": "ast puzzle 2022",
             "img": "https://cdn.book24.ru/v2/ASE000000000861831/COVER/cover13d__w410.webp"
         },
         {
@@ -11235,7 +11276,7 @@
             "author": "Джастин Девитт",
             "book": "Пациент",
             "year": "2022",
-            "buyDate": "3/19/22",
+            "buyDate": "3/31/22",
             "price": "309",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
@@ -11248,6 +11289,30 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria wishlist new 2022",
             "img": "https://s1.livelib.ru/boocover/1003469864/o/df5e/Natali_Deniels__Kukushka.jpeg"
+        },
+        {
+            "author": "Мартин Маделин",
+            "book": "Последняя книжная лавка в Лондоне",
+            "year": "2022",
+            "buyDate": "3/21/22",
+            "price": "317",
+            "publisher": "АСТ",
+            "shelf": "ast bookstore 2022",
+            "img": "https://s1.livelib.ru/boocover/1007022082/o/c159/Madelin_Martin__Poslednyaya_knizhnaya_lavka_v_Londone.jpeg"
+        },
+        {
+            "author": "Джулия Келли",
+            "book": "Последний сад Англии",
+            "year": "2022",
+            "shelf": "wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000860117/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Элиф Шафак",
+            "book": "10 минут 38 секунд в этом странном мире",
+            "year": "2020",
+            "shelf": "wishlist 2020",
+            "img": "https://cdn.azbooka.ru/cv/w1100/fca94a94-5372-4c7a-a470-ef8695a03fdd.jpg"
         },
         {
             "author": "Ричард Руссо",
@@ -11291,26 +11356,6 @@
             "year": "2022",
             "shelf": "harmel wishlist new 2022",
             "img": "https://s1.livelib.ru/boocover/1007028469/o/fbb6/Kristin_Harmel__Kniga_utrachennyh_imen.jpeg"
-        },
-        {
-            "author": "Мартин Маделин",
-            "book": "Последняя книжная лавка в Лондоне",
-            "year": "2022",
-            "shelf": "bookstore wishlist new 2022",
-            "img": "https://s1.livelib.ru/boocover/1007022082/o/c159/Madelin_Martin__Poslednyaya_knizhnaya_lavka_v_Londone.jpeg"
-        },
-        {
-            "author": "Джулия Келли",
-            "book": "Последний сад Англии",
-            "year": "2022",
-            "shelf": "wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000860117/COVER/cover1__w600.jpg"
-        },
-        {
-            "author": "Элиф Шафак",
-            "book": "10 минут 38 секунд в этом странном мире",
-            "shelf": "wishlist new",
-            "img": "https://cdn.azbooka.ru/cv/w1100/fca94a94-5372-4c7a-a470-ef8695a03fdd.jpg"
         },
         {
             "author": "Карина Ян Глейзер",
@@ -11686,7 +11731,7 @@
             "book": "Пост",
             "year": "2021",
             "readDate": "10/28/21",
-            "shelf": "gluhovsky wishlist",
+            "shelf": "gluhovsky wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1006760761/o/7ff2/Dmitrij_Gluhovskij__Post.jpeg"
         },
         {
