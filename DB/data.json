@@ -2024,6 +2024,7 @@
             "book": "От первого лица",
             "year": "2022",
             "buyDate": "3/4/22",
+            "readDate": "3/23/22",
             "price": "390",
             "publisher": "Эксмо",
             "shelf": "haruki-murakami eksmo 2022",
@@ -9196,7 +9197,7 @@
             "book": "Сознание как инстинкт. Загадки мозга: откуда берется психика",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus gazzaniga wishlist new 2022",
+            "shelf": "corpus politeh gazzaniga wishlist new 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000853259/COVER/cover1__w600.jpg"
         },
         {
@@ -9543,6 +9544,14 @@
             "publisher": "Синдбад",
             "shelf": "goncur sindbad slimani",
             "img": "https://s1.livelib.ru/boocover/1002805865/o/c871/Lejla_Slimani__Idealnaya_nyanya.jpeg"
+        },
+        {
+            "author": "Лейла Слимани",
+            "book": "Адель",
+            "year": "2020",
+            "publisher": "Синдбад",
+            "shelf": "goncur sindbad wishlist slimani",
+            "img": "https://s1.livelib.ru/boocover/1005543382/o/c47f/Lejla_Slimani__Adel.jpeg"
         },
         {
             "author": "Ханна Кент",
