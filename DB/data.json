@@ -8197,8 +8197,16 @@
             "readDate": "12/1/20",
             "price": "383",
             "publisher": "Corpus",
-            "shelf": "corpus prison 2020",
+            "shelf": "corpus kira prison 2020",
             "img": "https://www.corpus.ru/picts/products/cover1-yarnysh.jpg"
+        },
+        {
+            "author": "Кира Ярмыш",
+            "book": "Харассмент",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus kira wishlist new 2022",
+            "img": "https://www.corpus.ru/picts/products/YARMYSH-1000-sm.jpg"
         },
         {
             "id": "609",
@@ -9057,7 +9065,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus slimani wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000855128/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-kiparisy.jpg"
         },
         {
             "id": "702",
@@ -9066,7 +9074,15 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000852346/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-fungus.jpg"
+        },
+        {
+            "id": "711",
+            "author": "Р. С. Шеррифф",
+            "book": "Две недели в сентябре",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist new 2022"
         },
         {
             "author": "Михаил Фишман",
@@ -9074,7 +9090,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus nemcov wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000853782/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/Fishman-1000-small.jpg"
         },
         {
             "author": "Владимир Бабков",
@@ -9398,6 +9414,14 @@
             "publisher": "Иностранка",
             "shelf": "kolgan inostranka 2021",
             "img": "https://s1.livelib.ru/boocover/1006858030/o/ffc7/Dzhenni_Kolgan__Rozhdestvo_na_ostrove_sbornik.jpeg"
+        },
+        {
+            "author": "Дженни Колган",
+            "book": "Маленькая пекарня у моря",
+            "year": "2022",
+            "publisher": "Иностранка",
+            "shelf": "kolgan inostranka wishlist new 2022",
+            "img": "https://sun9-17.userapi.com/impg/usApFYE4renG5pYiXju0M2KR4vI3aOMIyibVeg/LTl19AH-79g.jpg?size=697x1080&quality=95&sign=1edfcc39b9f4a754f8391e05edc55877&type=album"
         },
         {
             "author": "Билл Сэмюэл",
@@ -10954,6 +10978,7 @@
             "book": "Bromance. Все секреты книжного клуба",
             "year": "2021",
             "buyDate": "12/15/21",
+            "readDate": "3/29/22",
             "price": "343",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria bromance kei-adams 2021",
@@ -10976,6 +11001,13 @@
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria bromance kei-adams wishlist new 2022",
             "img": "https://images.squarespace-cdn.com/content/v1/5598157ae4b0eb5f83814c0c/1627610730554-1MUQE8WNFWQ4J9H7PNAQ/Isn%27t+It+Bromantic.png"
+        },
+        {
+            "author": "Лисса Кей Адамс",
+            "book": "Bromance - 5",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "bookstore eksmo inspiria bromance kei-adams wishlist new 2022"
         },
         {
             "author": "Натали Дженнер",
@@ -11156,6 +11188,14 @@
             "publisher": "АСТ",
             "shelf": "ast miracle 2022",
             "img": "https://s1.livelib.ru/boocover/1006969126/o/41d7/Dzhon_Ajronmonger__Kit_na_krayu_sveta.jpeg"
+        },
+        {
+            "author": "Эйлин Гарвин",
+            "book": "Музыка пчел",
+            "year": "2022",
+            "publisher": "АСТ",
+            "shelf": "ast miracle wishlist new 2022",
+            "img": "https://cdn.book24.ru/v2/ASE000000000862000/COVER/cover13d__w410.webp"
         },
         {
             "author": "Татьяна Хабенская",
