@@ -1441,7 +1441,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "martin-lugand corpus happy wishlist new 2022",
-            "img": "https://cdn.book24.ru/v2/ASE000000000858370/COVER/cover13d__w410.webp"
+            "img": "https://www.corpus.ru/picts/products/cover1-lugan-dacha.jpg"
         },
         {
             "id": "n",
@@ -8750,7 +8750,7 @@
             "readDate": "10/20/21",
             "price": "270",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus discovery",
             "img": "https://www.corpus.ru/picts/products/Williams-Stoner-1000-1.jpg"
         },
         {
@@ -9082,7 +9082,8 @@
             "book": "Две недели в сентябре",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new 2022"
+            "shelf": "corpus discovery wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000858322/COVER/cover1__w600.jpg"
         },
         {
             "author": "Михаил Фишман",
@@ -9098,7 +9099,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000863409/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-babkov-perevod.jpg"
         },
         {
             "author": "Дженнифер Сэйнт",
@@ -9122,6 +9123,24 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist new 2022"
+        },
+        {
+            "id": "425",
+            "author": "Уоллес Стегнер",
+            "book": "Останется при мне",
+            "year": "2017",
+            "publisher": "Corpus",
+            "shelf": "corpus discovery wishlist",
+            "img": "https://www.corpus.ru/picts/products/Stegner-Ostanetsya-1000.jpg"
+        },
+        {
+            "id": "652",
+            "author": "Симона де Бовуар",
+            "book": "Неразлучные",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus discovery wishlist 2021",
+            "img": "https://www.corpus.ru/picts/products/cover1-nerazluchnye.jpg"
         },
         {
             "id": "n",
@@ -9214,7 +9233,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus politeh gazzaniga wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000853259/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-soznanie-kak-instinlt.jpg"
         },
         {
             "author": "Сьюзан Хокфилд",
@@ -10071,7 +10090,16 @@
             "book": "Снова надейся. Книга 4",
             "year": "2022",
             "publisher": "Like Book",
-            "shelf": "like-book kasten wishlist new 2022"
+            "shelf": "like-book kasten wishlist new 2022",
+            "img": "https://s1.livelib.ru/boocover/1004656033/o/61b7/Mona_Kasten__Snova_nadejsya.jpeg"
+        },
+        {
+            "author": "Мона Кастен",
+            "book": "Dream Again",
+            "year": "2022",
+            "publisher": "Like Book",
+            "shelf": "like-book kasten wishlist new 2022",
+            "img": "https://s1.livelib.ru/boocover/1004658820/200x305/c980/boocover.jpg"
         },
         {
             "author": "Мона Кастен",
@@ -10553,6 +10581,14 @@
             "img": "https://s1.livelib.ru/boocover/1006141915/o/8d82/Soren_Svejstrup__Kashtanovyj_chelovechek.jpeg"
         },
         {
+            "author": "Рагнар Йонассон",
+            "book": "Снежная слепота",
+            "year": "2021",
+            "publisher": "Азбука",
+            "shelf": "wishlist",
+            "img": "https://s1.livelib.ru/boocover/1007034787/o/2ea3/Ragnar_Jonasson__Snezhnaya_slepota.jpeg"
+        },
+        {
             "author": "Джо Байден",
             "book": "Сдержать обещания. В жизни и политике",
             "year": "2021",
@@ -10989,6 +11025,7 @@
             "book": "Bromance. Книжный клуб спешит на помощь",
             "year": "2022",
             "buyDate": "3/12/22",
+            "readDate": "4/4/22",
             "price": "312",
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria bromance kei-adams 2022",
@@ -11123,7 +11160,7 @@
             "author": "Линда Кейр",
             "book": "Темное озеро",
             "year": "2022",
-            "buyDate": "4/9/22",
+            "buyDate": "4/15/22",
             "price": "345",
             "publisher": "Эксмо",
             "shelf": "eksmo white 2022",
@@ -11325,7 +11362,7 @@
             "author": "Джастин Девитт",
             "book": "Пациент",
             "year": "2022",
-            "buyDate": "3/31/22",
+            "buyDate": "4/5/22",
             "price": "309",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
@@ -11364,22 +11401,58 @@
             "img": "https://cdn.azbooka.ru/cv/w1100/fca94a94-5372-4c7a-a470-ef8695a03fdd.jpg"
         },
         {
+            "author": "Оса Эриксдоттер",
+            "book": "Бойня",
+            "year": "2021",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-press wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006082941/o/e563/Osa_Eriksdotter__Bojnya.jpeg"
+        },
+        {
             "author": "Ричард Руссо",
             "book": "Непосредственный человек",
-            "shelf": "russo wishlist",
+            "publisher": "Фантом Пресс",
+            "shelf": "russo fantom-press wishlist",
             "img": "https://s1.livelib.ru/boocover/1005249535/o/4865/Richard_Russo__Neposredstvennyj_chelovek.jpeg"
         },
         {
             "author": "Ричард Руссо",
             "book": "Эмпайр Фоллз",
-            "shelf": "russo wishlist",
+            "publisher": "Фантом Пресс",
+            "shelf": "russo fantom-press wishlist",
             "img": "https://s1.livelib.ru/boocover/1002908550/o/1acf/Richard_Russo__Empajr_Follz.jpeg"
         },
         {
             "author": "Ричард Руссо",
             "book": "Шансы есть...",
-            "shelf": "russo wishlist",
+            "publisher": "Фантом Пресс",
+            "shelf": "russo fantom-press wishlist",
             "img": "https://s1.livelib.ru/boocover/1005638782/o/8d16/Richard_Russo__Shansy_est....jpeg"
+        },
+        {
+            "author": "Карен М. Макманус",
+            "book": "Один из нас лжет",
+            "shelf": "makmanus wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006898482/o/a63e/Karen_M._Makmanus__Odin_iz_nas_lzhjot.jpeg"
+        },
+        {
+            "author": "Карен М. Макманус",
+            "book": "Двое могут хранить секрет",
+            "shelf": "makmanus wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002974853/o/b04e/Karen_M._Makmanus__Dvoe_mogut_hranit_sekret.jpeg"
+        },
+        {
+            "author": "Карен М. Макманус",
+            "book": "Один из нас - следующий",
+            "shelf": "makmanus wishlist",
+            "img": "https://s1.livelib.ru/boocover/1007119885/o/1fdb/Karen_M._Makmanus__Odin_iz_nas__sleduyuschij.jpeg"
+        },
+        {
+            "author": "Карен М. Макманус",
+            "book": "Кузены",
+            "year": "2021",
+            "shelf": "makmanus wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006787407/o/7dfe/Karen_M._Makmanus__Kuzeny.jpeg"
         },
         {
             "author": "Кристин Хармель",
