@@ -941,6 +941,15 @@
             "img": "https://www.corpus.ru/picts/products/Popravki-1000.jpg"
         },
         {
+            "id": "712",
+            "author": "Джонатан Франзен",
+            "book": "Поправки",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "franzen corpus wishlist new 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-popravki-new.jpg"
+        },
+        {
             "id": "252",
             "author": "Джонатан Франзен",
             "book": "Дальний остров",
@@ -6716,6 +6725,15 @@
             "img": "https://s1.livelib.ru/boocover/1002591684/o/900b/David_Fonkinos__Tajna_Anri_Pika.jpeg"
         },
         {
+            "author": "Давид Фонкинос",
+            "book": "Семья как семья",
+            "year": "2022",
+            "buyDate": "4/14/22",
+            "price": "330",
+            "shelf": "fonkinos 2022",
+            "img": "https://cdn.azbooka.ru/cv/w1100/21689978-8494-44c2-a66c-3ccb5bc20362.jpg"
+        },
+        {
             "id": "27",
             "author": "Арнальд Индридасон",
             "book": "Трясина",
@@ -10584,6 +10602,7 @@
             "author": "Рагнар Йонассон",
             "book": "Снежная слепота",
             "year": "2021",
+            "readDate": "4/6/22",
             "publisher": "Азбука",
             "shelf": "wishlist",
             "img": "https://s1.livelib.ru/boocover/1007034787/o/2ea3/Ragnar_Jonasson__Snezhnaya_slepota.jpeg"
@@ -11363,6 +11382,7 @@
             "book": "Пациент",
             "year": "2022",
             "buyDate": "4/5/22",
+            "readDate": "4/8/22",
             "price": "309",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
@@ -11390,7 +11410,8 @@
             "author": "Джулия Келли",
             "book": "Последний сад Англии",
             "year": "2022",
-            "shelf": "wishlist new 2022",
+            "publisher": "АСТ",
+            "shelf": "ast wishlist new 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000860117/COVER/cover1__w600.jpg"
         },
         {
