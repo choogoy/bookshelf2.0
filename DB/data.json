@@ -632,8 +632,10 @@
             "author": "Владимир Набоков",
             "book": "Волшебник. Solus Rex",
             "year": "2022",
+            "buyDate": "4/10/22",
+            "price": "387",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new 2022",
+            "shelf": "corpus nabokov 2022",
             "img": "https://www.corpus.ru/picts/products/Nabokov-Volshebnik-1000.jpg"
         },
         {
@@ -984,8 +986,10 @@
             "author": "Джонатан Франзен",
             "book": "Перекрестки",
             "year": "2022",
+            "buyDate": "4/20/22",
+            "price": "743",
             "publisher": "Corpus",
-            "shelf": "franzen corpus wishlist new 2022",
+            "shelf": "franzen corpus 2022",
             "img": "https://www.corpus.ru/picts/products/cover-franzen-small.jpg"
         },
         {
@@ -1448,8 +1452,10 @@
             "author": "Аньес Мартен-Люган",
             "book": "Отель «Дача»",
             "year": "2022",
+            "buyDate": "5/10/22",
+            "price": "405",
             "publisher": "Corpus",
-            "shelf": "martin-lugand corpus happy wishlist new 2022",
+            "shelf": "martin-lugand corpus happy 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-lugan-dacha.jpg"
         },
         {
@@ -8222,8 +8228,10 @@
             "author": "Кира Ярмыш",
             "book": "Харассмент",
             "year": "2022",
+            "buyDate": "4/30/22",
+            "price": "537",
             "publisher": "Corpus",
-            "shelf": "corpus kira wishlist new 2022",
+            "shelf": "corpus kira 2022",
             "img": "https://www.corpus.ru/picts/products/YARMYSH-1000-sm.jpg"
         },
         {
@@ -9081,8 +9089,10 @@
             "author": "Лейла Слимани",
             "book": "Страна других. Книга 1. Рождество под кипарисами",
             "year": "2022",
+            "buyDate": "4/30/22",
+            "price": "636",
             "publisher": "Corpus",
-            "shelf": "corpus slimani wishlist new 2022",
+            "shelf": "corpus slimani 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-kiparisy.jpg"
         },
         {
@@ -9090,8 +9100,10 @@
             "author": "Альберт Санчес Пиньоль",
             "book": "Фунгус",
             "year": "2022",
+            "buyDate": "4/30/22",
+            "price": "716",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new 2022",
+            "shelf": "corpus 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-fungus.jpg"
         },
         {
@@ -9101,22 +9113,26 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus discovery wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000858322/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-nedeli-sentyabre.jpg"
         },
         {
             "author": "Михаил Фишман",
             "book": "Преемник. История Бориса Немцова и страны, в которой он не стал президентом",
             "year": "2022",
+            "buyDate": "4/30/22",
+            "price": "1163",
             "publisher": "Corpus",
-            "shelf": "corpus nemcov wishlist new 2022",
+            "shelf": "corpus nemcov 2022",
             "img": "https://www.corpus.ru/picts/products/Fishman-1000-small.jpg"
         },
         {
             "author": "Владимир Бабков",
             "book": "Игра слов. Практика и идеология художественного перевода",
             "year": "2022",
+            "buyDate": "4/30/22",
+            "price": "537",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new 2022",
+            "shelf": "corpus 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-babkov-perevod.jpg"
         },
         {
@@ -9249,8 +9265,10 @@
             "author": "Майкл Газзанига",
             "book": "Сознание как инстинкт. Загадки мозга: откуда берется психика",
             "year": "2022",
+            "buyDate": "4/30/22",
+            "price": "716",
             "publisher": "Corpus",
-            "shelf": "corpus politeh gazzaniga wishlist new 2022",
+            "shelf": "corpus politeh gazzaniga 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-soznanie-kak-instinlt.jpg"
         },
         {
@@ -10844,6 +10862,16 @@
             "img": "https://s1.livelib.ru/boocover/1006926346/o/c980/__Will._Chemu_mozhet_nauchit_nas_prostoj_paren_stavshij_samym_vysokooplachivaemy.jpeg"
         },
         {
+            "author": "Роберт Колкер",
+            "book": "Что-то не так с Гэлвинами. Идеальная семья, разрушенная безумием",
+            "year": "2021",
+            "buyDate": "4/10/22",
+            "price": "421",
+            "publisher": "Бомбора",
+            "shelf": "bombora 2021",
+            "img": "https://s1.livelib.ru/boocover/1006266070/o/1de5/Robert_Kolker__Chtoto_ne_tak_s_Gelvinami._Idealnaya_semya_razrushennaya_bezumiem.jpeg"
+        },
+        {
             "author": "Майкл Керриган",
             "book": "Взламывая код «Энигмы»",
             "year": "2021",
@@ -11179,7 +11207,7 @@
             "author": "Линда Кейр",
             "book": "Темное озеро",
             "year": "2022",
-            "buyDate": "4/15/22",
+            "buyDate": "4/29/22",
             "price": "345",
             "publisher": "Эксмо",
             "shelf": "eksmo white 2022",
@@ -11425,8 +11453,10 @@
             "author": "Оса Эриксдоттер",
             "book": "Бойня",
             "year": "2021",
+            "buyDate": "4/10/22",
+            "price": "498",
             "publisher": "Фантом Пресс",
-            "shelf": "fantom-press wishlist 2021",
+            "shelf": "fantom-press 2021",
             "img": "https://s1.livelib.ru/boocover/1006082941/o/e563/Osa_Eriksdotter__Bojnya.jpeg"
         },
         {
