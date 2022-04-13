@@ -4920,6 +4920,15 @@
             "img": "https://s1.livelib.ru/boocover/1002574235/o/0bd8/Mett_Hejg__Vlyubitsya_v_zhizn._Kak_nauchitsya_zhit_snova_kogda_ty_pochti_unichto.jpeg"
         },
         {
+            "author": "Мэтт Хейг",
+            "book": "Комфортная книга",
+            "year": "2022",
+            "buyDate": "4/19/22",
+            "price": "508",
+            "shelf": "heig 2022",
+            "img": "https://s1.livelib.ru/boocover/1007126536/o/66bf/Mett_Hejg__Komfortnaya_kniga.jpeg"
+        },
+        {
             "author": "Кэтти Гласс",
             "book": "Будь моей мамой",
             "img": "https://s1.livelib.ru/boocover/1000457348/o/023f/Keti_Glass__Bud_moej_mamoj._Iskalechennoe_detstvo.jpeg"
@@ -6699,6 +6708,7 @@
             "book": "Две сестры",
             "buyDate": "12/24/20",
             "price": "279",
+            "publisher": "Азбука",
             "shelf": "fonkinos",
             "img": "https://img-gorod.ru/27/859/2785911_detail.jpg"
         },
@@ -6707,6 +6717,7 @@
             "book": "В погоне за красотой",
             "buyDate": "12/21/20",
             "price": "218.68",
+            "publisher": "Азбука",
             "shelf": "fonkinos",
             "img": "https://cdn1.ozone.ru/multimedia/wc1200/1029313981.jpg"
         },
@@ -6736,6 +6747,7 @@
             "year": "2022",
             "buyDate": "4/14/22",
             "price": "330",
+            "publisher": "Азбука",
             "shelf": "fonkinos 2022",
             "img": "https://cdn.azbooka.ru/cv/w1100/21689978-8494-44c2-a66c-3ccb5bc20362.jpg"
         },
