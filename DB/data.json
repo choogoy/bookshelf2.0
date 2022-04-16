@@ -986,7 +986,7 @@
             "author": "Джонатан Франзен",
             "book": "Перекрестки",
             "year": "2022",
-            "buyDate": "4/20/22",
+            "buyDate": "4/16/22",
             "price": "743",
             "publisher": "Corpus",
             "shelf": "franzen corpus 2022",
@@ -3472,7 +3472,9 @@
             "author": "Чак Паланик",
             "book": "Рождение звука",
             "year": "2022",
-            "shelf": "palanik wishlist new 2022",
+            "buyDate": "4/17/22",
+            "price": "332",
+            "shelf": "palanik 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000861539/COVER/cover1__w600.jpg"
         },
         {
@@ -3993,7 +3995,9 @@
             "author": "Дмитрий Быков",
             "book": "Литература с Дмитрием Быковым",
             "year": "2022",
-            "shelf": "education wishlist new 2022",
+            "buyDate": "4/17/22",
+            "price": "332",
+            "shelf": "education 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000857180/COVER/cover1__w600.jpg"
         },
         {
@@ -4925,7 +4929,8 @@
             "year": "2022",
             "buyDate": "4/19/22",
             "price": "508",
-            "shelf": "heig 2022",
+            "publisher": "Livebook",
+            "shelf": "heig livebook 2022",
             "img": "https://s1.livelib.ru/boocover/1007126536/o/66bf/Mett_Hejg__Komfortnaya_kniga.jpeg"
         },
         {
@@ -6745,7 +6750,7 @@
             "author": "Давид Фонкинос",
             "book": "Семья как семья",
             "year": "2022",
-            "buyDate": "4/14/22",
+            "buyDate": "4/13/22",
             "price": "330",
             "publisher": "Азбука",
             "shelf": "fonkinos 2022",
@@ -7841,7 +7846,7 @@
             "author": "Джарон Ланир",
             "book": "Вы не гаджет. Манифест",
             "year": "2011",
-            "buyDate": "4/14/22",
+            "buyDate": "4/15/22",
             "price": "309",
             "publisher": "Corpus",
             "shelf": "corpus",
@@ -10168,7 +10173,7 @@
             "book": "Снова надейся. Книга 4",
             "year": "2022",
             "buyDate": "5/31/22",
-            "price": "449",
+            "price": "371",
             "publisher": "Like Book",
             "shelf": "like-book kasten 2022",
             "img": "https://s1.livelib.ru/boocover/1004656033/o/61b7/Mona_Kasten__Snova_nadejsya.jpeg"
@@ -10292,7 +10297,7 @@
             "book": "Библиотека последней надежды",
             "year": "2022",
             "shelf": "eksmo inspiria bookstore new wishlist 2022",
-            "img": "https://www.mytalk1071.com/wp-content/uploads/2021/09/lasr-chance.jpg"
+            "img": "https://cdn.book24.ru/v2/ITD000000001143051/COVER/cover13d__w410.webp"
         },
         {
             "author": "Эли Макнамара",
@@ -11058,7 +11063,7 @@
             "book": "Лето злых духов убумэ",
             "year": "2022",
             "buyDate": "4/30/22",
-            "price": "420",
+            "price": "365",
             "publisher": "Эксмо",
             "shelf": "eksmo japan inspiria 2022",
             "img": "https://s1.livelib.ru/boocover/1007122870/o/be37/Natsuhiko_Kjogoku__Leto_zlyh_duhov_ubume.jpeg"
@@ -11088,7 +11093,7 @@
             "buyDate": "10/11/21",
             "price": "437",
             "publisher": "Livebook",
-            "shelf": "shipnigov 2021",
+            "shelf": "shipnigov livebook 2021",
             "img": "https://s1.livelib.ru/boocover/1006268077/o/4e6e/Ivan_Shipnigov__Strim.jpeg"
         },
         {
@@ -11463,6 +11468,39 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
             "img": "https://cdn.book24.ru/v2/ITD000000001250977/COVER/cover13d__w410.webp"
+        },
+        {
+            "author": "Тереза Дрисколл",
+            "book": "Я слежу за тобой",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002971221/o/d22a/Tereza_Driskoll__Ya_slezhu_za_toboj.jpeg"
+        },
+        {
+            "author": "Тереза Дрисколл",
+            "book": "Это не сон",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist",
+            "img": "https://s1.livelib.ru/boocover/1003172015/o/4be0/Tereza_Driskoll__Eto_ne_son.jpeg"
+        },
+        {
+            "author": "Тереза Дрисколл",
+            "book": "До самой смерти",
+            "year": "2022",
+            "buyDate": "5/31/22",
+            "price": "294",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria 2022",
+            "img": "https://s1.livelib.ru/boocover/1007166733/o/4440/Tereza_Driskoll__Do_samoj_smerti.jpeg"
+        },
+        {
+            "author": "Лора Дэйв",
+            "book": "Последнее, что он сказал мне",
+            "year": "2022",
+            "buyDate": "4/30/22",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria 2022",
+            "img": "https://s1.livelib.ru/boocover/1007280886/o/27fd/Laura_Dejv__Poslednee_chto_on_skazal_mne.jpeg"
         },
         {
             "author": "Натали Дэниелс",
