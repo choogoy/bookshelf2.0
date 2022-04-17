@@ -3388,7 +3388,8 @@
             "year": "2010",
             "buyDate": "8/22/12",
             "price": "285",
-            "shelf": "palanik",
+            "publisher": "АСТ",
+            "shelf": "ast palanik",
             "img": "https://s1.livelib.ru/boocover/1000536140/o/ddf7/Chak_Palanik__Kto_vse_rasskazhet.jpeg"
         },
         {
@@ -3397,7 +3398,8 @@
             "year": "2011",
             "buyDate": "7/10/14",
             "price": "302",
-            "shelf": "palanik",
+            "publisher": "АСТ",
+            "shelf": "ast palanik",
             "img": "https://s1.livelib.ru/boocover/1000613859/o/0436/Chak_Palanik__Proklyatye.jpeg"
         },
         {
@@ -3406,7 +3408,8 @@
             "year": "2013",
             "buyDate": "9/18/14",
             "price": "273",
-            "shelf": "palanik",
+            "publisher": "АСТ",
+            "shelf": "ast palanik",
             "img": "https://s1.livelib.ru/boocover/1001496629/o/a6a3/Chak_Palanik__Obrechennye.jpeg"
         },
         {
@@ -3415,21 +3418,24 @@
             "year": "2015",
             "buyDate": "6/17/15",
             "price": "279",
-            "shelf": "palanik",
+            "publisher": "АСТ",
+            "shelf": "ast palanik",
             "img": "https://cdn.ast.ru/v2/ASE000000000724240/COVER/cover1__w600.jpg"
         },
         {
             "author": "Чак Паланик",
             "book": "Сочини что-нибудь",
             "year": "2016",
-            "shelf": "palanik",
+            "publisher": "АСТ",
+            "shelf": "ast palanik",
             "img": "https://cdn.ast.ru/v2/ASE000000000830352/COVER/cover1__w600.jpg"
         },
         {
             "author": "Чак Паланик",
             "book": "Обежженные языки",
             "year": "2016",
-            "shelf": "palanik",
+            "publisher": "АСТ",
+            "shelf": "ast palanik",
             "img": "https://cdn.ast.ru/v2/ASE000000000826751/COVER/cover1__w600.jpg"
         },
         {
@@ -3438,7 +3444,8 @@
             "year": "2017",
             "buyDate": "12/27/17",
             "price": "271",
-            "shelf": "palanik",
+            "publisher": "АСТ",
+            "shelf": "ast palanik",
             "img": "https://cdn.ast.ru/v2/ASE000000000827005/COVER/cover1__w600.jpg"
         },
         {
@@ -3447,7 +3454,8 @@
             "year": "2018",
             "buyDate": "10/21/18",
             "price": "307",
-            "shelf": "palanik",
+            "publisher": "АСТ",
+            "shelf": "ast palanik",
             "img": "https://cdn.ast.ru/v2/ASE000000000835002/COVER/cover1__w600.jpg"
         },
         {
@@ -3456,7 +3464,8 @@
             "year": "2019",
             "buyDate": "2/25/19",
             "price": "295",
-            "shelf": "palanik",
+            "publisher": "АСТ",
+            "shelf": "ast palanik",
             "img": "https://cdn.ast.ru/v2/ASE000000000849040/COVER/cover1__w600.jpg"
         },
         {
@@ -3465,7 +3474,8 @@
             "year": "2020",
             "buyDate": "12/23/20",
             "price": "369",
-            "shelf": "palanik",
+            "publisher": "АСТ",
+            "shelf": "ast palanik",
             "img": "https://cdn.ast.ru/v2/ASE000000000853484/COVER/cover1__w600.jpg"
         },
         {
@@ -3473,8 +3483,10 @@
             "book": "Рождение звука",
             "year": "2022",
             "buyDate": "4/17/22",
+            "readDate": "4/17/22",
             "price": "332",
-            "shelf": "palanik 2022",
+            "publisher": "АСТ",
+            "shelf": "ast palanik 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000861539/COVER/cover1__w600.jpg"
         },
         {
@@ -11453,6 +11465,7 @@
             "book": "Вниз по кроличьей норе",
             "year": "2022",
             "buyDate": "2/19/22",
+            "readDate": "4/17/22",
             "price": "323",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
@@ -11498,6 +11511,7 @@
             "book": "Последнее, что он сказал мне",
             "year": "2022",
             "buyDate": "4/30/22",
+            "price": "325",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
             "img": "https://s1.livelib.ru/boocover/1007280886/o/27fd/Laura_Dejv__Poslednee_chto_on_skazal_mne.jpeg"
