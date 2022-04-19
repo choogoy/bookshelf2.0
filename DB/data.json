@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "id": "255",
@@ -636,7 +636,7 @@
             "price": "387",
             "publisher": "Corpus",
             "shelf": "corpus nabokov 2022",
-            "img": "https://www.corpus.ru/picts/products/Nabokov-Volshebnik-1000.jpg"
+            "img": "https://www.corpus.ru/picts/products/nabokov-volshebnik-1000.jpeg"
         },
         {
             "author": "Владимир Набоков",
@@ -1456,7 +1456,7 @@
             "price": "398",
             "publisher": "Corpus",
             "shelf": "martin-lugand corpus happy 2022",
-            "img": "https://www.corpus.ru/picts/products/cover1-lugan-dacha.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-lugan-dacha.jpeg"
         },
         {
             "id": "n",
@@ -4939,7 +4939,7 @@
             "author": "Мэтт Хейг",
             "book": "Комфортная книга",
             "year": "2022",
-            "buyDate": "4/19/22",
+            "buyDate": "4/18/22",
             "price": "508",
             "publisher": "Livebook",
             "shelf": "heig livebook 2022",
@@ -8283,7 +8283,7 @@
             "price": "527",
             "publisher": "Corpus",
             "shelf": "corpus kira 2022",
-            "img": "https://www.corpus.ru/picts/products/YARMYSH-1000-sm.jpg"
+            "img": "https://www.corpus.ru/picts/products/yarmysh-1000-sm.jpeg"
         },
         {
             "id": "609",
@@ -9132,7 +9132,7 @@
             "price": "624",
             "publisher": "Corpus",
             "shelf": "corpus slimani 2022",
-            "img": "https://www.corpus.ru/picts/products/cover1-kiparisy.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-kiparisy.jpeg"
         },
         {
             "id": "702",
@@ -9143,7 +9143,7 @@
             "price": "703",
             "publisher": "Corpus",
             "shelf": "corpus 2022",
-            "img": "https://www.corpus.ru/picts/products/cover1-fungus.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-fungus.jpeg"
         },
         {
             "author": "Михаил Фишман",
@@ -9153,7 +9153,7 @@
             "price": "1141",
             "publisher": "Corpus",
             "shelf": "corpus nemcov 2022",
-            "img": "https://www.corpus.ru/picts/products/Fishman-1000-small.jpg"
+            "img": "https://www.corpus.ru/picts/products/fishman-1000-small.jpeg"
         },
         {
             "author": "Владимир Бабков",
@@ -9163,7 +9163,7 @@
             "price": "527",
             "publisher": "Corpus",
             "shelf": "corpus 2022",
-            "img": "https://www.corpus.ru/picts/products/cover1-babkov-perevod.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-babkov-perevod.jpeg"
         },
         {
             "author": "Дженнифер Сэйнт",
@@ -9320,7 +9320,7 @@
             "price": "703",
             "publisher": "Corpus",
             "shelf": "corpus politeh gazzaniga 2022",
-            "img": "https://www.corpus.ru/picts/products/cover1-soznanie-kak-instinlt.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-soznanie-kak-instinlt.jpeg"
         },
         {
             "author": "Сьюзан Хокфилд",
@@ -11563,8 +11563,10 @@
             "author": "Нита Проуз",
             "book": "Горничная",
             "year": "2022",
+            "buyDate": "4/25/22",
+            "price": "448",
             "publisher": "Азбука",
-            "shelf": "wishlist new 2022",
+            "shelf": "2022",
             "img": "https://s1.livelib.ru/boocover/1007048176/o/43e4/Nita_Prouz__Gornichnaya.jpeg"
         },
         {
