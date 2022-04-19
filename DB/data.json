@@ -949,7 +949,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "franzen corpus wishlist new 2022",
-            "img": "https://www.corpus.ru/picts/products/cover1-popravki-new.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-popravki-new.jpeg"
         },
         {
             "id": "252",
@@ -9225,7 +9225,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus discovery wishlist new 2022",
-            "img": "https://www.corpus.ru/picts/products/cover1-nedeli-sentyabre.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-nedeli-sentyabre.jpeg"
         },
         {
             "id": "n",
@@ -9376,16 +9376,20 @@
             "author": "Дэвид Линден",
             "book": "Почему люди разные. Научный взгляд на человеческую индивидуальность",
             "year": "2022",
+            "buyDate": "4/25/22",
+            "price": "707",
             "publisher": "Альпина нон-фикшн",
-            "shelf": "politeh alpina wishlist new 2022",
+            "shelf": "politeh alpina 2022",
             "img": "https://alpinabook.ru/resize/1230x1800/upload/iblock/2ba/q2nqmy97m4k8yhzmwiynr1yd2wcw1cih/face_1230px_RGB_BIG%20pochemu%20lyudi%20raznye%20obl%2012%202021.jpg"
         },
         {
             "author": "Михаил Левицкий",
             "book": "Лаборатория химических историй. От электрона до молекулярных машин",
             "year": "2022",
+            "buyDate": "4/25/22",
+            "price": "659",
             "publisher": "Альпина нон-фикшн",
-            "shelf": "politeh alpina wishlist new 2022",
+            "shelf": "politeh alpina 2022",
             "img": "https://alpinabook.ru/resize/1230x1800/upload/iblock/313/c42d2l23u8dpngzg9z9gjaji4ur28ly2/face_1230px_RGB_BIG%20laboratoriya%20himicheskih%20istorij%20obl%2010%202021.jpg"
         },
         {
