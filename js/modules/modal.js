@@ -26,7 +26,7 @@ const modal = data => {
                                         ${author ? `<p>${author}</p>` : ''}
                                         <p><b>${book}</b></p>
                                         ${year ? `<p>Год: ${year}</p>` : ''}
-                                        ${publisher ? `<p>Издательство: ${publisher}${publisher === 'Corpus' ? ` <span>${id != 'n' ? `<b>${id}</b>` : `<img src="https://pbs.twimg.com/profile_images/1082768693/corpus-logo-100x100_reasonably_small.jpg" style="transform: translateY(3px); width: 17px; height: 17px;">`}</ы>` : ''}</p>` : ''}
+                                        ${publisher ? `<p>Издательство: ${publisher}${publisher === 'Corpus' ? ` <span>${id != 'n' ? `<b>${id}</b>` : `<img src="https://yt3.ggpht.com/ytc/AAUvwnhkqspk9or2DLiDh5sqW0ox_pMPntpkoiHcph6w=s100-c-k-c0x00ffffff-no-rj" style="transform: translateY(3px); width: 17px; height: 17px;">`}</ы>` : ''}</p>` : ''}
                                         ${buyDate ? `<p>Дата покупки: ${showDate(buyDate)}</p>` : ''}
                                         ${readDate ? `<p>Прочитано: ${showDate(readDate)}</p>` : ''}
                                         ${price ? `<p>Цена: ${price} ₽</p>` : ''}
