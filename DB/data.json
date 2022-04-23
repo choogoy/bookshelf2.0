@@ -1,4 +1,4 @@
-﻿{
+{
     "books": [
         {
             "id": "255",
@@ -1453,7 +1453,7 @@
             "book": "Отель «Дача»",
             "year": "2022",
             "buyDate": "5/10/22",
-            "price": "398",
+            "price": "383",
             "publisher": "Corpus",
             "shelf": "martin-lugand corpus happy 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-lugan-dacha.jpeg"
@@ -5653,7 +5653,7 @@
             "book": "Фокус. О внимании, рассеянности и жизненном успехе",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus goulman wishlist 2021",
+            "shelf": "corpus goulman scientificum wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-ficus.jpg"
         },
         {
@@ -8126,12 +8126,12 @@
         {
             "id": "441",
             "author": "Эдвард Слингерленд",
-            "book": "И не пытайтесь!",
+            "book": "И не пытайтесь! Древняя мудрость, современная наука и искусство спонтанности",
             "year": "2017",
             "buyDate": "11/4/20",
             "price": "384.66",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus scientificum",
             "img": "https://www.corpus.ru/picts/products/edvard-slingerlend-dazhe-ne-pytajtes.jpg"
         },
         {
@@ -8276,6 +8276,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-yarnysh.jpg"
         },
         {
+            "id": "709",
             "author": "Кира Ярмыш",
             "book": "Харассмент",
             "year": "2022",
@@ -9140,7 +9141,7 @@
             "book": "Фунгус",
             "year": "2022",
             "buyDate": "4/30/22",
-            "price": "703",
+            "price": "676",
             "publisher": "Corpus",
             "shelf": "corpus 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-fungus.jpeg"
@@ -9164,6 +9165,14 @@
             "publisher": "Corpus",
             "shelf": "corpus 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-babkov-perevod.jpeg"
+        },
+        {
+            "author": "Сильвен Прюдом",
+            "book": "По дорогам",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000851938/COVER/cover1__w600.jpg"
         },
         {
             "author": "Дженнифер Сэйнт",
@@ -9228,6 +9237,40 @@
             "img": "https://www.corpus.ru/picts/products/cover1-nedeli-sentyabre.jpeg"
         },
         {
+            "id": "426",
+            "author": "Александра Горовиц",
+            "book": "Смотреть и видеть. Путеводитель по искусству восприяти",
+            "year": "2017",
+            "publisher": "Corpus",
+            "shelf": "corpus scientificum wishlist",
+            "img": "https://cdn.ast.ru/v2/AST000000000164755/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Энтони Дэвид",
+            "book": "Глядя в бездну. Заметки нейропсихиатра о душевных расстройствах",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus scientificum wishlist new 2021",
+            "img": "https://cdn.ast.ru/v2/ASE000000000853264/COVER/cover1__w600.jpg"
+        },
+        {
+            "id": "695",
+            "author": "Шарон Моалем",
+            "book": "Лучшая половина. О генетическом превосходстве женщин",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus scientificum wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000852835/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Азра Раза",
+            "book": "Первая клетка",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus scientificum wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000850419/COVER/cover1__w600.jpg"
+        },
+        {
             "id": "n",
             "author": "Ханна Фрай",
             "book": "Hello World",
@@ -9288,6 +9331,15 @@
             "publisher": "Corpus",
             "shelf": "corpus glik wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-glick-new.jpg"
+        },
+        {
+            "id": "414",
+            "author": "Майкл Газзанига",
+            "book": "Кто за главного? Свобода воли с точки зрения нейробиологии",
+            "year": "2017",
+            "publisher": "Corpus",
+            "shelf": "corpus scientificum gazzaniga wishlist",
+            "img": "https://cdn.ast.ru/v2/AST000000000156527/COVER/cover1__w600.jpg"
         },
         {
             "id": "n",
@@ -11107,6 +11159,7 @@
             "book": "Стрим",
             "year": "2021",
             "buyDate": "10/11/21",
+            "readDate": "4/23/22",
             "price": "437",
             "publisher": "Livebook",
             "shelf": "shipnigov livebook 2021",
