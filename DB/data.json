@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "id": "255",
@@ -4940,6 +4940,7 @@
             "book": "Комфортная книга",
             "year": "2022",
             "buyDate": "4/18/22",
+            "readDate": "4/26/22",
             "price": "508",
             "publisher": "Livebook",
             "shelf": "heig livebook 2022",
@@ -9167,6 +9168,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-babkov-perevod.jpeg"
         },
         {
+            "id": "714",
             "author": "Сильвен Прюдом",
             "book": "По дорогам",
             "year": "2022",
@@ -11288,6 +11290,7 @@
             "book": "Девушка в зеркале",
             "year": "2021",
             "buyDate": "10/16/21",
+            "readDate": "4/24/22",
             "price": "305",
             "publisher": "Эксмо",
             "shelf": "eksmo white 2021",
@@ -11327,7 +11330,7 @@
             "author": "Линда Кейр",
             "book": "Темное озеро",
             "year": "2022",
-            "buyDate": "4/29/22",
+            "buyDate": "5/5/22",
             "price": "345",
             "publisher": "Эксмо",
             "shelf": "eksmo white 2022",
@@ -11568,7 +11571,7 @@
             "author": "Лора Дэйв",
             "book": "Последнее, что он сказал мне",
             "year": "2022",
-            "buyDate": "4/30/22",
+            "buyDate": "5/8/22",
             "price": "325",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
