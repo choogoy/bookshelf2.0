@@ -1,4 +1,4 @@
-﻿{
+{
     "books": [
         {
             "id": "255",
@@ -1452,7 +1452,7 @@
             "author": "Аньес Мартен-Люган",
             "book": "Отель «Дача»",
             "year": "2022",
-            "buyDate": "5/10/22",
+            "buyDate": "4/28/22",
             "price": "383",
             "publisher": "Corpus",
             "shelf": "martin-lugand corpus happy 2022",
@@ -5830,6 +5830,7 @@
             "book": "Минуты будничного счастья",
             "year": "2019",
             "buyDate": "8/7/20",
+            "readDate": "4/27/22",
             "price": "290",
             "publisher": "Corpus",
             "shelf": "pikkolo corpus",
@@ -9141,23 +9142,14 @@
             "author": "Альберт Санчес Пиньоль",
             "book": "Фунгус",
             "year": "2022",
-            "buyDate": "4/30/22",
+            "buyDate": "4/28/22",
             "price": "676",
             "publisher": "Corpus",
             "shelf": "corpus 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-fungus.jpeg"
         },
         {
-            "author": "Михаил Фишман",
-            "book": "Преемник. История Бориса Немцова и страны, в которой он не стал президентом",
-            "year": "2022",
-            "buyDate": "4/26/22",
-            "price": "1132",
-            "publisher": "Corpus",
-            "shelf": "corpus nemcov 2022",
-            "img": "https://www.corpus.ru/picts/products/fishman-1000-small.jpeg"
-        },
-        {
+            "id": "703",
             "author": "Владимир Бабков",
             "book": "Игра слов. Практика и идеология художественного перевода",
             "year": "2022",
@@ -9166,6 +9158,17 @@
             "publisher": "Corpus",
             "shelf": "corpus 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-babkov-perevod.jpeg"
+        },
+        {
+            "id": "706",
+            "author": "Михаил Фишман",
+            "book": "Преемник. История Бориса Немцова и страны, в которой он не стал президентом",
+            "year": "2022",
+            "buyDate": "4/26/22",
+            "price": "1132",
+            "publisher": "Corpus",
+            "shelf": "corpus nemcov 2022",
+            "img": "https://www.corpus.ru/picts/products/fishman-1000-small.jpeg"
         },
         {
             "id": "714",
@@ -10331,7 +10334,7 @@
             "buyDate": "2/19/21",
             "price": "290",
             "publisher": "Эксмо",
-            "shelf": "kaplin eksmo",
+            "shelf": "kaplin eksmo sentimental",
             "img": "https://s1.livelib.ru/boocover/1005067297/o/5d88/Dzhuli_Keplin__Malenkoe_kafe_v_Kopengagene.jpeg"
         },
         {
@@ -10341,8 +10344,17 @@
             "buyDate": "2/19/21",
             "price": "290",
             "publisher": "Эксмо",
-            "shelf": "kaplin eksmo",
+            "shelf": "kaplin eksmo sentimental",
             "img": "https://s1.livelib.ru/boocover/1005067336/o/00c9/Dzhuli_Keplin__Malenkaya_konditerskaya_v_Brukline.jpeg"
+        },
+        {
+            "author": "Джули Кэплин",
+            "book": "Уютная кондитерская в Париже",
+            "year": "2022",
+            "buyDate": "5/31/22",
+            "price": "329",
+            "publisher": "Эксмо",
+            "shelf": "kaplin eksmo sentimental 2022"
         },
         {
             "author": "Хелен Рольф",
@@ -10351,7 +10363,7 @@
             "buyDate": "2/19/21",
             "price": "367",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria rolf",
+            "shelf": "eksmo inspiria rolf sentimental",
             "img": "https://s1.livelib.ru/boocover/1005631348/o/57b2/Helen_Rolf__Malenkoe_kafe_v_kontse_pirsa.jpeg"
         },
         {
@@ -10359,7 +10371,7 @@
             "book": "Библиотека всего на свете",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria rolf bookstore new wishlist 2022",
+            "shelf": "eksmo inspiria rolf bookstore sentimental new wishlist 2022",
             "img": "https://img-gorod.ru/29/057/2905780_detail.jpg"
         },
         {
@@ -10392,7 +10404,7 @@
             "book": "Маленький цветочный магазин у моря",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "maknamara eksmo wishlist new 2022",
+            "shelf": "maknamara eksmo sentimental wishlist new 2022",
             "img": "https://cdn.book24.ru/v2/ITD000000001249943/COVER/cover13d__w410.webp"
         },
         {
@@ -10412,7 +10424,7 @@
             "buyDate": "11/29/21",
             "price": "334",
             "publisher": "Эксмо",
-            "shelf": "maknamara eksmo inspiria 2021",
+            "shelf": "maknamara eksmo inspiria sentimental 2021",
             "img": "https://s1.livelib.ru/boocover/1006890874/o/f8da/Eli_Maknamara__Magazinchik_schastya_Kejt_i_Klary.jpeg"
         },
         {
@@ -10712,7 +10724,7 @@
             "readDate": "9/26/21",
             "price": "304",
             "publisher": "Эксмо",
-            "shelf": "eksmo mihaelides",
+            "shelf": "eksmo mihaelides psycho-thriller",
             "img": "https://s1.livelib.ru/boocover/1005707755/o/28ca/Aleks_Mihaelides__Bezmolvnyj_patsient.jpeg"
         },
         {
@@ -10784,6 +10796,12 @@
             "publisher": "Эксмо",
             "shelf": "eksmo bookstore rina animant-kramb",
             "img": "https://s1.livelib.ru/boocover/1006013569/o/0847/Lin_Rina__Vselennaya_Animant_Kramb._Londonskie_hroniki.jpeg"
+        },
+        {
+            "author": "Лин Рина",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo bookstore rina animant-kramb wishlist new 2022"
         },
         {
             "author": "Эрик Асфог",
@@ -11529,7 +11547,7 @@
             "readDate": "4/17/22",
             "price": "323",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria 2022",
+            "shelf": "eksmo inspiria psycho-thriller 2022",
             "img": "https://s1.livelib.ru/boocover/1007020618/o/a295/Mark_Billingem__Vniz_po_krolichej_nore.jpeg"
         },
         {
@@ -11540,8 +11558,18 @@
             "readDate": "4/8/22",
             "price": "309",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria 2022",
+            "shelf": "eksmo inspiria psycho-thriller 2022",
             "img": "https://cdn.book24.ru/v2/ITD000000001250977/COVER/cover13d__w410.webp"
+        },
+        {
+            "author": "Джефф Родки",
+            "book": "В Линкольнвуде гаснет свет",
+            "year": "2022",
+            "buyDate": "4/30/22",
+            "price": "566",
+            "publisher": "Рипол-Классик",
+            "shelf": "2022",
+            "img": "https://s1.livelib.ru/boocover/1007126842/o/a049/Dzheff_Rodki__V_Linkolnvude_gasnet_svet.jpeg"
         },
         {
             "author": "Тереза Дрисколл",
@@ -11578,12 +11606,108 @@
             "img": "https://s1.livelib.ru/boocover/1007280886/o/27fd/Laura_Dejv__Poslednee_chto_on_skazal_mne.jpeg"
         },
         {
+            "author": "Патриция Локвуд",
+            "book": "О таком не говорят",
+            "year": "2022",
+            "buyDate": "5/31/22",
+            "price": "358",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria 2022",
+            "img": "https://cdn.book24.ru/v2/ITD000000001247654/COVER/cover13d__w410.webp"
+        },
+        {
             "author": "Натали Дэниелс",
             "book": "Кукушка",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria wishlist new 2022",
-            "img": "https://s1.livelib.ru/boocover/1003469864/o/df5e/Natali_Deniels__Kukushka.jpeg"
+            "img": "https://cdn.book24.ru/v2/ITD000000001258550/COVER/cover13d__w410.webp"
+        },
+        {
+            "author": "Джейн Шемилт",
+            "book": "Пациент",
+            "year": "2022",
+            "publisher": "АСТ",
+            "shelf": "ast wishlist new 2022",
+            "img": "https://s1.livelib.ru/boocover/1007069812/o/83eb/Dzhejn_Shemilt__Patsient.jpeg"
+        },
+        {
+            "author": "Майк Омер",
+            "book": "Внутри убийцы",
+            "publisher": "Эксмо",
+            "shelf": "eksmo psycho-thriller wishlist",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000000996146/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Майк Омер",
+            "book": "Заживо в темноте",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria psycho-thriller wishlist",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001107529/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Майк Омер",
+            "book": "Глазами жертвы",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria psycho-thriller wishlist",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001122060/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Майк Омер",
+            "book": "Как ты умрешь",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria psycho-thriller wishlist",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001116337/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Майк Омер",
+            "book": "Сеть смерти",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria psycho-thriller wishlist new 2022"
+        },
+        {
+            "author": "Мэри Бёртон",
+            "book": "Последний ход",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria psycho-thriller wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006257517/o/deba/Meri_Berton__Poslednij_hod.jpeg"
+        },
+        {
+            "author": "Мэри Бёртон",
+            "book": "Последнее испытание",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria psycho-thriller wishlist new 2022",
+            "img": "https://s1.livelib.ru/boocover/1007295721/o/9b14/Meri_Berton__Poslednee_ispytanie.jpeg"
+        },
+        {
+            "author": "Виктор Метос",
+            "book": "Жена убийцы",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria psycho-thriller wishlist",
+            "img": "https://s1.livelib.ru/boocover/1005631360/o/fc15/Viktor_Metos__Zhena_ubijtsy.jpeg"
+        },
+        {
+            "author": "Виктор Метос",
+            "book": "Ночные твари",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria psycho-thriller wishlist",
+            "img": "https://s1.livelib.ru/boocover/1007003302/o/327e/Viktor_Metos__Nochnye_tvari.jpeg"
+        },
+        {
+            "author": "Изабелла Мальдонадо",
+            "book": "Шифр",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria psycho-thriller wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006950412/o/63af/Izabella_Maldonado__Shifr.jpeg"
+        },
+        {
+            "author": "Виктория Селман",
+            "book": "Границы безумия",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria psycho-thriller wishlist",
+            "img": "https://s1.livelib.ru/boocover/1005948088/o/5294/Viktoriya_Selman__Granitsy_bezumiya.jpeg"
         },
         {
             "author": "Мартин Маделин",
@@ -11675,6 +11799,37 @@
             "year": "2021",
             "shelf": "makmanus wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1006787407/o/7dfe/Karen_M._Makmanus__Kuzeny.jpeg"
+        },
+        {
+            "author": "Дэниел Киз",
+            "book": "Элджернон, Чарли и я",
+            "shelf": "kiz wishlist",
+            "img": "https://s1.livelib.ru/boocover/1005622468/o/6d97/Deniel_Kiz__Eldzhernon_Charli_i_ya.jpeg"
+        },
+        {
+            "author": "Дэниел Киз",
+            "book": "Разоблачение Клаудии",
+            "shelf": "kiz wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006118680/o/4d74/Deniel_Kiz__Razoblachenie_Klaudii.jpeg"
+        },
+        {
+            "author": "Дэниел Киз",
+            "book": "Войны Миллигана",
+            "shelf": "kiz wishlist",
+            "img": "https://s1.livelib.ru/boocover/1005067321/o/531b/Deniel_Kiz__Vojny_Milligana.jpeg"
+        },
+        {
+            "author": "Дэниел Киз",
+            "book": "Цветы для Элджернона",
+            "shelf": "kiz wishlist",
+            "img": "https://s1.livelib.ru/boocover/1007030176/o/ea47/Deniel_Kiz__Tsvety_dlya_Eldzhernona.jpeg"
+        },
+        {
+            "author": "Дэниел Киз",
+            "book": "Хроники лечебницы",
+            "year": "2022",
+            "shelf": "kiz wishlist new 2022",
+            "img": "https://s1.livelib.ru/boocover/1007047630/o/ac6c/Deniel_Kiz__Hroniki_lechebnitsy.jpeg"
         },
         {
             "author": "Кристин Хармель",
