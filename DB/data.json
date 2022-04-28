@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "id": "255",
@@ -5537,6 +5537,7 @@
             "id": "693",
             "author": "Хендрик Грун",
             "book": "Живи и давай жить другим",
+            "web": "mp3",
             "year": "2022",
             "buyDate": "3/21/22",
             "price": "465",
@@ -5560,6 +5561,7 @@
             "id": "567",
             "author": "Жюльен Сандрель",
             "book": "Комната чудес",
+            "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "7/15/20",
             "readDate": "10/29/20",
@@ -5828,6 +5830,7 @@
             "id": "557",
             "author": "Франческо Пикколо",
             "book": "Минуты будничного счастья",
+            "web": "mp3",
             "year": "2019",
             "buyDate": "8/7/20",
             "readDate": "4/27/22",
@@ -5840,6 +5843,7 @@
             "id": "558",
             "author": "Франческо Пикколо",
             "book": "Минуты будничного несчастья",
+            "web": "mp3 fb2",
             "year": "2019",
             "buyDate": "8/7/20",
             "price": "290",
@@ -9599,6 +9603,72 @@
             "img": "https://cdn.azbooka.ru/cv/w1100/748a4da3-41c0-4e86-9f97-2c8c347751dd.jpg"
         },
         {
+            "author": "Дженни Колган",
+            "book": "CHRISTMAS AT THE CUPCAKE CAFÉ",
+            "shelf": "kolgan wishlist new",
+            "img": "https://www.jennycolgan.com/wp-content/uploads/2019/01/hbg-title-9781405514682-53.jpg"
+        },
+        {
+            "author": "Дженни Колган",
+            "book": "WELCOME TO ROSIE HOPKINS' SWEETSHOP OF DREAMS",
+            "shelf": "kolgan wishlist new",
+            "img": "https://www.jennycolgan.com/wp-content/uploads/2019/01/hbg-title-9780748121960-56.jpg"
+        },
+        {
+            "author": "Дженни Колган",
+            "book": "CHRISTMAS AT ROSIE HOPKINS' SWEETSHOP",
+            "shelf": "kolgan wishlist new",
+            "img": "https://www.jennycolgan.com/wp-content/uploads/2019/01/hbg-title-9781405525671-50.jpg"
+        },
+        {
+            "author": "Дженни Колган",
+            "book": "THE CHRISTMAS SURPRISE",
+            "shelf": "kolgan wishlist new",
+            "img": "https://www.jennycolgan.com/wp-content/uploads/2019/01/hbg-title-9780751553963-45.jpg"
+        },
+        {
+            "author": "Дженни Колган",
+            "book": "SUMMER AT LITTLE BEACH STREET BAKERY",
+            "shelf": "kolgan wishlist new",
+            "img": "https://www.jennycolgan.com/wp-content/uploads/2019/01/hbg-title-9780751553925-48.jpg"
+        },
+        {
+            "author": "Дженни Колган",
+            "book": "CHRISTMAS AT LITTLE BEACH STREET BAKERY",
+            "shelf": "kolgan wishlist new",
+            "img": "https://www.jennycolgan.com/wp-content/uploads/2019/02/hbg-title-9780751564792-50.jpg"
+        },
+        {
+            "author": "Дженни Колган",
+            "book": "A VERY DISTANT SHORE",
+            "shelf": "kolgan wishlist new",
+            "img": "https://www.jennycolgan.com/wp-content/uploads/2019/02/hbg-title-9780751566185-17.jpg"
+        },
+        {
+            "author": "Дженни Колган",
+            "book": "THE CHRISTMAS BOOKSHOP",
+            "shelf": "kolgan wishlist new",
+            "img": "https://www.jennycolgan.com/wp-content/uploads/2021/04/hbg-title-9780751584257-59.jpg"
+        },
+        {
+            "author": "Дженни Колган",
+            "book": "CHRISTMAS AT THE ISLAND HOTEL",
+            "shelf": "kolgan wishlist new",
+            "img": "https://www.jennycolgan.com/wp-content/uploads/2021/02/hbg-title-9780751580310-42.jpg"
+        },
+        {
+            "author": "Дженни Колган",
+            "book": "SUNRISE BY THE SEA",
+            "shelf": "kolgan wishlist new",
+            "img": "https://www.jennycolgan.com/wp-content/uploads/2021/09/hbg-title-9780751580334-35.jpg"
+        },
+        {
+            "author": "Дженни Колган",
+            "book": "AN ISLAND WEDDING",
+            "shelf": "kolgan wishlist new",
+            "img": "https://www.jennycolgan.com/wp-content/uploads/2021/11/hbg-title-9780751580365-31.jpg?fit=439%2C675"
+        },
+        {
             "author": "Билл Сэмюэл",
             "book": "История Foyles. Книготорговец по случаю",
             "year": "2020",
@@ -9817,7 +9887,20 @@
             "book": "Книжный клуб на краю света",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "inspiria shibek bookstore eksmo wishlist new 2022"
+            "shelf": "inspiria shibek bookstore eksmo wishlist new 2022",
+            "img": "https://lbforlag.se/wp-content/uploads/2019/02/skybck_bokcirkeln_vid_vrldens_nde_omslag_inb.jpg"
+        },
+        {
+            "author": "Фрида Шибек",
+            "book": "Bokskåpets hemlighet",
+            "shelf": "shibek wishlist new",
+            "img": "https://i0.wp.com/lbforlag.se/wp-content/uploads/2020/04/skyback_boksapets_hemlighet_omslag_inb.jpg?resize=960%2C1484&ssl=1"
+        },
+        {
+            "author": "Фрида Шибек",
+            "book": "De rotlösa",
+            "shelf": "shibek wishlist new",
+            "img": "https://i2.wp.com/lbforlag.se/wp-content/uploads/2021/04/skyback_rotlosa-1.jpeg?w=824&ssl=1"
         },
         {
             "author": "Джейсон Фанг",
@@ -10354,7 +10437,8 @@
             "buyDate": "5/31/22",
             "price": "329",
             "publisher": "Эксмо",
-            "shelf": "kaplin eksmo sentimental 2022"
+            "shelf": "kaplin eksmo sentimental 2022",
+            "img": "https://kbimages1-a.akamaihd.net/ecf5801f-e8f6-48c5-9c99-ee76d3dafed8/1200/1200/False/the-little-paris-patisserie-romantic-escapes-book-3.jpg"
         },
         {
             "author": "Хелен Рольф",
@@ -10783,7 +10867,7 @@
             "year": "2021",
             "buyDate": "7/22/21",
             "price": "419",
-            "publisher": "Эксмо",
+            "publisher": "Freedom",
             "shelf": "eksmo bookstore rina animant-kramb 2021",
             "img": "https://s1.livelib.ru/boocover/1005605500/o/fd0b/Lin_Rina__Knizhnye_hroniki_Animant_Kramb.jpeg"
         },
@@ -10793,15 +10877,17 @@
             "year": "2021",
             "buyDate": "9/14/21",
             "price": "410",
-            "publisher": "Эксмо",
+            "publisher": "Freedom",
             "shelf": "eksmo bookstore rina animant-kramb",
             "img": "https://s1.livelib.ru/boocover/1006013569/o/0847/Lin_Rina__Vselennaya_Animant_Kramb._Londonskie_hroniki.jpeg"
         },
         {
             "author": "Лин Рина",
+            "book": "Элиза Хеммильтон. Происшествие в Ист-Энде",
             "year": "2022",
-            "publisher": "Эксмо",
-            "shelf": "eksmo bookstore rina animant-kramb wishlist new 2022"
+            "publisher": "Freedom",
+            "shelf": "eksmo bookstore rina animant-kramb wishlist new 2022",
+            "img": "https://chitatel.by/storage/thumbs/KN/h1001_w1001_KNcLZKmtElo2yulX2ZqB.jpg"
         },
         {
             "author": "Эрик Асфог",
@@ -11228,10 +11314,11 @@
         },
         {
             "author": "Лисса Кей Адамс",
-            "book": "Bromance - 5",
-            "year": "2022",
+            "book": "A Very Merry Bromance",
+            "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "bookstore eksmo inspiria bromance kei-adams wishlist new 2022"
+            "shelf": "bookstore eksmo inspiria bromance kei-adams wishlist new 2022",
+            "img": "https://is5-ssl.mzstatic.com/image/thumb/Publication116/v4/a2/5a/47/a25a47b6-2022-4e5e-9744-9d472c9b1217/9780593332801.d.jpg/313x0w.webp"
         },
         {
             "author": "Натали Дженнер",
@@ -11411,8 +11498,16 @@
             "buyDate": "1/20/22",
             "price": "347",
             "publisher": "АСТ",
-            "shelf": "ast miracle 2022",
+            "shelf": "ast miracle ironmonger 2022",
             "img": "https://s1.livelib.ru/boocover/1006969126/o/41d7/Dzhon_Ajronmonger__Kit_na_krayu_sveta.jpeg"
+        },
+        {
+            "author": "Джон Айронмонгер",
+            "book": "Множество жизней Элоизы Старчайлд",
+            "year": "2022",
+            "publisher": "АСТ",
+            "shelf": "ast miracle ironmonger wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000861542/COVER/cover1__w600.jpg"
         },
         {
             "author": "Эйлин Гарвин",
@@ -11522,6 +11617,7 @@
         {
             "author": "Мериел Шиндлер",
             "book": "Утраченное кафе «У Шиндлеров». История Холокоста и судьба одной австро-венгерской семьи",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "2/9/22",
             "price": "466",
@@ -11532,6 +11628,7 @@
         {
             "author": "Мэри Эллен Тейлор",
             "book": "Сад нашей памяти",
+            "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "1/27/22",
             "price": "393",
@@ -12220,6 +12317,7 @@
         {
             "author": "Дмитрий Глуховский",
             "book": "Текст",
+            "web": "mp3 fb2",
             "year": "2017",
             "readDate": "12/28/21",
             "shelf": "gluhovsky wishlist",
@@ -12228,6 +12326,7 @@
         {
             "author": "Дмитрий Глуховский",
             "book": "Пост",
+            "web": "mp3 fb2",
             "year": "2021",
             "readDate": "10/28/21",
             "shelf": "gluhovsky wishlist 2021",
@@ -12236,6 +12335,7 @@
         {
             "author": "Артем Исламов",
             "book": "Путь фрилансера",
+            "web": "fb2",
             "year": "2019",
             "shelf": "wishlist",
             "img": "https://monster-book.com/sites/default/files/styles/sc290x400/public/books/put-frilansera-kniga.png?itok=HK10R2KO"
