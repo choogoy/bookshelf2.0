@@ -1,4 +1,4 @@
-﻿{
+{
     "books": [
         {
             "id": "255",
@@ -6769,6 +6769,7 @@
             "book": "Семья как семья",
             "year": "2022",
             "buyDate": "4/13/22",
+            "readDate": "5/3/22",
             "price": "330",
             "publisher": "Азбука",
             "shelf": "fonkinos 2022",
@@ -9078,6 +9079,7 @@
             "id": "677",
             "author": "Эрве Ле Теллье",
             "book": "Аномалия",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "11/18/21",
             "readDate": "1/3/22",
@@ -9123,6 +9125,7 @@
             "id": "692",
             "author": "Лола Лафон",
             "book": "Ошибка Клео",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "3/16/22",
             "price": "419",
@@ -9210,6 +9213,7 @@
             "id": "325",
             "author": "Джон Уильямс",
             "book": "Стоунер",
+            "web": "mp3 fb2",
             "year": "2015",
             "buyDate": "6/14/21",
             "readDate": "10/20/21",
@@ -9266,6 +9270,7 @@
             "id": "695",
             "author": "Шарон Моалем",
             "book": "Лучшая половина. О генетическом превосходстве женщин",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus scientificum wishlist new 2022",
@@ -9807,8 +9812,10 @@
         {
             "author": "Лейла Слимани",
             "book": "Идеальная няня",
+            "web": "mp3 fb2",
             "year": "2018",
             "buyDate": "7/8/21",
+            "readDate": "4/30/22",
             "price": "321",
             "publisher": "Синдбад",
             "shelf": "goncur sindbad slimani",
@@ -10602,6 +10609,14 @@
             "img": "https://s1.livelib.ru/boocover/1006811251/o/ecd1/Ellen_Feldman__Parizh_nikogda_tebya_ne_ostavit.jpeg"
         },
         {
+            "author": "Дэниел Мейсон",
+            "book": "Зимний солдат",
+            "year": "2022",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-press wishlist new 2022",
+            "img": "https://s1.livelib.ru/boocover/1007134639/o/da87/Deniel_Mejson__Zimnij_soldat.jpeg"
+        },
+        {
             "author": "Эрик де Кермель",
             "book": "Хозяйка книжной лавки на площади Трав",
             "year": "2020",
@@ -10835,6 +10850,7 @@
         {
             "author": "Рагнар Йонассон",
             "book": "Снежная слепота",
+            "web": "mp3 fb2",
             "year": "2021",
             "readDate": "4/6/22",
             "publisher": "Азбука",
@@ -11236,7 +11252,7 @@
             "author": "Нацухико Кёгоку",
             "book": "Лето злых духов убумэ",
             "year": "2022",
-            "buyDate": "4/30/22",
+            "buyDate": "5/15/22",
             "price": "365",
             "publisher": "Эксмо",
             "shelf": "eksmo japan inspiria 2022",
@@ -11393,6 +11409,7 @@
         {
             "author": "Роуз Карлайл",
             "book": "Девушка в зеркале",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "10/16/21",
             "readDate": "4/24/22",
@@ -11404,6 +11421,7 @@
         {
             "author": "Энн Гленконнер",
             "book": "Убийство на острове Мюстик",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "10/28/21",
             "price": "290",
@@ -11424,6 +11442,7 @@
         {
             "author": "Кэтрин Купер",
             "book": "Шале",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "12/13/21",
             "price": "317",
@@ -11530,6 +11549,7 @@
         {
             "author": "Луанн Райс",
             "book": "Ящик Пандоры",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "12/11/21",
             "readDate": "4/21/22",
@@ -11587,8 +11607,17 @@
             "img": "https://cdn.book24.ru/v2/ASE000000000861835/COVER/cover13d__w410.webp"
         },
         {
+            "author": "Сара Дензил",
+            "book": "Безмолвное дитя",
+            "year": "2022",
+            "publisher": "АСТ",
+            "shelf": "ast puzzle wishlist new 2022",
+            "img": "https://cdn.book24.ru/v2/ASE000000000852963/COVER/cover13d__w410.webp"
+        },
+        {
             "author": "Мэтью Квортруп",
             "book": "Ангела Меркель. Самый влиятельный политик Европы",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "2/21/22",
             "price": "501",
@@ -11639,6 +11668,7 @@
         {
             "author": "Марк Биллингхэм",
             "book": "Вниз по кроличьей норе",
+            "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "2/19/22",
             "readDate": "4/17/22",
@@ -11650,6 +11680,7 @@
         {
             "author": "Джастин Девитт",
             "book": "Пациент",
+            "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "4/5/22",
             "readDate": "4/8/22",
@@ -11662,9 +11693,9 @@
             "author": "Джефф Родки",
             "book": "В Линкольнвуде гаснет свет",
             "year": "2022",
-            "buyDate": "4/30/22",
+            "buyDate": "5/8/22",
             "price": "566",
-            "publisher": "Рипол-Классик",
+            "publisher": "Рипол Классик",
             "shelf": "2022",
             "img": "https://s1.livelib.ru/boocover/1007126842/o/a049/Dzheff_Rodki__V_Linkolnvude_gasnet_svet.jpeg"
         },
@@ -11761,7 +11792,8 @@
             "book": "Сеть смерти",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria psycho-thriller wishlist new 2022"
+            "shelf": "eksmo inspiria psycho-thriller wishlist new 2022",
+            "img": "https://s1.livelib.ru/boocover/1007313181/o/fb2d/Majk_Omer__Set_smerti.jpeg"
         },
         {
             "author": "Мэри Бёртон",
