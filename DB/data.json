@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "id": "255",
@@ -9046,6 +9046,7 @@
             "id": "641",
             "author": "Карин Тюиль",
             "book": "Дела человеческие",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "6/26/21",
             "price": "419",
@@ -9068,6 +9069,7 @@
             "id": "668",
             "author": "Си Джей Беннет",
             "book": "Виндзорский узел",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "10/18/21",
             "price": "451",
@@ -9184,7 +9186,14 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000851938/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-prudom-main.jpg"
+        },
+        {
+            "author": "Сьюзен Спиндлер",
+            "book": "Суррогатная мать",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist new 2022"
         },
         {
             "author": "Дженнифер Сэйнт",
@@ -10445,7 +10454,7 @@
             "price": "329",
             "publisher": "Эксмо",
             "shelf": "kaplin eksmo sentimental 2022",
-            "img": "https://kbimages1-a.akamaihd.net/ecf5801f-e8f6-48c5-9c99-ee76d3dafed8/1200/1200/False/the-little-paris-patisserie-romantic-escapes-book-3.jpg"
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001252621/COVER/cover1__w820.jpg"
         },
         {
             "author": "Хелен Рольф",
@@ -10463,7 +10472,7 @@
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria rolf bookstore sentimental new wishlist 2022",
-            "img": "https://img-gorod.ru/29/057/2905780_detail.jpg"
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001246557/COVER/cover1__w820.jpg"
         },
         {
             "author": "Фрейя Сэмпсон",
@@ -11252,7 +11261,7 @@
             "author": "Нацухико Кёгоку",
             "book": "Лето злых духов убумэ",
             "year": "2022",
-            "buyDate": "5/15/22",
+            "buyDate": "5/31/22",
             "price": "365",
             "publisher": "Эксмо",
             "shelf": "eksmo japan inspiria 2022",
@@ -11454,7 +11463,7 @@
             "author": "Линда Кейр",
             "book": "Темное озеро",
             "year": "2022",
-            "buyDate": "5/5/22",
+            "buyDate": "5/31/22",
             "price": "345",
             "publisher": "Эксмо",
             "shelf": "eksmo white 2022",
@@ -11693,7 +11702,7 @@
             "author": "Джефф Родки",
             "book": "В Линкольнвуде гаснет свет",
             "year": "2022",
-            "buyDate": "5/8/22",
+            "buyDate": "5/31/22",
             "price": "566",
             "publisher": "Рипол Классик",
             "shelf": "2022",
@@ -11727,7 +11736,7 @@
             "author": "Лора Дэйв",
             "book": "Последнее, что он сказал мне",
             "year": "2022",
-            "buyDate": "5/8/22",
+            "buyDate": "5/31/22",
             "price": "325",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
@@ -11882,6 +11891,14 @@
             "publisher": "Азбука",
             "shelf": "2022",
             "img": "https://s1.livelib.ru/boocover/1007048176/o/43e4/Nita_Prouz__Gornichnaya.jpeg"
+        },
+        {
+            "author": "Росс Кинг",
+            "book": "Книготорговец из Флоренции",
+            "year": "2022",
+            "publisher": "Азбука",
+            "shelf": "bookstore wishlist new 2022",
+            "img": "https://cdn.azbooka.ru/cv/w1100/bef550e9-4e71-4cb1-98da-7cba05cbf910.jpg"
         },
         {
             "author": "Ричард Руссо",
