@@ -7,7 +7,7 @@ const getAllBooks = () => {
         .then(data => {
             const BooksArray = [];
             for (let i = 0; i < data.length; i++) {
-                const { id, author, book, year, buyDate, readDate, price, publisher, shelf, img } = data[i];
+                const { id, web, author, book, year, buyDate, readDate, price, publisher, shelf, img } = data[i];
                 const newBook = {
                     "id": id ? id : '',
                     "author": author ? author : '',
@@ -18,6 +18,7 @@ const getAllBooks = () => {
                     "price": price ? +price : '',
                     "publisher": publisher ? publisher : '',
                     "shelf": shelf ? shelf.split(' ') : [],
+                    "web": web ? web.split(' ') : [],
                     "img": img ? img : '',
                     "bookID": `book${i}`,
                     "content": `${author} ${book} ${year} ${publisher} ${year}`

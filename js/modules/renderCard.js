@@ -4,11 +4,12 @@ import modal from './modal.js';
 import showDate from './showDate.js';
 
 const renderCard = data => {
-    const { bookID, img, author, book, readDate, shelf, price } = data;
+    const { bookID, img, author, book, readDate, shelf, price, web } = data;
 
     const card = document.createElement('div');
     card.dataset.bookId = bookID;
-    card.className = `books__item${shelf.includes('wishlist') ? ' item-false' : ' item-true'}${readDate ? ' books__item--read' : ''}`;
+
+    card.className = `books__item${shelf.includes('wishlist') ? ' item-false' : ' item-true'}${readDate ? ' books__item--read' : ''}${web.includes('fb2') ? ' item-fb2' : ''}${web.includes('mp3') ? ' item-mp3' : ''}`;
 
     card.innerHTML = `        
         <div class="books__item-img"><img src="${img ? img : './images/no-cover.jpg'}" loading="lazy" alt="${author ? `${author} - ` : ''}${book}"></div>

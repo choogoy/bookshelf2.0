@@ -1,4 +1,5 @@
 import getAllBooks from './modules/getAllBooks.js';
+import checkStorage from './modules/checkStorage.js';
 import renderSlider from './modules/renderSlider.js';
 import renderContent from './modules/renderContent.js';
 import renderTags from './modules/renderTags.js';
@@ -23,6 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
             renderSlider(response);
             renderTags(response);
             searchBooks(response);
+            checkStorage(response);
 
             const categoriesList = document.querySelector('.categories__list');
 
@@ -152,7 +154,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     let data = getLocalStorage();
 
                     const id = event.target.closest('.add-to-cart-btn').dataset.bookId;
-           
+
                         if (data.length === 0) {
                             const cartItem = {count: 1, id};
                             data.push(cartItem);
