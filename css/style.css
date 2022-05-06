@@ -450,6 +450,15 @@ button {
           flex-direction: column;
 }
 
+.tags {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  gap: 5px;
+}
+
 .close {
   width: 20px;
   height: 20px;
@@ -514,6 +523,11 @@ button {
   }
   .add-to-cart-btn {
     margin: 15px auto 0;
+  }
+  .tags {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
   }
 }
 
@@ -623,14 +637,9 @@ button {
 }
 
 .book-tag {
-  margin-right: 5px;
   color: rgba(222, 10, 0, 0.7);
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-}
-
-.book-tag:last-child {
-  margin-right: 0;
 }
 
 .book-tag:hover {
@@ -681,6 +690,7 @@ button {
 .item-false {
   border: 1px solid rgba(222, 10, 0, 0.1);
   background: rgba(222, 10, 0, 0.1);
+  padding-bottom: 40px;
 }
 
 .item-false .book-footer {
