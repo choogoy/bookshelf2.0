@@ -8,11 +8,9 @@ const modal = data => {
     const storage = getLocalStorage();
 
     const elem = storage.filter(good => good.id === bookID);
-
     let shelfs = '';
-    shelf.forEach(tag => {
-        shelfs += `<a class="book-tag" href="#">#${tag}</a>`;
-    });
+
+    shelf.forEach(tag => shelfs += `<a class="book-tag" href="#">#${tag}</a>`);
 
     modal.style.zIndex = 1;
     modal.style.opacity = 1;
@@ -30,7 +28,7 @@ const modal = data => {
                                         ${buyDate ? `<p>Дата покупки: ${showDate(buyDate)}</p>` : ''}
                                         ${readDate ? `<p>Прочитано: ${showDate(readDate)}</p>` : ''}
                                         ${price ? `<p>Цена: ${price} ₽</p>` : ''}
-                                        ${shelf != '' ? `<p>${shelfs}</p>` : ''}
+                                        ${shelf != '' ? `<div class="tags">${shelfs}</div>` : ''}
                                         ${price ? `<button class="add-to-cart-btn" data-book-Id="${bookID}">${elem[0] ? `В корзине ${elem[0].count} шт.` : 'Добавить в корзину'}</button>` : ''}
                                     </div>
                                 </div>
