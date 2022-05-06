@@ -9,6 +9,9 @@
     padding: 5px 10px;
     background: transparent;
     transition: all 0.2s;
+    & .nav-category {
+      white-space: nowrap;
+    }
     &:hover {
       cursor: pointer;
       color: white;

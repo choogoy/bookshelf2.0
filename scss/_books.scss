@@ -76,12 +76,8 @@
   }
   
   .book-tag {
-    margin-right: 5px;
     color:rgba(222, 10, 0, 0.7);
     transition: all 0.3s;
-    &:last-child {
-      margin-right: 0;
-    }
     &:hover {
       color: black;
     }
@@ -125,6 +121,7 @@
   .item-false {
     border: 1px solid rgba(222, 10, 0, 0.1);
     background: rgba(222, 10, 0, 0.1);
+    padding-bottom: 40px;
     & .book-footer {
       display: none;
     }
@@ -133,4 +130,25 @@
   .item-false:hover {
     border: 1px solid transparent;
     box-shadow: 5px 5px 15px rgba(222, 10, 0, 0.1);
+  }
+
+  .item-mp3::after {
+    content: "audio";
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+  }
+
+  .item-fb2::after {
+    content: "e-book";
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+  }
+
+  .item-fb2.item-mp3::after {
+    content: "e-book/audio";
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
   }
