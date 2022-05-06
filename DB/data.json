@@ -1,4 +1,4 @@
-﻿{
+{
     "books": [
         {
             "id": "255",
@@ -9169,6 +9169,28 @@
             "img": "https://www.corpus.ru/picts/products/cover1-babkov-perevod.jpeg"
         },
         {
+            "id": "499",
+            "author": "Уильям Таубман",
+            "book": "Горбачев. Его жизнь и время",
+            "year": "2018",
+            "buyDate": "5/10/22",
+            "price": "789",
+            "publisher": "Corpus",
+            "shelf": "corpus politics",
+            "img": "https://www.corpus.ru/picts/products/TAUBMAN_GORBACHEV-1000.jpg"
+        },
+        {
+            "id": "459",
+            "author": "Петр Авен",
+            "book": "Время Березовского",
+            "year": "2017",
+            "buyDate": "5/11/22",
+            "price": "739",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/BEREZOVSKI-1000.jpg"
+        },
+        {
             "id": "706",
             "author": "Михаил Фишман",
             "book": "Преемник. История Бориса Немцова и страны, в которой он не стал президентом",
@@ -11195,6 +11217,7 @@
         {
             "author": "Ричард Осман",
             "book": "Клуб убийств по четвергам",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "10/9/21",
             "price": "441",
@@ -11205,6 +11228,7 @@
         {
             "author": "Ричард Осман",
             "book": "Человек, который умер дважды",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "3/21/22",
             "price": "430",
@@ -11301,6 +11325,7 @@
         {
             "author": "Лисса Кей Адамс",
             "book": "Bromance. Тайный клуб романтиков",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "10/14/21",
             "readDate": "3/22/22",
@@ -11312,6 +11337,7 @@
         {
             "author": "Лисса Кей Адамс",
             "book": "Bromance. Все секреты книжного клуба",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "12/15/21",
             "readDate": "3/29/22",
@@ -11323,6 +11349,7 @@
         {
             "author": "Лисса Кей Адамс",
             "book": "Bromance. Книжный клуб спешит на помощь",
+            "web": "mp3",
             "year": "2022",
             "buyDate": "3/12/22",
             "readDate": "4/4/22",
@@ -11754,6 +11781,16 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
             "img": "https://cdn.book24.ru/v2/ITD000000001247654/COVER/cover13d__w410.webp"
+        },
+        {
+            "author": "Луи Байяр",
+            "book": "Всевидящее око",
+            "year": "2022",
+            "buyDate": "5/31/22",
+            "price": "407",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria 2022",
+            "img": "https://img3.labirint.ru/rc/44c75edd3749ac7d3fadaba56de20c50/363x561q80/books86/857241/cover.jpg?1651839916"
         },
         {
             "author": "Натали Дэниелс",
