@@ -9251,11 +9251,13 @@
         },
         {
             "id": "711",
-            "author": "Р. С. Шеррифф",
+            "author": "Роберт Седрик Шеррифф",
             "book": "Две недели в сентябре",
             "year": "2022",
+            "buyDate": "5/31/22",
+            "price": "626",
             "publisher": "Corpus",
-            "shelf": "corpus discovery wishlist new 2022",
+            "shelf": "corpus discovery 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-nedeli-sentyabre.jpeg"
         },
         {
@@ -11433,6 +11435,7 @@
             "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "10/28/21",
+            "readDate": "5/6/22",
             "price": "290",
             "publisher": "Эксмо",
             "shelf": "eksmo glenkonner white 2021",
@@ -11702,7 +11705,7 @@
             "author": "Джефф Родки",
             "book": "В Линкольнвуде гаснет свет",
             "year": "2022",
-            "buyDate": "5/31/22",
+            "buyDate": "5/6/22",
             "price": "566",
             "publisher": "Рипол Классик",
             "shelf": "2022",
