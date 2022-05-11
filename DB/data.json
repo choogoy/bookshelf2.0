@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "id": "255",
@@ -921,6 +921,14 @@
             "publisher": "Corpus",
             "shelf": "franzen corpus",
             "img": "https://www.corpus.ru/picts/products/Franzen-Svoboda-1000.jpg"
+        },
+        {
+            "id": "715",
+            "author": "Джонатан Франзен",
+            "book": "Свобода",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "franzen corpus wishlist new 2022"
         },
         {
             "id": "219",
@@ -9169,6 +9177,17 @@
             "img": "https://www.corpus.ru/picts/products/cover1-babkov-perevod.jpeg"
         },
         {
+            "id": "459",
+            "author": "Петр Авен",
+            "book": "Время Березовского",
+            "year": "2017",
+            "buyDate": "5/10/22",
+            "price": "739",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/BEREZOVSKI-1000.jpg"
+        },
+        {
             "id": "499",
             "author": "Уильям Таубман",
             "book": "Горбачев. Его жизнь и время",
@@ -9178,17 +9197,6 @@
             "publisher": "Corpus",
             "shelf": "corpus politics",
             "img": "https://www.corpus.ru/picts/products/TAUBMAN_GORBACHEV-1000.jpg"
-        },
-        {
-            "id": "459",
-            "author": "Петр Авен",
-            "book": "Время Березовского",
-            "year": "2017",
-            "buyDate": "5/11/22",
-            "price": "739",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/BEREZOVSKI-1000.jpg"
         },
         {
             "id": "706",
@@ -10039,6 +10047,7 @@
         {
             "author": "Мария Бутина",
             "book": "Тюремный дневник",
+            "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "11/26/20",
             "readDate": "8/21/21",
@@ -10427,6 +10436,7 @@
             "buyDate": "11/3/20",
             "price": "503",
             "publisher": "Эксмо",
+            "shelf": "eksmo",
             "img": "https://s1.livelib.ru/boocover/1003980172/o/f320/Dunkan_Klark__Alibaba._Istoriya_mirovogo_voshozhdeniya_ot_pervogo_litsa.jpeg"
         },
         {
@@ -10502,6 +10512,7 @@
             "author": "Фрейя Сэмпсон",
             "book": "Библиотека последней надежды",
             "year": "2022",
+            "publisher": "Эксмо",
             "shelf": "eksmo inspiria bookstore new wishlist 2022",
             "img": "https://cdn.book24.ru/v2/ITD000000001143051/COVER/cover13d__w410.webp"
         },
@@ -11246,8 +11257,10 @@
         {
             "author": "Канаэ Минато",
             "book": "Виновен",
+            "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "10/18/21",
+            "readDate": "5/11/22",
             "price": "354",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria japan",
@@ -11256,6 +11269,7 @@
         {
             "author": "Хидео Ёкояма",
             "book": "Полупризнание",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "10/9/21",
             "price": "389",
@@ -11266,6 +11280,7 @@
         {
             "author": "Такэси Сиота",
             "book": "Голос греха",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "10/10/21",
             "price": "344",
@@ -11276,6 +11291,7 @@
         {
             "author": "Котаро Исака",
             "book": "Поезд убийц",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "10/10/21",
             "price": "327",
@@ -11484,6 +11500,7 @@
             "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "12/13/21",
+            "readDate": "5/8/22",
             "price": "317",
             "publisher": "Эксмо",
             "shelf": "eksmo white 2021",
@@ -11939,6 +11956,13 @@
             "publisher": "Азбука",
             "shelf": "bookstore wishlist new 2022",
             "img": "https://cdn.azbooka.ru/cv/w1100/bef550e9-4e71-4cb1-98da-7cba05cbf910.jpg"
+        },
+        {
+            "author": "Надя Вассеф",
+            "book": "Каирские хроники хозяйки книжного магазина",
+            "year": "2022",
+            "shelf": "bookstore wishlist new 2022",
+            "img": "https://ndc.book24.ru/resize/820x1192/iblock/019/019fa906a848e72df7110a8c70d956bc/ac6f9e4489862264819363c697df4a70.jpg"
         },
         {
             "author": "Ричард Руссо",
