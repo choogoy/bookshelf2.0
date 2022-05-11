@@ -11746,6 +11746,16 @@
             "img": "https://cdn.book24.ru/v2/ITD000000001250977/COVER/cover13d__w410.webp"
         },
         {
+            "author": "Вера Куриан",
+            "book": "Тайный клуб психопатов",
+            "year": "2022",
+            "buyDate": "5/31/22",
+            "price": "425",
+            "publisher": "Эксмо",
+            "shelf": "eksmo 2022",
+            "img": "https://s1.livelib.ru/boocover/1007315803/o/d546/Vera_Kurian__Tajnyj_klub_psihopatov.jpeg"
+        },
+        {
             "author": "Джефф Родки",
             "book": "В Линкольнвуде гаснет свет",
             "year": "2022",
@@ -11797,7 +11807,7 @@
             "price": "358",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
-            "img": "https://cdn.book24.ru/v2/ITD000000001247654/COVER/cover13d__w410.webp"
+            "img": "https://s1.livelib.ru/boocover/1007315596/o/2034/Patritsiya_Lokvud__O_takom_ne_govoryat.jpeg"
         },
         {
             "author": "Луи Байяр",
@@ -11807,7 +11817,17 @@
             "price": "407",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
-            "img": "https://img3.labirint.ru/rc/44c75edd3749ac7d3fadaba56de20c50/363x561q80/books86/857241/cover.jpg?1651839916"
+            "img": "https://s1.livelib.ru/boocover/1006896874/o/f869/Lui_Bajyar__Vsevidyaschee_oko.jpeg"
+        },
+        {
+            "author": "Брайан Фриман",
+            "book": "Бесконечность",
+            "year": "2022",
+            "buyDate": "6/30/22",
+            "price": "488",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria 2022",
+            "img": "https://s1.livelib.ru/boocover/1007281492/o/04e1/Brajan_Friman__Beskonechnost.jpeg"
         },
         {
             "author": "Натали Дэниелс",
@@ -11926,6 +11946,7 @@
             "author": "Элиф Шафак",
             "book": "10 минут 38 секунд в этом странном мире",
             "year": "2020",
+            "publisher": "Азбука",
             "shelf": "wishlist 2020",
             "img": "https://cdn.azbooka.ru/cv/w1100/fca94a94-5372-4c7a-a470-ef8695a03fdd.jpg"
         },
@@ -11961,7 +11982,8 @@
             "author": "Надя Вассеф",
             "book": "Каирские хроники хозяйки книжного магазина",
             "year": "2022",
-            "shelf": "bookstore wishlist new 2022",
+            "publisher": "Альпина Паблишер",
+            "shelf": "alpina bookstore wishlist new 2022",
             "img": "https://ndc.book24.ru/resize/820x1192/iblock/019/019fa906a848e72df7110a8c70d956bc/ac6f9e4489862264819363c697df4a70.jpg"
         },
         {
