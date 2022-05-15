@@ -1,4 +1,4 @@
-﻿{
+{
     "books": [
         {
             "id": "255",
@@ -640,6 +640,14 @@
         },
         {
             "author": "Владимир Набоков",
+            "book": "Ада, или Отрада",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus nabokov wishlist new 2022",
+            "img": "https://s1.livelib.ru/boocover/1002076595/o/2033/Vladimir_Nabokov__Ada_ili_radosti_strasti.jpeg"
+        },
+        {
+            "author": "Владимир Набоков",
             "book": "Дар",
             "year": "2022",
             "publisher": "Corpus",
@@ -666,14 +674,6 @@
             "publisher": "Corpus",
             "shelf": "corpus nabokov wishlist",
             "img": "https://s1.livelib.ru/boocover/1002598444/o/371f/Vladimir_Nabokov__Pnin.jpeg"
-        },
-        {
-            "author": "Владимир Набоков",
-            "book": "Ада, или Отрада",
-            "year": "2022",
-            "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new 2022",
-            "img": "https://s1.livelib.ru/boocover/1002076595/o/2033/Vladimir_Nabokov__Ada_ili_radosti_strasti.jpeg"
         },
         {
             "author": "Владимир Набоков",
@@ -928,7 +928,8 @@
             "book": "Свобода",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "franzen corpus wishlist new 2022"
+            "shelf": "franzen corpus wishlist new 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-svoboda-corpus.jpg"
         },
         {
             "id": "219",
@@ -1075,6 +1076,13 @@
             "publisher": "Бомбора",
             "shelf": "izakson bombora 2021",
             "img": "https://s1.livelib.ru/boocover/1006270357/o/c980/Uolter_Ajzekson__Invent_and_Wander._Izbrannye_stati_sozdatelya_Amazon_Dzheffa_Be.jpeg"
+        },
+        {
+            "author": "Уолтер Айзексон",
+            "book": "Илон Маск",
+            "year": "2023",
+            "publisher": "Corpus",
+            "shelf": "izakson corpus wishlist"
         },
         {
             "author": "Фредерик Бегбедер",
@@ -3483,7 +3491,7 @@
             "buyDate": "12/23/20",
             "price": "369",
             "publisher": "АСТ",
-            "shelf": "ast palanik",
+            "shelf": "ast palanik 2020",
             "img": "https://cdn.ast.ru/v2/ASE000000000853484/COVER/cover1__w600.jpg"
         },
         {
@@ -3894,7 +3902,7 @@
             "buyDate": "3/12/20",
             "price": "209",
             "publisher": "Эксмо",
-            "shelf": "traub eksmo",
+            "shelf": "traub eksmo 2020",
             "img": "https://s1.livelib.ru/boocover/1003873297/o/8c7d/Masha_Traub__Ili_ya_sejchas_umru_ot_schastya.jpeg"
         },
         {
@@ -3904,7 +3912,7 @@
             "buyDate": "9/3/20",
             "price": "248",
             "publisher": "Эксмо",
-            "shelf": "traub eksmo",
+            "shelf": "traub eksmo 2020",
             "img": "https://s1.livelib.ru/boocover/1005169570/o/88fb/Masha_Traub__Polnoe_oZOOMlenie.jpeg"
         },
         {
@@ -3914,7 +3922,7 @@
             "buyDate": "12/4/20",
             "price": "261",
             "publisher": "Эксмо",
-            "shelf": "traub eksmo",
+            "shelf": "traub eksmo 2020",
             "img": "https://s1.livelib.ru/boocover/1005506713/o/8b25/Masha_Traub__Plohaya_doch.jpeg"
         },
         {
@@ -4130,15 +4138,6 @@
             "img": "https://s1.livelib.ru/boocover/1001563601/o/9122/Malka_Lorents__Pyatnichnye_voprosy.jpeg"
         },
         {
-            "author": "Максим Малявин",
-            "book": "Записки психиатра. Лучшее, или Блог добрых психиатров",
-            "year": "2016",
-            "buyDate": "2/9/17",
-            "price": "189",
-            "shelf": "web",
-            "img": "https://s1.livelib.ru/boocover/1002045353/o/b4bd/Maksim_Malyavin__Zapiski_psihiatra._Luchshee_ili_Blog_dobryh_psihiatrov.jpeg"
-        },
-        {
             "author": "Ляля Бранза",
             "book": "#бабодурское",
             "buyDate": "10/9/17",
@@ -4176,14 +4175,6 @@
             "price": "199",
             "shelf": "web",
             "img": "https://s1.livelib.ru/boocover/1002869782/o/41e9/Aleksandr_Belenkij__Mari.jpeg"
-        },
-        {
-            "author": "Андрей Ломачинский",
-            "book": "Вынос мозга с комментариями",
-            "buyDate": "10/21/18",
-            "price": "215",
-            "shelf": "web",
-            "img": "https://s1.livelib.ru/boocover/1002851219/o/08c4/Andrej_Lomachinskij__Vynos_mozga.jpeg"
         },
         {
             "author": "Александр Цыпкин",
@@ -6853,6 +6844,7 @@
             "id": "231",
             "author": "Никколо Амманити",
             "book": "Ты и я",
+            "web": "fb2",
             "year": "2013",
             "buyDate": "8/3/20",
             "readDate": "2/22/22",
@@ -7448,6 +7440,195 @@
             "img": "https://www.corpus.ru/picts/products/hanna-krall-portret-pulej-cheljusti-drugie-istorii.jpg"
         },
         {
+            "id": "n",
+            "author": "Софи Оксанен",
+            "book": "Когда исчезли Голуби",
+            "year": "2014",
+            "buyDate": "7/28/20",
+            "price": "211.62",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Oksanen-Golubi-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Роман Канушкин",
+            "book": "Мальчик Пого",
+            "year": "2012",
+            "buyDate": "7/27/20",
+            "price": "76.96",
+            "publisher": "Corpus",
+            "shelf": "corpus children",
+            "img": "https://www.corpus.ru/picts/products/Kanushkin-Pogo-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Алессандро Барикко",
+            "book": "Дон Жуан",
+            "year": "2013",
+            "buyDate": "8/23/20",
+            "price": "185",
+            "publisher": "Corpus",
+            "shelf": "corpus children",
+            "img": "https://www.corpus.ru/picts/products/don-juan.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Умберто Эко",
+            "book": "Обрученные",
+            "year": "2013",
+            "publisher": "Corpus",
+            "shelf": "corpus children wishlist",
+            "img": "https://www.corpus.ru/picts/products/Eco-Obruchennye-1000.jpg"
+        },
+        {
+            "id": "n",
+            "book": "Происхождение жизни. Наука и вера",
+            "year": "2009",
+            "buyDate": "8/23/20",
+            "price": "162",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000427601/o/6e4d/__Proishozhdenie_zhizni._Nauka_i_vera.jpeg"
+        },
+        {
+            "id": "n",
+            "book": "Очарованный остров. Новые сказки об Италии",
+            "year": "2014",
+            "buyDate": "8/23/20",
+            "price": "200",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Ocharovannyi-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Шон Кэролл",
+            "book": "Бесконечное число самых прекрасных форм",
+            "year": "2015",
+            "buyDate": "8/28/20",
+            "price": "233",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Carroll-Beskonechnoe-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Ричард Докинз",
+            "book": "Расплетая радугу. Наука, заблуждения и потребность изумляться",
+            "year": "2020",
+            "buyDate": "9/29/20",
+            "price": "554",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/tnw239-cover-dawkins-raduga.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Ричард Докинз",
+            "book": "Самое грандиозное шоу на Земле: доказательства эволюции",
+            "year": "2014",
+            "buyDate": "11/25/20",
+            "price": "449",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/dawkins-show-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Пико Айер",
+            "book": "Искусство покоя. Захватывающие приключения в полной неподвижности",
+            "buyDate": "10/1/20",
+            "price": "243",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Iyer-Stillness-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Давид Монтеагудо",
+            "book": "Конец",
+            "year": "2012",
+            "buyDate": "10/3/20",
+            "price": "266",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/tnw239-monteagudo-the-end-1000.jpg"
+        },
+        {
+            "id": "120",
+            "author": "Филип Рот",
+            "book": "Немизида",
+            "year": "2011",
+            "buyDate": "10/3/20",
+            "price": "149",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000486001/o/7a34/Filip_Rot__Nemezida.jpeg"
+        },
+        {
+            "id": "121",
+            "author": "Джарон Ланир",
+            "book": "Вы не гаджет. Манифест",
+            "year": "2011",
+            "buyDate": "4/15/22",
+            "price": "309",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/lanier-gatget-1000.jpg"
+        },
+        {
+            "id": "195",
+            "author": "Патти Смит",
+            "book": "Я пасу облака",
+            "year": "2013",
+            "buyDate": "10/3/20",
+            "price": "207",
+            "publisher": "Corpus",
+            "shelf": "corpus patti",
+            "img": "https://www.corpus.ru/picts/products/smith-woolgathering-1000.jpg"
+        },
+        {
+            "id": "298",
+            "author": "Патти Смит",
+            "book": "Просто дети",
+            "year": "2014",
+            "publisher": "Corpus",
+            "shelf": "corpus patti wishlist",
+            "img": "https://www.corpus.ru/picts/products/patti-cover.jpg"
+        },
+        {
+            "id": "506",
+            "author": "Патти Смит",
+            "book": "Просто дети",
+            "year": "2021",
+            "buyDate": "5/26/21",
+            "price": "409",
+            "publisher": "Corpus",
+            "shelf": "corpus patti",
+            "img": "https://www.corpus.ru/picts/products/Smith-Deti-1000.jpg"
+        },
+        {
+            "id": "389",
+            "author": "Патти Смит",
+            "book": "Поезд М",
+            "year": "2016",
+            "publisher": "Corpus",
+            "shelf": "corpus patti wishlist",
+            "img": "https://www.corpus.ru/picts/products/patti-smith-m-train-1000.jpg"
+        },
+        {
+            "id": "604",
+            "author": "Патти Смит",
+            "book": "Преданность. Год обезьяны",
+            "year": "2020",
+            "buyDate": "11/3/20",
+            "price": "416",
+            "publisher": "Corpus",
+            "shelf": "corpus patti 2020",
+            "img": "https://www.corpus.ru/picts/products/cover1-obesyana.jpg"
+        },
+        {
             "id": "206",
             "author": "Евгений Ухналев",
             "book": "Это моё",
@@ -7481,6 +7662,17 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Dorman-Nota-1000.jpg"
         },
         {
+            "id": "229",
+            "author": "Томас Левенсон",
+            "book": "Ньютон и фальшивомонетчик. Как величайший ученый стал сыщиком",
+            "year": "2013",
+            "buyDate": "10/3/20",
+            "price": "289",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Levenson-Newton-1000.jpg"
+        },
+        {
             "id": "236",
             "author": "Анна Йоргенстдоттер",
             "book": "Шоколадный папа",
@@ -7503,6 +7695,17 @@
             "img": "https://www.corpus.ru/picts/products/Mendel-Enk-3obezjany-1000.jpg"
         },
         {
+            "id": "254",
+            "author": "Филипп Шенон",
+            "book": "Анатомия убийства. Гибель Джона Кеннеди. Тайны следствия",
+            "year": "2013",
+            "buyDate": "11/2/20",
+            "price": "414.62",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/SHENNON_KENNEDY-1000.jpg"
+        },
+        {
             "id": "269",
             "author": "Эстер Гессен",
             "book": "Белосток - Москва",
@@ -7512,6 +7715,28 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/Gessen-Bialostok-1000.jpg"
+        },
+        {
+            "id": "273",
+            "author": "Елена Павлова",
+            "book": "Укротители лимфоцитов и другие неофициальные лица",
+            "year": "2014",
+            "buyDate": "10/1/20",
+            "price": "258",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Pavlova-Limfocity-1000.jpg"
+        },
+        {
+            "id": "275",
+            "author": "Альбертина Сарразен",
+            "book": "Меня зовут Астрагаль",
+            "year": "2014",
+            "buyDate": "10/29/20",
+            "price": "280",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000956440/o/92a6/Albertina_Sarrazen__Menya_zovut_Astragal.jpeg"
         },
         {
             "id": "301",
@@ -7594,6 +7819,17 @@
             "img": "https://www.corpus.ru/picts/products/Himenes-Bartlett-Ubiystva-1000.jpg"
         },
         {
+            "id": "336",
+            "author": "Аарон Аппельфельд",
+            "book": "Цветы тьмы",
+            "year": "2015",
+            "buyDate": "4/18/22",
+            "price": "320",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Appelfeld-Tsvety-tmy-1000.jpg"
+        },
+        {
             "id": "349",
             "author": "Дарья Биньярди",
             "book": "Любовь надо заслужить",
@@ -7602,6 +7838,38 @@
             "publisher": "Corpus",
             "shelf": "corpus happy",
             "img": "https://www.corpus.ru/picts/products/Bignardi-Lubov-1000.jpg"
+        },
+        {
+            "id": "380",
+            "author": "Петер Гардош",
+            "book": "Предрассветная лихорадка",
+            "year": "2016",
+            "buyDate": "9/29/20",
+            "price": "319",
+            "publisher": "Corpus",
+            "shelf": "corpus happy",
+            "img": "https://www.corpus.ru/picts/products/tnw239-Gardos-Lihoradka-1000.jpg"
+        },
+        {
+            "id": "384",
+            "author": "Аннабел Фарджен",
+            "book": "Приключения русского художника. Биография Бориса Анрепа",
+            "year": "2016",
+            "buyDate": "10/1/20",
+            "price": "88",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/tnw239-Farjon-Hudozhnik-1000.jpg"
+        },
+        {
+            "id": "396",
+            "author": "Маргалит Фокс",
+            "book": "Тайна лабиринта. Как была прочитана забытая письменность",
+            "buyDate": "10/1/20",
+            "price": "258.26",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Fox-Tayna%20Labirinta-1000.jpg"
         },
         {
             "id": "406",
@@ -7643,88 +7911,37 @@
             "img": "https://www.corpus.ru/picts/products/Delillo-Zero K-1000.jpg"
         },
         {
-            "id": "486",
-            "author": "Гаэль Фай",
-            "book": "Маленькая страна",
+            "id": "435",
+            "author": "Рене Нюберг",
+            "book": "Последний поезд в Москву",
+            "year": "2017",
+            "buyDate": "10/5/20",
+            "price": "215",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Nyberg-Moscow-1000.jpg"
+        },
+        {
+            "id": "441",
+            "author": "Эдвард Слингерленд",
+            "book": "И не пытайтесь! Древняя мудрость, современная наука и искусство спонтанности",
+            "year": "2017",
+            "buyDate": "11/4/20",
+            "price": "384.66",
+            "publisher": "Corpus",
+            "shelf": "corpus scientificum",
+            "img": "https://www.corpus.ru/picts/products/edvard-slingerlend-dazhe-ne-pytajtes.jpg"
+        },
+        {
+            "id": "467",
+            "author": "Июнь Ли",
+            "book": "Добрее одиночества",
             "year": "2018",
-            "buyDate": "8/28/20",
-            "price": "231",
+            "buyDate": "9/29/21",
+            "price": "294",
             "publisher": "Corpus",
             "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/tnw239-Faye-Strana-1000.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Софи Оксанен",
-            "book": "Когда исчезли Голуби",
-            "year": "2014",
-            "buyDate": "7/28/20",
-            "price": "211.62",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Oksanen-Golubi-1000.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Роман Канушкин",
-            "book": "Мальчик Пого",
-            "year": "2012",
-            "buyDate": "7/27/20",
-            "price": "76.96",
-            "publisher": "Corpus",
-            "shelf": "corpus children",
-            "img": "https://www.corpus.ru/picts/products/Kanushkin-Pogo-1000.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Алессандро Барикко",
-            "book": "Дон Жуан",
-            "year": "2013",
-            "buyDate": "8/23/20",
-            "price": "185",
-            "publisher": "Corpus",
-            "shelf": "corpus children",
-            "img": "https://www.corpus.ru/picts/products/don-juan.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Умберто Эко",
-            "book": "Обрученные",
-            "year": "2013",
-            "publisher": "Corpus",
-            "shelf": "corpus children wishlist",
-            "img": "https://www.corpus.ru/picts/products/Eco-Obruchennye-1000.jpg"
-        },
-        {
-            "id": "n",
-            "book": "Происхождение жизни. Наука и вера",
-            "year": "2009",
-            "buyDate": "8/23/20",
-            "price": "162",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000427601/o/6e4d/__Proishozhdenie_zhizni._Nauka_i_vera.jpeg"
-        },
-        {
-            "id": "n",
-            "book": "Очарованный остров. Новые сказки об Италии",
-            "year": "2014",
-            "buyDate": "8/23/20",
-            "price": "200",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Ocharovannyi-1000.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Шон Кэролл",
-            "book": "Бесконечное число самых прекрасных форм",
-            "year": "2015",
-            "buyDate": "8/28/20",
-            "price": "233",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Carroll-Beskonechnoe-1000.jpg"
+            "img": "https://www.corpus.ru/picts/products/ijun-li-dobree-odinochestva1.jpg"
         },
         {
             "id": "469",
@@ -7749,48 +7966,48 @@
             "img": "https://cdn1.ozone.ru/s3/multimedia-b/wc1200/6008814431.jpg"
         },
         {
-            "id": "516",
-            "author": "Юрий Слёзкин",
-            "book": "Дом правительства. Сага о русской революции",
+            "id": "480",
+            "author": "Тимоти Снайдер",
+            "book": "О тирании. 20 уроков XX века",
+            "year": "2018",
+            "buyDate": "10/13/20",
+            "price": "245",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/SNYDER_cover.jpg"
+        },
+        {
+            "id": "486",
+            "author": "Гаэль Фай",
+            "book": "Маленькая страна",
+            "year": "2018",
+            "buyDate": "8/28/20",
+            "price": "231",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/tnw239-Faye-Strana-1000.jpg"
+        },
+        {
+            "id": "507",
+            "author": "Мадлен Тьен",
+            "book": "Не говори, что у нас ничего нет",
             "year": "2019",
-            "buyDate": "9/29/20",
-            "price": "1216",
+            "buyDate": "10/17/20",
+            "price": "428",
             "publisher": "Corpus",
-            "shelf": "corpus slezkin",
-            "img": "https://www.corpus.ru/picts/products/Slezkin-Dom-Pravitelstva-1000.jpg"
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Tien-Ne-govori-1000.jpg"
         },
         {
-            "id": "535",
-            "author": "Юрий Слёзкин",
-            "book": "Эра Меркурия. Евреи в современном мире",
+            "id": "508",
+            "author": "Джонатан Макмиллан",
+            "book": "Конец банковского дела. Деньги и кредит в эпоху цифровой революции",
             "year": "2019",
-            "buyDate": "4/6/21",
-            "price": "678",
+            "buyDate": "10/13/21",
+            "price": "235",
             "publisher": "Corpus",
-            "shelf": "corpus slezkin",
-            "img": "https://www.corpus.ru/picts/products/Slezkin-Merkury-1000.jpg"
-        },
-        {
-            "id": "568",
-            "author": "Филип Норман",
-            "book": "Пол Маккартни. Биография",
-            "year": "2020",
-            "buyDate": "9/29/20",
-            "price": "1018",
-            "publisher": "Corpus",
-            "shelf": "corpus music beatles 2020",
-            "img": "https://www.corpus.ru/picts/products/Norman-Mccartney-1000.jpg"
-        },
-        {
-            "id": "574",
-            "author": "Ханс Рослинг",
-            "book": "Фактологичность. Десять причин наших заблуждений о мире - и почему все не так плохо, как кажется",
-            "year": "2020",
-            "buyDate": "9/29/20",
-            "price": "480",
-            "publisher": "Corpus",
-            "shelf": "corpus 2020",
-            "img": "https://www.corpus.ru/picts/products/Rosling-Factfillness-1000.jpg"
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/McMillan-Banking-1000.jpg"
         },
         {
             "id": "509",
@@ -7813,6 +8030,28 @@
             "img": "https://images-na.ssl-images-amazon.com/images/I/41Q0UKuMStL._SX339_BO1,204,203,200_.jpg"
         },
         {
+            "id": "516",
+            "author": "Юрий Слёзкин",
+            "book": "Дом правительства. Сага о русской революции",
+            "year": "2019",
+            "buyDate": "9/29/20",
+            "price": "1216",
+            "publisher": "Corpus",
+            "shelf": "corpus slezkin",
+            "img": "https://www.corpus.ru/picts/products/Slezkin-Dom-Pravitelstva-1000.jpg"
+        },
+        {
+            "id": "535",
+            "author": "Юрий Слёзкин",
+            "book": "Эра Меркурия. Евреи в современном мире",
+            "year": "2019",
+            "buyDate": "4/6/21",
+            "price": "678",
+            "publisher": "Corpus",
+            "shelf": "corpus slezkin",
+            "img": "https://www.corpus.ru/picts/products/Slezkin-Merkury-1000.jpg"
+        },
+        {
             "id": "525",
             "author": "Петр Талантов",
             "book": "0,05. Доказательная медицина от магии до поисков бессмертия",
@@ -7822,6 +8061,51 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/tnw239-Talantov-005-1000.jpg"
+        },
+        {
+            "id": "555",
+            "author": "Дженнифер Даудна",
+            "book": "Трещина в мироздании",
+            "year": "2019",
+            "buyDate": "10/14/20",
+            "price": "536",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Daudna-Treschina-1000.jpg"
+        },
+        {
+            "id": "556",
+            "author": "Мадлен Миллер",
+            "book": "Песнь Ахилла",
+            "year": "2019",
+            "buyDate": "10/5/20",
+            "readDate": "11/9/21",
+            "price": "379",
+            "publisher": "Corpus",
+            "shelf": "corpus miller",
+            "img": "https://www.corpus.ru/picts/products/tnw239-Miller-Ahilles-1000.jpg"
+        },
+        {
+            "id": "589",
+            "author": "Мадлен Миллер",
+            "book": "Цирцея",
+            "year": "2020",
+            "buyDate": "10/5/20",
+            "price": "370",
+            "publisher": "Corpus",
+            "shelf": "corpus miller 2020",
+            "img": "https://www.corpus.ru/picts/products/tnw239-cover1-miller.jpg"
+        },
+        {
+            "id": "568",
+            "author": "Филип Норман",
+            "book": "Пол Маккартни. Биография",
+            "year": "2020",
+            "buyDate": "9/29/20",
+            "price": "1018",
+            "publisher": "Corpus",
+            "shelf": "corpus music beatles 2020",
+            "img": "https://www.corpus.ru/picts/products/Norman-Mccartney-1000.jpg"
         },
         {
             "id": "570",
@@ -7836,194 +8120,24 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Avdic-Isola-1000.jpg"
         },
         {
-            "id": "n",
-            "author": "Ричард Докинз",
-            "book": "Расплетая радугу. Наука, заблуждения и потребность изумляться",
+            "id": "574",
+            "author": "Ханс Рослинг",
+            "book": "Фактологичность. Десять причин наших заблуждений о мире - и почему все не так плохо, как кажется",
             "year": "2020",
             "buyDate": "9/29/20",
-            "price": "554",
+            "price": "480",
             "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/tnw239-cover-dawkins-raduga.jpg"
+            "shelf": "corpus 2020",
+            "img": "https://www.corpus.ru/picts/products/Rosling-Factfillness-1000.jpg"
         },
         {
-            "id": "n",
-            "author": "Ричард Докинз",
-            "book": "Самое грандиозное шоу на Земле: доказательства эволюции",
-            "year": "2014",
-            "buyDate": "11/25/20",
-            "price": "449",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/dawkins-show-1000.jpg"
-        },
-        {
-            "id": "120",
-            "author": "Филип Рот",
-            "book": "Немизида",
-            "year": "2011",
-            "buyDate": "10/3/20",
-            "price": "149",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000486001/o/7a34/Filip_Rot__Nemezida.jpeg"
-        },
-        {
-            "id": "121",
-            "author": "Джарон Ланир",
-            "book": "Вы не гаджет. Манифест",
-            "year": "2011",
-            "buyDate": "4/15/22",
-            "price": "309",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/lanier-gatget-1000.jpg"
-        },
-        {
-            "id": "229",
-            "author": "Томас Левенсон",
-            "book": "Ньютон и фальшивомонетчик. Как величайший ученый стал сыщиком",
-            "year": "2013",
-            "buyDate": "10/3/20",
-            "price": "289",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Levenson-Newton-1000.jpg"
-        },
-        {
-            "id": "273",
-            "author": "Елена Павлова",
-            "book": "Укротители лимфоцитов и другие неофициальные лица",
-            "year": "2014",
-            "buyDate": "10/1/20",
-            "price": "258",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Pavlova-Limfocity-1000.jpg"
-        },
-        {
-            "id": "336",
-            "author": "Аарон Аппельфельд",
-            "book": "Цветы тьмы",
-            "year": "2015",
-            "buyDate": "4/18/22",
-            "price": "320",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Appelfeld-Tsvety-tmy-1000.jpg"
-        },
-        {
-            "id": "380",
-            "author": "Петер Гардош",
-            "book": "Предрассветная лихорадка",
-            "year": "2016",
-            "buyDate": "9/29/20",
-            "price": "319",
-            "publisher": "Corpus",
-            "shelf": "corpus happy",
-            "img": "https://www.corpus.ru/picts/products/tnw239-Gardos-Lihoradka-1000.jpg"
-        },
-        {
-            "id": "384",
-            "author": "Аннабел Фарджен",
-            "book": "Приключения русского художника. Биография Бориса Анрепа",
-            "year": "2016",
-            "buyDate": "10/1/20",
-            "price": "88",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/tnw239-Farjon-Hudozhnik-1000.jpg"
-        },
-        {
-            "id": "396",
-            "author": "Маргалит Фокс",
-            "book": "Тайна лабиринта. Как была прочитана забытая письменность",
-            "buyDate": "10/1/20",
-            "price": "258.26",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Fox-Tayna%20Labirinta-1000.jpg"
-        },
-        {
-            "id": "435",
-            "author": "Рене Нюберг",
-            "book": "Последний поезд в Москву",
-            "buyDate": "10/5/20",
-            "price": "215",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Nyberg-Moscow-1000.jpg"
-        },
-        {
-            "author": "Пико Айер",
-            "book": "Искусство покоя. Захватывающие приключения в полной неподвижности",
-            "buyDate": "10/1/20",
-            "price": "243",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Iyer-Stillness-1000.jpg"
-        },
-        {
-            "id": "195",
-            "author": "Патти Смит",
-            "book": "Я пасу облака",
-            "year": "2013",
-            "buyDate": "10/3/20",
-            "price": "207",
-            "publisher": "Corpus",
-            "shelf": "corpus patti",
-            "img": "https://www.corpus.ru/picts/products/smith-woolgathering-1000.jpg"
-        },
-        {
-            "id": "298",
-            "author": "Патти Смит",
-            "book": "Просто дети",
-            "year": "2014",
-            "publisher": "Corpus",
-            "shelf": "corpus patti wishlist",
-            "img": "https://www.corpus.ru/picts/products/patti-cover.jpg"
-        },
-        {
-            "id": "506",
-            "author": "Патти Смит",
-            "book": "Просто дети",
-            "year": "2021",
-            "buyDate": "5/26/21",
-            "price": "409",
-            "publisher": "Corpus",
-            "shelf": "corpus patti",
-            "img": "https://www.corpus.ru/picts/products/Smith-Deti-1000.jpg"
-        },
-        {
-            "id": "389",
-            "author": "Патти Смит",
-            "book": "Поезд М",
-            "year": "2016",
-            "publisher": "Corpus",
-            "shelf": "corpus patti wishlist",
-            "img": "https://www.corpus.ru/picts/products/patti-smith-m-train-1000.jpg"
-        },
-        {
-            "id": "604",
-            "author": "Патти Смит",
-            "book": "Преданность. Год обезьяны",
+            "id": "575",
+            "author": "Мартин О Кайнь",
+            "book": "Грязь кладбищенская",
             "year": "2020",
-            "buyDate": "11/3/20",
-            "price": "416",
             "publisher": "Corpus",
-            "shelf": "corpus patti 2020",
-            "img": "https://www.corpus.ru/picts/products/cover1-obesyana.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Давид Монтеагудо",
-            "book": "Конец",
-            "year": "2012",
-            "buyDate": "10/3/20",
-            "price": "266",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/tnw239-monteagudo-the-end-1000.jpg"
+            "shelf": "corpus wishlist 2020",
+            "img": "https://www.corpus.ru/picts/products/O_Cadhain-Dirty-1000.jpg"
         },
         {
             "id": "94",
@@ -8043,28 +8157,6 @@
             "publisher": "Corpus",
             "shelf": "corpus wishlist",
             "img": "https://www.corpus.ru/picts/products/Bolanyo-Shliuhi-1000.jpg"
-        },
-        {
-            "id": "480",
-            "author": "Тимоти Снайдер",
-            "book": "О тирании. 20 уроков XX века",
-            "year": "2018",
-            "buyDate": "10/13/20",
-            "price": "245",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/SNYDER_cover.jpg"
-        },
-        {
-            "id": "467",
-            "author": "Июнь Ли",
-            "book": "Добрее одиночества",
-            "year": "2018",
-            "buyDate": "9/29/21",
-            "price": "294",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/ijun-li-dobree-odinochestva1.jpg"
         },
         {
             "author": "Кристофер Бакли",
@@ -8118,38 +8210,6 @@
             "img": "https://www.corpus.ru/picts/products/Buckley-Whitehouse-1000.jpg"
         },
         {
-            "id": "275",
-            "author": "Альбертина Сарразен",
-            "book": "Меня зовут Астрагаль",
-            "buyDate": "10/29/20",
-            "price": "280",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000956440/o/92a6/Albertina_Sarrazen__Menya_zovut_Astragal.jpeg"
-        },
-        {
-            "id": "254",
-            "author": "Филипп Шенон",
-            "book": "Анатомия убийства. Гибель Джона Кеннеди. Тайны следствия",
-            "year": "2013",
-            "buyDate": "11/2/20",
-            "price": "414.62",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/SHENNON_KENNEDY-1000.jpg"
-        },
-        {
-            "id": "441",
-            "author": "Эдвард Слингерленд",
-            "book": "И не пытайтесь! Древняя мудрость, современная наука и искусство спонтанности",
-            "year": "2017",
-            "buyDate": "11/4/20",
-            "price": "384.66",
-            "publisher": "Corpus",
-            "shelf": "corpus scientificum",
-            "img": "https://www.corpus.ru/picts/products/edvard-slingerlend-dazhe-ne-pytajtes.jpg"
-        },
-        {
             "id": "n",
             "author": "Батист Болье",
             "book": "Тысяча и одна ночь отделения скорой помощи",
@@ -8167,71 +8227,6 @@
             "publisher": "Corpus",
             "shelf": "corpus boglie",
             "img": "https://www.corpus.ru/picts/products/Beaulieu-1001_noch-1000.jpg"
-        },
-        {
-            "id": "507",
-            "author": "Мадлен Тьен",
-            "book": "Не говори, что у нас ничего нет",
-            "year": "2019",
-            "buyDate": "10/17/20",
-            "price": "428",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Tien-Ne-govori-1000.jpg"
-        },
-        {
-            "id": "508",
-            "author": "Джонатан Макмиллан",
-            "book": "Конец банковского дела. Деньги и кредит в эпоху цифровой революции",
-            "year": "2019",
-            "buyDate": "10/13/21",
-            "price": "235",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/McMillan-Banking-1000.jpg"
-        },
-        {
-            "id": "555",
-            "author": "Дженнифер Даудна",
-            "book": "Трещина в мироздании",
-            "year": "2019",
-            "buyDate": "10/14/20",
-            "price": "536",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Daudna-Treschina-1000.jpg"
-        },
-        {
-            "id": "556",
-            "author": "Мадлен Миллер",
-            "book": "Песнь Ахилла",
-            "year": "2019",
-            "buyDate": "10/5/20",
-            "readDate": "11/9/21",
-            "price": "379",
-            "publisher": "Corpus",
-            "shelf": "corpus miller",
-            "img": "https://www.corpus.ru/picts/products/tnw239-Miller-Ahilles-1000.jpg"
-        },
-        {
-            "id": "589",
-            "author": "Мадлен Миллер",
-            "book": "Цирцея",
-            "year": "2020",
-            "buyDate": "10/5/20",
-            "price": "370",
-            "publisher": "Corpus",
-            "shelf": "corpus miller 2020",
-            "img": "https://www.corpus.ru/picts/products/tnw239-cover1-miller.jpg"
-        },
-        {
-            "id": "575",
-            "author": "Мартин О Кайнь",
-            "book": "Грязь кладбищенская",
-            "year": "2020",
-            "publisher": "Corpus",
-            "shelf": "corpus wishlist 2020",
-            "img": "https://www.corpus.ru/picts/products/O_Cadhain-Dirty-1000.jpg"
         },
         {
             "id": "590",
@@ -8894,6 +8889,18 @@
             "img": "https://www.corpus.ru/picts/products/Bazell-Tvar-1000.jpg"
         },
         {
+            "id": "459",
+            "author": "Петр Авен",
+            "book": "Время Березовского",
+            "web": "mp3 fb2",
+            "year": "2018",
+            "buyDate": "5/10/22",
+            "price": "739",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/BEREZOVSKI-1000.jpg"
+        },
+        {
             "id": "479",
             "author": "Джоби Уоррик",
             "book": "Черные флаги. Ближний Восток на рубеже тысячелетий",
@@ -8903,6 +8910,18 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/Warrick-Flagi-1000.jpg"
+        },
+        {
+            "id": "499",
+            "author": "Уильям Таубман",
+            "book": "Горбачев. Его жизнь и время",
+            "web": "mp3 fb2",
+            "year": "2018",
+            "buyDate": "5/10/22",
+            "price": "789",
+            "publisher": "Corpus",
+            "shelf": "corpus politics",
+            "img": "https://www.corpus.ru/picts/products/TAUBMAN_GORBACHEV-1000.jpg"
         },
         {
             "id": "531",
@@ -9177,31 +9196,10 @@
             "img": "https://www.corpus.ru/picts/products/cover1-babkov-perevod.jpeg"
         },
         {
-            "id": "459",
-            "author": "Петр Авен",
-            "book": "Время Березовского",
-            "year": "2017",
-            "buyDate": "5/10/22",
-            "price": "739",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/BEREZOVSKI-1000.jpg"
-        },
-        {
-            "id": "499",
-            "author": "Уильям Таубман",
-            "book": "Горбачев. Его жизнь и время",
-            "year": "2018",
-            "buyDate": "5/10/22",
-            "price": "789",
-            "publisher": "Corpus",
-            "shelf": "corpus politics",
-            "img": "https://www.corpus.ru/picts/products/TAUBMAN_GORBACHEV-1000.jpg"
-        },
-        {
             "id": "706",
             "author": "Михаил Фишман",
             "book": "Преемник. История Бориса Немцова и страны, в которой он не стал президентом",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "4/26/22",
             "price": "1132",
@@ -9223,7 +9221,16 @@
             "book": "Суррогатная мать",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new 2022"
+            "shelf": "corpus wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000855789/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Мария Конникова",
+            "book": "Величайший блеф",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000855453/COVER/cover1__w600.jpg"
         },
         {
             "author": "Дженнифер Сэйнт",
@@ -9240,13 +9247,6 @@
             "publisher": "Corpus",
             "shelf": "corpus notomb wishlist new 2022",
             "img": "https://www.corpus.ru/picts/news/21_20211111025806fYtf-OOCtwk.jpg"
-        },
-        {
-            "author": "Мария Конникова",
-            "book": "Величайший блеф",
-            "year": "2022",
-            "publisher": "Corpus",
-            "shelf": "corpus wishlist new 2022"
         },
         {
             "id": "325",
@@ -9284,10 +9284,8 @@
             "author": "Роберт Седрик Шеррифф",
             "book": "Две недели в сентябре",
             "year": "2022",
-            "buyDate": "5/31/22",
-            "price": "626",
             "publisher": "Corpus",
-            "shelf": "corpus discovery 2022",
+            "shelf": "corpus discovery wishlist new 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-nedeli-sentyabre.jpeg"
         },
         {
@@ -11303,7 +11301,7 @@
             "author": "Нацухико Кёгоку",
             "book": "Лето злых духов убумэ",
             "year": "2022",
-            "buyDate": "5/31/22",
+            "buyDate": "5/16/22",
             "price": "365",
             "publisher": "Эксмо",
             "shelf": "eksmo japan inspiria 2022",
@@ -11828,6 +11826,16 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
             "img": "https://s1.livelib.ru/boocover/1007281492/o/04e1/Brajan_Friman__Beskonechnost.jpeg"
+        },
+        {
+            "author": "Барбара Абель",
+            "book": "Инстинкт матери",
+            "year": "2022",
+            "buyDate": "5/31/22",
+            "price": "349",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001252317/COVER/cover1__w820.jpg"
         },
         {
             "author": "Натали Дэниелс",
