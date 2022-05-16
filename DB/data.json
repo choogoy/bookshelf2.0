@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "id": "255",
@@ -5662,6 +5662,7 @@
             "id": "643",
             "author": "Дэниел Гоулман",
             "book": "Социальный интеллект. Новая наука о человеческих отношениях",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "6/29/21",
             "price": "579",
@@ -8949,6 +8950,7 @@
             "id": "631",
             "author": "Дэвид Граймс",
             "book": "Неразумная обезьяна. Почему мы верим в дезинформацию, теории заговора и пропаганду",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "9/3/21",
             "price": "821",
@@ -8960,6 +8962,7 @@
             "id": "650",
             "author": "Шерри Тёркл",
             "book": "Живым голосом. Зачем в цифровую эру говорить и слушать",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "8/20/21",
             "price": "566",
@@ -8971,6 +8974,7 @@
             "id": "682",
             "author": "Кристер Стурмарк",
             "book": "Светоч разума. Рациональное мышление в XXI веке",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "1/20/22",
             "price": "719",
@@ -8982,6 +8986,7 @@
             "id": "690",
             "author": "Денворт Лидия",
             "book": "О дружбе. Эволюция, биология и суперсила главных в жизни связей",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "3/21/22",
             "price": "645",
@@ -11207,6 +11212,7 @@
         },
         {
             "book": "Во всем виновата книга",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "10/4/21",
             "price": "331",
@@ -11216,6 +11222,7 @@
         },
         {
             "book": "Во всем виновата книга - 2",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "10/4/21",
             "price": "407",
@@ -11485,6 +11492,7 @@
         {
             "author": "Энн Гленконнер",
             "book": "Фрейлина. Моя невероятная жизнь в тени Королевы",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "11/16/21",
             "price": "364",
@@ -11517,6 +11525,7 @@
         {
             "author": "Джулия Клэйборн Джонсон",
             "book": "В другой раз повезет!",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "11/28/21",
             "price": "300",
@@ -11553,6 +11562,14 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria buker 2021",
             "img": "https://s1.livelib.ru/boocover/1006855729/o/b650/Duglas_Styuart__Shaggi_Bejn.jpeg"
+        },
+        {
+            "author": "Дэймон Гэлгут",
+            "book": "Обещание",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria buker wishlist new 2022",
+            "img": "https://upload.wikimedia.org/wikipedia/en/6/68/The_Promise_%28Damon_Galgut%29.png"
         },
         {
             "author": "Хейзел Прайор",
@@ -11615,6 +11632,7 @@
         {
             "author": "А.Р. Торре",
             "book": "Последний секрет",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "12/20/21",
             "price": "350",
@@ -11635,6 +11653,7 @@
         {
             "author": "Трейси Бьюканан",
             "book": "Стена тишины",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "1/20/22",
             "price": "347",
@@ -11645,6 +11664,7 @@
         {
             "author": "Эбби Дэвис",
             "book": "Культ",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "3/21/22",
             "price": "334",
@@ -11656,8 +11676,10 @@
             "author": "Кирстен Модглин",
             "book": "Пока смерть не разлучит нас",
             "year": "2022",
+            "buyDate": "5/17/22",
+            "price": "402",
             "publisher": "АСТ",
-            "shelf": "ast puzzle wishlist new 2022",
+            "shelf": "ast puzzle 2022",
             "img": "https://cdn.book24.ru/v2/ASE000000000861835/COVER/cover13d__w410.webp"
         },
         {
@@ -11683,8 +11705,10 @@
             "author": "Урсула Вайденфельд",
             "book": "Ангела Меркель. Женщина - канцлер. Портрет эпохи",
             "year": "2022",
+            "buyDate": "5/17/22",
+            "price": "606",
             "publisher": "АСТ",
-            "shelf": "ast merkel politics wishlist new 2022",
+            "shelf": "ast merkel politics 2022",
             "img": "https://cdn.book24.ru/v2/ASE000000000860653/COVER/cover13d__w410.webp"
         },
         {
@@ -11953,14 +11977,25 @@
         {
             "author": "Элиф Шафак",
             "book": "10 минут 38 секунд в этом странном мире",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Азбука",
-            "shelf": "wishlist 2020",
+            "shelf": "shafak wishlist 2020",
             "img": "https://cdn.azbooka.ru/cv/w1100/fca94a94-5372-4c7a-a470-ef8695a03fdd.jpg"
+        },
+        {
+            "author": "Элиф Шафак",
+            "book": "Остров пропавших деревьев",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Азбука",
+            "shelf": "shafak wishlist new 2022",
+            "img": "https://s1.livelib.ru/boocover/1007048197/o/23df/Elif_Shafak__Ostrov_propavshih_derevev.jpeg"
         },
         {
             "author": "Оса Эриксдоттер",
             "book": "Бойня",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "4/10/22",
             "price": "498",
@@ -11971,6 +12006,7 @@
         {
             "author": "Нита Проуз",
             "book": "Горничная",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "4/25/22",
             "price": "448",
@@ -11989,6 +12025,7 @@
         {
             "author": "Надя Вассеф",
             "book": "Каирские хроники хозяйки книжного магазина",
+            "web": "mp3",
             "year": "2022",
             "publisher": "Альпина Паблишер",
             "shelf": "alpina bookstore wishlist new 2022",
@@ -11997,6 +12034,7 @@
         {
             "author": "Ричард Руссо",
             "book": "Непосредственный человек",
+            "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
             "shelf": "russo fantom-press wishlist",
             "img": "https://s1.livelib.ru/boocover/1005249535/o/4865/Richard_Russo__Neposredstvennyj_chelovek.jpeg"
@@ -12004,6 +12042,7 @@
         {
             "author": "Ричард Руссо",
             "book": "Эмпайр Фоллз",
+            "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
             "shelf": "russo fantom-press wishlist",
             "img": "https://s1.livelib.ru/boocover/1002908550/o/1acf/Richard_Russo__Empajr_Follz.jpeg"
@@ -12011,6 +12050,7 @@
         {
             "author": "Ричард Руссо",
             "book": "Шансы есть...",
+            "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
             "shelf": "russo fantom-press wishlist",
             "img": "https://s1.livelib.ru/boocover/1005638782/o/8d16/Richard_Russo__Shansy_est....jpeg"
@@ -12018,24 +12058,28 @@
         {
             "author": "Карен М. Макманус",
             "book": "Один из нас лжет",
+            "web": "mp3 fb2",
             "shelf": "makmanus wishlist",
             "img": "https://s1.livelib.ru/boocover/1006898482/o/a63e/Karen_M._Makmanus__Odin_iz_nas_lzhjot.jpeg"
         },
         {
             "author": "Карен М. Макманус",
             "book": "Двое могут хранить секрет",
+            "web": "mp3 fb2",
             "shelf": "makmanus wishlist",
             "img": "https://s1.livelib.ru/boocover/1002974853/o/b04e/Karen_M._Makmanus__Dvoe_mogut_hranit_sekret.jpeg"
         },
         {
             "author": "Карен М. Макманус",
             "book": "Один из нас - следующий",
+            "web": "mp3 fb2",
             "shelf": "makmanus wishlist",
             "img": "https://s1.livelib.ru/boocover/1007119885/o/1fdb/Karen_M._Makmanus__Odin_iz_nas__sleduyuschij.jpeg"
         },
         {
             "author": "Карен М. Макманус",
             "book": "Кузены",
+            "web": "fb2",
             "year": "2021",
             "shelf": "makmanus wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1006787407/o/7dfe/Karen_M._Makmanus__Kuzeny.jpeg"
@@ -12043,6 +12087,7 @@
         {
             "author": "Дэниел Киз",
             "book": "Элджернон, Чарли и я",
+            "web": "fb2",
             "shelf": "kiz wishlist",
             "img": "https://s1.livelib.ru/boocover/1005622468/o/6d97/Deniel_Kiz__Eldzhernon_Charli_i_ya.jpeg"
         },
@@ -12055,8 +12100,16 @@
         {
             "author": "Дэниел Киз",
             "book": "Войны Миллигана",
+            "web": "fb2",
             "shelf": "kiz wishlist",
             "img": "https://s1.livelib.ru/boocover/1005067321/o/531b/Deniel_Kiz__Vojny_Milligana.jpeg"
+        },
+        {
+            "author": "Дэниел Киз",
+            "book": "Таинственная история Билли Миллигана",
+            "web": "fb2",
+            "shelf": "kiz wishlist",
+            "img": "https://s1.livelib.ru/boocover/1005506746/o/c501/Deniel_Kiz__Tainstvennaya_istoriya_Billi_Milligana.jpeg"
         },
         {
             "author": "Дэниел Киз",
@@ -12099,6 +12152,7 @@
         {
             "author": "Карина Ян Глейзер",
             "book": "Вандербикеры с 141-й улицы",
+            "web": "fb2",
             "year": "2021",
             "shelf": "glazer wishlist new",
             "img": "https://www.clever-media.ru/upload/iblock/8dd/8dde90bc197dbde39a1792c1858194e2.jpg"
@@ -12106,6 +12160,7 @@
         {
             "author": "Карина Ян Глейзер",
             "book": "Вандербикеры и таинственный сад",
+            "web": "fb2",
             "shelf": "glazer wishlist new",
             "img": "https://www.clever-media.ru/upload/resize_cache/iblock/2db/800_600_090cf9bfc02c81ba0a02cc940d6445018/2dbab2fe72995177c9ebbe81fe892d27.jpg"
         },
@@ -12143,13 +12198,6 @@
             "year": "2022",
             "shelf": "wishlist new 2022",
             "img": "https://img1.od-cdn.com/ImageType-100/0174-1/%7B9B25F10E-4FD7-4709-A9C4-DD84337F550B%7DImg100.jpg"
-        },
-        {
-            "author": "Дэймон Гэлгут",
-            "book": "Обещание",
-            "year": "2022",
-            "shelf": "buker wishlist new 2022",
-            "img": "https://upload.wikimedia.org/wikipedia/en/6/68/The_Promise_%28Damon_Galgut%29.png"
         },
         {
             "author": "Мохамед Мбугар Сарр",
