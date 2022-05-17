@@ -9633,67 +9633,67 @@
         {
             "author": "Дженни Колган",
             "book": "CHRISTMAS AT THE CUPCAKE CAFÉ",
-            "shelf": "kolgan wishlist new",
+            "shelf": "kolgan wishlist",
             "img": "https://www.jennycolgan.com/wp-content/uploads/2019/01/hbg-title-9781405514682-53.jpg"
         },
         {
             "author": "Дженни Колган",
             "book": "WELCOME TO ROSIE HOPKINS' SWEETSHOP OF DREAMS",
-            "shelf": "kolgan wishlist new",
+            "shelf": "kolgan wishlist",
             "img": "https://www.jennycolgan.com/wp-content/uploads/2019/01/hbg-title-9780748121960-56.jpg"
         },
         {
             "author": "Дженни Колган",
             "book": "CHRISTMAS AT ROSIE HOPKINS' SWEETSHOP",
-            "shelf": "kolgan wishlist new",
+            "shelf": "kolgan wishlist",
             "img": "https://www.jennycolgan.com/wp-content/uploads/2019/01/hbg-title-9781405525671-50.jpg"
         },
         {
             "author": "Дженни Колган",
             "book": "THE CHRISTMAS SURPRISE",
-            "shelf": "kolgan wishlist new",
+            "shelf": "kolgan wishlist",
             "img": "https://www.jennycolgan.com/wp-content/uploads/2019/01/hbg-title-9780751553963-45.jpg"
         },
         {
             "author": "Дженни Колган",
             "book": "SUMMER AT LITTLE BEACH STREET BAKERY",
-            "shelf": "kolgan wishlist new",
+            "shelf": "kolgan wishlist",
             "img": "https://www.jennycolgan.com/wp-content/uploads/2019/01/hbg-title-9780751553925-48.jpg"
         },
         {
             "author": "Дженни Колган",
             "book": "CHRISTMAS AT LITTLE BEACH STREET BAKERY",
-            "shelf": "kolgan wishlist new",
+            "shelf": "kolgan wishlist",
             "img": "https://www.jennycolgan.com/wp-content/uploads/2019/02/hbg-title-9780751564792-50.jpg"
         },
         {
             "author": "Дженни Колган",
             "book": "A VERY DISTANT SHORE",
-            "shelf": "kolgan wishlist new",
+            "shelf": "kolgan wishlist",
             "img": "https://www.jennycolgan.com/wp-content/uploads/2019/02/hbg-title-9780751566185-17.jpg"
         },
         {
             "author": "Дженни Колган",
             "book": "THE CHRISTMAS BOOKSHOP",
-            "shelf": "kolgan wishlist new",
+            "shelf": "kolgan wishlist",
             "img": "https://www.jennycolgan.com/wp-content/uploads/2021/04/hbg-title-9780751584257-59.jpg"
         },
         {
             "author": "Дженни Колган",
             "book": "CHRISTMAS AT THE ISLAND HOTEL",
-            "shelf": "kolgan wishlist new",
+            "shelf": "kolgan wishlist",
             "img": "https://www.jennycolgan.com/wp-content/uploads/2021/02/hbg-title-9780751580310-42.jpg"
         },
         {
             "author": "Дженни Колган",
             "book": "SUNRISE BY THE SEA",
-            "shelf": "kolgan wishlist new",
+            "shelf": "kolgan wishlist",
             "img": "https://www.jennycolgan.com/wp-content/uploads/2021/09/hbg-title-9780751580334-35.jpg"
         },
         {
             "author": "Дженни Колган",
             "book": "AN ISLAND WEDDING",
-            "shelf": "kolgan wishlist new",
+            "shelf": "kolgan wishlist",
             "img": "https://www.jennycolgan.com/wp-content/uploads/2021/11/hbg-title-9780751580365-31.jpg?fit=439%2C675"
         },
         {
@@ -10927,8 +10927,10 @@
             "author": "Лин Рина",
             "book": "Элиза Хеммильтон. Происшествие в Ист-Энде",
             "year": "2022",
+            "buyDate": "7/15/22",
+            "price": "461",
             "publisher": "Freedom",
-            "shelf": "eksmo bookstore rina animant-kramb wishlist new 2022",
+            "shelf": "eksmo bookstore rina animant-kramb 2022",
             "img": "https://chitatel.by/storage/thumbs/KN/h1001_w1001_KNcLZKmtElo2yulX2ZqB.jpg"
         },
         {
