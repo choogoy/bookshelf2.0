@@ -4154,14 +4154,6 @@
             "img": "https://s1.livelib.ru/boocover/1002514041/o/f8c7/Nikolaj_Lozhnikov__Svobodnaya_kassa.jpeg"
         },
         {
-            "author": "Евгений Чеширко",
-            "book": "Закрайсветовские хроники",
-            "buyDate": "10/9/17",
-            "price": "270",
-            "shelf": "web",
-            "img": "https://s1.livelib.ru/boocover/1002446833/o/0378/Evgenij_CheshirKo__Zakrajsvetovskie_hroniki._Rasskazy_sbornik.jpeg"
-        },
-        {
             "book": "Клуб домового. Сборник рассказов",
             "buyDate": "3/26/18",
             "price": "219",
@@ -4175,22 +4167,6 @@
             "price": "199",
             "shelf": "web",
             "img": "https://s1.livelib.ru/boocover/1002869782/o/41e9/Aleksandr_Belenkij__Mari.jpeg"
-        },
-        {
-            "author": "Александр Цыпкин",
-            "book": "Женщины непреклонного возраста и др. беспринцыпные истории",
-            "buyDate": "10/21/18",
-            "price": "233",
-            "shelf": "web",
-            "img": "https://s1.livelib.ru/boocover/1001388400/o/8f54/Aleksandr_Tsypkin__Zhenschiny_nepreklonnogo_vozrasta_i_dr._besprintsYpnye_istori.jpeg"
-        },
-        {
-            "author": "Александр Цыпкин",
-            "book": "Дом до свиданий и новые беспринцыпные истории",
-            "buyDate": "10/21/18",
-            "price": "246",
-            "shelf": "web",
-            "img": "https://s1.livelib.ru/boocover/1002703934/o/c6d8/Aleksandr_Tsypkin__Dom_do_svidanij_i_novye_besprintsypnye_istorii_sbornik.jpeg"
         },
         {
             "author": "Алексей Березин",
@@ -8292,6 +8268,7 @@
             "book": "Харассмент",
             "year": "2022",
             "buyDate": "4/26/22",
+            "readDate": "5/17/22",
             "price": "500",
             "publisher": "Corpus",
             "shelf": "corpus kira 2022",
@@ -9289,8 +9266,10 @@
             "author": "Роберт Седрик Шеррифф",
             "book": "Две недели в сентябре",
             "year": "2022",
+            "buyDate": "5/18/22",
+            "price": "580",
             "publisher": "Corpus",
-            "shelf": "corpus discovery wishlist new 2022",
+            "shelf": "corpus discovery 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-nedeli-sentyabre.jpeg"
         },
         {
@@ -11676,8 +11655,8 @@
             "author": "Кирстен Модглин",
             "book": "Пока смерть не разлучит нас",
             "year": "2022",
-            "buyDate": "5/17/22",
-            "price": "402",
+            "buyDate": "5/18/22",
+            "price": "372",
             "publisher": "АСТ",
             "shelf": "ast puzzle 2022",
             "img": "https://cdn.book24.ru/v2/ASE000000000861835/COVER/cover13d__w410.webp"
@@ -11705,8 +11684,8 @@
             "author": "Урсула Вайденфельд",
             "book": "Ангела Меркель. Женщина - канцлер. Портрет эпохи",
             "year": "2022",
-            "buyDate": "5/17/22",
-            "price": "606",
+            "buyDate": "5/18/22",
+            "price": "562",
             "publisher": "АСТ",
             "shelf": "ast merkel politics 2022",
             "img": "https://cdn.book24.ru/v2/ASE000000000860653/COVER/cover13d__w410.webp"
