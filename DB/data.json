@@ -5626,15 +5626,6 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Goulman-Fokus-1000.jpg"
         },
         {
-            "id": "674",
-            "author": "Дэниел Гоулман",
-            "book": "Фокус. О внимании, рассеянности и жизненном успехе",
-            "year": "2021",
-            "publisher": "Corpus",
-            "shelf": "corpus goulman scientificum wishlist 2021",
-            "img": "https://www.corpus.ru/picts/products/cover1-ficus.jpg"
-        },
-        {
             "id": "643",
             "author": "Дэниел Гоулман",
             "book": "Социальный интеллект. Новая наука о человеческих отношениях",
@@ -7899,17 +7890,6 @@
             "img": "https://www.corpus.ru/picts/products/Nyberg-Moscow-1000.jpg"
         },
         {
-            "id": "441",
-            "author": "Эдвард Слингерленд",
-            "book": "И не пытайтесь! Древняя мудрость, современная наука и искусство спонтанности",
-            "year": "2017",
-            "buyDate": "11/4/20",
-            "price": "384.66",
-            "publisher": "Corpus",
-            "shelf": "corpus scientificum",
-            "img": "https://www.corpus.ru/picts/products/edvard-slingerlend-dazhe-ne-pytajtes.jpg"
-        },
-        {
             "id": "467",
             "author": "Июнь Ли",
             "book": "Добрее одиночества",
@@ -9212,7 +9192,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000855453/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-blef.jpg"
         },
         {
             "author": "Дженнифер Сэйнт",
@@ -9247,6 +9227,7 @@
             "id": "425",
             "author": "Уоллес Стегнер",
             "book": "Останется при мне",
+            "web": "fb2",
             "year": "2017",
             "publisher": "Corpus",
             "shelf": "corpus discovery wishlist",
@@ -9256,6 +9237,7 @@
             "id": "652",
             "author": "Симона де Бовуар",
             "book": "Неразлучные",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus discovery wishlist 2021",
@@ -9273,21 +9255,56 @@
             "img": "https://www.corpus.ru/picts/products/cover1-nedeli-sentyabre.jpeg"
         },
         {
+            "id": "414",
+            "author": "Майкл Газзанига",
+            "book": "Кто за главного? Свобода воли с точки зрения нейробиологии",
+            "web": "fb2",
+            "year": "2017",
+            "publisher": "Corpus",
+            "shelf": "corpus scientificum gazzaniga wishlist",
+            "img": "https://cdn.ast.ru/v2/AST000000000156527/COVER/cover1__w600.jpg"
+        },
+        {
             "id": "426",
             "author": "Александра Горовиц",
             "book": "Смотреть и видеть. Путеводитель по искусству восприяти",
+            "web": "fb2",
             "year": "2017",
             "publisher": "Corpus",
             "shelf": "corpus scientificum wishlist",
             "img": "https://cdn.ast.ru/v2/AST000000000164755/COVER/cover1__w600.jpg"
         },
         {
+            "id": "441",
+            "author": "Эдвард Слингерленд",
+            "book": "И не пытайтесь! Древняя мудрость, современная наука и искусство спонтанности",
+            "web": "fb2",
+            "year": "2017",
+            "buyDate": "11/4/20",
+            "price": "384.66",
+            "publisher": "Corpus",
+            "shelf": "corpus scientificum",
+            "img": "https://www.corpus.ru/picts/products/edvard-slingerlend-dazhe-ne-pytajtes.jpg"
+        },
+        {
+            "id": "669",
             "author": "Энтони Дэвид",
             "book": "Глядя в бездну. Заметки нейропсихиатра о душевных расстройствах",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus scientificum wishlist new 2021",
+            "shelf": "corpus scientificum wishlist 2021",
             "img": "https://cdn.ast.ru/v2/ASE000000000853264/COVER/cover1__w600.jpg"
+        },
+        {
+            "id": "674",
+            "author": "Дэниел Гоулман",
+            "book": "Фокус. О внимании, рассеянности и жизненном успехе",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus goulman scientificum wishlist 2021",
+            "img": "https://www.corpus.ru/picts/products/cover1-ficus.jpg"
         },
         {
             "id": "695",
@@ -9301,7 +9318,7 @@
         },
         {
             "author": "Азра Раза",
-            "book": "Первая клетка",
+            "book": "Первая клетка. И чего стоит борьба с раком до последнего",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus scientificum wishlist new 2022",
@@ -9368,15 +9385,6 @@
             "publisher": "Corpus",
             "shelf": "corpus glik wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-glick-new.jpg"
-        },
-        {
-            "id": "414",
-            "author": "Майкл Газзанига",
-            "book": "Кто за главного? Свобода воли с точки зрения нейробиологии",
-            "year": "2017",
-            "publisher": "Corpus",
-            "shelf": "corpus scientificum gazzaniga wishlist",
-            "img": "https://cdn.ast.ru/v2/AST000000000156527/COVER/cover1__w600.jpg"
         },
         {
             "id": "n",
@@ -10807,8 +10815,10 @@
             "author": "Марина Корсакова",
             "book": "Мозг и музыка. Как чувства проявляют себя в музыке и почему ее понимание доступно всем",
             "year": "2022",
+            "buyDate": "5/19/22",
+            "price": "485",
             "publisher": "АСТ",
-            "shelf": "ast science wishlist new 2022",
+            "shelf": "ast science 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000863839/COVER/cover1__w600.jpg"
         },
         {
