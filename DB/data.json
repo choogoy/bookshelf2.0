@@ -5120,6 +5120,127 @@
             "img": "https://www.corpus.ru/picts/products/Ackroyd-Process-1000.jpg"
         },
         {
+            "id": "4",
+            "author": "Хуан Рульфо",
+            "book": "Педро Парамо. Равнина в огне",
+            "year": "2009",
+            "buyDate": "8/5/20",
+            "price": "284",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000324231/o/7dd6/Huan_Rulfo__Pedro_Paramo._Ravnina_v_ogne_sbornik.jpeg"
+        },
+        {
+            "id": "5",
+            "author": "Гюнтер Грасс",
+            "book": "Фотокамера. Истории из темной комнаты",
+            "year": "2009",
+            "buyDate": "8/3/20",
+            "price": "142",
+            "publisher": "Corpus",
+            "shelf": "grass corpus",
+            "img": "https://s1.livelib.ru/boocover/1000416292/o/fcfb/Gyunter_Grass__Fotokamera.jpeg"
+        },
+        {
+            "id": "7",
+            "author": "Эдуардо Мендоса",
+            "book": "Удивительное путешествие Помпония Флата",
+            "year": "2009",
+            "buyDate": "8/2/20",
+            "price": "257",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Mendoza-PomponioFlato-1000.jpg"
+        },
+        {
+            "id": "8",
+            "author": "Тамара Кандала",
+            "book": "Эта сладкая голая сволочь",
+            "year": "2009",
+            "buyDate": "10/13/20",
+            "price": "105",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000417175/o/b159/Kandala_Tamara__Eta_sladkaya_golaya_svoloch.jpeg"
+        },
+        {
+            "id": "9",
+            "author": "Фэй Уэлдон",
+            "book": "Род-Айленд блюз",
+            "year": "2009",
+            "buyDate": "7/23/20",
+            "price": "99",
+            "publisher": "Corpus",
+            "shelf": "corpus weldon",
+            "img": "https://s1.livelib.ru/boocover/1000333746/o/159f/Fej_Ueldon__RodAjlend_blyuz.jpeg"
+        },
+        {
+            "id": "10",
+            "author": "Максим Осипов",
+            "book": "Грех жаловаться",
+            "year": "2009",
+            "buyDate": "9/21/20",
+            "price": "95",
+            "publisher": "Corpus",
+            "shelf": "osipov corpus",
+            "img": "https://www.corpus.ru/picts/products/Osipov-Grekh-1000tt.jpg"
+        },
+        {
+            "id": "12",
+            "author": "Тони Моррисон",
+            "book": "Жалость",
+            "year": "2010",
+            "buyDate": "8/3/20",
+            "price": "198",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000453480/o/6118/Toni_Morrison__Zhalost.jpeg"
+        },
+        {
+            "id": "20",
+            "author": "Джон Ле Карре",
+            "book": "Особо опасен",
+            "year": "2009",
+            "buyDate": "8/3/20",
+            "price": "157",
+            "publisher": "Corpus",
+            "shelf": "le-karre corpus",
+            "img": "https://s1.livelib.ru/boocover/1000330560/o/2596/Dzhon_Le_Karre__Osobo_opasen.jpeg"
+        },
+        {
+            "id": "28",
+            "author": "Эдуардо Мендоса",
+            "book": "Тайна заколдованной крипты",
+            "year": "2010",
+            "buyDate": "7/23/20",
+            "price": "96",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Mendosa-Cripta-1000.jpg"
+        },
+        {
+            "id": "36",
+            "author": "Гюнтер Грасс",
+            "book": "Кошки-мышки",
+            "year": "2010",
+            "buyDate": "8/5/20",
+            "price": "143",
+            "publisher": "Corpus",
+            "shelf": "grass corpus",
+            "img": "https://s1.livelib.ru/boocover/1000441729/o/114b/Gyunter_Grass__Koshkimyshki.jpeg"
+        },
+        {
+            "id": "42",
+            "author": "Фэй Уэлдон",
+            "book": "Ненавижу семейную жизнь",
+            "year": "2010",
+            "buyDate": "8/8/20",
+            "price": "140.5",
+            "publisher": "Corpus",
+            "shelf": "corpus weldon",
+            "img": "https://s1.livelib.ru/boocover/1000447789/o/0f09/Fej_Ueldon__Nenavizhu_semejnuyu_zhizn.jpeg"
+        },
+        {
             "id": "45",
             "author": "Питер Акройд",
             "book": "Журнал Виктора Франкенштейна",
@@ -5140,6 +5261,17 @@
             "publisher": "Corpus",
             "shelf": "akroid corpus",
             "img": "https://www.corpus.ru/picts/products/Ackroyd-Platon-1000.jpg"
+        },
+        {
+            "id": "84",
+            "author": "Джон Ле Карре",
+            "book": "Песня для зебры",
+            "year": "2011",
+            "buyDate": "8/5/20",
+            "price": "152",
+            "publisher": "Corpus",
+            "shelf": "le-karre corpus",
+            "img": "https://www.corpus.ru/picts/products/LeCarre-Song-1000.jpg"
         },
         {
             "id": "86",
@@ -5175,105 +5307,6 @@
             "publisher": "Corpus",
             "shelf": "akroid corpus wishlist",
             "img": "https://www.corpus.ru/picts/products/Ackroyd-Canterberry-1000.jpg"
-        },
-        {
-            "id": "4",
-            "author": "Хуан Рульфо",
-            "book": "Педро Парамо. Равнина в огне",
-            "year": "2009",
-            "buyDate": "8/5/20",
-            "price": "284",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000324231/o/7dd6/Huan_Rulfo__Pedro_Paramo._Ravnina_v_ogne_sbornik.jpeg"
-        },
-        {
-            "id": "5",
-            "author": "Гюнтер Грасс",
-            "book": "Фотокамера. Истории из темной комнаты",
-            "year": "2009",
-            "buyDate": "8/3/20",
-            "price": "142",
-            "publisher": "Corpus",
-            "shelf": "grass corpus",
-            "img": "https://s1.livelib.ru/boocover/1000416292/o/fcfb/Gyunter_Grass__Fotokamera.jpeg"
-        },
-        {
-            "id": "36",
-            "author": "Гюнтер Грасс",
-            "book": "Кошки-мышки",
-            "year": "2010",
-            "buyDate": "8/5/20",
-            "price": "143",
-            "publisher": "Corpus",
-            "shelf": "grass corpus",
-            "img": "https://s1.livelib.ru/boocover/1000441729/o/114b/Gyunter_Grass__Koshkimyshki.jpeg"
-        },
-        {
-            "id": "7",
-            "author": "Эдуардо Мендоса",
-            "book": "Удивительное путешествие Помпония Флата",
-            "year": "2009",
-            "buyDate": "8/2/20",
-            "price": "257",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Mendoza-PomponioFlato-1000.jpg"
-        },
-        {
-            "id": "28",
-            "author": "Эдуардо Мендоса",
-            "book": "Тайна заколдованной крипты",
-            "year": "2010",
-            "buyDate": "7/23/20",
-            "price": "96",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Mendosa-Cripta-1000.jpg"
-        },
-        {
-            "id": "8",
-            "author": "Тамара Кандала",
-            "book": "Эта сладкая голая сволочь",
-            "year": "2009",
-            "buyDate": "10/13/20",
-            "price": "105",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000417175/o/b159/Kandala_Tamara__Eta_sladkaya_golaya_svoloch.jpeg"
-        },
-        {
-            "id": "9",
-            "author": "Фэй Уэлдон",
-            "book": "Род-Айленд блюз",
-            "year": "2009",
-            "buyDate": "7/23/20",
-            "price": "99",
-            "publisher": "Corpus",
-            "shelf": "corpus weldon",
-            "img": "https://s1.livelib.ru/boocover/1000333746/o/159f/Fej_Ueldon__RodAjlend_blyuz.jpeg"
-        },
-        {
-            "id": "42",
-            "author": "Фэй Уэлдон",
-            "book": "Ненавижу семейную жизнь",
-            "year": "2010",
-            "buyDate": "8/8/20",
-            "price": "140.5",
-            "publisher": "Corpus",
-            "shelf": "corpus weldon",
-            "img": "https://s1.livelib.ru/boocover/1000447789/o/0f09/Fej_Ueldon__Nenavizhu_semejnuyu_zhizn.jpeg"
-        },
-        {
-            "id": "10",
-            "author": "Максим Осипов",
-            "book": "Грех жаловаться",
-            "year": "2009",
-            "buyDate": "9/21/20",
-            "price": "95",
-            "publisher": "Corpus",
-            "shelf": "osipov corpus",
-            "img": "https://www.corpus.ru/picts/products/Osipov-Grekh-1000tt.jpg"
         },
         {
             "author": "Максим Осипов",
@@ -5322,28 +5355,6 @@
             "img": "https://www.corpus.ru/picts/products/Osipov-Luxemburg-1000.jpg"
         },
         {
-            "id": "12",
-            "author": "Тони Моррисон",
-            "book": "Жалость",
-            "year": "2010",
-            "buyDate": "8/3/20",
-            "price": "198",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000453480/o/6118/Toni_Morrison__Zhalost.jpeg"
-        },
-        {
-            "id": "20",
-            "author": "Джон Ле Карре",
-            "book": "Особо опасен",
-            "year": "2009",
-            "buyDate": "8/3/20",
-            "price": "157",
-            "publisher": "Corpus",
-            "shelf": "le-karre corpus",
-            "img": "https://s1.livelib.ru/boocover/1000330560/o/2596/Dzhon_Le_Karre__Osobo_opasen.jpeg"
-        },
-        {
             "id": "n",
             "author": "Джон Ле Карре",
             "book": "Шпион, выйди вон!",
@@ -5353,17 +5364,6 @@
             "publisher": "Corpus",
             "shelf": "le-karre corpus",
             "img": "https://www.corpus.ru/picts/products/LeCarre-Spy-1000.jpg"
-        },
-        {
-            "id": "84",
-            "author": "Джон Ле Карре",
-            "book": "Песня для зебры",
-            "year": "2011",
-            "buyDate": "8/5/20",
-            "price": "152",
-            "publisher": "Corpus",
-            "shelf": "le-karre corpus",
-            "img": "https://www.corpus.ru/picts/products/LeCarre-Song-1000.jpg"
         },
         {
             "id": "127",
@@ -6967,7 +6967,7 @@
             "book": "Манхэттен-Бич",
             "year": "2020",
             "publisher": "Corpus",
-            "shelf": "corpus igan wishlist",
+            "shelf": "corpus igan wishlist 2020",
             "img": "https://www.corpus.ru/picts/products/Egan-Manhattan-1000.jpg"
         },
         {
@@ -7312,103 +7312,6 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Rubinshtein-Slyshno-1000.jpg"
         },
         {
-            "id": "170",
-            "author": "Александар Хемон",
-            "book": "Проект «Лазарь»",
-            "year": "2012",
-            "buyDate": "7/27/20",
-            "price": "188.9",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/hemon-lazarus-1000.jpg"
-        },
-        {
-            "id": "180",
-            "author": "Джон Кампфнер",
-            "book": "Свобода на продажу",
-            "year": "2012",
-            "buyDate": "10/1/20",
-            "price": "245",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/kampfner-freedomsale-1000.jpg"
-        },
-        {
-            "id": "371",
-            "author": "Джон Кампфнер",
-            "book": "Богачи",
-            "year": "2016",
-            "publisher": "Corpus",
-            "shelf": "corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Kampfner-Bogachi-1000.jpg"
-        },
-        {
-            "id": "187",
-            "author": "Алессандро Пиперно",
-            "book": "Ошибка Ле Понтекорво",
-            "year": "2013",
-            "buyDate": "7/27/20",
-            "price": "198.89",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Piperno-Pontecorvo-1000.jpg"
-        },
-        {
-            "id": "188",
-            "author": "Ребекка Маккаи",
-            "book": "Запретное чтение",
-            "year": "2013",
-            "buyDate": "12/18/20",
-            "price": "150",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/makkai-borrower-1000.jpg"
-        },
-        {
-            "id": "193",
-            "author": "Джастин Торрес",
-            "book": "Мы, животные",
-            "year": "2013",
-            "buyDate": "8/25/20",
-            "price": "86",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/torres-animals-1000.jpg"
-        },
-        {
-            "id": "197",
-            "author": "Карл Фруде Тиллер",
-            "book": "Замыкая круг",
-            "year": "2013",
-            "buyDate": "7/27/20",
-            "price": "166.91",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Tiller-Krug-1000.jpg"
-        },
-        {
-            "id": "199",
-            "author": "Ханна Кралль",
-            "book": "Королю червонному - дорога дальняя",
-            "year": "2013",
-            "buyDate": "7/27/20",
-            "price": "188.9",
-            "publisher": "Corpus",
-            "shelf": "corpus krall",
-            "img": "https://www.corpus.ru/picts/products/Krall-Kings-1000.jpg"
-        },
-        {
-            "id": "445",
-            "author": "Ханна Кралль",
-            "book": "Портрет с пулей в челюсти и другие истории",
-            "year": "2017",
-            "buyDate": "10/4/20",
-            "price": "262",
-            "publisher": "Corpus",
-            "shelf": "corpus krall",
-            "img": "https://www.corpus.ru/picts/products/hanna-krall-portret-pulej-cheljusti-drugie-istorii.jpg"
-        },
-        {
             "id": "n",
             "author": "Софи Оксанен",
             "book": "Когда исчезли Голуби",
@@ -7525,6 +7428,33 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-monteagudo-the-end-1000.jpg"
         },
         {
+            "id": "n",
+            "author": "Батист Болье",
+            "book": "Тысяча и одна ночь отделения скорой помощи",
+            "publisher": "Corpus",
+            "shelf": "corpus boglie wishlist",
+            "img": "https://cdn1.ozone.ru/multimedia/wc1200/1012341536.jpg"
+        },
+        {
+            "id": "94",
+            "author": "Роберто Боланьо",
+            "book": "Третий рейх",
+            "year": "2011",
+            "buyDate": "10/3/20",
+            "price": "217",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Bolanyo-Reich-1000.jpg"
+        },
+        {
+            "author": "Роберто Боланьо",
+            "book": "Шлюхи-убийцы",
+            "year": "2011",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Bolanyo-Shliuhi-1000.jpg"
+        },
+        {
             "id": "120",
             "author": "Филип Рот",
             "book": "Немизида",
@@ -7547,6 +7477,61 @@
             "img": "https://www.corpus.ru/picts/products/lanier-gatget-1000.jpg"
         },
         {
+            "id": "170",
+            "author": "Александар Хемон",
+            "book": "Проект «Лазарь»",
+            "year": "2012",
+            "buyDate": "7/27/20",
+            "price": "188.9",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/hemon-lazarus-1000.jpg"
+        },
+        {
+            "id": "180",
+            "author": "Джон Кампфнер",
+            "book": "Свобода на продажу",
+            "year": "2012",
+            "buyDate": "10/1/20",
+            "price": "245",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/kampfner-freedomsale-1000.jpg"
+        },
+        {
+            "id": "187",
+            "author": "Алессандро Пиперно",
+            "book": "Ошибка Ле Понтекорво",
+            "year": "2013",
+            "buyDate": "7/27/20",
+            "price": "198.89",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Piperno-Pontecorvo-1000.jpg"
+        },
+        {
+            "id": "188",
+            "author": "Ребекка Маккаи",
+            "book": "Запретное чтение",
+            "year": "2013",
+            "buyDate": "12/18/20",
+            "price": "150",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/makkai-borrower-1000.jpg"
+        },
+        {
+            "id": "193",
+            "author": "Джастин Торрес",
+            "book": "Мы, животные",
+            "year": "2013",
+            "buyDate": "8/25/20",
+            "price": "86",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/torres-animals-1000.jpg"
+        },
+        {
             "id": "195",
             "author": "Патти Смит",
             "book": "Я пасу облака",
@@ -7558,44 +7543,26 @@
             "img": "https://www.corpus.ru/picts/products/smith-woolgathering-1000.jpg"
         },
         {
-            "id": "298",
-            "author": "Патти Смит",
-            "book": "Просто дети",
-            "year": "2014",
+            "id": "197",
+            "author": "Карл Фруде Тиллер",
+            "book": "Замыкая круг",
+            "year": "2013",
+            "buyDate": "7/27/20",
+            "price": "166.91",
             "publisher": "Corpus",
-            "shelf": "corpus patti wishlist",
-            "img": "https://www.corpus.ru/picts/products/patti-cover.jpg"
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Tiller-Krug-1000.jpg"
         },
         {
-            "id": "506",
-            "author": "Патти Смит",
-            "book": "Просто дети",
-            "year": "2021",
-            "buyDate": "5/26/21",
-            "price": "409",
+            "id": "199",
+            "author": "Ханна Кралль",
+            "book": "Королю червонному - дорога дальняя",
+            "year": "2013",
+            "buyDate": "7/27/20",
+            "price": "188.9",
             "publisher": "Corpus",
-            "shelf": "corpus patti",
-            "img": "https://www.corpus.ru/picts/products/Smith-Deti-1000.jpg"
-        },
-        {
-            "id": "389",
-            "author": "Патти Смит",
-            "book": "Поезд М",
-            "year": "2016",
-            "publisher": "Corpus",
-            "shelf": "corpus patti wishlist",
-            "img": "https://www.corpus.ru/picts/products/patti-smith-m-train-1000.jpg"
-        },
-        {
-            "id": "604",
-            "author": "Патти Смит",
-            "book": "Преданность. Год обезьяны",
-            "year": "2020",
-            "buyDate": "11/3/20",
-            "price": "416",
-            "publisher": "Corpus",
-            "shelf": "corpus patti 2020",
-            "img": "https://www.corpus.ru/picts/products/cover1-obesyana.jpg"
+            "shelf": "corpus krall",
+            "img": "https://www.corpus.ru/picts/products/Krall-Kings-1000.jpg"
         },
         {
             "id": "206",
@@ -7664,6 +7631,17 @@
             "img": "https://www.corpus.ru/picts/products/Mendel-Enk-3obezjany-1000.jpg"
         },
         {
+            "id": "240",
+            "author": "Пол Блум",
+            "book": "Наука удовольствия. Почему мы любим то, что любим",
+            "year": "2014",
+            "buyDate": "11/25/20",
+            "price": "279",
+            "publisher": "Corpus",
+            "shelf": "corpus psychology",
+            "img": "https://www.corpus.ru/picts/products/Bloom-Udovolstvia-1000.jpg"
+        },
+        {
             "id": "254",
             "author": "Филипп Шенон",
             "book": "Анатомия убийства. Гибель Джона Кеннеди. Тайны следствия",
@@ -7708,6 +7686,15 @@
             "img": "https://s1.livelib.ru/boocover/1000956440/o/92a6/Albertina_Sarrazen__Menya_zovut_Astragal.jpeg"
         },
         {
+            "id": "298",
+            "author": "Патти Смит",
+            "book": "Просто дети",
+            "year": "2014",
+            "publisher": "Corpus",
+            "shelf": "corpus patti wishlist",
+            "img": "https://www.corpus.ru/picts/products/patti-cover.jpg"
+        },
+        {
             "id": "301",
             "author": "Донна Тартт",
             "book": "Тайная история",
@@ -7732,18 +7719,6 @@
             "img": "https://s1.livelib.ru/boocover/1002970278/o/6ae1/Donna_Tartt__Schegol.jpeg"
         },
         {
-            "id": "348",
-            "author": "Донна Тартт",
-            "book": "Маленький друг",
-            "year": "2015",
-            "buyDate": "9/21/20",
-            "readDate": "2/28/22",
-            "price": "542.35",
-            "publisher": "Corpus",
-            "shelf": "tartt corpus",
-            "img": "https://s1.livelib.ru/boocover/1002970280/o/bdd7/Donna_Tartt__Malenkij_drug.jpeg"
-        },
-        {
             "id": "305",
             "author": "Гауте Хейволл",
             "book": "Язык огня",
@@ -7753,6 +7728,17 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/Heivoll-Yazyk_ognya-1000.jpg"
+        },
+        {
+            "id": "320",
+            "author": "Батист Болье",
+            "book": "Тысяча и одна ночь отделения скорой помощи",
+            "year": "2015",
+            "buyDate": "11/3/20",
+            "price": "289",
+            "publisher": "Corpus",
+            "shelf": "corpus boglie",
+            "img": "https://www.corpus.ru/picts/products/Beaulieu-1001_noch-1000.jpg"
         },
         {
             "id": "331",
@@ -7777,17 +7763,6 @@
             "img": "https://www.corpus.ru/picts/products/gemenes-bartlett-Roma-1000.jpg"
         },
         {
-            "id": "431",
-            "author": "Алисия Хименес Бартлетт",
-            "book": "Убийство на фоне глянца",
-            "year": "2017",
-            "buyDate": "7/27/20",
-            "price": "99.95",
-            "publisher": "Corpus",
-            "shelf": "bartlett corpus",
-            "img": "https://www.corpus.ru/picts/products/Himenes-Bartlett-Ubiystva-1000.jpg"
-        },
-        {
             "id": "336",
             "author": "Аарон Аппельфельд",
             "book": "Цветы тьмы",
@@ -7799,6 +7774,18 @@
             "img": "https://www.corpus.ru/picts/products/Appelfeld-Tsvety-tmy-1000.jpg"
         },
         {
+            "id": "348",
+            "author": "Донна Тартт",
+            "book": "Маленький друг",
+            "year": "2015",
+            "buyDate": "9/21/20",
+            "readDate": "2/28/22",
+            "price": "542.35",
+            "publisher": "Corpus",
+            "shelf": "tartt corpus",
+            "img": "https://s1.livelib.ru/boocover/1002970280/o/bdd7/Donna_Tartt__Malenkij_drug.jpeg"
+        },
+        {
             "id": "349",
             "author": "Дарья Биньярди",
             "book": "Любовь надо заслужить",
@@ -7807,6 +7794,15 @@
             "publisher": "Corpus",
             "shelf": "corpus happy",
             "img": "https://www.corpus.ru/picts/products/Bignardi-Lubov-1000.jpg"
+        },
+        {
+            "id": "371",
+            "author": "Джон Кампфнер",
+            "book": "Богачи",
+            "year": "2016",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Kampfner-Bogachi-1000.jpg"
         },
         {
             "id": "380",
@@ -7831,6 +7827,15 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Farjon-Hudozhnik-1000.jpg"
         },
         {
+            "id": "389",
+            "author": "Патти Смит",
+            "book": "Поезд М",
+            "year": "2016",
+            "publisher": "Corpus",
+            "shelf": "corpus patti wishlist",
+            "img": "https://www.corpus.ru/picts/products/patti-smith-m-train-1000.jpg"
+        },
+        {
             "id": "396",
             "author": "Маргалит Фокс",
             "book": "Тайна лабиринта. Как была прочитана забытая письменность",
@@ -7851,24 +7856,6 @@
             "img": "https://www.corpus.ru/picts/products/Yanagihara-LittleLife-1000.jpg"
         },
         {
-            "id": "455",
-            "author": "Ханья Янагихара",
-            "book": "Люди среди деревьев",
-            "buyDate": "9/23/20",
-            "price": "446.5",
-            "publisher": "Corpus",
-            "shelf": "ianagihara corpus",
-            "img": "https://www.corpus.ru/picts/products/ljudi-sredi-derevev-janagihara.jpg"
-        },
-        {
-            "author": "Ханья Янагихара",
-            "book": "В сторону рая",
-            "year": "2022",
-            "publisher": "Corpus",
-            "shelf": "ianagihara corpus wishlist new 2022",
-            "img": "https://coollib.net/i/52/553552/img_0.webp"
-        },
-        {
             "id": "412",
             "author": "Дон Делилло",
             "book": "Ноль К",
@@ -7880,6 +7867,17 @@
             "img": "https://www.corpus.ru/picts/products/Delillo-Zero K-1000.jpg"
         },
         {
+            "id": "431",
+            "author": "Алисия Хименес Бартлетт",
+            "book": "Убийство на фоне глянца",
+            "year": "2017",
+            "buyDate": "7/27/20",
+            "price": "99.95",
+            "publisher": "Corpus",
+            "shelf": "bartlett corpus",
+            "img": "https://www.corpus.ru/picts/products/Himenes-Bartlett-Ubiystva-1000.jpg"
+        },
+        {
             "id": "435",
             "author": "Рене Нюберг",
             "book": "Последний поезд в Москву",
@@ -7889,6 +7887,27 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/Nyberg-Moscow-1000.jpg"
+        },
+        {
+            "id": "445",
+            "author": "Ханна Кралль",
+            "book": "Портрет с пулей в челюсти и другие истории",
+            "year": "2017",
+            "buyDate": "10/4/20",
+            "price": "262",
+            "publisher": "Corpus",
+            "shelf": "corpus krall",
+            "img": "https://www.corpus.ru/picts/products/hanna-krall-portret-pulej-cheljusti-drugie-istorii.jpg"
+        },
+        {
+            "id": "455",
+            "author": "Ханья Янагихара",
+            "book": "Люди среди деревьев",
+            "buyDate": "9/23/20",
+            "price": "446.5",
+            "publisher": "Corpus",
+            "shelf": "ianagihara corpus",
+            "img": "https://www.corpus.ru/picts/products/ljudi-sredi-derevev-janagihara.jpg"
         },
         {
             "id": "467",
@@ -7910,18 +7929,30 @@
             "readDate": "10/11/21",
             "price": "333.47",
             "publisher": "Corpus",
-            "shelf": "corpus prison",
+            "shelf": "corpus prison romanova",
             "img": "https://www.corpus.ru/picts/products/Romanova-Rus-1000.jpg"
         },
         {
-            "author": "Ольга Романова",
-            "book": "Бутырка. Тюремная тетрадь",
-            "year": "2016",
-            "buyDate": "11/8/20",
-            "readDate": "12/20/20",
-            "price": "74",
-            "shelf": "prison",
-            "img": "https://cdn1.ozone.ru/s3/multimedia-b/wc1200/6008814431.jpg"
+            "id": "470",
+            "author": "Нейтан Хилл",
+            "book": "Нёкк",
+            "year": "2018",
+            "buyDate": "11/21/20",
+            "price": "602",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Hill-Nix-1000.jpg"
+        },
+        {
+            "id": "477",
+            "author": "Майкл Волф",
+            "book": "Огонь и ярость. В Белом доме Трампа",
+            "year": "2018",
+            "buyDate": "11/25/20",
+            "price": "297",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Trump-1000.jpg"
         },
         {
             "id": "480",
@@ -7935,6 +7966,17 @@
             "img": "https://www.corpus.ru/picts/products/SNYDER_cover.jpg"
         },
         {
+            "id": "485",
+            "author": "Уильям Макаскилл",
+            "book": "Ум во благо",
+            "year": "2018",
+            "buyDate": "11/21/20",
+            "price": "233.16",
+            "publisher": "Corpus",
+            "shelf": "corpus psychology",
+            "img": "https://www.corpus.ru/picts/products/McAskill-Good-1000.jpg"
+        },
+        {
             "id": "486",
             "author": "Гаэль Фай",
             "book": "Маленькая страна",
@@ -7944,6 +7986,17 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/tnw239-Faye-Strana-1000.jpg"
+        },
+        {
+            "id": "506",
+            "author": "Патти Смит",
+            "book": "Просто дети",
+            "year": "2021",
+            "buyDate": "5/26/21",
+            "price": "409",
+            "publisher": "Corpus",
+            "shelf": "corpus patti",
+            "img": "https://www.corpus.ru/picts/products/Smith-Deti-1000.jpg"
         },
         {
             "id": "507",
@@ -7978,14 +8031,6 @@
             "publisher": "Corpus",
             "shelf": "corpus dezerabl",
             "img": "https://www.corpus.ru/picts/products/tnw239-Deserable-Pekelny-1000.jpg"
-        },
-        {
-            "author": "Франсуа-Анри Дезерабль",
-            "book": "Владыка мой и победитель",
-            "year": "2022",
-            "publisher": "Corpus",
-            "shelf": "corpus dezerabl wishlist new 2022",
-            "img": "https://images-na.ssl-images-amazon.com/images/I/41Q0UKuMStL._SX339_BO1,204,203,200_.jpg"
         },
         {
             "id": "516",
@@ -8098,25 +8143,6 @@
             "img": "https://www.corpus.ru/picts/products/O_Cadhain-Dirty-1000.jpg"
         },
         {
-            "id": "94",
-            "author": "Роберто Боланьо",
-            "book": "Третий рейх",
-            "year": "2011",
-            "buyDate": "10/3/20",
-            "price": "217",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Bolanyo-Reich-1000.jpg"
-        },
-        {
-            "author": "Роберто Боланьо",
-            "book": "Шлюхи-убийцы",
-            "year": "2011",
-            "publisher": "Corpus",
-            "shelf": "corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Bolanyo-Shliuhi-1000.jpg"
-        },
-        {
             "author": "Кристофер Бакли",
             "book": "Они ведь едят щенков, правда?",
             "year": "2013",
@@ -8168,25 +8194,6 @@
             "img": "https://www.corpus.ru/picts/products/Buckley-Whitehouse-1000.jpg"
         },
         {
-            "id": "n",
-            "author": "Батист Болье",
-            "book": "Тысяча и одна ночь отделения скорой помощи",
-            "publisher": "Corpus",
-            "shelf": "corpus boglie wishlist",
-            "img": "https://cdn1.ozone.ru/multimedia/wc1200/1012341536.jpg"
-        },
-        {
-            "id": "320",
-            "author": "Батист Болье",
-            "book": "Тысяча и одна ночь отделения скорой помощи",
-            "year": "2015",
-            "buyDate": "11/3/20",
-            "price": "289",
-            "publisher": "Corpus",
-            "shelf": "corpus boglie",
-            "img": "https://www.corpus.ru/picts/products/Beaulieu-1001_noch-1000.jpg"
-        },
-        {
             "id": "590",
             "author": "Мэтью Джексон",
             "book": "Человеческие сети",
@@ -8196,6 +8203,17 @@
             "publisher": "Corpus",
             "shelf": "corpus 2020",
             "img": "https://www.corpus.ru/picts/products/cover1-sety.jpg"
+        },
+        {
+            "id": "604",
+            "author": "Патти Смит",
+            "book": "Преданность. Год обезьяны",
+            "year": "2020",
+            "buyDate": "11/3/20",
+            "price": "416",
+            "publisher": "Corpus",
+            "shelf": "corpus patti 2020",
+            "img": "https://www.corpus.ru/picts/products/cover1-obesyana.jpg"
         },
         {
             "id": "605",
@@ -8223,6 +8241,7 @@
             "id": "607",
             "author": "Сергей Лебедев",
             "book": "Дебютант",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "12/27/20",
             "readDate": "10/16/21",
@@ -8235,6 +8254,7 @@
             "id": "608",
             "author": "Кира Ярмыш",
             "book": "Невероятные происшествия в женской камере №3",
+            "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "11/5/20",
             "readDate": "12/1/20",
@@ -8421,28 +8441,6 @@
             "img": "https://www.corpus.ru/picts/products/cover1-runet.jpg"
         },
         {
-            "id": "485",
-            "author": "Уильям Макаскилл",
-            "book": "Ум во благо",
-            "year": "2018",
-            "buyDate": "11/21/20",
-            "price": "233.16",
-            "publisher": "Corpus",
-            "shelf": "corpus psychology",
-            "img": "https://www.corpus.ru/picts/products/McAskill-Good-1000.jpg"
-        },
-        {
-            "id": "470",
-            "author": "Нейтан Хилл",
-            "book": "Нёкк",
-            "year": "2018",
-            "buyDate": "11/21/20",
-            "price": "602",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Hill-Nix-1000.jpg"
-        },
-        {
             "author": "Николь Краусс",
             "book": "Хроники любви",
             "year": "2011",
@@ -8490,28 +8488,6 @@
             "publisher": "Corpus",
             "shelf": "corpus music ross wishlist",
             "img": "https://www.corpus.ru/picts/products/ross-listen-1000.jpg"
-        },
-        {
-            "id": "477",
-            "author": "Майкл Волф",
-            "book": "Огонь и ярость. В Белом доме Трампа",
-            "year": "2018",
-            "buyDate": "11/25/20",
-            "price": "297",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Trump-1000.jpg"
-        },
-        {
-            "id": "240",
-            "author": "Пол Блум",
-            "book": "Наука удовольствия. Почему мы любим то, что любим",
-            "year": "2014",
-            "buyDate": "11/25/20",
-            "price": "279",
-            "publisher": "Corpus",
-            "shelf": "corpus psychology",
-            "img": "https://www.corpus.ru/picts/products/Bloom-Udovolstvia-1000.jpg"
         },
         {
             "id": "160",
@@ -9212,6 +9188,22 @@
             "img": "https://www.corpus.ru/picts/news/21_20211111025806fYtf-OOCtwk.jpg"
         },
         {
+            "author": "Франсуа-Анри Дезерабль",
+            "book": "Владыка мой и победитель",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus dezerabl wishlist new 2022",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/41Q0UKuMStL._SX339_BO1,204,203,200_.jpg"
+        },
+        {
+            "author": "Ханья Янагихара",
+            "book": "В сторону рая",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "ianagihara corpus wishlist new 2022",
+            "img": "https://coollib.net/i/52/553552/img_0.webp"
+        },
+        {
             "id": "325",
             "author": "Джон Уильямс",
             "book": "Стоунер",
@@ -9635,8 +9627,10 @@
             "author": "Дженни Колган",
             "book": "Маленькая пекарня у моря",
             "year": "2022",
+            "buyDate": "5/24/22",
+            "price": "375",
             "publisher": "Иностранка",
-            "shelf": "kolgan inostranka wishlist new 2022",
+            "shelf": "kolgan inostranka 2022",
             "img": "https://cdn.azbooka.ru/cv/w1100/748a4da3-41c0-4e86-9f97-2c8c347751dd.jpg"
         },
         {
@@ -9708,6 +9702,7 @@
         {
             "author": "Билл Сэмюэл",
             "book": "История Foyles. Книготорговец по случаю",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "12/11/20",
             "price": "286",
@@ -9814,6 +9809,7 @@
         {
             "author": "Салли Руни",
             "book": "Разговоры с друзьями",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "1/7/21",
             "readDate": "10/2/21",
@@ -9825,6 +9821,7 @@
         {
             "author": "Салли Руни",
             "book": "Нормальные люди",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "1/7/21",
             "readDate": "10/5/21",
@@ -9856,6 +9853,7 @@
         {
             "author": "Лейла Слимани",
             "book": "Адель",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Синдбад",
             "shelf": "goncur sindbad wishlist slimani",
@@ -9864,6 +9862,7 @@
         {
             "author": "Ханна Кент",
             "book": "Вкус дыма",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "8/17/21",
             "price": "432",
@@ -9874,6 +9873,7 @@
         {
             "author": "Ханна Кент",
             "book": "Темная вода",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "8/17/21",
             "price": "432",
@@ -9894,6 +9894,7 @@
         {
             "author": "Патрик Федра",
             "book": "Библиотека утрат и находок",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "2/3/21",
             "price": "297.31",
@@ -9904,6 +9905,7 @@
         {
             "author": "Мэри Энн Марлоу",
             "book": "Книжный магазинчик Мэделин",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "1/7/21",
             "price": "300",
@@ -9914,6 +9916,7 @@
         {
             "author": "Фрида Шибек",
             "book": "Книжный магазин у реки",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "1/8/21",
             "price": "356",
@@ -9987,6 +9990,7 @@
         {
             "author": "Келси Миллер",
             "book": "Друзья. Больше, чем просто сериал. История создания самого популярного ситкома в истории",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "9/29/20",
             "price": "490",
@@ -9997,6 +10001,7 @@
         {
             "author": "Сол Аустерлиц",
             "book": "Друзья. 25 лет вместе. Как снимали главный сериал эпохи",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "3/31/21",
             "price": "456",
@@ -10028,12 +10033,23 @@
         {
             "author": "Денис Ступников",
             "book": "АРИЯ: Возрождение легенды. Авторизованная биография группы",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "12/25/20",
             "price": "544",
             "publisher": "АСТ",
             "shelf": "ast music stupnikov 2020",
             "img": "https://s1.livelib.ru/boocover/1005527488/o/411f/Denis_Stupnikov__Ariya_Vozrozhdenie_Legendy._Avtorizovannaya_biografiya_gruppy.jpeg"
+        },
+        {
+            "author": "Ольга Романова",
+            "book": "Бутырка. Тюремная тетрадь",
+            "year": "2016",
+            "buyDate": "11/8/20",
+            "readDate": "12/20/20",
+            "price": "74",
+            "shelf": "prison romanova",
+            "img": "https://cdn1.ozone.ru/s3/multimedia-b/wc1200/6008814431.jpg"
         },
         {
             "author": "Мария Бутина",
@@ -10050,6 +10066,7 @@
         {
             "author": "Алекс Фергюсон",
             "book": "Автобиография",
+            "web": "fb2",
             "year": "2014",
             "buyDate": "11/3/20",
             "price": "667",
@@ -10060,6 +10077,7 @@
         {
             "author": "Эбби Ваксман",
             "book": "Книжная жизнь Нины Хилл",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "1/8/21",
             "price": "355",
@@ -10070,6 +10088,7 @@
         {
             "author": "Эми Майерсон",
             "book": "Книжный магазинчик прошлого",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "2/16/21",
             "price": "334",
@@ -10110,6 +10129,7 @@
         {
             "author": "Брайан Мерчант",
             "book": "Универсальное устройство. Неизвестная история создания iPhone",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "11/6/20",
             "price": "485",
@@ -10130,6 +10150,7 @@
         {
             "author": "Мишель Обама",
             "book": "Becoming. Моя история",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "12/14/20",
             "price": "486",
@@ -10150,6 +10171,7 @@
         {
             "author": "Мип Гиз",
             "book": "Я прятала Анну Франк. История женщины, которая пыталась спасти семью Франк от нацистов",
+            "web": "fb2",
             "buyDate": "3/21/21",
             "price": "255.23",
             "publisher": "Бомбора",
@@ -10159,6 +10181,7 @@
         {
             "author": "Кэтрин Мэнникс",
             "book": "Как мы умираем. Ответ на загадку смерти, который должен знать каждый живущий",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "7/21/21",
             "price": "365",
@@ -10169,6 +10192,7 @@
         {
             "author": "Мишель Сапане",
             "book": "Репортаж из морга. Как судмедэксперт заставляет говорить мертвых",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "8/5/21",
             "price": "378",
@@ -10210,6 +10234,7 @@
         {
             "author": "Джеффри Кейн",
             "book": "Взлет Samsung. История самой выдающейся и скандальной технокомпании в мире",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "1/23/22",
             "price": "641",
@@ -10220,6 +10245,7 @@
         {
             "author": "Шон Байтелл",
             "book": "Дневник книготорговца",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "12/24/20",
             "readDate": "5/28/21",
@@ -10231,6 +10257,7 @@
         {
             "author": "Шон Байтелл",
             "book": "Записки книготорговца",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "12/24/20",
             "readDate": "6/6/21",
@@ -10242,6 +10269,7 @@
         {
             "author": "Шон Байтелл",
             "book": "Семь типов людей, которых можно встретить в книжном магазине",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "3/31/21",
             "readDate": "6/8/21",
@@ -10253,6 +10281,7 @@
         {
             "author": "Джессика Фокс",
             "book": "Три вещи, которые нужно знать о ракетах. Дневник девушки книготорговца",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "1/8/21",
             "readDate": "4/26/21",
@@ -10264,6 +10293,7 @@
         {
             "author": "Марианна Вулф",
             "book": "Пруст и кальмар. Нейробиология чтения",
+            "web": "fb2",
             "year": "2002",
             "buyDate": "6/1/21",
             "price": "395",
@@ -10311,6 +10341,7 @@
         {
             "author": "Мона Кастен",
             "book": "Спаси меня. Книга 1",
+            "web": "fb2",
             "buyDate": "1/7/21",
             "price": "312",
             "publisher": "Like Book",
@@ -10320,6 +10351,7 @@
         {
             "author": "Мона Кастен",
             "book": "Спаси себя. Книга 2",
+            "web": "fb2",
             "buyDate": "1/7/21",
             "price": "312",
             "publisher": "Like Book",
@@ -10329,6 +10361,7 @@
         {
             "author": "Мона Кастен",
             "book": "Спаси нас. Книга 3",
+            "web": "fb2",
             "buyDate": "1/7/21",
             "price": "340",
             "publisher": "Like Book",
@@ -10338,6 +10371,7 @@
         {
             "author": "Мона Кастен",
             "book": "Начни сначала. Книга 1",
+            "web": "fb2",
             "buyDate": "1/7/21",
             "price": "340",
             "publisher": "Like Book",
@@ -10347,6 +10381,7 @@
         {
             "author": "Мона Кастен",
             "book": "Доверься мне. Книга 2",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "8/6/21",
             "price": "346",
@@ -10357,6 +10392,7 @@
         {
             "author": "Мона Кастен",
             "book": "Снова почувствуй. Книга 3",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "3/6/22",
             "price": "311",
@@ -10393,6 +10429,7 @@
         {
             "author": "Пули Клэр",
             "book": "Правдивая история",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "2/1/21",
             "price": "258",
@@ -10403,6 +10440,7 @@
         {
             "author": "Джоджо Мойес",
             "book": "Дарующий звезды",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "2/14/21",
             "price": "332",
@@ -10413,6 +10451,7 @@
         {
             "author": "Маттиас Энар",
             "book": "Компас",
+            "web": "fb2",
             "year": "2018",
             "buyDate": "8/20/21",
             "price": "509",
@@ -10423,6 +10462,7 @@
         {
             "author": "Дункан Кларк",
             "book": "Alibaba. История мирового восхождения от первого лица",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "11/3/20",
             "price": "503",
@@ -10433,6 +10473,7 @@
         {
             "author": "Пенелопа Фицджеральд",
             "book": "Книжная лавка",
+            "web": "fb2",
             "year": "2018",
             "buyDate": "2/9/21",
             "readDate": "5/6/21",
@@ -10444,6 +10485,7 @@
         {
             "author": "Пенелопа Фицджеральд",
             "book": "В открытом море",
+            "web": "fb2",
             "year": "2018",
             "buyDate": "2/14/21",
             "price": "411",
@@ -10454,6 +10496,7 @@
         {
             "author": "Джули Кэплин",
             "book": "Маленькое кафе в Копенгагене",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "2/19/21",
             "price": "290",
@@ -10464,6 +10507,7 @@
         {
             "author": "Джули Кэплин",
             "book": "Маленькая кондитерская в Бруклине",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "2/19/21",
             "price": "290",
@@ -10484,6 +10528,7 @@
         {
             "author": "Хелен Рольф",
             "book": "Маленькое кафе в конце пирса",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "2/19/21",
             "price": "367",
@@ -10510,6 +10555,7 @@
         {
             "author": "Эли Макнамара",
             "book": "Маленький цветочный магазин у моря",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "2/14/21",
             "price": "327",
@@ -10520,6 +10566,7 @@
         {
             "author": "Эли Макнамара",
             "book": "Маленький цветочный магазин у моря",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "maknamara eksmo wishlist 2021",
@@ -10528,6 +10575,7 @@
         {
             "author": "Эли Макнамара",
             "book": "Маленький цветочный магазин у моря",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "maknamara eksmo sentimental wishlist new 2022",
@@ -10536,6 +10584,7 @@
         {
             "author": "Эли Макнамара",
             "book": "Письма с «Маяка»",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "2/13/21",
             "price": "327",
@@ -10556,6 +10605,7 @@
         {
             "author": "Жан-Поль Дюбуа",
             "book": "Наследие",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "6/3/21",
             "price": "332",
@@ -10576,6 +10626,7 @@
         {
             "author": "Джанет Скеслин Чарльз",
             "book": "Библиотека в Париже",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "2/1/21",
             "price": "271",
@@ -10586,6 +10637,7 @@
         {
             "author": "Нина Георге",
             "book": "Лавандовая комната",
+            "web": "fb2",
             "year": "2015",
             "buyDate": "2/14/21",
             "price": "320",
@@ -10596,6 +10648,7 @@
         {
             "author": "Нина Георге",
             "book": "Музыка лунного света",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "4/5/21",
             "price": "264",
@@ -10606,6 +10659,7 @@
         {
             "author": "Нина Георге",
             "book": "Книга снов",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "6/18/21",
             "price": "371",
@@ -10616,6 +10670,7 @@
         {
             "author": "Мэри Энн Шаффер и Энни Бэрроуз",
             "book": "Клуб любителей книг и пирогов из картофельных очистков",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "2/14/21",
             "price": "427",
@@ -10626,6 +10681,7 @@
         {
             "author": "Кэтрин Стокетт",
             "book": "Прислуга",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "6/16/21",
             "price": "388",
@@ -10636,6 +10692,7 @@
         {
             "author": "Эллен Фелдман",
             "book": "Париж никогда тебя не оставит",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "10/30/21",
             "price": "388",
@@ -10654,6 +10711,7 @@
         {
             "author": "Эрик де Кермель",
             "book": "Хозяйка книжной лавки на площади Трав",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "1/8/21",
             "readDate": "6/23/21",
@@ -10665,6 +10723,7 @@
         {
             "author": "Крейг Маклей",
             "book": "Книжная лавка",
+            "web": "fb2",
             "year": "2016",
             "buyDate": "2/14/21",
             "readDate": "6/13/21",
@@ -10676,6 +10735,7 @@
         {
             "author": "Крейг Маклей",
             "book": "Киноклуб",
+            "web": "fb2",
             "year": "2016",
             "buyDate": "2/16/21",
             "price": "483",
@@ -10715,6 +10775,7 @@
         {
             "author": "Ким Мишель Ричардсон",
             "book": "Книжная дама из Беспокойного ручья",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "6/18/21",
             "price": "318",
@@ -10725,6 +10786,7 @@
         {
             "author": "Сьюзен Уиггз",
             "book": "Книжный магазин «Бюро находок»",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "7/4/21",
             "readDate": "7/22/21",
@@ -10736,6 +10798,7 @@
         {
             "author": "Барбара О'Нил",
             "book": "Когда мы верили в русалок",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "8/13/21",
             "price": "313",
@@ -10746,6 +10809,7 @@
         {
             "author": "Анна Хоуп",
             "book": "Ожидание",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "8/13/21",
             "price": "313",
@@ -10766,6 +10830,7 @@
         {
             "author": "Яна Хлюстова",
             "book": "Шнобелевская премия. Самые нелепые изобретения и не только",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "9/3/21",
             "price": "390",
@@ -10785,6 +10850,7 @@
         },
         {
             "book": "Автостопом по науке. 70 фактов из истории великих открытий",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "9/23/21",
             "price": "331",
@@ -10805,6 +10871,7 @@
         {
             "author": "Со Ёсон",
             "book": "Мозг и разум в эпоху виртуальной реальности",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "10/18/21",
             "price": "433",
@@ -10917,6 +10984,7 @@
         {
             "author": "Лин Рина",
             "book": "Книжные хроники Анимант Крамб",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "7/22/21",
             "price": "419",
@@ -10927,6 +10995,7 @@
         {
             "author": "Лин Рина",
             "book": "Вселенная Анимант Крамб. Лондонские хроники",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "9/14/21",
             "price": "410",
@@ -10947,6 +11016,7 @@
         {
             "author": "Эрик Асфог",
             "book": "Когда у Земли было две Луны: Планеты-каннибалы, ледяные гиганты, грязевые кометы и другие светила ночного неба",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "8/13/21",
             "price": "513",
@@ -10957,6 +11027,7 @@
         {
             "author": "Аманда Хендрикс и Чарльз Уолфорт",
             "book": "За пределами Земли. В поисках нового дома в Солнечной системе",
+            "web": "fb2",
             "year": "2018",
             "buyDate": "9/9/21",
             "price": "295",
@@ -10996,6 +11067,7 @@
         {
             "author": "Эрик Шмидт, Алан Игл и Джонатан Розенберг",
             "book": "Как работает Google",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "8/28/21",
             "price": "592",
@@ -11006,6 +11078,7 @@
         {
             "author": "Шира Френкель и Сесилия Кэнг",
             "book": "Внутри Facebook. Голая правда",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "9/6/21",
             "price": "763",
@@ -11016,6 +11089,7 @@
         {
             "author": "Лесли-Энн Джонс",
             "book": "Кто убил Джона Леннона? Жизнь, смерть и любовь величайшей рок-звезды XX века",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "10/16/21",
             "price": "516",
@@ -11026,6 +11100,7 @@
         {
             "author": "Джеймс Паттерсон, Кейси Шерман и Дейв Уэдж",
             "book": "Последние дни Джона Леннона",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "12/20/21",
             "price": "524",
@@ -11057,6 +11132,7 @@
         {
             "author": "Кэролайн Б. Куни",
             "book": "Лицо на пакете молока",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "8/28/21",
             "readDate": "9/9/21",
@@ -11068,6 +11144,7 @@
         {
             "author": "Кэролайн Б. Куни",
             "book": "Притворись моей сестрой",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "9/14/21",
             "readDate": "9/17/21",
@@ -11079,6 +11156,7 @@
         {
             "author": "Кэролайн Б. Куни",
             "book": "Голос в радиоэфире",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "10/30/21",
             "readDate": "11/1/21",
@@ -11090,6 +11168,7 @@
         {
             "author": "Кэролайн Б. Куни",
             "book": "Ключ к прошлому",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "12/20/21",
             "readDate": "12/31/21",
@@ -11112,6 +11191,7 @@
         {
             "author": "Сергей Рязанский",
             "book": "Можно ли забить гвоздь в космосе и другие вопросы о космонавтике",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "12/20/21",
             "readDate": "3/13/22",
@@ -11123,6 +11203,7 @@
         {
             "author": "Жанна Немцова",
             "book": "Дочь своего отца",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "1/20/22",
             "readDate": "3/8/22",
@@ -11134,6 +11215,7 @@
         {
             "author": "Уилл Смит и Марк Мэнсон",
             "book": "Will. Чему может научить нас простой парень, ставший самым высокооплачиваемым актером Голливуда",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "1/31/22",
             "price": "556",
@@ -11144,6 +11226,7 @@
         {
             "author": "Роберт Колкер",
             "book": "Что-то не так с Гэлвинами. Идеальная семья, разрушенная безумием",
+            "web": "mp3",
             "year": "2021",
             "buyDate": "4/10/22",
             "price": "421",
@@ -11164,6 +11247,7 @@
         {
             "author": "Синтия Суонсон",
             "book": "Книжная лавка",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "9/30/21",
             "readDate": "10/7/21",
@@ -11309,6 +11393,7 @@
         {
             "author": "Карен Джой Фаулер",
             "book": "Книжный клуб Джейн Остен",
+            "web": "fb2",
             "year": "2006",
             "buyDate": "10/29/21",
             "price": "250",
@@ -11430,6 +11515,7 @@
         {
             "author": "Пол Бейти",
             "book": "Продажная тварь",
+            "web": "fb2",
             "year": "2018",
             "buyDate": "10/16/21",
             "price": "356",
@@ -11440,6 +11526,7 @@
         {
             "author": "Анна Бернс",
             "book": "Молочник",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "10/16/21",
             "price": "372",
@@ -12019,8 +12106,10 @@
             "book": "Каирские хроники хозяйки книжного магазина",
             "web": "mp3",
             "year": "2022",
+            "buyDate": "5/24/22",
+            "price": "552",
             "publisher": "Альпина Паблишер",
-            "shelf": "alpina bookstore wishlist new 2022",
+            "shelf": "alpina bookstore 2022",
             "img": "https://ndc.book24.ru/resize/820x1192/iblock/019/019fa906a848e72df7110a8c70d956bc/ac6f9e4489862264819363c697df4a70.jpg"
         },
         {
@@ -12119,18 +12208,21 @@
         {
             "author": "Кристин Хармель",
             "book": "Забвение пахнет корицей",
+            "web": "fb2",
             "shelf": "harmel wishlist",
             "img": "https://s1.livelib.ru/boocover/1006848787/o/9240/Kristin_Harmel__Zabvenie_pahnet_koritsej.jpeg"
         },
         {
             "author": "Кристин Хармель",
             "book": "Жизнь, которая не стала моей",
+            "web": "fb2",
             "shelf": "harmel wishlist",
             "img": "https://img3.labirint.ru/rc/63b2f3398cb1488ab8009d1e4185459f/220x340/books82/813103/cover.jpg?1626082066"
         },
         {
             "author": "Кристин Хармель",
             "book": "Жена винодела",
+            "web": "fb2",
             "shelf": "harmel wishlist",
             "img": "https://s1.livelib.ru/boocover/1006898164/o/7f3a/Kristin_Harmel__Zhena_vinodela.jpeg"
         },
@@ -12159,8 +12251,9 @@
         {
             "author": "Квентин Тарантино",
             "book": "Однажды в Голливуде",
+            "web": "fb2",
             "year": "2021",
-            "shelf": "wishlist new 2021",
+            "shelf": "wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1006767091/o/b171/Kventin_Tarantino__Odnazhdy_v_Gollivude.jpeg"
         },
         {
