@@ -4822,17 +4822,6 @@
             "img": "https://cdn.ast.ru/v2/ASE000000000847580/COVER/cover1__w600.jpg"
         },
         {
-            "id": "78",
-            "author": "Мэтт Хейг",
-            "book": "Семья Рэдли",
-            "year": "2011",
-            "buyDate": "8/5/20",
-            "price": "164",
-            "publisher": "Corpus",
-            "shelf": "corpus heig",
-            "img": "https://s1.livelib.ru/boocover/1000461484/o/868c/Mett_Hejg__Semya_Redli.jpeg"
-        },
-        {
             "author": "Мэтт Хейг",
             "book": "Полночная библиотека",
             "buyDate": "2/3/21",
@@ -5142,6 +5131,15 @@
             "img": "https://s1.livelib.ru/boocover/1000416292/o/fcfb/Gyunter_Grass__Fotokamera.jpeg"
         },
         {
+            "id": "6",
+            "author": "Сири Хустведт",
+            "book": "Что я любил",
+            "year": "2009",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Hustvedt-Chto-ya-lubil-1000.jpg"
+        },
+        {
             "id": "7",
             "author": "Эдуардо Мендоса",
             "book": "Удивительное путешествие Помпония Флата",
@@ -5189,12 +5187,34 @@
             "id": "12",
             "author": "Тони Моррисон",
             "book": "Жалость",
-            "year": "2010",
+            "year": "2009",
             "buyDate": "8/3/20",
             "price": "198",
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://s1.livelib.ru/boocover/1000453480/o/6118/Toni_Morrison__Zhalost.jpeg"
+        },
+        {
+            "id": "17",
+            "author": "Клаудио Пиньейро",
+            "book": "Твоя",
+            "year": "2009",
+            "buyDate": "8/8/20",
+            "price": "140.5",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000328359/o/34dd/Klaudia_Pinejro__Tvoya.jpeg"
+        },
+        {
+            "id": "18",
+            "author": "Михаил Идов",
+            "book": "Кофемолка",
+            "year": "2009",
+            "buyDate": "8/5/20",
+            "price": "149",
+            "publisher": "Corpus",
+            "shelf": "idov corpus",
+            "img": "https://www.corpus.ru/picts/products/Idov-GroundUp-1000.jpg"
         },
         {
             "id": "20",
@@ -5208,6 +5228,28 @@
             "img": "https://s1.livelib.ru/boocover/1000330560/o/2596/Dzhon_Le_Karre__Osobo_opasen.jpeg"
         },
         {
+            "id": "23",
+            "author": "Лолита Пий",
+            "book": "Бабл-гам",
+            "year": "2010",
+            "buyDate": "8/5/20",
+            "price": "128",
+            "publisher": "Corpus",
+            "shelf": "corpus pille",
+            "img": "https://www.corpus.ru/picts/products/Pille-Bubble-1000.jpg"
+        },
+        {
+            "id": "27",
+            "author": "Арнальд Индридасон",
+            "book": "Трясина",
+            "year": "2010",
+            "buyDate": "11/28/20",
+            "price": "150",
+            "publisher": "Corpus",
+            "shelf": "corpus indridason detective",
+            "img": "https://www.corpus.ru/picts/products/Indridason-Triasina-1000.jpg"
+        },
+        {
             "id": "28",
             "author": "Эдуардо Мендоса",
             "book": "Тайна заколдованной крипты",
@@ -5217,6 +5259,50 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/Mendosa-Cripta-1000.jpg"
+        },
+        {
+            "id": "29",
+            "author": "Леонардо Падура",
+            "book": "Прощай, Хемингуэй!",
+            "year": "2010",
+            "buyDate": "8/3/20",
+            "price": "98",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000449709/o/bdf3/Leonardo_Padura__Proschaj_Heminguej.jpeg"
+        },
+        {
+            "id": "30",
+            "author": "Оуэн Мэтьюз",
+            "book": "Антисоветский роман",
+            "year": "2010",
+            "buyDate": "8/5/20",
+            "price": "209",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Matthews-Roman-1000.jpg"
+        },
+        {
+            "id": "33",
+            "author": "Колин Харрисон",
+            "book": "Манхеттенский ноктюрн",
+            "year": "2010",
+            "buyDate": "8/5/20",
+            "price": "185",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000466924/o/0126/Kolin_Harrison__Manhettenskij_noktyurn.jpeg"
+        },
+        {
+            "id": "35",
+            "author": "Крез",
+            "book": "Я - аферист. Признания банкира",
+            "year": "2010",
+            "buyDate": "7/23/20",
+            "price": "182",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000474268/o/fa71/Krez__Ya__aferist._Priznaniya_bankira.jpeg"
         },
         {
             "id": "36",
@@ -5230,6 +5316,39 @@
             "img": "https://s1.livelib.ru/boocover/1000441729/o/114b/Gyunter_Grass__Koshkimyshki.jpeg"
         },
         {
+            "id": "38",
+            "author": "Ромен Гари",
+            "book": "Свет женщины",
+            "year": "2010",
+            "buyDate": "8/3/20",
+            "price": "174",
+            "publisher": "Corpus",
+            "shelf": "corpus gari",
+            "img": "https://www.corpus.ru/picts/products/Gari-Svet-1000.jpg"
+        },
+        {
+            "id": "40",
+            "author": "Клаудио Пиньейро",
+            "book": "Вдовы по четвергам",
+            "year": "2010",
+            "buyDate": "8/5/20",
+            "price": "158",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000444142/o/004d/Klaudia_Pinejro__Vdovy_po_chetvergam.jpeg"
+        },
+        {
+            "id": "41",
+            "author": "Кристиан Мёрк",
+            "book": "Песий остров",
+            "year": "2010",
+            "buyDate": "10/13/20",
+            "price": "183",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000444144/o/004d/Kristian_Merk__Pesij_ostrov.jpeg"
+        },
+        {
             "id": "42",
             "author": "Фэй Уэлдон",
             "book": "Ненавижу семейную жизнь",
@@ -5239,6 +5358,17 @@
             "publisher": "Corpus",
             "shelf": "corpus weldon",
             "img": "https://s1.livelib.ru/boocover/1000447789/o/0f09/Fej_Ueldon__Nenavizhu_semejnuyu_zhizn.jpeg"
+        },
+        {
+            "id": "44",
+            "author": "Хуан Мадрид",
+            "book": "Прощай, принцесса",
+            "year": "2010",
+            "buyDate": "7/27/20",
+            "price": "182.79",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Madrid-Princesa-1000.jpg"
         },
         {
             "id": "45",
@@ -5252,6 +5382,28 @@
             "img": "https://www.corpus.ru/picts/products/Acroyd-Frankenstein-1000.jpg"
         },
         {
+            "id": "46",
+            "author": "Аманда Смит",
+            "book": "Черная скала",
+            "year": "2010",
+            "buyDate": "7/23/20",
+            "price": "57",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000451706/o/c42e/Amanda_Smit__Chernaya_Ckala.jpeg"
+        },
+        {
+            "id": "47",
+            "author": "Леонардо Падура",
+            "book": "Злые ветры дуют в Великий пост",
+            "year": "2010",
+            "buyDate": "8/26/20",
+            "price": "86",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000474265/o/fa71/Leonardo_Padura__Zlye_vetry_duyut_v_Velikij_post.jpeg"
+        },
+        {
             "id": "49",
             "author": "Питер Акройд",
             "book": "Повесть о Платоне",
@@ -5261,6 +5413,214 @@
             "publisher": "Corpus",
             "shelf": "akroid corpus",
             "img": "https://www.corpus.ru/picts/products/Ackroyd-Platon-1000.jpg"
+        },
+        {
+            "id": "50",
+            "author": "Джона Лерер",
+            "book": "Как мы принимаем решения",
+            "year": "2010",
+            "buyDate": "11/20/20",
+            "price": "387.67",
+            "publisher": "Corpus",
+            "shelf": "lerer corpus",
+            "img": "https://www.corpus.ru/picts/products/Lehrer-Decide-1000.jpg"
+        },
+        {
+            "id": "53",
+            "author": "Мартин Эмис",
+            "book": "Записки о Рейчел",
+            "year": "2010",
+            "buyDate": "7/23/20",
+            "price": "96",
+            "publisher": "Corpus",
+            "shelf": "emis corpus",
+            "img": "https://www.corpus.ru/picts/products/Amis-Rachel-1000.jpg"
+        },
+        {
+            "id": "56",
+            "author": "Бен Х. Уинтерс (Джейн Остин)",
+            "book": "Разум и чувства и гады морские",
+            "year": "2010",
+            "buyDate": "8/5/20",
+            "price": "163",
+            "publisher": "Corpus",
+            "shelf": "corpus osten",
+            "img": "https://s1.livelib.ru/boocover/1000449844/o/bdf3/Ben_Uinters__Razum_i_chuvstva_i_gady_morskie.jpeg"
+        },
+        {
+            "id": "59",
+            "author": "Симонетта Греджо",
+            "book": "Голыми руками",
+            "year": "2010",
+            "buyDate": "8/3/20",
+            "price": "116",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Gregio-Ruki-1000.jpg"
+        },
+        {
+            "id": "61",
+            "author": "Лолита Пий",
+            "book": "Город Сумрак",
+            "year": "2010",
+            "buyDate": "8/8/20",
+            "price": "140.5",
+            "publisher": "Corpus",
+            "shelf": "corpus pille",
+            "img": "https://www.corpus.ru/picts/products/Piy-Sumrak-1000.jpg"
+        },
+        {
+            "id": "62",
+            "author": "Колин Харрисон",
+            "book": "Убийство со взломом",
+            "year": "2010",
+            "buyDate": "7/27/20",
+            "price": "198.89",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000456864/o/34e0/Kolin_Harrison__Ubijstvo_so_vzlomom.jpeg"
+        },
+        {
+            "id": "64",
+            "author": "Джонатан Троппер",
+            "book": "Дальше живите сами",
+            "year": "2010",
+            "buyDate": "12/19/20",
+            "readDate": "1/9/21",
+            "price": "250",
+            "publisher": "Corpus",
+            "shelf": "tropper corpus",
+            "img": "https://www.corpus.ru/picts/products/Tropper-1000.jpg"
+        },
+        {
+            "id": "65",
+            "author": "Виктор Шендерович",
+            "book": "Одна голова хорошо, а две лучше",
+            "year": "2010",
+            "buyDate": "8/3/20",
+            "price": "144",
+            "publisher": "Corpus",
+            "shelf": "corpus shenderovich",
+            "img": "https://www.corpus.ru/picts/products/Shenderovich-2heads-1000.jpg"
+        },
+        {
+            "id": "67",
+            "author": "Хербьёрг Вассму",
+            "book": "Сто лет",
+            "year": "2010",
+            "buyDate": "8/3/20",
+            "price": "198",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000456477/o/33e8/Herberg_Vassmu__Sto_let.jpeg"
+        },
+        {
+            "id": "69",
+            "author": "Арнальд Индридасон",
+            "book": "Каменный мешок",
+            "year": "2010",
+            "buyDate": "8/5/20",
+            "price": "198",
+            "publisher": "Corpus",
+            "shelf": "corpus indridason detective",
+            "img": "https://www.corpus.ru/picts/products/Indridason-Meshok-1000.jpg"
+        },
+        {
+            "id": "72",
+            "author": "Мартин Эмис",
+            "book": "Беременная вдова",
+            "year": "2010",
+            "buyDate": "7/24/20",
+            "price": "74",
+            "publisher": "Corpus",
+            "shelf": "emis corpus",
+            "img": "https://www.corpus.ru/picts/products/Amis-Vdova-1000.jpg"
+        },
+        {
+            "id": "75",
+            "author": "Олег Радзинский",
+            "book": "Иванова свобода",
+            "year": "2010",
+            "buyDate": "8/3/20",
+            "price": "116",
+            "publisher": "Corpus",
+            "shelf": "corpus radzinsky",
+            "img": "https://www.corpus.ru/picts/products/Radzinsky-Svoboda-1000.jpg"
+        },
+        {
+            "id": "77",
+            "author": "Асар Эппель",
+            "book": "Латунная луна",
+            "year": "2012",
+            "buyDate": "8/5/20",
+            "price": "135",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Appel-Luna-1000.jpg"
+        },
+        {
+            "id": "78",
+            "author": "Мэтт Хейг",
+            "book": "Семья Рэдли",
+            "year": "2011",
+            "buyDate": "8/5/20",
+            "price": "164",
+            "publisher": "Corpus",
+            "shelf": "corpus heig",
+            "img": "https://s1.livelib.ru/boocover/1000461484/o/868c/Mett_Hejg__Semya_Redli.jpeg"
+        },
+        {
+            "id": "79",
+            "author": "Лиза Си",
+            "book": "Девушки из Шанхая",
+            "year": "2011",
+            "buyDate": "8/5/20",
+            "price": "309",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000467240/o/6b21/Liza_Si__Devushki_iz_Shanhaya.jpeg"
+        },
+        {
+            "id": "80",
+            "author": "Мартин Эмис",
+            "book": "Ночной поезд",
+            "year": "2010",
+            "buyDate": "8/8/20",
+            "price": "140.5",
+            "publisher": "Corpus",
+            "shelf": "emis corpus",
+            "img": "https://www.corpus.ru/picts/products/Amis-Train-1000.jpg"
+        },
+        {
+            "id": "81",
+            "author": "Хуан Эслава Галан",
+            "book": "В поисках единорога",
+            "year": "2010",
+            "buyDate": "8/3/20",
+            "price": "149",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Galan-Unicorn-1000.jpg"
+        },
+        {
+            "id": "82",
+            "author": "Джонатан Троппер",
+            "book": "Книга Джо",
+            "year": "2011",
+            "buyDate": "8/5/20",
+            "price": "257.83",
+            "publisher": "Corpus",
+            "shelf": "tropper corpus",
+            "img": "https://www.corpus.ru/picts/products/Tropper-Joe-1000.jpg"
+        },
+        {
+            "id": "83",
+            "author": "Роберто Боланьо",
+            "book": "Шлюхи-убийцы",
+            "year": "2011",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Bolanyo-Shliuhi-1000.jpg"
         },
         {
             "id": "84",
@@ -5274,6 +5634,17 @@
             "img": "https://www.corpus.ru/picts/products/LeCarre-Song-1000.jpg"
         },
         {
+            "id": "85",
+            "author": "Рафаэль Иглесиас",
+            "book": "Счастливый брак",
+            "year": "2011",
+            "buyDate": "7/23/20",
+            "price": "99",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/yglesias-marriage-1000.jpg"
+        },
+        {
             "id": "86",
             "author": "Питер Акройд",
             "book": "Чаттертон",
@@ -5285,6 +5656,49 @@
             "img": "https://www.corpus.ru/picts/products/Ackroyd-Chatterton-1000.jpg"
         },
         {
+            "id": "87",
+            "author": "Сири Хустведт",
+            "book": "Печали американца",
+            "year": "2011",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Hustvedt-Pechali-1000.jpg"
+        },
+        {
+            "id": "88",
+            "author": "Максим Осипов",
+            "book": "Крик домашней птицы",
+            "year": "2011",
+            "buyDate": "10/13/20",
+            "price": "194",
+            "publisher": "Corpus",
+            "shelf": "osipov corpus",
+            "img": "https://www.corpus.ru/picts/products/Osipov-Krik-1000tt.jpg"
+        },
+        {
+            "id": "89",
+            "author": "Лаура Лестрепо",
+            "book": "Ангел из Галилеи",
+            "year": "2011",
+            "buyDate": "8/5/20",
+            "price": "132",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://s1.livelib.ru/boocover/1000468090/o/1f7f/Laura_Restrepo__Angel_iz_Galilei.jpeg"
+        },
+        {
+            "id": "94",
+            "author": "Роберто Боланьо",
+            "book": "Третий рейх",
+            "year": "2011",
+            "buyDate": "10/3/20",
+            "price": "217",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Bolanyo-Reich-1000.jpg"
+        },
+        {
+            "id": "106",
             "author": "Питер Акройд",
             "book": "Хоксмур",
             "year": "2011",
@@ -5307,16 +5721,6 @@
             "publisher": "Corpus",
             "shelf": "akroid corpus wishlist",
             "img": "https://www.corpus.ru/picts/products/Ackroyd-Canterberry-1000.jpg"
-        },
-        {
-            "author": "Максим Осипов",
-            "book": "Крик домашней птицы",
-            "year": "2011",
-            "buyDate": "10/13/20",
-            "price": "194",
-            "publisher": "Corpus",
-            "shelf": "osipov corpus",
-            "img": "https://www.corpus.ru/picts/products/Osipov-Krik-1000tt.jpg"
         },
         {
             "author": "Максим Осипов",
@@ -5515,7 +5919,7 @@
             "web": "mp3",
             "year": "2022",
             "buyDate": "3/21/22",
-            "readDate": "5/19/22",
+            "readDate": "5/18/22",
             "price": "465",
             "publisher": "Corpus",
             "shelf": "grun corpus 2022",
@@ -5554,6 +5958,17 @@
             "publisher": "Corpus",
             "shelf": "dikker corpus wishlist",
             "img": "https://www.corpus.ru/picts/products/Dicker-Pravda-1000.jpg"
+        },
+        {
+            "id": "419",
+            "author": "Томас Скарлетт",
+            "book": "Орхидея съела их всех",
+            "year": "2017",
+            "buyDate": "4/12/21",
+            "price": "180.29",
+            "publisher": "Corpus",
+            "shelf": "skarlett corpus",
+            "img": "https://www.corpus.ru/picts/products/Thomas-Orchid-1000.jpg"
         },
         {
             "id": "444",
@@ -5820,17 +6235,6 @@
             "img": "https://www.corpus.ru/picts/products/Piccolo-Neschastie-1000.jpg"
         },
         {
-            "id": "419",
-            "author": "Томас Скарлетт",
-            "book": "Орхидея съела их всех",
-            "year": "2017",
-            "buyDate": "4/12/21",
-            "price": "180.29",
-            "publisher": "Corpus",
-            "shelf": "skarlett corpus",
-            "img": "https://www.corpus.ru/picts/products/Thomas-Orchid-1000.jpg"
-        },
-        {
             "id": "n",
             "author": "Томас Скарлетт",
             "book": "Наша трагическая вселенная",
@@ -5884,17 +6288,6 @@
             "img": "https://www.corpus.ru/picts/products/Jakobsen-Chudo-rebenok-1000.jpg"
         },
         {
-            "id": "18",
-            "author": "Михаил Идов",
-            "book": "Кофемолка",
-            "year": "2009",
-            "buyDate": "8/5/20",
-            "price": "149",
-            "publisher": "Corpus",
-            "shelf": "idov corpus",
-            "img": "https://www.corpus.ru/picts/products/Idov-GroundUp-1000.jpg"
-        },
-        {
             "id": "248",
             "author": "Михаил Идов",
             "book": "Чёс",
@@ -5906,17 +6299,6 @@
             "img": "https://www.corpus.ru/picts/products/Idov-Chos-1000.jpg"
         },
         {
-            "id": "35",
-            "author": "Крез",
-            "book": "Я - аферист. Признания банкира",
-            "year": "2010",
-            "buyDate": "7/23/20",
-            "price": "182",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000474268/o/fa71/Krez__Ya__aferist._Priznaniya_bankira.jpeg"
-        },
-        {
             "id": "420",
             "author": "Маргарита Хемлин",
             "book": "Искальщик",
@@ -5926,39 +6308,6 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/Hemlin-Iskalschik-1000.jpg"
-        },
-        {
-            "id": "53",
-            "author": "Мартин Эмис",
-            "book": "Записки о Рейчел",
-            "year": "2010",
-            "buyDate": "7/23/20",
-            "price": "96",
-            "publisher": "Corpus",
-            "shelf": "emis corpus",
-            "img": "https://www.corpus.ru/picts/products/Amis-Rachel-1000.jpg"
-        },
-        {
-            "id": "72",
-            "author": "Мартин Эмис",
-            "book": "Беременная вдова",
-            "year": "2010",
-            "buyDate": "7/24/20",
-            "price": "74",
-            "publisher": "Corpus",
-            "shelf": "emis corpus",
-            "img": "https://www.corpus.ru/picts/products/Amis-Vdova-1000.jpg"
-        },
-        {
-            "id": "80",
-            "author": "Мартин Эмис",
-            "book": "Ночной поезд",
-            "year": "2010",
-            "buyDate": "8/8/20",
-            "price": "140.5",
-            "publisher": "Corpus",
-            "shelf": "emis corpus",
-            "img": "https://www.corpus.ru/picts/products/Amis-Train-1000.jpg"
         },
         {
             "id": "137",
@@ -6044,18 +6393,6 @@
             "img": "https://www.corpus.ru/picts/products/Sorrentino-Ne-samoe-vazhnoe-1000.jpg"
         },
         {
-            "id": "64",
-            "author": "Джонатан Троппер",
-            "book": "Дальше живите сами",
-            "year": "2010",
-            "buyDate": "12/19/20",
-            "readDate": "1/9/21",
-            "price": "250",
-            "publisher": "Corpus",
-            "shelf": "tropper corpus",
-            "img": "https://www.corpus.ru/picts/products/Tropper-1000.jpg"
-        },
-        {
             "id": "327",
             "author": "Джонатан Троппер",
             "book": "Дальше живите сами",
@@ -6063,17 +6400,6 @@
             "publisher": "Corpus",
             "shelf": "tropper corpus wishlist",
             "img": "https://s1.livelib.ru/boocover/1001288549/o/a264/Dzhonatan_Tropper__Dalshe_zhivite_sami.jpeg"
-        },
-        {
-            "id": "83",
-            "author": "Джонатан Троппер",
-            "book": "Книга Джо",
-            "year": "2011",
-            "buyDate": "8/5/20",
-            "price": "257.83",
-            "publisher": "Corpus",
-            "shelf": "tropper corpus",
-            "img": "https://www.corpus.ru/picts/products/Tropper-Joe-1000.jpg"
         },
         {
             "id": "189",
@@ -6162,27 +6488,6 @@
             "publisher": "Corpus",
             "shelf": "halpern corpus",
             "img": "https://www.corpus.ru/picts/products/Halpern-Telki-1000.jpg"
-        },
-        {
-            "id": "46",
-            "author": "Аманда Смит",
-            "book": "Черная скала",
-            "buyDate": "7/23/20",
-            "price": "57",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000451706/o/c42e/Amanda_Smit__Chernaya_Ckala.jpeg"
-        },
-        {
-            "id": "85",
-            "author": "Рафаэль Иглесиас",
-            "book": "Счастливый брак",
-            "year": "2012",
-            "buyDate": "7/23/20",
-            "price": "99",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/yglesias-marriage-1000.jpg"
         },
         {
             "id": "147",
@@ -6511,17 +6816,6 @@
             "img": "https://www.corpus.ru/picts/products/Gefter-Einstein-1000.jpg"
         },
         {
-            "id": "75",
-            "author": "Олег Радзинский",
-            "book": "Иванова свобода",
-            "year": "2010",
-            "buyDate": "8/3/20",
-            "price": "116",
-            "publisher": "Corpus",
-            "shelf": "corpus radzinsky",
-            "img": "https://www.corpus.ru/picts/products/Radzinsky-Svoboda-1000.jpg"
-        },
-        {
             "id": "n",
             "author": "Олег Радзинский",
             "book": "Агафонкин и Время",
@@ -6588,17 +6882,6 @@
             "img": "https://www.corpus.ru/picts/products/Shenderovich-Ostrov-1000.jpg"
         },
         {
-            "id": "65",
-            "author": "Виктор Шендерович",
-            "book": "Одна голова хорошо, а две лучше",
-            "year": "2011",
-            "buyDate": "8/3/20",
-            "price": "144",
-            "publisher": "Corpus",
-            "shelf": "corpus shenderovich",
-            "img": "https://www.corpus.ru/picts/products/Shenderovich-2heads-1000.jpg"
-        },
-        {
             "id": "n",
             "author": "Виктор Шендерович",
             "book": "Евроремонт",
@@ -6642,6 +6925,19 @@
             "publisher": "Corpus",
             "shelf": "fonkinos corpus lennon beatles",
             "img": "https://www.corpus.ru/picts/products/foenkinos-lennon-1000.jpg"
+        },
+        {
+            "id": "231",
+            "author": "Никколо Амманити",
+            "book": "Ты и я",
+            "web": "fb2",
+            "year": "2013",
+            "buyDate": "8/3/20",
+            "readDate": "2/22/22",
+            "price": "161",
+            "publisher": "Corpus",
+            "shelf": "corpus",
+            "img": "https://www.corpus.ru/picts/products/Ammaniti-You-1000.jpg"
         },
         {
             "id": "250",
@@ -6744,28 +7040,6 @@
             "img": "https://cdn.azbooka.ru/cv/w1100/21689978-8494-44c2-a66c-3ccb5bc20362.jpg"
         },
         {
-            "id": "27",
-            "author": "Арнальд Индридасон",
-            "book": "Трясина",
-            "year": "2010",
-            "buyDate": "11/28/20",
-            "price": "150",
-            "publisher": "Corpus",
-            "shelf": "corpus indridason detective",
-            "img": "https://www.corpus.ru/picts/products/Indridason-Triasina-1000.jpg"
-        },
-        {
-            "id": "69",
-            "author": "Арнальд Индридасон",
-            "book": "Каменный мешок",
-            "year": "2010",
-            "buyDate": "8/5/20",
-            "price": "198",
-            "publisher": "Corpus",
-            "shelf": "corpus indridason detective",
-            "img": "https://www.corpus.ru/picts/products/Indridason-Meshok-1000.jpg"
-        },
-        {
             "id": "117",
             "author": "Арнальд Индридасон",
             "book": "Голос",
@@ -6786,52 +7060,6 @@
             "publisher": "Corpus",
             "shelf": "corpus indridason detective",
             "img": "https://www.corpus.ru/picts/products/Indridason-Ozero-1000.jpg"
-        },
-        {
-            "id": "59",
-            "author": "Симонетта Греджо",
-            "book": "Голыми руками",
-            "year": "2010",
-            "buyDate": "8/3/20",
-            "price": "116",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Gregio-Ruki-1000.jpg"
-        },
-        {
-            "id": "81",
-            "author": "Хуан Эслава Галан",
-            "book": "В поисках единорога",
-            "year": "2010",
-            "buyDate": "8/3/20",
-            "price": "149",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Galan-Unicorn-1000.jpg"
-        },
-        {
-            "id": "231",
-            "author": "Никколо Амманити",
-            "book": "Ты и я",
-            "web": "fb2",
-            "year": "2013",
-            "buyDate": "8/3/20",
-            "readDate": "2/22/22",
-            "price": "161",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Ammaniti-You-1000.jpg"
-        },
-        {
-            "id": "38",
-            "author": "Ромен Гари",
-            "book": "Свет женщины",
-            "year": "2010",
-            "buyDate": "8/3/20",
-            "price": "174",
-            "publisher": "Corpus",
-            "shelf": "corpus gari",
-            "img": "https://www.corpus.ru/picts/products/Gari-Svet-1000.jpg"
         },
         {
             "id": "130",
@@ -6877,83 +7105,6 @@
             "img": "https://www.corpus.ru/picts/products/Gary-Vino-1000.jpg"
         },
         {
-            "id": "67",
-            "author": "Хербьёрг Вассму",
-            "book": "Сто лет",
-            "year": "2010",
-            "buyDate": "8/3/20",
-            "price": "198",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000456477/o/33e8/Herberg_Vassmu__Sto_let.jpeg"
-        },
-        {
-            "id": "126",
-            "author": "Сьюзан Хейбур О'Киф",
-            "book": "Чудовище Франкенштейна",
-            "year": "2011",
-            "buyDate": "8/3/20",
-            "price": "274",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000493205/o/f426/Syuzan_Hejbur_Oampamp039Kif__Chudovische_Frankenshtejna.jpeg"
-        },
-        {
-            "id": "56",
-            "author": "Бен Х. Уинтерс (Джейн Остин)",
-            "book": "Разум и чувства и гады морские",
-            "year": "2010",
-            "buyDate": "8/5/20",
-            "price": "163",
-            "publisher": "Corpus",
-            "shelf": "corpus osten",
-            "img": "https://s1.livelib.ru/boocover/1000449844/o/bdf3/Ben_Uinters__Razum_i_chuvstva_i_gady_morskie.jpeg"
-        },
-        {
-            "id": "123",
-            "author": "Бен Х. Уинтерс (Лев Н. Толстой)",
-            "book": "Андроид Каренина",
-            "year": "2011",
-            "buyDate": "8/3/20",
-            "price": "291",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/android-1000.jpg"
-        },
-        {
-            "id": "29",
-            "author": "Леонардо Падура",
-            "book": "Прощай, Хемингуэй!",
-            "year": "2010",
-            "buyDate": "8/3/20",
-            "price": "98",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000449709/o/bdf3/Leonardo_Padura__Proschaj_Heminguej.jpeg"
-        },
-        {
-            "id": "47",
-            "author": "Леонардо Падура",
-            "book": "Злые ветры дуют в Великий пост",
-            "year": "2010",
-            "buyDate": "8/26/20",
-            "price": "86",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000474265/o/fa71/Leonardo_Padura__Zlye_vetry_duyut_v_Velikij_post.jpeg"
-        },
-        {
-            "id": "104",
-            "author": "Дженнифер Иган",
-            "book": "Цитадель",
-            "year": "2011",
-            "buyDate": "8/5/20",
-            "price": "291",
-            "publisher": "Corpus",
-            "shelf": "corpus igan",
-            "img": "https://www.corpus.ru/picts/products/Egan-Citadel-1000.jpg"
-        },
-        {
             "author": "Дженнифер Иган",
             "book": "Время смеется последним",
             "year": "2013",
@@ -6971,149 +7122,43 @@
             "img": "https://www.corpus.ru/picts/products/Egan-Manhattan-1000.jpg"
         },
         {
-            "id": "79",
-            "author": "Лиза Си",
-            "book": "Девушки из Шанхая",
+            "id": "104",
+            "author": "Дженнифер Иган",
+            "book": "Цитадель",
             "year": "2011",
             "buyDate": "8/5/20",
-            "price": "309",
+            "price": "291",
             "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000467240/o/6b21/Liza_Si__Devushki_iz_Shanhaya.jpeg"
+            "shelf": "corpus igan",
+            "img": "https://www.corpus.ru/picts/products/Egan-Citadel-1000.jpg"
         },
         {
-            "id": "30",
-            "author": "Оуэн Мэтьюз",
-            "book": "Антисоветский роман",
-            "year": "2010",
-            "buyDate": "8/5/20",
-            "price": "209",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Matthews-Roman-1000.jpg"
-        },
-        {
-            "id": "17",
-            "author": "Клаудио Пиньейро",
-            "book": "Твоя",
-            "buyDate": "8/8/20",
-            "price": "140.5",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000328359/o/34dd/Klaudia_Pinejro__Tvoya.jpeg"
-        },
-        {
-            "id": "40",
-            "author": "Клаудио Пиньейро",
-            "book": "Вдовы по четвергам",
-            "year": "2010",
-            "buyDate": "8/5/20",
-            "price": "158",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000444142/o/004d/Klaudia_Pinejro__Vdovy_po_chetvergam.jpeg"
-        },
-        {
-            "id": "89",
-            "author": "Лаура Лестрепо",
-            "book": "Ангел из Галилеи",
+            "id": "123",
+            "author": "Бен Х. Уинтерс (Лев Н. Толстой)",
+            "book": "Андроид Каренина",
             "year": "2011",
-            "buyDate": "8/5/20",
-            "price": "132",
+            "buyDate": "8/3/20",
+            "price": "291",
             "publisher": "Corpus",
             "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000468090/o/1f7f/Laura_Restrepo__Angel_iz_Galilei.jpeg"
+            "img": "https://www.corpus.ru/picts/products/android-1000.jpg"
         },
         {
-            "id": "77",
-            "author": "Асар Эппель",
-            "book": "Латунная луна",
-            "year": "2012",
-            "buyDate": "8/5/20",
-            "price": "135",
+            "id": "126",
+            "author": "Сьюзан Хейбур О'Киф",
+            "book": "Чудовище Франкенштейна",
+            "year": "2011",
+            "buyDate": "8/3/20",
+            "price": "274",
             "publisher": "Corpus",
             "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Appel-Luna-1000.jpg"
+            "img": "https://s1.livelib.ru/boocover/1000493205/o/f426/Syuzan_Hejbur_Oampamp039Kif__Chudovische_Frankenshtejna.jpeg"
         },
         {
             "author": "Лолита Пий",
             "book": "Хелл",
             "shelf": "pille alternative wishlist",
             "img": "https://s1.livelib.ru/boocover/1000188211/o/919a/Lolita_Pij__Hell.jpeg"
-        },
-        {
-            "id": "23",
-            "author": "Лолита Пий",
-            "book": "Бабл-гам",
-            "year": "2010",
-            "buyDate": "8/5/20",
-            "price": "128",
-            "publisher": "Corpus",
-            "shelf": "corpus pille",
-            "img": "https://www.corpus.ru/picts/products/Pille-Bubble-1000.jpg"
-        },
-        {
-            "id": "61",
-            "author": "Лолита Пий",
-            "book": "Город Сумрак",
-            "year": "2010",
-            "buyDate": "8/8/20",
-            "price": "140.5",
-            "publisher": "Corpus",
-            "shelf": "corpus pille",
-            "img": "https://www.corpus.ru/picts/products/Piy-Sumrak-1000.jpg"
-        },
-        {
-            "id": "33",
-            "author": "Колин Харрисон",
-            "book": "Манхеттенский ноктюрн",
-            "buyDate": "8/5/20",
-            "price": "185",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000466924/o/0126/Kolin_Harrison__Manhettenskij_noktyurn.jpeg"
-        },
-        {
-            "id": "62",
-            "author": "Колин Харрисон",
-            "book": "Убийство со взломом",
-            "buyDate": "7/27/20",
-            "price": "198.89",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000456864/o/34e0/Kolin_Harrison__Ubijstvo_so_vzlomom.jpeg"
-        },
-        {
-            "id": "41",
-            "author": "Кристиан Мёрк",
-            "book": "Песий остров",
-            "buyDate": "10/13/20",
-            "price": "183",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://s1.livelib.ru/boocover/1000444144/o/004d/Kristian_Merk__Pesij_ostrov.jpeg"
-        },
-        {
-            "id": "44",
-            "author": "Хуан Мадрид",
-            "book": "Прощай, принцесса",
-            "year": "2010",
-            "buyDate": "7/27/20",
-            "price": "182.79",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Madrid-Princesa-1000.jpg"
-        },
-        {
-            "id": "50",
-            "author": "Джона Лерер",
-            "book": "Как мы принимаем решения",
-            "year": "2010",
-            "buyDate": "11/20/20",
-            "price": "387.67",
-            "publisher": "Corpus",
-            "shelf": "lerer corpus",
-            "img": "https://www.corpus.ru/picts/products/Lehrer-Decide-1000.jpg"
         },
         {
             "id": "216",
@@ -7138,15 +7183,6 @@
             "img": "https://www.corpus.ru/picts/products/Lehrer-Love-1000.jpg"
         },
         {
-            "id": "87",
-            "author": "Сири Хустведт",
-            "book": "Печали американца",
-            "year": "2011",
-            "publisher": "Corpus",
-            "shelf": "corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Hustvedt-Pechali-1000.jpg"
-        },
-        {
             "id": "184",
             "author": "Сири Хустведт",
             "book": "За гранью нервного срыва",
@@ -7156,13 +7192,6 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/hustvedt-nervs-1000.jpg"
-        },
-        {
-            "author": "Сири Хустведт",
-            "book": "Что я любил",
-            "publisher": "Corpus",
-            "shelf": "corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Hustvedt-Chto-ya-lubil-1000.jpg"
         },
         {
             "id": "102",
@@ -7434,25 +7463,6 @@
             "publisher": "Corpus",
             "shelf": "corpus boglie wishlist",
             "img": "https://cdn1.ozone.ru/multimedia/wc1200/1012341536.jpg"
-        },
-        {
-            "id": "94",
-            "author": "Роберто Боланьо",
-            "book": "Третий рейх",
-            "year": "2011",
-            "buyDate": "10/3/20",
-            "price": "217",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Bolanyo-Reich-1000.jpg"
-        },
-        {
-            "author": "Роберто Боланьо",
-            "book": "Шлюхи-убийцы",
-            "year": "2011",
-            "publisher": "Corpus",
-            "shelf": "corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Bolanyo-Shliuhi-1000.jpg"
         },
         {
             "id": "120",
@@ -8441,6 +8451,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-runet.jpg"
         },
         {
+            "id": "101",
             "author": "Николь Краусс",
             "book": "Хроники любви",
             "year": "2011",
@@ -8929,14 +8940,6 @@
             "img": "https://www.corpus.ru/picts/products/cover1-denvort-druzhba.jpg"
         },
         {
-            "author": "Дэвид Дарлинг и Агниджо Банерджи",
-            "book": "Эта странная математика. На краю бесконечности и за ним",
-            "year": "2021",
-            "publisher": "Corpus",
-            "shelf": "corpus wishlist 2021",
-            "img": "https://www.corpus.ru/picts/products/cover1-matematika.jpg"
-        },
-        {
             "id": "370",
             "author": "Дэвид Хоффман",
             "book": "Шпион на миллиард долларов",
@@ -9156,6 +9159,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-prudom-main.jpg"
         },
         {
+            "id": "717",
             "author": "Сьюзен Спиндлер",
             "book": "Суррогатная мать",
             "year": "2022",
@@ -10703,6 +10707,7 @@
         {
             "author": "Дэниел Мейсон",
             "book": "Зимний солдат",
+            "web": "mp3",
             "year": "2022",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press wishlist new 2022",
@@ -11261,6 +11266,7 @@
             "book": "Книжная лавка под дождём",
             "year": "2021",
             "buyDate": "10/2/21",
+            "readDate": "5/20/22",
             "price": "542",
             "publisher": "Поляндрия",
             "shelf": "bookstore hinata polandria 2021",
@@ -11403,6 +11409,7 @@
         {
             "author": "Иван Шипнигов",
             "book": "Нефть, метель и другие веселые боги",
+            "web": "fb2",
             "year": "2016",
             "buyDate": "10/14/21",
             "price": "347",
@@ -11924,8 +11931,8 @@
             "author": "Брайан Фриман",
             "book": "Бесконечность",
             "year": "2022",
-            "buyDate": "6/30/22",
-            "price": "488",
+            "buyDate": "5/20/22",
+            "price": "378",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
             "img": "https://s1.livelib.ru/boocover/1007281492/o/04e1/Brajan_Friman__Beskonechnost.jpeg"
@@ -12340,12 +12347,6 @@
             "img": "https://s1.livelib.ru/boocover/1000181890/o/5c85/Dzhejms_Robert_Bejker__Inzhektorom_vtisnutye_sny.jpeg"
         },
         {
-            "author": "Тони Уайт",
-            "book": "Фокси-Ти",
-            "shelf": "alternative",
-            "img": "https://s1.livelib.ru/boocover/1000181960/o/5c85/Toni_Uajt__FoksiTi.jpeg"
-        },
-        {
             "author": "Джеймс Ваддингтон",
             "book": "Хуже некуда",
             "shelf": "alternative",
@@ -12538,12 +12539,6 @@
             "book": "Страх и отвращение в Лас-Вегасе",
             "shelf": "alternative",
             "img": "https://s1.livelib.ru/boocover/1000815338/o/af63/Hanter_Tompson__Strah_i_otvraschenie_v_LasVegase.jpeg"
-        },
-        {
-            "author": "Уильям Берроуз",
-            "book": "Джанки: исповедь несиправимого наркомана. Письма Яхе. Гомосек.",
-            "shelf": "alternative",
-            "img": "https://s1.livelib.ru/boocover/1000590570/o/5dd6/Uilyam_Berrouz__Dzhanki_Ispoved_neispravimogo_narkomana._Pisma_Yahe._Gomosek_sbo.jpeg"
         },
         {
             "book": "Со стыда провалиться",
