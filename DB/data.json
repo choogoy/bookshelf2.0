@@ -904,6 +904,7 @@
         {
             "author": "Слава Сэ",
             "book": "Жираф",
+            "web": "fb2",
             "readDate": "10/29/21",
             "shelf": "slava wishlist",
             "img": "https://s1.livelib.ru/boocover/1000471834/o/b948/Slava_Se__Zhiraf.jpeg"
@@ -1358,6 +1359,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Слушай песню ветра. Пинбол 1973",
+            "web": "fb2",
             "year": "1980",
             "shelf": "haruki-murakami",
             "img": "https://s1.livelib.ru/boocover/1002617401/o/5296/Murakami_H.__Slushaj_pesnyu_vetra._Pinbol_1973.jpeg"
@@ -1365,6 +1367,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Охота на овец",
+            "web": "fb2",
             "year": "1982",
             "shelf": "haruki-murakami",
             "img": "https://s1.livelib.ru/boocover/1001404766/o/94f4/Murakami_Haruki__Ohota_na_ovets.jpeg"
@@ -1372,6 +1375,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Медленной шлюпкой в Китай",
+            "web": "fb2",
             "year": "1983",
             "shelf": "haruki-murakami",
             "img": "https://s1.livelib.ru/boocover/1000170106/o/03c3/Haruki_Murakami__Medlennoj_shlyupkoj_v_Kitaj_sbornik.jpeg"
@@ -1379,6 +1383,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Хороший день для кенгуру",
+            "web": "fb2",
             "year": "1983",
             "shelf": "haruki-murakami",
             "img": "https://s1.livelib.ru/boocover/1000157567/o/2b75/Haruki_Murakami__Horoshij_den_dlya_kenguru_sbornik.jpeg"
@@ -1386,6 +1391,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Сжечь сарай",
+            "web": "fb2",
             "year": "1984",
             "shelf": "haruki-murakami",
             "img": "https://s1.livelib.ru/boocover/1000236631/o/90a9/Haruki_Murakami__Szhech_saraj._Rasskazy_sbornik.jpeg"
@@ -1393,6 +1399,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Страна Чудес без тормозов и Конец Света",
+            "web": "fb2",
             "year": "1985",
             "shelf": "haruki-murakami",
             "img": "https://s1.livelib.ru/boocover/1001404741/o/94f4/Haruki_Murakami__Strana_Chudes_bez_tormozov_i_Konets_Sveta.jpeg"
@@ -1400,6 +1407,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Рождество Овцы",
+            "web": "fb2",
             "year": "1985",
             "buyDate": "7/16/20",
             "price": "305",
@@ -1409,6 +1417,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Ничья на карусели",
+            "web": "fb2",
             "year": "1985",
             "buyDate": "7/2/20",
             "price": "380",
@@ -1418,6 +1427,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Исчезновение слона",
+            "web": "fb2",
             "year": "1986",
             "buyDate": "6/30/20",
             "price": "288",
@@ -1427,6 +1437,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Норвежский лес",
+            "web": "mp3 fb2",
             "year": "1987",
             "readDate": "1/13/22",
             "shelf": "haruki-murakami",
@@ -1435,6 +1446,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Дэнс, дэнс, дэнс",
+            "web": "fb2",
             "year": "1988",
             "shelf": "haruki-murakami",
             "img": "https://s1.livelib.ru/boocover/1000668411/o/3c08/Haruki_Murakami__Dens_dens_dens.jpeg"
@@ -1442,6 +1454,7 @@
         {
             "author": "Харуки Мураками",
             "book": "TV-люди",
+            "web": "fb2",
             "year": "1990",
             "buyDate": "7/2/20",
             "price": "385",
@@ -1451,6 +1464,7 @@
         {
             "author": "Харуки Мураками",
             "book": "К югу от границы, на запад от солнца",
+            "web": "fb2",
             "year": "1992",
             "shelf": "haruki-murakami",
             "img": "https://s1.livelib.ru/boocover/1000631887/o/c82d/Haruki_Murakami__K_yugu_ot_granitsy_na_zapad_ot_solntsa.jpeg"
@@ -1458,13 +1472,15 @@
         {
             "author": "Харуки Мураками",
             "book": "Хроники Заводной Птицы",
+            "web": "fb2",
             "year": "1995",
             "shelf": "haruki-murakami",
             "img": "https://s1.livelib.ru/boocover/1001703955/o/577a/Murakami_H.__Hroniki_Zavodnoj_Ptitsy.jpeg"
         },
         {
             "author": "Харуки Мураками",
-            "book": "Призраки Ленсингтона",
+            "book": "Призраки Лексингтона",
+            "web": "fb2",
             "year": "1996",
             "buyDate": "6/29/20",
             "price": "203",
@@ -1474,6 +1490,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Подземка",
+            "web": "fb2",
             "year": "1998",
             "buyDate": "7/4/20",
             "price": "280",
@@ -1483,6 +1500,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Край обетованный",
+            "web": "fb2",
             "year": "1998",
             "shelf": "haruki-murakami",
             "img": "https://s1.livelib.ru/boocover/1000185907/o/432e/Haruki_Murakami__Kraj_obetovannyj_Podzemka2.jpeg"
@@ -1490,6 +1508,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Мой любимый sputnik",
+            "web": "fb2",
             "year": "1999",
             "shelf": "haruki-murakami",
             "img": "https://s1.livelib.ru/boocover/1001393715/o/402f/Haruki_Murakami__Moj_lyubimyj_sputnik.jpeg"
@@ -1497,6 +1516,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Все божьи дети могут танцевать",
+            "web": "fb2",
             "year": "2000",
             "buyDate": "7/2/20",
             "price": "331",
@@ -1506,6 +1526,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Джазовые портреты",
+            "web": "fb2",
             "year": "2001",
             "buyDate": "6/29/20",
             "price": "357",
@@ -1515,6 +1536,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Кафка на пляже",
+            "web": "fb2",
             "year": "2002",
             "shelf": "haruki-murakami",
             "img": "https://s1.livelib.ru/boocover/1000679704/o/7cfe/Haruki_Murakami__Kafka_na_plyazhe.jpeg"
@@ -1522,6 +1544,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Послемрак",
+            "web": "fb2",
             "year": "2004",
             "shelf": "haruki-murakami",
             "img": "https://s1.livelib.ru/boocover/1001393723/o/402f/Haruki_Murakami__Poslemrak.jpeg"
@@ -1529,6 +1552,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Токийские легенды",
+            "web": "fb2",
             "year": "2005",
             "shelf": "haruki-murakami",
             "img": "https://s1.livelib.ru/boocover/1000601828/o/28d7/Haruki_Murakami__Tokijskie_legendy.jpeg"
@@ -1536,6 +1560,7 @@
         {
             "author": "Харуки Мураками",
             "book": "О чем я говорю, когда говорю о беге",
+            "web": "fb2",
             "year": "2007",
             "shelf": "haruki-murakami",
             "img": "https://s1.livelib.ru/boocover/1000448640/o/91c5/Haruki_Murakami__O_chem_ya_govoryu_kogda_govoryu_o_bege.jpeg"
@@ -1543,6 +1568,7 @@
         {
             "author": "Харуки Мураками",
             "book": "1Q84. Тысяча Невестьсот Восемьдесят Четыре. Книга 1",
+            "web": "fb2",
             "year": "2010",
             "buyDate": "5/26/16",
             "price": "377",
@@ -1552,6 +1578,7 @@
         {
             "author": "Харуки Мураками",
             "book": "1Q84. Тысяча Невестьсот Восемьдесят Четыре. Книга 2",
+            "web": "fb2",
             "year": "2010",
             "buyDate": "5/26/16",
             "price": "377",
@@ -1561,6 +1588,7 @@
         {
             "author": "Харуки Мураками",
             "book": "1Q84. Тысяча Невестьсот Восемьдесят Четыре. Книга 3",
+            "web": "fb2",
             "year": "2010",
             "buyDate": "5/26/16",
             "price": "377",
@@ -1570,6 +1598,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Радио Мураками",
+            "web": "fb2",
             "year": "2010",
             "shelf": "haruki-murakami",
             "img": "https://s1.livelib.ru/boocover/1000439750/o/e4e0/Haruki_Murakami__Radio_Murakami.jpeg"
@@ -1577,6 +1606,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Игрунка в ночи",
+            "web": "fb2",
             "year": "2011",
             "buyDate": "7/10/20",
             "price": "433",
@@ -1586,6 +1616,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Бесцветный Цкуру Тадзаки и его Годы странствий",
+            "web": "fb2",
             "year": "2013",
             "buyDate": "8/28/15",
             "price": "342",
@@ -1595,6 +1626,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Мужчины без женщин",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "4/4/17",
             "price": "298",
@@ -1605,6 +1637,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Убийство Командора. Книга 1. Возникновение замысла",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "7/22/19",
             "price": "367",
@@ -1615,6 +1648,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Убийство Командора. Книга 2. Ускользающая метафора",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "7/22/19",
             "price": "367",
@@ -1625,6 +1659,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Писатель как профессия",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "6/15/20",
             "price": "345",
@@ -1635,6 +1670,7 @@
         {
             "author": "Харуки Мураками",
             "book": "Беседы о музыке с Сэйдзи Одзавой",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "1/8/21",
             "price": "424",
@@ -1645,6 +1681,7 @@
         {
             "author": "Харуки Мураками",
             "book": "От первого лица",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "3/4/22",
             "readDate": "3/23/22",
@@ -1656,6 +1693,7 @@
         {
             "author": "Рю Мураками",
             "book": "Война начинается за морем",
+            "web": "fb2",
             "year": "1977",
             "shelf": "ru-murakami",
             "img": "https://s1.livelib.ru/boocover/1000206103/o/6a25/Ryu_Murakami__Vojna_nachinaetsya_za_morem.jpeg"
@@ -1663,13 +1701,27 @@
         {
             "author": "Рю Мураками",
             "book": "Дети из камеры хранения",
+            "web": "fb2",
             "year": "1980",
             "shelf": "ru-murakami",
             "img": "https://s1.livelib.ru/boocover/1000357840/o/0a92/Ryu_Murakami__Deti_iz_kamery_hraneniya.jpeg"
         },
         {
             "author": "Рю Мураками",
+            "book": "69",
+            "web": "fb2",
+            "shelf": "ru-murakami wishlist"
+        },
+        {
+            "author": "Рю Мураками",
+            "book": "Все оттенки голубого",
+            "web": "fb2",
+            "shelf": "ru-murakami wishlist"
+        },
+        {
+            "author": "Рю Мураками",
             "book": "69. Все оттенки голубого",
+            "web": "fb2",
             "year": "1987",
             "shelf": "ru-murakami",
             "img": "https://s1.livelib.ru/boocover/1000028406/o/f3f1/Ryu_Murakami__69._Vse_ottenki_golubogo_sbornik.jpeg"
@@ -1677,6 +1729,7 @@
         {
             "author": "Рю Мураками",
             "book": "Отель «Раффлз»",
+            "web": "fb2",
             "year": "1989",
             "shelf": "ru-murakami",
             "img": "https://s1.livelib.ru/boocover/1000310747/o/e19a/Ryu_Murakami__Otel_ampquotRafflzampquot.jpeg"
@@ -1684,6 +1737,7 @@
         {
             "author": "Рю Мураками",
             "book": "Экстаз",
+            "web": "fb2",
             "year": "1993",
             "shelf": "ru-murakami",
             "img": "https://s1.livelib.ru/boocover/1000213921/o/1294/Ryu_Murakami__Ekstaz.jpeg"
@@ -1691,6 +1745,7 @@
         {
             "author": "Рю Мураками",
             "book": "Пирсинг",
+            "web": "fb2",
             "year": "1994",
             "shelf": "ru-murakami",
             "img": "https://s1.livelib.ru/boocover/1000278599/o/f8e1/Ryu_Murakami__Pirsing.jpeg"
@@ -1698,6 +1753,7 @@
         {
             "author": "Рю Мураками",
             "book": "Киоко",
+            "web": "fb2",
             "year": "1995",
             "shelf": "ru-murakami",
             "img": "https://s1.livelib.ru/boocover/1000101575/o/6efb/Ryu_Murakami__Kioko.jpeg"
@@ -1705,6 +1761,7 @@
         {
             "author": "Рю Мураками",
             "book": "Мисо-суп",
+            "web": "fb2",
             "year": "1997",
             "shelf": "ru-murakami",
             "img": "https://s1.livelib.ru/boocover/1000203309/o/1377/Ryu_Murakami__Misosup.jpeg"
@@ -1712,13 +1769,21 @@
         {
             "author": "Рю Мураками",
             "book": "Линии",
+            "web": "fb2",
             "year": "1998",
             "shelf": "ru-murakami",
             "img": "https://s1.livelib.ru/boocover/1000153729/o/b343/Ryu_Murakami__Linii.jpeg"
         },
         {
             "author": "Рю Мураками",
+            "book": "Война начинается за морем. Линии",
+            "web": "fb2",
+            "shelf": "ru-murakami wishlist"
+        },
+        {
+            "author": "Рю Мураками",
             "book": "Меланхолия",
+            "web": "fb2",
             "year": "2000",
             "shelf": "ru-murakami",
             "img": "https://s1.livelib.ru/boocover/1000170420/o/03c3/Ryu_Murakami__Melanholiya.jpeg"
@@ -1726,6 +1791,7 @@
         {
             "author": "Рю Мураками",
             "book": "Паразиты",
+            "web": "fb2",
             "year": "2000",
             "shelf": "ru-murakami",
             "img": "https://s1.livelib.ru/boocover/1000444004/o/004d/Ryu_Murakami__Parazity.jpeg"
@@ -1733,6 +1799,7 @@
         {
             "author": "Рю Мураками",
             "book": "Танатос",
+            "web": "fb2",
             "year": "2005",
             "shelf": "ru-murakami",
             "img": "https://s1.livelib.ru/boocover/1000121307/o/b23f/Ryu_Murakami__Tanatos.jpeg"
@@ -1740,6 +1807,7 @@
         {
             "author": "Рю Мураками",
             "book": "Токийский декаданс",
+            "web": "fb2",
             "year": "2010",
             "shelf": "ru-murakami",
             "img": "https://s1.livelib.ru/boocover/1000438184/o/9e7e/Ryu_Murakami__Tokijskij_dekadans.jpeg"
@@ -1756,6 +1824,7 @@
         {
             "author": "Рю Мураками",
             "book": "Хиты эпохи Сёва",
+            "web": "fb2",
             "year": "2018",
             "buyDate": "10/21/18",
             "price": "302",
@@ -3392,7 +3461,15 @@
             "price": "317",
             "publisher": "Эксмо",
             "shelf": "traub eksmo 2022",
-            "img": "https://img-gorod.ru/28/984/2898446_detail.jpg"
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001244250/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Маша Трауб",
+            "book": "Невозвратный билет",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "traub eksmo wishlist new 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001244535/COVER/cover1__w820.jpg"
         },
         {
             "author": "Маша Трауб",
@@ -8715,6 +8792,13 @@
             "img": "https://www.corpus.ru/picts/news/21_20211111025806fYtf-OOCtwk.jpg"
         },
         {
+            "author": "Амели Нотомб",
+            "book": "Аэростаты",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus notomb wishlist new 2022"
+        },
+        {
             "author": "Франсуа-Анри Дезерабль",
             "book": "Владыка мой и победитель",
             "year": "2022",
@@ -9774,6 +9858,14 @@
         },
         {
             "author": "Дженни Колган",
+            "book": "Лето в маленькой пекарне",
+            "year": "2022",
+            "publisher": "Иностранка",
+            "shelf": "kolgan inostranka wishlist new 2022",
+            "img": "https://sun9-west.userapi.com/sun9-67/s/v1/ig2/-gpKPu-ECoBLDG4Fym6WMJV4dKcdfF5Y0HjKnLjSWPEvcLlLSu1IynRhNDfCKZ9fDXCCt8WQPZOakbOJnBFA_zYh.jpg?size=644x1000&quality=95&type=album"
+        },
+        {
+            "author": "Дженни Колган",
             "book": "CHRISTMAS AT THE CUPCAKE CAFÉ",
             "shelf": "kolgan wishlist",
             "img": "https://www.jennycolgan.com/wp-content/uploads/2019/01/hbg-title-9781405514682-53.jpg"
@@ -9800,7 +9892,7 @@
             "author": "Дженни Колган",
             "book": "SUMMER AT LITTLE BEACH STREET BAKERY",
             "shelf": "kolgan wishlist",
-            "img": "https://www.jennycolgan.com/wp-content/uploads/2019/01/hbg-title-9780751553925-48.jpg"
+            "img": "https://sun9-west.userapi.com/sun9-67/s/v1/ig2/-gpKPu-ECoBLDG4Fym6WMJV4dKcdfF5Y0HjKnLjSWPEvcLlLSu1IynRhNDfCKZ9fDXCCt8WQPZOakbOJnBFA_zYh.jpg?size=644x1000&quality=95&type=album"
         },
         {
             "author": "Дженни Колган",
@@ -9904,7 +9996,7 @@
             "author": "Мона Кастен",
             "book": "Снова надейся. Книга 4",
             "year": "2022",
-            "buyDate": "5/31/22",
+            "buyDate": "5/25/22",
             "price": "371",
             "publisher": "Like Book",
             "shelf": "like-book kasten 2022",
@@ -10741,7 +10833,7 @@
         {
             "author": "Дэниел Мейсон",
             "book": "Зимний солдат",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press wishlist new 2022",
@@ -12722,5 +12814,6 @@
             "shelf": "unasson wishlist",
             "img": "https://s1.livelib.ru/boocover/1005917854/o/b835/Yunas_Yunasson__Sweet_Sweet_Revenge_Ltd..jpeg"
         }
+
     ]
 }
