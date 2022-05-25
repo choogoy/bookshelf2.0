@@ -3467,8 +3467,10 @@
             "author": "Маша Трауб",
             "book": "Невозвратный билет",
             "year": "2022",
+            "buyDate": "7/1/22",
+            "price": "341",
             "publisher": "Эксмо",
-            "shelf": "traub eksmo wishlist new 2022",
+            "shelf": "traub eksmo 2022",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001244535/COVER/cover1__w820.jpg"
         },
         {
@@ -8786,11 +8788,11 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000855789/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-surrogatnoya.jpg"
         },
         {
             "author": "Мария Конникова",
-            "book": "Величайший блеф",
+            "book": "Величайший блеф. Как я научилась быть внимательной, владеть собой и побеждать",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist new 2022",
@@ -8802,7 +8804,15 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus scientificum wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000850419/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-raza-azra.jpg"
+        },
+        {
+            "author": "Олег Дорман",
+            "book": "Подстрочник. Жизнь Лилианны Лунгиной, рассказанная ею в фильме Олега Дормана",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist new 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-blef.jpg"
         },
         {
             "author": "Дженнифер Сэйнт",
@@ -8825,7 +8835,8 @@
             "book": "Аэростаты",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus notomb wishlist new 2022"
+            "shelf": "corpus notomb wishlist new 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-podstrochnik3.jpg"
         },
         {
             "author": "Франсуа-Анри Дезерабль",
@@ -12632,7 +12643,7 @@
             "web": "fb2",
             "year": "1996",
             "shelf": "welsh",
-            "img": "https://libcat.ru/uploads/posts/book/irvin-uelsh-ekstazi.jpg"
+            "img": "https://s1.livelib.ru/boocover/1000243302/o/ed45/Irvin_Uelsh__Ekstazi_sbornik.jpeg"
         },
         {
             "author": "Ирвин Уэлш",
