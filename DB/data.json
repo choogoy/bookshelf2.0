@@ -3699,7 +3699,8 @@
         },
         {
             "author": "Алексей Леонов",
-            "book": "Время первых",
+            "book": "Время первых. Судьба моя – я сам…",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "4/28/17",
             "price": "226",
@@ -3709,11 +3710,24 @@
         {
             "author": "Виктор Савиных",
             "book": "Салют-7. Записки с «мёртвой» станции",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "12/4/17",
             "price": "250",
             "shelf": "space",
             "img": "https://s1.livelib.ru/boocover/1002698953/o/047a/Viktor_Petrovich_Savinyh__Salyut7_Zapiski_s_mjortvoj_stantsii.jpeg"
+        },
+        {
+            "author": "Сергей Рязанский",
+            "book": "Можно ли забить гвоздь в космосе и другие вопросы о космонавтике",
+            "web": "fb2",
+            "year": "2021",
+            "buyDate": "12/20/21",
+            "readDate": "3/13/22",
+            "price": "350",
+            "publisher": "Бомбора",
+            "shelf": "bombora space 2021",
+            "img": "https://s1.livelib.ru/boocover/1003020646/o/a9c9/Sergej_Ryazanskij__Mozhno_li_zabit_gvozd_v_kosmose_i_drugie_voprosy_o_kosmonavti.jpeg"
         },
         {
             "author": "Билл Брайсон",
@@ -3801,6 +3815,7 @@
         {
             "author": "Олег Навальный",
             "book": "3 1/2. С арестантским уважением и братским теплом",
+            "web": "fb2",
             "buyDate": "7/16/20",
             "readDate": "9/14/20",
             "price": "400",
@@ -3810,6 +3825,7 @@
         {
             "author": "Ольга Романова",
             "book": "Бутырка. Тюремная тетрадь",
+            "web": "fb2",
             "year": "2016",
             "buyDate": "11/8/20",
             "readDate": "12/20/20",
@@ -3871,24 +3887,28 @@
         {
             "author": "Протоиерей Александр Торик",
             "book": "Флавиан",
+            "web": "fb2",
             "shelf": "religion",
             "img": "http://flavian-press.ru/wp-content/uploads/2015/07/FLAVIAN-e1437743772797-207x300.jpg"
         },
         {
             "author": "Протоиерей Александр Торик",
             "book": "Флавиан. Жизнь продолжается",
+            "web": "fb2",
             "shelf": "religion",
             "img": "https://flavian-press.ru/wp-content/uploads/2015/07/FLAVIAN-ZHIZN%60-PRODOLZHAETSYA-e1437743749361.jpg"
         },
         {
             "author": "Протоиерей Александр Торик",
             "book": "Флавиан. Восхождение",
+            "web": "fb2",
             "shelf": "religion",
             "img": "https://flavian-press.ru/wp-content/uploads/2015/07/FLAVIAN-VOSHOZHDENIE-e1437743787999.jpg"
         },
         {
             "author": "Протоиерей Александр Торик",
             "book": "Флавиан. Армагеддон",
+            "web": "fb2",
             "shelf": "religion",
             "img": "https://flavian-press.ru/wp-content/uploads/2015/07/armageddon.jpg"
         },
@@ -3995,6 +4015,7 @@
         {
             "author": "Инна Шульженко",
             "book": "Вечность во временное пользование",
+            "web": "fb2",
             "buyDate": "6/18/20",
             "shelf": "gift",
             "img": "https://s1.livelib.ru/boocover/1002374752/o/33f5/Inna_Shulzhenko__Vechnost_vo_vremennoe_polzovanie.jpeg"
@@ -4002,6 +4023,7 @@
         {
             "author": "Иннес Катриона",
             "book": "Кэйтлин и Купидон",
+            "web": "fb2",
             "buyDate": "12/21/20",
             "shelf": "gift",
             "img": "https://cdn1.ozone.ru/s3/multimedia-o/wc1200/6027117276.jpg"
@@ -4009,6 +4031,7 @@
         {
             "author": "Джон Каррейру",
             "book": "Дурная кровь",
+            "web": "fb2",
             "buyDate": "12/21/20",
             "shelf": "gift",
             "img": "https://cdn1.ozone.ru/s3/multimedia-2/wc1200/6025591358.jpg"
@@ -4023,6 +4046,7 @@
         {
             "author": "Жиль Легардинье",
             "book": "Больше не промахнусь",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "1/7/21",
             "publisher": "Синдбад",
@@ -4032,6 +4056,7 @@
         {
             "author": "Кристофер Мур",
             "book": "Грязная работа",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "10/16/21",
             "publisher": "Фантом Пресс",
@@ -4041,6 +4066,7 @@
         {
             "author": "Эми Ральф",
             "book": "Мой сын - Илон Маск. Как воспитать гения",
+            "web": "fb2",
             "buyDate": "7/2/20",
             "price": "519",
             "shelf": "elon-musk",
@@ -4049,6 +4075,7 @@
         {
             "author": "Александр Немиров",
             "book": "Илон Маск. В погоне за мечтой",
+            "web": "fb2",
             "buyDate": "6/29/20",
             "price": "408",
             "shelf": "elon-musk space",
@@ -4057,6 +4084,7 @@
         {
             "author": "Алексей Шорохов",
             "book": "Илон Маск: изобретатель будущего",
+            "web": "fb2",
             "buyDate": "6/29/20",
             "price": "341",
             "shelf": "elon-musk space",
@@ -4097,6 +4125,7 @@
         {
             "author": "Эшли Вэнс",
             "book": "Илон Маск: Tesla, SpaceX и дорога в будущее",
+            "web": "fb2",
             "buyDate": "7/3/20",
             "price": "620",
             "shelf": "elon-musk space",
@@ -9849,8 +9878,9 @@
         {
             "author": "Дженни Колган",
             "book": "Маленькая пекарня у моря",
+            "web": "fb2",
             "year": "2022",
-            "buyDate": "5/24/22",
+            "buyDate": "6/2/22",
             "price": "375",
             "publisher": "Иностранка",
             "shelf": "kolgan inostranka 2022",
@@ -10098,6 +10128,54 @@
             "publisher": "Азбука",
             "shelf": "2022",
             "img": "https://s1.livelib.ru/boocover/1007048176/o/43e4/Nita_Prouz__Gornichnaya.jpeg"
+        },
+        {
+            "author": "Шон Байтелл",
+            "book": "Дневник книготорговца",
+            "web": "fb2",
+            "year": "2020",
+            "buyDate": "12/24/20",
+            "readDate": "5/28/21",
+            "price": "350",
+            "publisher": "КоЛибри",
+            "shelf": "baitell bookstore kolibri",
+            "img": "https://s1.livelib.ru/boocover/1002791469/o/1527/Shon_Bajtell__Dnevnik_knigotorgovtsa.jpeg"
+        },
+        {
+            "author": "Шон Байтелл",
+            "book": "Записки книготорговца",
+            "web": "fb2",
+            "year": "2019",
+            "buyDate": "12/24/20",
+            "readDate": "6/6/21",
+            "price": "350",
+            "publisher": "КоЛибри",
+            "shelf": "baitell bookstore kolibri",
+            "img": "https://s1.livelib.ru/boocover/1003469839/o/c1f8/Shon_Bajtell__Zapiski_knigotorgovtsa.jpeg"
+        },
+        {
+            "author": "Шон Байтелл",
+            "book": "Семь типов людей, которых можно встретить в книжном магазине",
+            "web": "fb2",
+            "year": "2021",
+            "buyDate": "3/31/21",
+            "readDate": "6/8/21",
+            "price": "279",
+            "publisher": "КоЛибри",
+            "shelf": "baitell bookstore kolibri 2021",
+            "img": "https://s1.livelib.ru/boocover/1005786691/o/c29b/Shon_Bajtell__Sem_tipov_lyudej_kotoryh_mozhno_vstretit_v_knizhnom_magazine.jpeg"
+        },
+        {
+            "author": "Джессика Фокс",
+            "book": "Три вещи, которые нужно знать о ракетах. Дневник девушки книготорговца",
+            "web": "fb2",
+            "year": "2020",
+            "buyDate": "1/8/21",
+            "readDate": "4/26/21",
+            "price": "321",
+            "publisher": "КоЛибри",
+            "shelf": "bookstore kolibri",
+            "img": "https://s1.livelib.ru/boocover/1005249529/o/8c84/Dzhessika_Foks__Tri_veschi_kotorye_nuzhno_znat_o_raketah._Dnevnik_devushki_knigo.jpeg"
         },
         {
             "author": "Маттиас Фалдбаккен",
@@ -10524,6 +10602,18 @@
             "img": "https://s1.livelib.ru/boocover/1003696308/o/7129/Ebbi_Vaksman__Knizhnaya_zhizn_Niny_Hill.jpeg"
         },
         {
+            "author": "Эрик де Кермель",
+            "book": "Хозяйка книжной лавки на площади Трав",
+            "web": "fb2",
+            "year": "2020",
+            "buyDate": "1/8/21",
+            "readDate": "6/23/21",
+            "price": "327",
+            "publisher": "Центрполиграф",
+            "shelf": "bookstore poligraf",
+            "img": "https://s1.livelib.ru/boocover/1002987456/o/8e8c/Erik_de_Kermel__Hozyajka_knizhnoj_lavki_na_ploschadi_Trav.jpeg"
+        },
+        {
             "author": "Эми Майерсон",
             "book": "Книжный магазинчик прошлого",
             "web": "fb2",
@@ -10556,6 +10646,16 @@
             "img": "https://s1.livelib.ru/boocover/1005449014/o/1c50/Dzhanet_Skeslin_Charlz__Biblioteka_v_Parizhe.jpeg"
         },
         {
+            "author": "Хорхе Каррион",
+            "book": "Книжные магазины",
+            "year": "2018",
+            "buyDate": "6/7/21",
+            "price": "285.34",
+            "publisher": "Garage",
+            "shelf": "bookstore",
+            "img": "https://s1.livelib.ru/boocover/1002901641/o/e15d/Horhe_Karrion__Knizhnye_magaziny.jpeg"
+        },
+        {
             "author": "Синтия Суонсон",
             "book": "Книжная лавка",
             "web": "fb2",
@@ -10566,6 +10666,33 @@
             "publisher": "АСТ",
             "shelf": "ast bookstore",
             "img": "https://s1.livelib.ru/boocover/1002572067/o/a1d4/Sintiya_Suonson__Knizhnaya_lavka.jpeg"
+        },
+        {
+            "author": "Надя Вассеф",
+            "book": "Каирские хроники хозяйки книжного магазина",
+            "web": "mp3",
+            "year": "2022",
+            "buyDate": "6/2/22",
+            "price": "496",
+            "publisher": "Альпина Паблишер",
+            "shelf": "alpina bookstore 2022",
+            "img": "https://ndc.book24.ru/resize/820x1192/iblock/019/019fa906a848e72df7110a8c70d956bc/ac6f9e4489862264819363c697df4a70.jpg"
+        },
+        {
+            "author": "Росс Кинг",
+            "book": "Книготорговец из Флоренции",
+            "year": "2022",
+            "publisher": "Азбука",
+            "shelf": "bookstore wishlist new 2022",
+            "img": "https://cdn.azbooka.ru/cv/w1100/bef550e9-4e71-4cb1-98da-7cba05cbf910.jpg"
+        },
+        {
+            "author": "Карстен Себастиан Хенн",
+            "book": "Служба доставки книг",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif bookstore wishlist new 2022",
+            "img": "https://sun9-east.userapi.com/sun9-25/s/v1/if2/MvZFm4SXXpDp7N3nuj1xLt4ciAsXZ31fMI9jIWcB9S53FxRE_JC-sn3fF1Kq7EOHJ0qrYpUegsLVNx68Wk2ey18m.jpg?size=844x1324&quality=95&type=album"
         },
         {
             "author": "Фрида Шибек",
@@ -10840,75 +10967,6 @@
             "img": "https://s1.livelib.ru/boocover/1007134639/o/da87/Deniel_Mejson__Zimnij_soldat.jpeg"
         },
         {
-            "author": "Жан-Поль Дюбуа",
-            "book": "Наследие",
-            "web": "fb2",
-            "year": "2019",
-            "buyDate": "6/3/21",
-            "price": "332",
-            "publisher": "Эксмо",
-            "shelf": "dubua eksmo",
-            "img": "https://s1.livelib.ru/boocover/1002947197/o/dffa/ZhanPol_Dyubua__Nasledie.jpeg"
-        },
-        {
-            "author": "Жан-Поль Дюбуа",
-            "book": "Не все люди живут одинаково",
-            "year": "2021",
-            "buyDate": "6/3/21",
-            "price": "365",
-            "publisher": "Эксмо",
-            "shelf": "dubua eksmo goncur 2021",
-            "img": "https://s1.livelib.ru/boocover/1005707824/o/c44e/ZhanPol_Dyubua__Ne_vse_lyudi_zhivut_odinakovo.jpeg"
-        },
-        {
-            "author": "Шон Байтелл",
-            "book": "Дневник книготорговца",
-            "web": "fb2",
-            "year": "2020",
-            "buyDate": "12/24/20",
-            "readDate": "5/28/21",
-            "price": "350",
-            "publisher": "КоЛибри",
-            "shelf": "baitell bookstore kolibri",
-            "img": "https://s1.livelib.ru/boocover/1002791469/o/1527/Shon_Bajtell__Dnevnik_knigotorgovtsa.jpeg"
-        },
-        {
-            "author": "Шон Байтелл",
-            "book": "Записки книготорговца",
-            "web": "fb2",
-            "year": "2019",
-            "buyDate": "12/24/20",
-            "readDate": "6/6/21",
-            "price": "350",
-            "publisher": "КоЛибри",
-            "shelf": "baitell bookstore kolibri",
-            "img": "https://s1.livelib.ru/boocover/1003469839/o/c1f8/Shon_Bajtell__Zapiski_knigotorgovtsa.jpeg"
-        },
-        {
-            "author": "Шон Байтелл",
-            "book": "Семь типов людей, которых можно встретить в книжном магазине",
-            "web": "fb2",
-            "year": "2021",
-            "buyDate": "3/31/21",
-            "readDate": "6/8/21",
-            "price": "279",
-            "publisher": "КоЛибри",
-            "shelf": "baitell bookstore kolibri 2021",
-            "img": "https://s1.livelib.ru/boocover/1005786691/o/c29b/Shon_Bajtell__Sem_tipov_lyudej_kotoryh_mozhno_vstretit_v_knizhnom_magazine.jpeg"
-        },
-        {
-            "author": "Джессика Фокс",
-            "book": "Три вещи, которые нужно знать о ракетах. Дневник девушки книготорговца",
-            "web": "fb2",
-            "year": "2020",
-            "buyDate": "1/8/21",
-            "readDate": "4/26/21",
-            "price": "321",
-            "publisher": "КоЛибри",
-            "shelf": "bookstore kolibri",
-            "img": "https://s1.livelib.ru/boocover/1005249529/o/8c84/Dzhessika_Foks__Tri_veschi_kotorye_nuzhno_znat_o_raketah._Dnevnik_devushki_knigo.jpeg"
-        },
-        {
             "author": "Марианна Вулф",
             "book": "Пруст и кальмар. Нейробиология чтения",
             "web": "fb2",
@@ -10940,18 +10998,6 @@
             "img": "https://s1.livelib.ru/boocover/1006726699/o/9842/Krejg_Braun__One_Two_Three_Four_Bitlz_v_ritme_vremeni.jpeg"
         },
         {
-            "author": "Эрик де Кермель",
-            "book": "Хозяйка книжной лавки на площади Трав",
-            "web": "fb2",
-            "year": "2020",
-            "buyDate": "1/8/21",
-            "readDate": "6/23/21",
-            "price": "327",
-            "publisher": "Центрполиграф",
-            "shelf": "bookstore poligraf",
-            "img": "https://s1.livelib.ru/boocover/1002987456/o/8e8c/Erik_de_Kermel__Hozyajka_knizhnoj_lavki_na_ploschadi_Trav.jpeg"
-        },
-        {
             "author": "Крейг Маклей",
             "book": "Книжная лавка",
             "web": "fb2",
@@ -10973,16 +11019,6 @@
             "publisher": "Центрполиграф",
             "shelf": "kreig poligraf",
             "img": "https://img4.labirint.ru/rc/174d787be546c2d208d55ed180a9f496/348x537/books56/551850/cover.jpg?1563947434"
-        },
-        {
-            "author": "Хорхе Каррион",
-            "book": "Книжные магазины",
-            "year": "2018",
-            "buyDate": "6/7/21",
-            "price": "285.34",
-            "publisher": "Garage",
-            "shelf": "bookstore",
-            "img": "https://s1.livelib.ru/boocover/1002901641/o/e15d/Horhe_Karrion__Knizhnye_magaziny.jpeg"
         },
         {
             "author": "Лин Рина",
@@ -11097,6 +11133,7 @@
             "book": "«Книжная лавка под дождём» и костяной дракон",
             "year": "2021",
             "buyDate": "10/2/21",
+            "readDate": "5/24/22",
             "price": "555",
             "publisher": "Поляндрия",
             "shelf": "bookstore hinata polandria 2021",
@@ -11157,6 +11194,7 @@
         {
             "author": "Мартин Лейтем",
             "book": "Истории торговца книгами",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "1/16/22",
             "price": "431",
@@ -11185,25 +11223,6 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
             "img": "https://s1.livelib.ru/boocover/1006973803/o/8f1f/Meri_Ellen_Tejlor__Sad_nashej_pamyati.jpeg"
-        },
-        {
-            "author": "Росс Кинг",
-            "book": "Книготорговец из Флоренции",
-            "year": "2022",
-            "publisher": "Азбука",
-            "shelf": "bookstore wishlist new 2022",
-            "img": "https://cdn.azbooka.ru/cv/w1100/bef550e9-4e71-4cb1-98da-7cba05cbf910.jpg"
-        },
-        {
-            "author": "Надя Вассеф",
-            "book": "Каирские хроники хозяйки книжного магазина",
-            "web": "mp3",
-            "year": "2022",
-            "buyDate": "5/24/22",
-            "price": "552",
-            "publisher": "Альпина Паблишер",
-            "shelf": "alpina bookstore 2022",
-            "img": "https://ndc.book24.ru/resize/820x1192/iblock/019/019fa906a848e72df7110a8c70d956bc/ac6f9e4489862264819363c697df4a70.jpg"
         },
         {
             "author": "Маделин Мартин",
@@ -11307,6 +11326,39 @@
             "img": "https://is5-ssl.mzstatic.com/image/thumb/Publication116/v4/a2/5a/47/a25a47b6-2022-4e5e-9744-9d472c9b1217/9780593332801.d.jpg/313x0w.webp"
         },
         {
+            "author": "Лидия Сальвер",
+            "book": "Не плакать",
+            "web": "fb2",
+            "year": "2016",
+            "buyDate": "7/8/21",
+            "price": "271",
+            "publisher": "Эксмо",
+            "shelf": "goncur eksmo",
+            "img": "https://s1.livelib.ru/boocover/1001527560/o/36c6/Lidiya_Salver__Ne_plakat.jpeg"
+        },
+        {
+            "author": "Эрик Вюйар",
+            "book": "Повестка дня",
+            "web": "fb2",
+            "year": "2018",
+            "buyDate": "7/15/21",
+            "price": "187",
+            "publisher": "Эксмо",
+            "shelf": "goncur eksmo",
+            "img": "https://img4.labirint.ru/rc/5a04b0a3cf924bf61db5bcafe56d555e/348x537/books67/662504/cover.jpg?1618568730"
+        },
+        {
+            "author": "Николя Матье",
+            "book": "И дети их после них",
+            "web": "fb2",
+            "year": "2020",
+            "buyDate": "7/21/21",
+            "price": "406",
+            "publisher": "Эксмо",
+            "shelf": "goncur eksmo",
+            "img": "https://s1.livelib.ru/boocover/1005349042/o/aaf8/Nikolya_Matjo__I_deti_ih_posle_nih.jpeg"
+        },
+        {
             "author": "Яна Хлюстова",
             "book": "Шнобелевская премия. Самые нелепые изобретения и не только",
             "web": "fb2",
@@ -11367,39 +11419,6 @@
             "publisher": "АСТ",
             "shelf": "ast science 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000863839/COVER/cover1__w600.jpg"
-        },
-        {
-            "author": "Лидия Сальвер",
-            "book": "Не плакать",
-            "web": "fb2",
-            "year": "2016",
-            "buyDate": "7/8/21",
-            "price": "271",
-            "publisher": "Эксмо",
-            "shelf": "goncur eksmo",
-            "img": "https://s1.livelib.ru/boocover/1001527560/o/36c6/Lidiya_Salver__Ne_plakat.jpeg"
-        },
-        {
-            "author": "Эрик Вюйар",
-            "book": "Повестка дня",
-            "web": "fb2",
-            "year": "2018",
-            "buyDate": "7/15/21",
-            "price": "187",
-            "publisher": "Эксмо",
-            "shelf": "goncur eksmo",
-            "img": "https://img4.labirint.ru/rc/5a04b0a3cf924bf61db5bcafe56d555e/348x537/books67/662504/cover.jpg?1618568730"
-        },
-        {
-            "author": "Николя Матье",
-            "book": "И дети их после них",
-            "web": "fb2",
-            "year": "2020",
-            "buyDate": "7/21/21",
-            "price": "406",
-            "publisher": "Эксмо",
-            "shelf": "goncur eksmo",
-            "img": "https://s1.livelib.ru/boocover/1005349042/o/aaf8/Nikolya_Matjo__I_deti_ih_posle_nih.jpeg"
         },
         {
             "author": "Алекс Михаэлидес",
@@ -11495,6 +11514,18 @@
             "publisher": "АСТ",
             "shelf": "ast merkel politics 2022",
             "img": "https://cdn.book24.ru/v2/ASE000000000860653/COVER/cover13d__w410.webp"
+        },
+        {
+            "author": "Жанна Немцова",
+            "book": "Дочь своего отца",
+            "web": "fb2",
+            "year": "2022",
+            "buyDate": "1/20/22",
+            "readDate": "3/8/22",
+            "price": "583",
+            "publisher": "Бомбора",
+            "shelf": "bombora nemcov politics 2022",
+            "img": "https://s1.livelib.ru/boocover/1006937089/o/0a86/Zhanna_Nemtsova__Doch_svoego_ottsa.jpeg"
         },
         {
             "author": "Эрик Асфог",
@@ -11626,30 +11657,6 @@
             "img": "https://s1.livelib.ru/boocover/1003171247/o/b863/Uchitel_Russkogo__50_smertnyh_grehov_v_russkom_yazyke._Govori_i_pishi_pravilno.jpeg"
         },
         {
-            "author": "Сергей Рязанский",
-            "book": "Можно ли забить гвоздь в космосе и другие вопросы о космонавтике",
-            "web": "fb2",
-            "year": "2021",
-            "buyDate": "12/20/21",
-            "readDate": "3/13/22",
-            "price": "350",
-            "publisher": "Бомбора",
-            "shelf": "bombora space 2021",
-            "img": "https://s1.livelib.ru/boocover/1003020646/o/a9c9/Sergej_Ryazanskij__Mozhno_li_zabit_gvozd_v_kosmose_i_drugie_voprosy_o_kosmonavti.jpeg"
-        },
-        {
-            "author": "Жанна Немцова",
-            "book": "Дочь своего отца",
-            "web": "fb2",
-            "year": "2022",
-            "buyDate": "1/20/22",
-            "readDate": "3/8/22",
-            "price": "583",
-            "publisher": "Бомбора",
-            "shelf": "bombora nemcov politics 2022",
-            "img": "https://s1.livelib.ru/boocover/1006937089/o/0a86/Zhanna_Nemtsova__Doch_svoego_ottsa.jpeg"
-        },
-        {
             "author": "Уилл Смит и Марк Мэнсон",
             "book": "Will. Чему может научить нас простой парень, ставший самым высокооплачиваемым актером Голливуда",
             "web": "mp3 fb2",
@@ -11756,6 +11763,7 @@
         {
             "author": "Нацухико Кёгоку",
             "book": "Лето злых духов убумэ",
+            "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "5/16/22",
             "price": "365",
@@ -11801,7 +11809,7 @@
             "buyDate": "10/16/21",
             "price": "401",
             "publisher": "Никея",
-            "shelf": "nikea",
+            "shelf": "nikea 2021",
             "img": "https://ndc.book24.ru/resize/820x1192/iblock/fc3/fc3ff911348b6c7e57ec818688ffdf5d/3792c5fe7b9f6a1cc3f2dcd3d95c39d0.jpg"
         },
         {
@@ -11833,28 +11841,6 @@
             "publisher": "Эксмо",
             "shelf": "eksmo isiguro 2021",
             "img": "https://s1.livelib.ru/boocover/1006894990/o/202a/Kadzuo_Isiguro__Ne_otpuskaj_menya.jpeg"
-        },
-        {
-            "author": "Пол Бейти",
-            "book": "Продажная тварь",
-            "web": "fb2",
-            "year": "2018",
-            "buyDate": "10/16/21",
-            "price": "356",
-            "publisher": "Эксмо",
-            "shelf": "eksmo buker",
-            "img": "https://s1.livelib.ru/boocover/1002700334/o/9582/Pol_Bejti__Prodazhnaya_tvar.jpeg"
-        },
-        {
-            "author": "Анна Бернс",
-            "book": "Молочник",
-            "web": "fb2",
-            "year": "2019",
-            "buyDate": "10/16/21",
-            "price": "372",
-            "publisher": "Эксмо",
-            "shelf": "eksmo buker",
-            "img": "https://s1.livelib.ru/boocover/1003407116/o/5682/Anna_Berns__Molochnik.jpeg"
         },
         {
             "author": "Роуз Карлайл",
@@ -11961,6 +11947,49 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria buker wishlist new 2022",
             "img": "https://upload.wikimedia.org/wikipedia/en/6/68/The_Promise_%28Damon_Galgut%29.png"
+        },
+        {
+            "author": "Пол Бейти",
+            "book": "Продажная тварь",
+            "web": "fb2",
+            "year": "2018",
+            "buyDate": "10/16/21",
+            "price": "356",
+            "publisher": "Эксмо",
+            "shelf": "eksmo buker",
+            "img": "https://s1.livelib.ru/boocover/1002700334/o/9582/Pol_Bejti__Prodazhnaya_tvar.jpeg"
+        },
+        {
+            "author": "Анна Бернс",
+            "book": "Молочник",
+            "web": "fb2",
+            "year": "2019",
+            "buyDate": "10/16/21",
+            "price": "372",
+            "publisher": "Эксмо",
+            "shelf": "eksmo buker",
+            "img": "https://s1.livelib.ru/boocover/1003407116/o/5682/Anna_Berns__Molochnik.jpeg"
+        },
+        {
+            "author": "Жан-Поль Дюбуа",
+            "book": "Наследие",
+            "web": "fb2",
+            "year": "2019",
+            "buyDate": "6/3/21",
+            "price": "332",
+            "publisher": "Эксмо",
+            "shelf": "dubua eksmo",
+            "img": "https://s1.livelib.ru/boocover/1002947197/o/dffa/ZhanPol_Dyubua__Nasledie.jpeg"
+        },
+        {
+            "author": "Жан-Поль Дюбуа",
+            "book": "Не все люди живут одинаково",
+            "year": "2021",
+            "buyDate": "6/3/21",
+            "price": "365",
+            "publisher": "Эксмо",
+            "shelf": "dubua eksmo goncur 2021",
+            "img": "https://s1.livelib.ru/boocover/1005707824/o/c44e/ZhanPol_Dyubua__Ne_vse_lyudi_zhivut_odinakovo.jpeg"
         },
         {
             "author": "Хейзел Прайор",
@@ -12123,7 +12152,7 @@
             "author": "Тереза Дрисколл",
             "book": "До самой смерти",
             "year": "2022",
-            "buyDate": "5/31/22",
+            "buyDate": "5/26/22",
             "price": "294",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
@@ -12414,6 +12443,42 @@
             "img": "https://s1.livelib.ru/boocover/1007028469/o/fbb6/Kristin_Harmel__Kniga_utrachennyh_imen.jpeg"
         },
         {
+            "author": "Куив Макдоннелл",
+            "book": "Человек с одним из многих лиц",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif mcdonnell wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006849483/o/fd2e/Kuiv_Makdonnell__Chelovek_s_odnim_iz_mnogih_lits.jpeg"
+        },
+        {
+            "author": "Куив Макдоннелл",
+            "book": "День, который никогда не настанет",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif mcdonnell wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006849489/o/0a7c/Kuiv_Makdonnell__Den_kotoryj_nikogda_ne_nastanet.jpeg"
+        },
+        {
+            "author": "Куив Макдоннелл",
+            "book": "Странные времена. Предвиденные происшествия с бессмертными",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif mcdonnell wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1007038330/o/c980/__Strannye_vremena.jpeg"
+        },
+        {
+            "author": "Куив Макдоннелл",
+            "book": "«Ангельская» работёнка",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif mcdonnell wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007086306/o/343a/Kuiv_Makdonnell__Angelskaya_rabotjonka.jpeg"
+        },
+        {
             "author": "Карина Ян Глейзер",
             "book": "Вандербикеры с 141-й улицы",
             "web": "fb2",
@@ -12540,6 +12605,7 @@
         {
             "author": "Ирвин Уэлш",
             "book": "На игле",
+            "web": "fb2",
             "year": "1993",
             "shelf": "welsh alternative wishlist",
             "img": "https://s1.livelib.ru/boocover/1000513482/o/4379/Irvin_Uelsh__Na_igle.jpeg"
@@ -12547,6 +12613,7 @@
         {
             "author": "Ирвин Уэлш",
             "book": "Эйсид Хаус",
+            "web": "fb2",
             "year": "1994",
             "shelf": "welsh alternative wishlist",
             "img": "https://s1.livelib.ru/boocover/1000448941/o/fd61/Irvin_Uelsh__Ejsid_Haus.jpeg"
@@ -12554,6 +12621,7 @@
         {
             "author": "Ирвин Уэлш",
             "book": "Кошмары аиста Марабу",
+            "web": "fb2",
             "year": "1995",
             "shelf": "welsh",
             "img": "https://s1.livelib.ru/boocover/1000287357/o/74b8/Irvin_Uelsh__Koshmary_Aista_Marabu.jpeg"
@@ -12561,6 +12629,7 @@
         {
             "author": "Ирвин Уэлш",
             "book": "Экстази",
+            "web": "fb2",
             "year": "1996",
             "shelf": "welsh",
             "img": "https://libcat.ru/uploads/posts/book/irvin-uelsh-ekstazi.jpg"
@@ -12568,6 +12637,7 @@
         {
             "author": "Ирвин Уэлш",
             "book": "Дерьмо",
+            "web": "fb2",
             "year": "1998",
             "shelf": "welsh alternative",
             "img": "https://s1.livelib.ru/boocover/1000320534/o/5810/Irvin_Uelsh__Dermo.jpeg"
@@ -12575,6 +12645,7 @@
         {
             "author": "Ирвин Уэлш",
             "book": "Клей",
+            "web": "fb2",
             "year": "2001",
             "shelf": "welsh",
             "img": "https://s1.livelib.ru/boocover/1000155315/o/32bb/Irvin_Uelsh__Klej.jpeg"
@@ -12582,6 +12653,7 @@
         {
             "author": "Ирвин Уэлш",
             "book": "Порно",
+            "web": "fb2",
             "year": "2002",
             "shelf": "welsh alternative wishlist",
             "img": "https://s1.livelib.ru/boocover/1000261772/o/d04b/Irvin_Uelsh__Porno.jpeg"
@@ -12589,6 +12661,7 @@
         {
             "author": "Ирвин Уэлш",
             "book": "Альковные секреты шеф-поваров",
+            "web": "fb2",
             "year": "2006",
             "shelf": "welsh alternative",
             "img": "https://s1.livelib.ru/boocover/1000284549/o/17e8/Irvin_Uelsh__Alkovnye_sekrety_shefpovarov.jpeg"
@@ -12596,6 +12669,7 @@
         {
             "author": "Ирвин Уэлш",
             "book": "Тяжело в учении, легко в бою",
+            "web": "fb2",
             "year": "2007",
             "shelf": "welsh alternative wishlist",
             "img": "https://s1.livelib.ru/boocover/1000330451/o/e979/Irvin_Uelsh__Tyazhelo_v_uchenii_legko_v_boyu_sbornik.jpeg"
@@ -12603,6 +12677,7 @@
         {
             "author": "Ирвин Уэлш",
             "book": "Преступление",
+            "web": "fb2",
             "year": "2008",
             "shelf": "welsh alternative wishlist",
             "img": "https://s1.livelib.ru/boocover/1000679613/o/7cfe/Irvin_Uelsh__Prestuplenie.jpeg"
@@ -12610,6 +12685,7 @@
         {
             "author": "Ирвин Уэлш",
             "book": "Сборная солянка",
+            "web": "fb2",
             "year": "2009",
             "shelf": "welsh alternative",
             "img": "https://s1.livelib.ru/boocover/1000591840/o/4350/Irvin_Uelsh__Sbornaya_solyanka_sbornik.jpeg"
@@ -12617,6 +12693,7 @@
         {
             "author": "Ирвин Уэлш",
             "book": "Героинщики",
+            "web": "fb2",
             "year": "2012",
             "shelf": "welsh alternative wishlist",
             "img": "https://s1.livelib.ru/boocover/1002982505/o/f24a/Irvin_Uelsh__Geroinschiki.jpeg"
@@ -12624,9 +12701,34 @@
         {
             "author": "Ирвин Уэлш",
             "book": "Сексуальная жизнь сиамских близнецов",
+            "web": "fb2",
             "year": "2014",
             "shelf": "welsh alternative wishlist",
             "img": "https://s1.livelib.ru/boocover/1001533664/o/b4c8/Irvin_Uelsh__Seksualnaya_zhizn_siamskih_bliznetsov.jpeg"
+        },
+        {
+            "author": "Ирвин Уэлш",
+            "book": "Тупая езда",
+            "web": "fb2",
+            "year": "2015",
+            "shelf": "welsh alternative wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002525379/o/7e2f/Irvin_Uelsh__Tupaya_ezda.jpeg"
+        },
+        {
+            "author": "Ирвин Уэлш",
+            "book": "Резьба по живому",
+            "web": "fb2",
+            "year": "2016",
+            "shelf": "welsh alternative wishlist",
+            "img": "https://s1.livelib.ru/boocover/1003019545/o/9a62/Irvin_Uelsh__Rezba_po_zhivomu.jpeg"
+        },
+        {
+            "author": "Ирвин Уэлш",
+            "book": "Брюки мертвеца",
+            "web": "fb2",
+            "year": "2018",
+            "shelf": "welsh alternative wishlist",
+            "img": "https://s1.livelib.ru/boocover/1005988624/o/cf89/Irvin_Uelsh__Bryuki_mertvetsa.jpeg"
         },
         {
             "author": "Джон Кинг",
@@ -12814,6 +12916,5 @@
             "shelf": "unasson wishlist",
             "img": "https://s1.livelib.ru/boocover/1005917854/o/b835/Yunas_Yunasson__Sweet_Sweet_Revenge_Ltd..jpeg"
         }
-
     ]
 }
