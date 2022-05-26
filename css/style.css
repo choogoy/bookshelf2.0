@@ -550,6 +550,7 @@ button {
   -ms-grid-columns: (1fr)[5];
       grid-template-columns: repeat(5, 1fr);
   grid-gap: 30px;
+  padding-bottom: 40px;
 }
 
 .books__item {
@@ -794,7 +795,6 @@ button {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  padding-bottom: 40px;
 }
 
 .pages {
