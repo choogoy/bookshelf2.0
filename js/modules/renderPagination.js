@@ -35,6 +35,7 @@ const renderPagination = (totalPages, activePage) => {
 
     if (totalPages > 1) {
 
+        paginationNav.style.paddingBottom = '40px';
         paginationNav.insertAdjacentElement('afterbegin', ul);
         paginationNav.insertAdjacentElement('afterbegin', prevButton);
         paginationNav.insertAdjacentElement('beforeend', nextButton);
@@ -80,6 +81,8 @@ const renderPagination = (totalPages, activePage) => {
             }
         }
 
+    } else {
+        paginationNav.style.paddingBottom = '0';
     }
     
 
