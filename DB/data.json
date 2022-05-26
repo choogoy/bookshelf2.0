@@ -4,6 +4,7 @@
             "author": "Евгений Гришковец",
             "book": "Рубашка",
             "year": "2004",
+            "readDate": "5/25/22",
             "shelf": "grishkovets",
             "img": "https://cv5.litres.ru/pub/c/elektronnaya-kniga/cover_415/121152-evgeniy-grishkovec-rubashka.jpg"
         },
@@ -8812,7 +8813,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist new 2022",
-            "img": "https://www.corpus.ru/picts/products/cover1-blef.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-podstrochnik3.jpg"
         },
         {
             "author": "Дженнифер Сэйнт",
@@ -8835,8 +8836,7 @@
             "book": "Аэростаты",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus notomb wishlist new 2022",
-            "img": "https://www.corpus.ru/picts/products/cover1-podstrochnik3.jpg"
+            "shelf": "corpus notomb wishlist new 2022"
         },
         {
             "author": "Франсуа-Анри Дезерабль",
@@ -9895,7 +9895,7 @@
             "price": "375",
             "publisher": "Иностранка",
             "shelf": "kolgan inostranka 2022",
-            "img": "https://cdn.azbooka.ru/cv/w1100/748a4da3-41c0-4e86-9f97-2c8c347751dd.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007340574/o/57af/Dzhenni_Kolgan__Malenkaya_pekarnya_u_morya.jpeg"
         },
         {
             "author": "Дженни Колган",
@@ -10812,7 +10812,7 @@
         },
         {
             "author": "Фрейя Сэмпсон",
-            "book": "Библиотека последней надежды",
+            "book": "Библиотека моего сердца",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria bookstore new wishlist 2022",
