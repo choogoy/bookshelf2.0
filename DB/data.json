@@ -1,8 +1,9 @@
-﻿{
+{
     "books": [
         {
             "author": "Евгений Гришковец",
             "book": "Рубашка",
+            "web": "mp3 fb2",
             "year": "2004",
             "readDate": "5/25/22",
             "shelf": "grishkovets",
@@ -11,6 +12,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "Реки",
+            "web": "mp3 fb2",
             "year": "2005",
             "shelf": "grishkovets",
             "img": "https://cv8.litres.ru/pub/c/elektronnaya-kniga/cover_415/126980-evgeniy-grishkovec-reki.jpg"
@@ -18,6 +20,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "Зима",
+            "web": "fb2",
             "year": "2005",
             "shelf": "grishkovets",
             "img": "https://libking.ru/uploads/posts/books/132650.jpg"
@@ -25,6 +28,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "Планка",
+            "web": "fb2",
             "year": "2006",
             "shelf": "grishkovets",
             "img": "https://cv9.litres.ru/pub/c/elektronnaya-kniga/cover_415/290092-evgeniy-grishkovec-planka.jpg"
@@ -32,6 +36,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "Следы на мне",
+            "web": "fb2",
             "year": "2007",
             "shelf": "grishkovets",
             "img": "https://cv0.litres.ru/pub/c/elektronnaya-kniga/cover_415/290102-evgeniy-grishkovec-sledy-na-mne.jpg"
@@ -39,6 +44,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "Асфальт",
+            "web": "fb2",
             "year": "2008",
             "shelf": "grishkovets",
             "img": "https://cv1.litres.ru/pub/c/elektronnaya-kniga/cover_415/165719-evgeniy-grishkovec-asfalt.jpg"
@@ -46,6 +52,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "Год ЖЖизни",
+            "web": "fb2",
             "year": "2008",
             "shelf": "grishkovets",
             "img": "https://cv2.litres.ru/pub/c/elektronnaya-kniga/cover_415/176324-evgeniy-grishkovec-god-zhzhizni.jpg"
@@ -53,6 +60,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "Продолжение ЖЖизни",
+            "web": "fb2",
             "year": "2009",
             "shelf": "grishkovets",
             "img": "https://cv8.litres.ru/pub/c/elektronnaya-kniga/cover_415/606985-evgeniy-grishkovec-prodolzhenie-zhzhizni.jpg"
@@ -60,6 +68,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "А.....а",
+            "web": "fb2",
             "year": "2010",
             "shelf": "grishkovets",
             "img": "https://cv0.litres.ru/pub/c/elektronnaya-kniga/cover_415/308702-evgeniy-grishkovec-a-a.jpg"
@@ -67,6 +76,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "Сатисфакция",
+            "web": "fb2",
             "year": "2010",
             "shelf": "grishkovets",
             "img": "https://cv1.litres.ru/pub/c/elektronnaya-kniga/cover_415/436915-evgeniy-grishkovec-satisfakciya.jpg"
@@ -99,6 +109,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "Почти рукописная жизнь",
+            "web": "fb2",
             "year": "2013",
             "buyDate": "6/26/13",
             "price": "275",
@@ -108,6 +119,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "Боль",
+            "web": "fb2",
             "year": "2014",
             "buyDate": "4/15/14",
             "price": "270",
@@ -117,6 +129,7 @@
         {
             "author": "Евгений Гришковец и Анна Матисон",
             "book": "Уик энд. Конец недели",
+            "web": "fb2",
             "year": "2014",
             "buyDate": "4/22/14",
             "price": "137",
@@ -126,6 +139,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "Одновременно: жизнь",
+            "web": "fb2",
             "year": "2014",
             "buyDate": "10/4/14",
             "price": "339",
@@ -135,6 +149,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "Избранные записи",
+            "web": "fb2",
             "year": "2015",
             "buyDate": "1/19/15",
             "price": "495",
@@ -144,6 +159,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "ЛЕТО - ЛЕТО и другие времена года",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "2/17/17",
             "price": "352",
@@ -153,6 +169,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "«Весы» и другие пьесы",
+            "web": "fb2",
             "year": "2018",
             "buyDate": "1/29/18",
             "price": "352",
@@ -162,6 +179,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "Театр отчаяния. Отчаянный театр",
+            "web": "fb2",
             "year": "2018",
             "buyDate": "5/28/18",
             "price": "703",
@@ -171,6 +189,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "Водка как нечто большее. Труд",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "6/25/20",
             "readDate": "1/10/21",
@@ -182,6 +201,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "Водка как нечто большее. Труд (с опечаткой)",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "7/17/20",
             "price": "322",
@@ -192,6 +212,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "Водка как нечто большее. Труд (с опечаткой, с автографом автора)",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "7/27/20",
             "price": "336",
@@ -202,6 +223,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "Узелки",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "9/19/20",
             "publisher": "КоЛибри",
@@ -222,6 +244,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Теллурия",
+            "web": "fb2",
             "year": "2013",
             "publisher": "Corpus",
             "shelf": "corpus sorokin wishlist",
@@ -231,6 +254,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "День опричника",
+            "web": "fb2",
             "year": "2013",
             "publisher": "Corpus",
             "shelf": "corpus sorokin wishlist",
@@ -240,6 +264,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Норма",
+            "web": "fb2",
             "year": "2014",
             "publisher": "Corpus",
             "shelf": "corpus sorokin wishlist",
@@ -249,6 +274,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Сахарный Кремль",
+            "web": "fb2",
             "year": "2014",
             "publisher": "Corpus",
             "shelf": "corpus sorokin wishlist",
@@ -258,6 +284,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "День опричника",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "11/6/21",
             "price": "411",
@@ -269,6 +296,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Манарага",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "11/5/21",
             "price": "393",
@@ -280,6 +308,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Сахарный Кремль",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "11/5/21",
             "price": "371",
@@ -291,6 +320,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Теллурия",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "11/5/21",
             "price": "452",
@@ -302,6 +332,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Тридцатая любовь Марины",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "11/5/21",
             "price": "409",
@@ -313,6 +344,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Голубое сало",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "11/5/21",
             "price": "474",
@@ -324,6 +356,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Моноклон",
+            "web": "fb2",
             "year": "2017",
             "publisher": "Corpus",
             "shelf": "corpus sorokin wishlist",
@@ -333,6 +366,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Ледяная трилогия",
+            "web": "fb2",
             "year": "2018",
             "buyDate": "11/9/21",
             "price": "537",
@@ -344,6 +378,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Первый субботник",
+            "web": "fb2",
             "year": "2018",
             "buyDate": "1/20/22",
             "price": "478",
@@ -355,6 +390,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Очередь",
+            "web": "fb2",
             "year": "2018",
             "buyDate": "11/9/21",
             "readDate": "11/27/21",
@@ -367,6 +403,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Метель",
+            "web": "fb2",
             "year": "2018",
             "buyDate": "11/9/21",
             "readDate": "7/12/21",
@@ -379,6 +416,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Белый квадрат",
+            "web": "fb2",
             "year": "2018",
             "buyDate": "11/5/21",
             "price": "330",
@@ -390,6 +428,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Триумф Времени и Бесчувствия",
+            "web": "fb2",
             "year": "2018",
             "buyDate": "11/7/21",
             "price": "379",
@@ -401,6 +440,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Капитал",
+            "web": "fb2",
             "year": "2018",
             "buyDate": "11/25/21",
             "price": "653",
@@ -412,6 +452,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Нормальная история",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "11/5/21",
             "price": "413",
@@ -423,6 +464,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Норма",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "11/5/21",
             "readDate": "11/29/21",
@@ -435,6 +477,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Русские народные пословицы и поговорки",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "11/6/21",
             "price": "423",
@@ -446,6 +489,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Пир",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "11/15/21",
             "price": "459",
@@ -457,6 +501,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Доктор Гарин",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "11/5/21",
             "price": "498",
@@ -468,6 +513,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Сердца четырёх",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "11/9/21",
             "price": "421",
@@ -479,6 +525,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "Роман",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "2/21/22",
             "price": "743",
@@ -489,6 +536,7 @@
         {
             "author": "Эрленд Лу",
             "book": "Во власти женщины",
+            "web": "fb2",
             "year": "1993",
             "shelf": "erlend-lou",
             "img": "https://img3.labirint.ru/rc/80c81030f8c59b47dcdf1ca3e67d01bb/220x340/books15/140781/cover.jpg?1568388361"
@@ -496,6 +544,7 @@
         {
             "author": "Эрленд Лу",
             "book": "Наивно. Супер",
+            "web": "fb2",
             "year": "1996",
             "shelf": "erlend-lou",
             "img": "https://akniga.org/uploads/media/topic/2019/03/22/08/preview/5df5e4667bd2495e1268_400x.jpg"
@@ -503,6 +552,7 @@
         {
             "author": "Эрленд Лу",
             "book": "У",
+            "web": "fb2",
             "year": "1999",
             "shelf": "erlend-lou",
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS4mxxoqAuDvdjTIiOhqfo1v00pWu2UXXWPmg&usqp=CAU"
@@ -510,6 +560,7 @@
         {
             "author": "Эрленд Лу",
             "book": "Лучшая страна в мире (факты о Финляндии)",
+            "web": "fb2",
             "year": "2001",
             "shelf": "erlend-lou",
             "img": "https://data.fantlab.ru/images/editions/big/49991?r=1492544696"
@@ -517,6 +568,7 @@
         {
             "author": "Эрленд Лу",
             "book": "Четыре сказки о Курте",
+            "web": "fb2",
             "year": "2003",
             "shelf": "erlend-lou",
             "img": "https://s1.livelib.ru/boocover/1000252223/o/9052/Erlend_Lu__Chetyre_skazki_o_Kurte_sbornik.jpeg"
@@ -524,6 +576,7 @@
         {
             "author": "Эрленд Лу",
             "book": "Допплер",
+            "web": "mp3 fb2",
             "year": "2004",
             "readDate": "7/23/20",
             "shelf": "erlend-lou espresso",
@@ -532,6 +585,7 @@
         {
             "author": "Эрленд Лу",
             "book": "Грузовики «Вольво»",
+            "web": "fb2",
             "year": "2005",
             "shelf": "erlend-lou",
             "img": "https://img3.labirint.ru/rc/95ca536a98415940d0b574f8134fbbbe/220x340/books12/117149/cover.jpg?1568399295"
@@ -548,6 +602,7 @@
         {
             "author": "Эрленд Лу",
             "book": "Мулей",
+            "web": "mp3 fb2",
             "year": "2007",
             "shelf": "erlend-lou",
             "img": "https://avidreaders.ru/pics/1/6/18516.jpg"
@@ -555,6 +610,7 @@
         {
             "author": "Эрленд Лу",
             "book": "Тихие дни в Перемешках",
+            "web": "fb2",
             "year": "2009",
             "shelf": "erlend-lou",
             "img": "https://s1.livelib.ru/boocover/1000438025/o/9e7e/Erlend_Lu__Tihie_dni_v_Peremeshkah.jpeg"
@@ -562,6 +618,7 @@
         {
             "author": "Эрленд Лу",
             "book": "Фвонк",
+            "web": "fb2",
             "year": "2011",
             "buyDate": "1/14/13",
             "price": "273",
@@ -571,6 +628,7 @@
         {
             "author": "Эрленд Лу",
             "book": "Переучет",
+            "web": "fb2",
             "year": "2013",
             "buyDate": "10/20/14",
             "price": "230",
@@ -2280,6 +2338,211 @@
             "price": "221",
             "shelf": "houellebecq",
             "img": "https://s1.livelib.ru/boocover/1000486933/o/6146/Mishel_Uelbek__Chelovechestvo_stadiya_2.jpeg"
+        },
+        {
+            "author": "Давид Фонкинос",
+            "book": "Идиотизм наизнанку",
+            "web": "fb2",
+            "buyDate": "9/22/20",
+            "price": "97",
+            "shelf": "fonkinos",
+            "img": "https://s1.livelib.ru/boocover/1000313795/o/4f95/David_Fonkinos__Idiotizm_naiznanku.jpeg"
+        },
+        {
+            "author": "Давид Фонкинос",
+            "book": "Эротический потенциал моей жены",
+            "web": "fb2",
+            "buyDate": "9/24/20",
+            "price": "229",
+            "shelf": "fonkinos espresso",
+            "img": "https://s1.livelib.ru/boocover/1000154502/o/cc9f/David_Fonkinos__Eroticheskij_potentsial_moej_zheny.jpeg"
+        },
+        {
+            "author": "Давид Фонкинос",
+            "book": "Две сестры",
+            "web": "fb2",
+            "buyDate": "12/24/20",
+            "price": "279",
+            "publisher": "Азбука",
+            "shelf": "fonkinos",
+            "img": "https://img-gorod.ru/27/859/2785911_detail.jpg"
+        },
+        {
+            "author": "Давид Фонкинос",
+            "book": "В погоне за красотой",
+            "web": "fb2",
+            "buyDate": "12/21/20",
+            "price": "218.68",
+            "publisher": "Азбука",
+            "shelf": "fonkinos",
+            "img": "https://cdn1.ozone.ru/multimedia/wc1200/1029313981.jpg"
+        },
+        {
+            "author": "Давид Фонкинос",
+            "book": "Шарлотта",
+            "web": "fb2",
+            "year": "2016",
+            "buyDate": "5/14/21",
+            "readDate": "5/19/21",
+            "price": "266",
+            "shelf": "fonkinos",
+            "img": "https://s1.livelib.ru/boocover/1001516643/o/8908/David_Fonkinos__Sharlotta.jpeg"
+        },
+        {
+            "author": "Давид Фонкинос",
+            "book": "Тайна Анри Пика",
+            "web": "fb2",
+            "year": "2017",
+            "buyDate": "5/4/21",
+            "readDate": "5/16/21",
+            "price": "422",
+            "shelf": "fonkinos bookstore",
+            "img": "https://s1.livelib.ru/boocover/1002591684/o/900b/David_Fonkinos__Tajna_Anri_Pika.jpeg"
+        },
+        {
+            "author": "Давид Фонкинос",
+            "book": "Семья как семья",
+            "year": "2022",
+            "buyDate": "4/13/22",
+            "readDate": "5/3/22",
+            "price": "330",
+            "publisher": "Азбука",
+            "shelf": "fonkinos 2022",
+            "img": "https://cdn.azbooka.ru/cv/w1100/21689978-8494-44c2-a66c-3ccb5bc20362.jpg"
+        },
+        {
+            "author": "Фредрик Бакман",
+            "book": "Вторая жизнь Уве",
+            "year": "2012",
+            "buyDate": "12/28/20",
+            "readDate": "2/1/21",
+            "price": "281",
+            "publisher": "Синдбад",
+            "shelf": "bakman sindbad",
+            "img": "https://s1.livelib.ru/boocover/1003014190/o/c5fa/Fredrik_Bakman__Vtoraya_zhizn_Uve.jpeg"
+        },
+        {
+            "author": "Фредрик Бакман",
+            "book": "Бабушка велела кланяться и передать, что просит прощения",
+            "year": "2013",
+            "buyDate": "12/28/20",
+            "readDate": "3/5/21",
+            "price": "281",
+            "publisher": "Синдбад",
+            "shelf": "bakman sindbad",
+            "img": "https://s1.livelib.ru/boocover/1002697277/o/a90a/Fredrik_Bakman__Babushka_velela_klanyatsya_i_peredat_chto_prosit_proscheniya.jpeg"
+        },
+        {
+            "author": "Фредрик Бакман",
+            "book": "Здесь была Бритт-Мари",
+            "year": "2014",
+            "buyDate": "12/28/20",
+            "readDate": "2/18/21",
+            "price": "282",
+            "publisher": "Синдбад",
+            "shelf": "bakman sindbad",
+            "img": "https://s1.livelib.ru/boocover/1002729882/o/fc3e/Fredrik_Bakman__Zdes_byla_BrittMari.jpeg"
+        },
+        {
+            "author": "Фредрик Бакман",
+            "book": "Что мой сын должен знать об устройстве этого мира",
+            "year": "2012",
+            "buyDate": "12/11/20",
+            "readDate": "1/3/21",
+            "price": "236",
+            "publisher": "Синдбад",
+            "shelf": "bakman sindbad",
+            "img": "https://s1.livelib.ru/boocover/1003180994/o/7d52/Fredrik_Bakman__Chto_moj_syn_dolzhen_znat_ob_ustrojstve_etogo_mira.jpeg"
+        },
+        {
+            "author": "Фредрик Бакман",
+            "book": "Медвежий угол",
+            "year": "2016",
+            "buyDate": "12/11/20",
+            "readDate": "3/23/21",
+            "price": "331",
+            "publisher": "Синдбад",
+            "shelf": "bakman sindbad",
+            "img": "https://s1.livelib.ru/boocover/1002907613/o/8d46/Fredrik_Bakman__Medvezhij_ugol.jpeg"
+        },
+        {
+            "author": "Фредрик Бакман",
+            "book": "Мы против вас",
+            "year": "2017",
+            "buyDate": "12/11/20",
+            "readDate": "4/9/21",
+            "price": "331",
+            "publisher": "Синдбад",
+            "shelf": "bakman sindbad",
+            "img": "https://s1.livelib.ru/boocover/1003495261/o/bca5/Fredrik_Bakman__My_protiv_vas.jpeg"
+        },
+        {
+            "author": "Фредрик Бакман",
+            "book": "Три новеллы",
+            "year": "2017",
+            "buyDate": "12/11/20",
+            "readDate": "1/2/21",
+            "price": "221",
+            "publisher": "Синдбад",
+            "shelf": "bakman sindbad",
+            "img": "https://img4.labirint.ru/rc/a2505e7fce405cadf4963eefb56715cb/220x340/books78/770464/cover.png?1602347141"
+        },
+        {
+            "author": "Фредрик Бакман",
+            "book": "Тревожные люди",
+            "year": "2019",
+            "buyDate": "12/11/20",
+            "readDate": "4/22/21",
+            "price": "308",
+            "publisher": "Синдбад",
+            "shelf": "bakman sindbad",
+            "img": "https://s1.livelib.ru/boocover/1004631232/o/9827/Fredrik_Bakman__Trevozhnye_lyudi.jpeg"
+        },
+        {
+            "author": "Фредрик Бакман",
+            "book": "Победители",
+            "year": "2022",
+            "publisher": "Синдбад",
+            "shelf": "bakman sindbad wishlist new 2022",
+            "img": "https://www.salomonssonagency.se/wp-content/uploads/2021/09/SE-FB-Vinnarna-cover-649x1024.jpg"
+        },
+        {
+            "author": "Маттиас Фалдбаккен",
+            "book": "Кока-гола компани",
+            "web": "fb2",
+            "year": "2009",
+            "buyDate": "7/22/20",
+            "price": "74.5",
+            "publisher": "Лимбус Пресс",
+            "img": "https://s1.livelib.ru/boocover/1000408329/o/8dd8/Matias_Faldbakken__Kokagola_kompani.jpeg"
+        },
+        {
+            "author": "Мартин Эмис",
+            "book": "Деньги",
+            "buyDate": "10/13/20",
+            "price": "162",
+            "shelf": "emis",
+            "img": "https://sun1-17.userapi.com/5KGRdj3vYuc07RhxV5Ap443J33LANWMaGCDy8w/lmZbF3ALWWU.jpg"
+        },
+        {
+            "author": "Елена Мотова",
+            "book": "Мой лучший друг - желудок: еда для умных людей",
+            "web": "fb2",
+            "year": "2017",
+            "buyDate": "11/4/20",
+            "readDate": "5/11/21",
+            "price": "444.61",
+            "publisher": "АСТ",
+            "shelf": "motova food",
+            "img": "https://cdn.ast.ru/v2/ASE000000000828074/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Кристофер Бакли",
+            "book": "Зеленые человечки",
+            "buyDate": "12/18/20",
+            "price": "150",
+            "shelf": "bakli",
+            "img": "https://s1.livelib.ru/boocover/1000096776/o/1029/Kristofer_Bakli__Zelenye_chelovechki.jpeg"
         },
         {
             "author": "Питер Гитерс",
@@ -7649,6 +7912,7 @@
             "id": "542",
             "author": "Жоэль Диккер",
             "book": "Исчезновение Стефани Мейлер",
+            "web": "mp3 fb2",
             "year": "2019",
             "buyDate": "7/21/20",
             "readDate": "1/28/22",
@@ -7701,6 +7965,7 @@
             "id": "555",
             "author": "Дженнифер Даудна",
             "book": "Трещина в мироздании",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "10/14/20",
             "price": "536",
@@ -7712,6 +7977,7 @@
             "id": "556",
             "author": "Мадлен Миллер",
             "book": "Песнь Ахилла",
+            "web": "mp3 fb2",
             "year": "2019",
             "buyDate": "10/5/20",
             "readDate": "11/9/21",
@@ -8116,6 +8382,7 @@
             "id": "626",
             "author": "Аньес Мартен-Люган",
             "book": "Мне надо кое в чем тебе признаться…",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "3/31/21",
             "readDate": "12/21/21",
@@ -8128,6 +8395,7 @@
             "id": "627",
             "author": "Ирина Левонтина",
             "book": "Честное слово",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "3/31/21",
             "price": "691",
@@ -8139,6 +8407,7 @@
             "id": "628",
             "author": "Жоэль Диккер",
             "book": "Загадка номера 622",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "3/31/21",
             "readDate": "2/3/22",
@@ -8151,6 +8420,7 @@
             "id": "629",
             "author": "Эрин Моргенштерн",
             "book": "Беззвездное море",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "3/31/21",
             "readDate": "10/6/21",
@@ -8165,6 +8435,7 @@
             "book": "Еврейский член",
             "year": "2021",
             "buyDate": "9/30/21",
+            "readDate": "5/27/22",
             "price": "250",
             "publisher": "Corpus",
             "shelf": "corpus 2021",
@@ -8272,6 +8543,7 @@
             "id": "649",
             "author": "Эрин Моргенштерн",
             "book": "Ночной цирк",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "9/23/21",
             "readDate": "9/8/21",
@@ -8298,7 +8570,7 @@
             "book": "Хаос. Создание новой науки",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus glik wishlist 2021",
+            "shelf": "corpus elements2 glik wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-glick-new.jpg"
         },
         {
@@ -8315,6 +8587,7 @@
             "id": "655",
             "author": "Мишель Уэльбек",
             "book": "Карта и территория",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "houellebecq corpus goncur wishlist 2021",
@@ -8335,6 +8608,7 @@
             "id": "658",
             "author": "Владимир Набоков",
             "book": "Камера обскура",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "9/9/21",
             "price": "271",
@@ -8346,6 +8620,7 @@
             "id": "659",
             "author": "Владимир Набоков",
             "book": "Лолита",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "9/9/21",
             "price": "311",
@@ -8357,6 +8632,7 @@
             "id": "660",
             "author": "Владимир Набоков",
             "book": "Машенька. Подвиг",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "10/2/21",
             "price": "379",
@@ -8368,6 +8644,7 @@
             "id": "661",
             "author": "Владимир Набоков",
             "book": "Отчаяние",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "9/23/21",
             "price": "300",
@@ -8390,6 +8667,7 @@
             "id": "665",
             "author": "Алексей Моторов",
             "book": "Юные годы медбрата Паровозова",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "9/30/21",
             "readDate": "11/6/21",
@@ -8402,6 +8680,7 @@
             "id": "666",
             "author": "Алексей Моторов",
             "book": "Преступление доктора Паровозова",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "9/30/21",
             "readDate": "11/11/21",
@@ -8441,12 +8720,13 @@
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus scientificum wishlist 2021",
-            "img": "https://cdn.ast.ru/v2/ASE000000000853264/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/David-Bezdna-1000.jpg"
         },
         {
             "id": "672",
             "author": "Владимир Набоков",
             "book": "Король, дама, валет",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "10/18/21",
             "readDate": "2/20/22",
@@ -8459,6 +8739,7 @@
             "id": "673",
             "author": "Владимир Набоков",
             "book": "Защита Лужина",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "11/1/21",
             "price": "367",
@@ -8493,6 +8774,7 @@
             "id": "678",
             "author": "Владимир Набоков",
             "book": "Приглашение на казнь",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "11/5/21",
             "price": "301",
@@ -8504,6 +8786,7 @@
             "id": "679",
             "author": "Владимир Набоков",
             "book": "Бледный огонь",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "1/26/22",
             "price": "369",
@@ -8526,6 +8809,7 @@
             "id": "681",
             "author": "Владимир Набоков",
             "book": "Соглядатай",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "11/27/21",
             "price": "319",
@@ -8549,6 +8833,7 @@
             "id": "683",
             "author": "Жоэль Диккер",
             "book": "Последние дни наших отцов",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "12/11/21",
             "readDate": "1/12/22",
@@ -8616,6 +8901,16 @@
             "img": "https://www.corpus.ru/picts/products/cover1-denvort-druzhba.jpg"
         },
         {
+            "id": "691",
+            "author": "Пол Сен",
+            "book": "Холодильник Эйнштейна. Как перепад температур объясняет Вселенную",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus elements2 wishlist new 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-holodil-einstein.jpg"
+        },
+        {
             "id": "692",
             "author": "Лола Лафон",
             "book": "Ошибка Клео",
@@ -8641,6 +8936,16 @@
             "img": "https://www.corpus.ru/picts/products/cover1.jpg"
         },
         {
+            "id": "694",
+            "author": "Петр Вайль и Александр Генис",
+            "book": "Родная речь. Уроки изящной словесности",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist new 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-rech.jpg"
+        },
+        {
             "id": "695",
             "author": "Шарон Моалем",
             "book": "Лучшая половина. О генетическом превосходстве женщин",
@@ -8648,7 +8953,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus scientificum wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000852835/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-sharon.jpg"
         },
         {
             "id": "696",
@@ -8666,6 +8971,7 @@
             "id": "698",
             "author": "Лейла Слимани",
             "book": "Страна других. Книга 1. Рождество под кипарисами",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "4/26/22",
             "price": "600",
@@ -9599,173 +9905,6 @@
             "img": "https://seatracker.ru/pictures/692c5efd5b746f63fcc042a45179c799.jpg"
         },
         {
-            "author": "Фредрик Бакман",
-            "book": "Вторая жизнь Уве",
-            "year": "2012",
-            "buyDate": "12/28/20",
-            "readDate": "2/1/21",
-            "price": "281",
-            "publisher": "Синдбад",
-            "shelf": "bakman sindbad",
-            "img": "https://s1.livelib.ru/boocover/1003014190/o/c5fa/Fredrik_Bakman__Vtoraya_zhizn_Uve.jpeg"
-        },
-        {
-            "author": "Фредрик Бакман",
-            "book": "Бабушка велела кланяться и передать, что просит прощения",
-            "year": "2013",
-            "buyDate": "12/28/20",
-            "readDate": "3/5/21",
-            "price": "281",
-            "publisher": "Синдбад",
-            "shelf": "bakman sindbad",
-            "img": "https://s1.livelib.ru/boocover/1002697277/o/a90a/Fredrik_Bakman__Babushka_velela_klanyatsya_i_peredat_chto_prosit_proscheniya.jpeg"
-        },
-        {
-            "author": "Фредрик Бакман",
-            "book": "Здесь была Бритт-Мари",
-            "year": "2014",
-            "buyDate": "12/28/20",
-            "readDate": "2/18/21",
-            "price": "282",
-            "publisher": "Синдбад",
-            "shelf": "bakman sindbad",
-            "img": "https://s1.livelib.ru/boocover/1002729882/o/fc3e/Fredrik_Bakman__Zdes_byla_BrittMari.jpeg"
-        },
-        {
-            "author": "Фредрик Бакман",
-            "book": "Что мой сын должен знать об устройстве этого мира",
-            "year": "2012",
-            "buyDate": "12/11/20",
-            "readDate": "1/3/21",
-            "price": "236",
-            "publisher": "Синдбад",
-            "shelf": "bakman sindbad",
-            "img": "https://s1.livelib.ru/boocover/1003180994/o/7d52/Fredrik_Bakman__Chto_moj_syn_dolzhen_znat_ob_ustrojstve_etogo_mira.jpeg"
-        },
-        {
-            "author": "Фредрик Бакман",
-            "book": "Медвежий угол",
-            "year": "2016",
-            "buyDate": "12/11/20",
-            "readDate": "3/23/21",
-            "price": "331",
-            "publisher": "Синдбад",
-            "shelf": "bakman sindbad",
-            "img": "https://s1.livelib.ru/boocover/1002907613/o/8d46/Fredrik_Bakman__Medvezhij_ugol.jpeg"
-        },
-        {
-            "author": "Фредрик Бакман",
-            "book": "Мы против вас",
-            "year": "2017",
-            "buyDate": "12/11/20",
-            "readDate": "4/9/21",
-            "price": "331",
-            "publisher": "Синдбад",
-            "shelf": "bakman sindbad",
-            "img": "https://s1.livelib.ru/boocover/1003495261/o/bca5/Fredrik_Bakman__My_protiv_vas.jpeg"
-        },
-        {
-            "author": "Фредрик Бакман",
-            "book": "Три новеллы",
-            "year": "2017",
-            "buyDate": "12/11/20",
-            "readDate": "1/2/21",
-            "price": "221",
-            "publisher": "Синдбад",
-            "shelf": "bakman sindbad",
-            "img": "https://img4.labirint.ru/rc/a2505e7fce405cadf4963eefb56715cb/220x340/books78/770464/cover.png?1602347141"
-        },
-        {
-            "author": "Фредрик Бакман",
-            "book": "Тревожные люди",
-            "year": "2019",
-            "buyDate": "12/11/20",
-            "readDate": "4/22/21",
-            "price": "308",
-            "publisher": "Синдбад",
-            "shelf": "bakman sindbad",
-            "img": "https://s1.livelib.ru/boocover/1004631232/o/9827/Fredrik_Bakman__Trevozhnye_lyudi.jpeg"
-        },
-        {
-            "author": "Фредрик Бакман",
-            "book": "Победители",
-            "year": "2022",
-            "publisher": "Синдбад",
-            "shelf": "bakman sindbad wishlist new 2022",
-            "img": "https://www.salomonssonagency.se/wp-content/uploads/2021/09/SE-FB-Vinnarna-cover-649x1024.jpg"
-        },
-        {
-            "author": "Давид Фонкинос",
-            "book": "Идиотизм наизнанку",
-            "web": "fb2",
-            "buyDate": "9/22/20",
-            "price": "97",
-            "shelf": "fonkinos",
-            "img": "https://s1.livelib.ru/boocover/1000313795/o/4f95/David_Fonkinos__Idiotizm_naiznanku.jpeg"
-        },
-        {
-            "author": "Давид Фонкинос",
-            "book": "Эротический потенциал моей жены",
-            "web": "fb2",
-            "buyDate": "9/24/20",
-            "price": "229",
-            "shelf": "fonkinos espresso",
-            "img": "https://s1.livelib.ru/boocover/1000154502/o/cc9f/David_Fonkinos__Eroticheskij_potentsial_moej_zheny.jpeg"
-        },
-        {
-            "author": "Давид Фонкинос",
-            "book": "Две сестры",
-            "web": "fb2",
-            "buyDate": "12/24/20",
-            "price": "279",
-            "publisher": "Азбука",
-            "shelf": "fonkinos",
-            "img": "https://img-gorod.ru/27/859/2785911_detail.jpg"
-        },
-        {
-            "author": "Давид Фонкинос",
-            "book": "В погоне за красотой",
-            "web": "fb2",
-            "buyDate": "12/21/20",
-            "price": "218.68",
-            "publisher": "Азбука",
-            "shelf": "fonkinos",
-            "img": "https://cdn1.ozone.ru/multimedia/wc1200/1029313981.jpg"
-        },
-        {
-            "author": "Давид Фонкинос",
-            "book": "Шарлотта",
-            "web": "fb2",
-            "year": "2016",
-            "buyDate": "5/14/21",
-            "readDate": "5/19/21",
-            "price": "266",
-            "shelf": "fonkinos",
-            "img": "https://s1.livelib.ru/boocover/1001516643/o/8908/David_Fonkinos__Sharlotta.jpeg"
-        },
-        {
-            "author": "Давид Фонкинос",
-            "book": "Тайна Анри Пика",
-            "web": "fb2",
-            "year": "2017",
-            "buyDate": "5/4/21",
-            "readDate": "5/16/21",
-            "price": "422",
-            "shelf": "fonkinos bookstore",
-            "img": "https://s1.livelib.ru/boocover/1002591684/o/900b/David_Fonkinos__Tajna_Anri_Pika.jpeg"
-        },
-        {
-            "author": "Давид Фонкинос",
-            "book": "Семья как семья",
-            "year": "2022",
-            "buyDate": "4/13/22",
-            "readDate": "5/3/22",
-            "price": "330",
-            "publisher": "Азбука",
-            "shelf": "fonkinos 2022",
-            "img": "https://cdn.azbooka.ru/cv/w1100/21689978-8494-44c2-a66c-3ccb5bc20362.jpg"
-        },
-        {
             "author": "Салли Руни",
             "book": "Разговоры с друзьями",
             "web": "fb2",
@@ -9891,7 +10030,7 @@
             "book": "Маленькая пекарня у моря",
             "web": "fb2",
             "year": "2022",
-            "buyDate": "6/2/22",
+            "buyDate": "6/7/22",
             "price": "375",
             "publisher": "Иностранка",
             "shelf": "kolgan inostranka 2022",
@@ -10187,44 +10326,6 @@
             "publisher": "КоЛибри",
             "shelf": "bookstore kolibri",
             "img": "https://s1.livelib.ru/boocover/1005249529/o/8c84/Dzhessika_Foks__Tri_veschi_kotorye_nuzhno_znat_o_raketah._Dnevnik_devushki_knigo.jpeg"
-        },
-        {
-            "author": "Маттиас Фалдбаккен",
-            "book": "Кока-гола компани",
-            "web": "fb2",
-            "year": "2009",
-            "buyDate": "7/22/20",
-            "price": "74.5",
-            "publisher": "Лимбус Пресс",
-            "img": "https://s1.livelib.ru/boocover/1000408329/o/8dd8/Matias_Faldbakken__Kokagola_kompani.jpeg"
-        },
-        {
-            "author": "Мартин Эмис",
-            "book": "Деньги",
-            "buyDate": "10/13/20",
-            "price": "162",
-            "shelf": "emis",
-            "img": "https://sun1-17.userapi.com/5KGRdj3vYuc07RhxV5Ap443J33LANWMaGCDy8w/lmZbF3ALWWU.jpg"
-        },
-        {
-            "author": "Елена Мотова",
-            "book": "Мой лучший друг - желудок: еда для умных людей",
-            "web": "fb2",
-            "year": "2017",
-            "buyDate": "11/4/20",
-            "readDate": "5/11/21",
-            "price": "444.61",
-            "publisher": "АСТ",
-            "shelf": "motova food",
-            "img": "https://cdn.ast.ru/v2/ASE000000000828074/COVER/cover1__w600.jpg"
-        },
-        {
-            "author": "Кристофер Бакли",
-            "book": "Зеленые человечки",
-            "buyDate": "12/18/20",
-            "price": "150",
-            "shelf": "bakli",
-            "img": "https://s1.livelib.ru/boocover/1000096776/o/1029/Kristofer_Bakli__Zelenye_chelovechki.jpeg"
         },
         {
             "author": "Александр Демидов",
@@ -10683,7 +10784,7 @@
             "book": "Каирские хроники хозяйки книжного магазина",
             "web": "mp3",
             "year": "2022",
-            "buyDate": "6/2/22",
+            "buyDate": "6/7/22",
             "price": "496",
             "publisher": "Альпина Паблишер",
             "shelf": "alpina bookstore 2022",
@@ -10693,8 +10794,10 @@
             "author": "Росс Кинг",
             "book": "Книготорговец из Флоренции",
             "year": "2022",
+            "buyDate": "6/7/22",
+            "price": "679",
             "publisher": "Азбука",
-            "shelf": "bookstore wishlist new 2022",
+            "shelf": "bookstore 2022",
             "img": "https://cdn.azbooka.ru/cv/w1100/bef550e9-4e71-4cb1-98da-7cba05cbf910.jpg"
         },
         {
@@ -11989,7 +12092,7 @@
             "buyDate": "6/3/21",
             "price": "332",
             "publisher": "Эксмо",
-            "shelf": "dubua eksmo",
+            "shelf": "eksmo dubua",
             "img": "https://s1.livelib.ru/boocover/1002947197/o/dffa/ZhanPol_Dyubua__Nasledie.jpeg"
         },
         {
@@ -11999,7 +12102,7 @@
             "buyDate": "6/3/21",
             "price": "365",
             "publisher": "Эксмо",
-            "shelf": "dubua eksmo goncur 2021",
+            "shelf": "eksmo dubua goncur 2021",
             "img": "https://s1.livelib.ru/boocover/1005707824/o/c44e/ZhanPol_Dyubua__Ne_vse_lyudi_zhivut_odinakovo.jpeg"
         },
         {
@@ -12139,24 +12242,22 @@
             "author": "Вера Куриан",
             "book": "Тайный клуб психопатов",
             "year": "2022",
-            "buyDate": "5/31/22",
-            "price": "425",
             "publisher": "Эксмо",
-            "shelf": "eksmo 2022",
+            "shelf": "eksmo wishlist new 2022",
             "img": "https://s1.livelib.ru/boocover/1007315803/o/d546/Vera_Kurian__Tajnyj_klub_psihopatov.jpeg"
         },
         {
             "author": "Тереза Дрисколл",
             "book": "Я слежу за тобой",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria wishlist",
+            "shelf": "eksmo inspiria driskoll wishlist",
             "img": "https://s1.livelib.ru/boocover/1002971221/o/d22a/Tereza_Driskoll__Ya_slezhu_za_toboj.jpeg"
         },
         {
             "author": "Тереза Дрисколл",
             "book": "Это не сон",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria wishlist",
+            "shelf": "eksmo inspiria driskoll wishlist",
             "img": "https://s1.livelib.ru/boocover/1003172015/o/4be0/Tereza_Driskoll__Eto_ne_son.jpeg"
         },
         {
@@ -12166,7 +12267,7 @@
             "buyDate": "5/26/22",
             "price": "294",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria 2022",
+            "shelf": "eksmo inspiria driskoll 2022",
             "img": "https://s1.livelib.ru/boocover/1007166733/o/4440/Tereza_Driskoll__Do_samoj_smerti.jpeg"
         },
         {
@@ -12239,28 +12340,28 @@
             "author": "Майк Омер",
             "book": "Внутри убийцы",
             "publisher": "Эксмо",
-            "shelf": "eksmo psycho-thriller wishlist",
+            "shelf": "eksmo psycho-thriller omer wishlist",
             "img": "https://cdn.eksmo.ru/v2/ITD000000000996146/COVER/cover1__w820.jpg"
         },
         {
             "author": "Майк Омер",
             "book": "Заживо в темноте",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria psycho-thriller wishlist",
+            "shelf": "eksmo inspiria psycho-thriller omer wishlist",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001107529/COVER/cover1__w820.jpg"
         },
         {
             "author": "Майк Омер",
             "book": "Глазами жертвы",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria psycho-thriller wishlist",
+            "shelf": "eksmo inspiria psycho-thriller omer wishlist",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001122060/COVER/cover1__w820.jpg"
         },
         {
             "author": "Майк Омер",
             "book": "Как ты умрешь",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria psycho-thriller wishlist",
+            "shelf": "eksmo inspiria psycho-thriller omer wishlist",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001116337/COVER/cover1__w820.jpg"
         },
         {
@@ -12268,14 +12369,14 @@
             "book": "Сеть смерти",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria psycho-thriller wishlist new 2022",
+            "shelf": "eksmo inspiria psycho-thriller omer wishlist new 2022",
             "img": "https://s1.livelib.ru/boocover/1007313181/o/fb2d/Majk_Omer__Set_smerti.jpeg"
         },
         {
             "author": "Мэри Бёртон",
             "book": "Последний ход",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria psycho-thriller wishlist",
+            "shelf": "eksmo inspiria psycho-thriller berton wishlist",
             "img": "https://s1.livelib.ru/boocover/1006257517/o/deba/Meri_Berton__Poslednij_hod.jpeg"
         },
         {
@@ -12283,21 +12384,21 @@
             "book": "Последнее испытание",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria psycho-thriller wishlist new 2022",
+            "shelf": "eksmo inspiria psycho-thriller berton wishlist new 2022",
             "img": "https://s1.livelib.ru/boocover/1007295721/o/9b14/Meri_Berton__Poslednee_ispytanie.jpeg"
         },
         {
             "author": "Виктор Метос",
             "book": "Жена убийцы",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria psycho-thriller wishlist",
+            "shelf": "eksmo inspiria psycho-thriller metos wishlist",
             "img": "https://s1.livelib.ru/boocover/1005631360/o/fc15/Viktor_Metos__Zhena_ubijtsy.jpeg"
         },
         {
             "author": "Виктор Метос",
             "book": "Ночные твари",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria psycho-thriller wishlist",
+            "shelf": "eksmo inspiria psycho-thriller metos wishlist",
             "img": "https://s1.livelib.ru/boocover/1007003302/o/327e/Viktor_Metos__Nochnye_tvari.jpeg"
         },
         {
@@ -12331,6 +12432,15 @@
             "publisher": "Азбука",
             "shelf": "shafak wishlist new 2022",
             "img": "https://s1.livelib.ru/boocover/1007048197/o/23df/Elif_Shafak__Ostrov_propavshih_derevev.jpeg"
+        },
+        {
+            "author": "Юэжань Чжан",
+            "book": "Кокон",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-press wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005638530/o/e903/Yuezhan_Chzhan__Kokon.jpeg"
         },
         {
             "author": "Ричард Руссо",
@@ -12706,7 +12816,7 @@
             "book": "Героинщики",
             "web": "fb2",
             "year": "2012",
-            "shelf": "welsh alternative wishlist",
+            "shelf": "welsh wishlist",
             "img": "https://s1.livelib.ru/boocover/1002982505/o/f24a/Irvin_Uelsh__Geroinschiki.jpeg"
         },
         {
@@ -12714,7 +12824,7 @@
             "book": "Сексуальная жизнь сиамских близнецов",
             "web": "fb2",
             "year": "2014",
-            "shelf": "welsh alternative wishlist",
+            "shelf": "welsh wishlist",
             "img": "https://s1.livelib.ru/boocover/1001533664/o/b4c8/Irvin_Uelsh__Seksualnaya_zhizn_siamskih_bliznetsov.jpeg"
         },
         {
