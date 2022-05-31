@@ -929,6 +929,7 @@
         {
             "author": "Яков Томский",
             "book": "Отель, портье и три ноги под кроватью",
+            "web": "fb2",
             "buyDate": "6/11/14",
             "price": "185",
             "img": "https://s1.livelib.ru/boocover/1000711062/o/1802/Yakov_Tomskij__Otel_porte_i_tri_nogi_pod_krovatyu.jpeg"
@@ -1216,6 +1217,7 @@
         {
             "author": "Бернар Вербер",
             "book": "Книга путешествия",
+            "web": "fb2",
             "buyDate": "4/30/14",
             "price": "220",
             "shelf": "verber",
@@ -1252,6 +1254,7 @@
         {
             "author": "Бернар Вербер",
             "book": "Наши друзья Человеки",
+            "web": "fb2",
             "shelf": "verber",
             "img": "https://s1.livelib.ru/boocover/1000397725/o/8996/Bernar_Verber__Nashi_druzya_Cheloveki.jpeg"
         },
@@ -1326,6 +1329,7 @@
         {
             "author": "Бернар Вербер",
             "book": "Третье человечество",
+            "web": "fb2",
             "buyDate": "12/10/14",
             "price": "396",
             "shelf": "verber",
@@ -1342,6 +1346,7 @@
         {
             "author": "Бернар Вербер",
             "book": "Добро пожаловать в рай!",
+            "web": "fb2",
             "buyDate": "6/11/14",
             "price": "216",
             "shelf": "verber",
@@ -1350,6 +1355,7 @@
         {
             "author": "Бернар Вербер",
             "book": "Третье человечество. Микролюди",
+            "web": "fb2",
             "buyDate": "12/10/14",
             "price": "267",
             "shelf": "verber",
@@ -1358,18 +1364,21 @@
         {
             "author": "Бернар Вербер",
             "book": "Третье человечество. Голос Земли",
+            "web": "fb2",
             "shelf": "verber",
             "img": "https://s1.livelib.ru/boocover/1001280712/o/2233/Bernar_Verber__Trete_chelovechestvo_Golos_Zemli.jpeg"
         },
         {
             "author": "Бернар Вербер",
             "book": "Шестой сон",
+            "web": "fb2",
             "shelf": "verber",
             "img": "https://s1.livelib.ru/boocover/1001528473/o/4456/Bernar_Verber__Shestoj_son.jpeg"
         },
         {
             "author": "Бернар Вербер",
             "book": "Завтрашний день кошки",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "4/28/17",
             "price": "268",
@@ -1379,6 +1388,7 @@
         {
             "author": "Бернар Вербер",
             "book": "С того света",
+            "web": "fb2",
             "year": "2018",
             "buyDate": "9/23/18",
             "price": "308",
@@ -1389,6 +1399,7 @@
         {
             "author": "Бернар Вербер",
             "book": "Ящик Пандоры",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "7/22/19",
             "price": "306",
@@ -1399,6 +1410,7 @@
         {
             "author": "Бернар Вербер",
             "book": "Ее величество кошка",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "9/9/20",
             "price": "322",
@@ -1409,6 +1421,7 @@
         {
             "author": "Бернар Вербер",
             "book": "Планета кошек",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "2/26/22",
             "price": "370",
@@ -2604,6 +2617,7 @@
         {
             "author": "Милдред Эбботт",
             "book": "Корги-детектив. Жестокие вкусняшки",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "8/23/20",
             "price": "289",
@@ -2613,6 +2627,7 @@
         {
             "author": "Милдред Эбботт",
             "book": "Корги-детектив. Коварные игрушки",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "8/23/20",
             "price": "287.45",
@@ -2631,17 +2646,19 @@
         {
             "author": "Милдред Эбботт",
             "book": "Корги-детектив. Запутанные крошки",
+            "year": "2021",
             "buyDate": "6/16/21",
             "price": "365",
-            "shelf": "animals ebbott",
+            "shelf": "animals ebbott 2021",
             "img": "https://s1.livelib.ru/boocover/1005793084/o/eb5e/Mildred_Ebbott__Zaputannye_kroshki.jpeg"
         },
         {
             "author": "Милдред Эбботт",
             "book": "Корги-детектив. Хрустящие печенюшки",
+            "year": "2021",
             "buyDate": "6/16/21",
             "price": "458",
-            "shelf": "animals ebbott",
+            "shelf": "animals ebbott 2021",
             "img": "https://s1.livelib.ru/boocover/1006146166/o/c169/Mildred_Ebbott__Hrustyaschie_pechenyushki.jpeg"
         },
         {
@@ -2656,6 +2673,7 @@
         {
             "author": "Джорджи Кроули",
             "book": "Корги по имени Генри",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "12/6/20",
             "price": "161.11",
@@ -2856,6 +2874,7 @@
         {
             "author": "Трэвис Баркер",
             "book": "Между панк-роком и смертью. Автобиография барабанщика легендарной группы BLINK-182",
+            "web": "mp3 fb2",
             "buyDate": "1/20/20",
             "price": "452",
             "publisher": "Бомбора",
@@ -2865,6 +2884,7 @@
         {
             "author": "Вернер Линдеманн",
             "book": "Майк Олдфилд в кресле-качалке. Заметки отца Тилля Линдеманна",
+            "web": "fb2",
             "buyDate": "6/15/20",
             "price": "402",
             "publisher": "Бомбора",
@@ -2932,6 +2952,14 @@
             "book": "Новая жизнь в идеальном теле",
             "shelf": "food",
             "img": "https://s1.livelib.ru/boocover/1001551907/o/b59e/Irina_Turchinskaya__Sistema_IT_Iriny_Turchinskoj._Novaya_zhizn_v_idealnom_tele.jpeg"
+        },
+        {
+            "author": "Сергей Малоземов",
+            "book": "Еда живая и мертвая. 5 принципов здорового питания",
+            "buyDate": "10/9/17",
+            "price": "343",
+            "shelf": "food",
+            "img": "https://s1.livelib.ru/boocover/1002622588/o/7cbd/Sergej_Malozemov__Eda_zhivaya_i_mertvaya_5_printsipov_zdorovogo_pitaniya.jpeg"
         },
         {
             "author": "Пауло Коэльо",
@@ -3288,7 +3316,7 @@
             "year": "2020",
             "buyDate": "11/18/20",
             "price": "303",
-            "shelf": "keruak",
+            "shelf": "ast",
             "img": "https://cdn1.ozone.ru/s3/multimedia-r/wc1200/6026381511.jpg"
         },
         {
@@ -3862,28 +3890,12 @@
             "img": "https://cv8.litres.ru/pub/c/elektronnaya-kniga/cover_415/11293888-mariya-metlickaya-pervaya-lubov.jpg"
         },
         {
-            "author": "Сергей Малоземов",
-            "book": "Еда живая и мертвая. 5 принципов здорового питания",
-            "buyDate": "10/9/17",
-            "price": "343",
-            "shelf": "food",
-            "img": "https://s1.livelib.ru/boocover/1002622588/o/7cbd/Sergej_Malozemov__Eda_zhivaya_i_mertvaya_5_printsipov_zdorovogo_pitaniya.jpeg"
-        },
-        {
             "author": "Евгений Чеширко",
             "book": "Дневник домового",
             "buyDate": "1/16/17",
             "price": "195",
             "shelf": "web",
             "img": "https://s1.livelib.ru/boocover/1001532485/o/4628/Evgenij_CheshirKo__Dnevnik_Domovogo_sbornik.jpeg"
-        },
-        {
-            "author": "Евгений Чеширко",
-            "book": "Дневник домового. Рассказы с чердака",
-            "buyDate": "1/16/17",
-            "price": "211",
-            "shelf": "web",
-            "img": "https://s1.livelib.ru/boocover/1002000926/o/b9ba/Evgenij_CheshirKo__Dnevnik_Domovogo._Rasskazy_s_cherdaka_sbornik.jpeg"
         },
         {
             "author": "Наталья Волнистая",
@@ -3901,14 +3913,6 @@
             "price": "162",
             "shelf": "web",
             "img": "https://s1.livelib.ru/boocover/1001455815/o/af5a/Leya_Lyubomirskaya__I_s_teh_por_ne_rasstavalis.jpeg"
-        },
-        {
-            "author": "Малка Лоренц",
-            "book": "Пятничные вопросы",
-            "buyDate": "2/9/17",
-            "price": "189",
-            "shelf": "web",
-            "img": "https://s1.livelib.ru/boocover/1001563601/o/9122/Malka_Lorents__Pyatnichnye_voprosy.jpeg"
         },
         {
             "author": "Ляля Бранза",
@@ -3940,14 +3944,6 @@
             "price": "199",
             "shelf": "web",
             "img": "https://s1.livelib.ru/boocover/1002869782/o/41e9/Aleksandr_Belenkij__Mari.jpeg"
-        },
-        {
-            "author": "Алексей Березин",
-            "book": "7 красных линий",
-            "buyDate": "10/21/18",
-            "price": "215",
-            "shelf": "web",
-            "img": "https://s1.livelib.ru/boocover/1002800154/o/0ede/Aleksej_Berezin__7_krasnyh_linij.jpeg"
         },
         {
             "book": "Хроники домового. 2019",
@@ -5676,6 +5672,7 @@
             "id": "121",
             "author": "Джарон Ланир",
             "book": "Вы не гаджет. Манифест",
+            "web": "fb2",
             "year": "2011",
             "buyDate": "4/15/22",
             "price": "309",
@@ -9127,7 +9124,8 @@
             "book": "То, что вы хотели",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new 2022"
+            "shelf": "corpus wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000860358/COVER/cover1__w600.jpg"
         },
         {
             "author": "Владимир Набоков",
@@ -11354,7 +11352,7 @@
             "buyDate": "3/21/22",
             "price": "317",
             "publisher": "АСТ",
-            "shelf": "ast bookstore 2022",
+            "shelf": "ast lost-happiness bookstore 2022",
             "img": "https://s1.livelib.ru/boocover/1007022082/o/c159/Madelin_Martin__Poslednyaya_knizhnaya_lavka_v_Londone.jpeg"
         },
         {
@@ -11362,7 +11360,7 @@
             "book": "Последний сад Англии",
             "year": "2022",
             "publisher": "АСТ",
-            "shelf": "ast wishlist new 2022",
+            "shelf": "ast lost-happiness wishlist new 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000860117/COVER/cover1__w600.jpg"
         },
         {
@@ -11370,7 +11368,7 @@
             "book": "Вещи, о которых мы не можем рассказать",
             "year": "2022",
             "publisher": "АСТ",
-            "shelf": "ast wishlist new 2022",
+            "shelf": "ast lost-happiness wishlist new 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000862843/COVER/cover1__w600.jpg"
         },
         {
@@ -11638,6 +11636,7 @@
         {
             "author": "Урсула Вайденфельд",
             "book": "Ангела Меркель. Женщина - канцлер. Портрет эпохи",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "5/18/22",
             "price": "562",
@@ -12657,7 +12656,7 @@
             "book": "Girl with Bright Futures",
             "year": "2022",
             "shelf": "wishlist new 2022",
-            "img": "https://1.bp.blogspot.com/-uageEVFvc5I/YCf2jW47A0I/AAAAAAAAQTI/FTbEz-L7XT8Xn_wDmle_XomcUDI_m3deACLcBGAsYHQ/s2048/91ChjAIV7KL.jpg"
+            "img": "https://media1.popsugar-assets.com/files/thumbor/pq_HtP6yPMA5iF1Fw8QrVbW6CSU/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2021/01/23/233/n/43611095/3ce29f84576ed74d_81qvGHnjvsL/i/Girls-With-Bright-Futures-by-Tracy-Dobmeier-Wendy-Katzman.jpg"
         },
         {
             "author": "Али Новак",
