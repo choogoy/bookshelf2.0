@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -14,6 +14,7 @@
             "book": "Реки",
             "web": "mp3 fb2",
             "year": "2005",
+            "readDate": "5/30/22",
             "shelf": "grishkovets",
             "img": "https://cv8.litres.ru/pub/c/elektronnaya-kniga/cover_415/126980-evgeniy-grishkovec-reki.jpg"
         },
@@ -8995,7 +8996,7 @@
             "id": "702",
             "author": "Альберт Санчес Пиньоль",
             "book": "Фунгус",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "4/28/22",
             "price": "676",
@@ -9122,6 +9123,21 @@
             "img": "https://www.corpus.ru/picts/products/cover1-podstrochnik3.jpg"
         },
         {
+            "author": "Александр Староверов",
+            "book": "То, что вы хотели",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist new 2022"
+        },
+        {
+            "author": "Владимир Набоков",
+            "book": "Ада, или Отрада",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus nabokov wishlist new 2022",
+            "img": "https://sun9-north.userapi.com/sun9-88/s/v1/ig2/YYt2b9xRSPgKZp6Tu_qV4QAcRtoOAS39D8E_qnpXf4AwV9-OxtPdWTMU5yOnr-zg6lbQUR9e__h2QxcMl77NFVX-.jpg?size=762x1217&quality=95&type=album"
+        },
+        {
             "author": "Дженнифер Сэйнт",
             "book": "Ариадна",
             "year": "2022",
@@ -9159,14 +9175,6 @@
             "publisher": "Corpus",
             "shelf": "corpus razvedcorpus wishlist new 2022",
             "img": "https://img1.od-cdn.com/ImageType-100/1191-1/%7B21D4BC86-57B2-426D-8C72-E149C4F66DC6%7DImg100.jpg"
-        },
-        {
-            "author": "Владимир Набоков",
-            "book": "Ада, или Отрада",
-            "year": "2022",
-            "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new 2022",
-            "img": "https://s1.livelib.ru/boocover/1002076595/o/2033/Vladimir_Nabokov__Ada_ili_radosti_strasti.jpeg"
         },
         {
             "author": "Владимир Набоков",
@@ -10888,7 +10896,7 @@
             "author": "Джули Кэплин",
             "book": "Уютная кондитерская в Париже",
             "year": "2022",
-            "buyDate": "5/31/22",
+            "buyDate": "6/12/22",
             "price": "329",
             "publisher": "Эксмо",
             "shelf": "kaplin eksmo sentimental 2022",
@@ -11356,6 +11364,14 @@
             "publisher": "АСТ",
             "shelf": "ast wishlist new 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000860117/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Келли Риммер",
+            "book": "Вещи, о которых мы не можем рассказать",
+            "year": "2022",
+            "publisher": "АСТ",
+            "shelf": "ast wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000862843/COVER/cover1__w600.jpg"
         },
         {
             "author": "Карен Джой Фаулер",
@@ -12007,7 +12023,7 @@
             "author": "Линда Кейр",
             "book": "Темное озеро",
             "year": "2022",
-            "buyDate": "5/31/22",
+            "buyDate": "6/12/22",
             "price": "345",
             "publisher": "Эксмо",
             "shelf": "eksmo white 2022",
@@ -12300,7 +12316,7 @@
             "author": "Лора Дэйв",
             "book": "Последнее, что он сказал мне",
             "year": "2022",
-            "buyDate": "5/31/22",
+            "buyDate": "6/1/22",
             "price": "325",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
@@ -12310,7 +12326,7 @@
             "author": "Патриция Локвуд",
             "book": "О таком не говорят",
             "year": "2022",
-            "buyDate": "5/31/22",
+            "buyDate": "6/12/22",
             "price": "358",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
@@ -12320,7 +12336,7 @@
             "author": "Луи Байяр",
             "book": "Всевидящее око",
             "year": "2022",
-            "buyDate": "5/31/22",
+            "buyDate": "6/12/22",
             "price": "407",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
@@ -12330,7 +12346,7 @@
             "author": "Барбара Абель",
             "book": "Инстинкт матери",
             "year": "2022",
-            "buyDate": "5/31/22",
+            "buyDate": "6/12/22",
             "price": "349",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
