@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -40,6 +40,7 @@
             "book": "Следы на мне",
             "web": "fb2",
             "year": "2007",
+            "readDate": "6/11/22",
             "shelf": "grishkovets",
             "img": "https://cv0.litres.ru/pub/c/elektronnaya-kniga/cover_415/290102-evgeniy-grishkovec-sledy-na-mne.jpg"
         },
@@ -3817,8 +3818,8 @@
             "img": "https://s1.livelib.ru/boocover/1005563767/o/c980/Masha_Traub__Russkij_yazyk_s_Mashej_Traub.jpeg"
         },
         {
-            "author": "Маша Трауб",
-            "book": "Физика с Машей Трауб",
+            "author": "Маша Трауб и Василий Колесников",
+            "book": "Физика с Машей Трауб и и Василием Колесниковым",
             "year": "2021",
             "buyDate": "5/2/21",
             "price": "278",
@@ -3878,6 +3879,13 @@
             "price": "360",
             "shelf": "education 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000862687/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Петр Земсков",
+            "book": "Математика с Петром Земсковым",
+            "year": "2022",
+            "shelf": "education wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000865277/COVER/cover1__w600.jpg"
         },
         {
             "book": "Истории любви",
@@ -6288,6 +6296,15 @@
             "img": "https://www.corpus.ru/picts/products/goldman-name-1000.jpg"
         },
         {
+            "id": "222",
+            "author": "Вуди Аллен",
+            "book": "Побочные эффекты",
+            "year": "2013",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://cdn1.ozone.ru/multimedia/wc1200/1008818287.jpg"
+        },
+        {
             "id": "227",
             "author": "Олег Дорман",
             "book": "Нота. Жизнь Рудольфа Баршая, рассказанная им в фильме Олега Дормана",
@@ -8148,6 +8165,15 @@
             "img": "https://www.corpus.ru/picts/products/Ball-Silence-1000.jpg"
         },
         {
+            "id": "534",
+            "author": "Кэтрин Мерридейл",
+            "book": "Каменная ночь. Смерть и память в России ХХ века",
+            "year": "2019",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/merrideil-kamen-noch.jpg"
+        },
+        {
             "id": "535",
             "author": "Юрий Слёзкин",
             "book": "Эра Меркурия. Евреи в современном мире",
@@ -8210,6 +8236,15 @@
             "publisher": "Corpus",
             "shelf": "franzen corpus",
             "img": "https://www.corpus.ru/picts/products/Franzen-Konets-1000.jpg"
+        },
+        {
+            "id": "548",
+            "author": "Ниал Фергюсон",
+            "book": "Горечь войны. Новый взгляд на Первую мировую",
+            "year": "2019",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Ferguson-Gorech-1000.jpg"
         },
         {
             "id": "549",
@@ -8672,6 +8707,15 @@
             "publisher": "Corpus",
             "shelf": "corpus 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-fauler.jpg"
+        },
+        {
+            "id": "623",
+            "author": "Кэтрин Мерридейл",
+            "book": "Ленин в поезде. Путешествие, которое изменило мир",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist 2021",
+            "img": "https://www.corpus.ru/picts/products/cover1-lenin-poezd.jpg"
         },
         {
             "id": "624",
@@ -9234,7 +9278,7 @@
             "web": "fb2",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus elements2 wishlist new 2022",
+            "shelf": "corpus elements2 wishlist 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-holodil-einstein.jpg"
         },
         {
@@ -9269,7 +9313,7 @@
             "web": "fb2",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new 2022",
+            "shelf": "corpus wishlist 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-rech.jpg"
         },
         {
@@ -9279,7 +9323,7 @@
             "web": "fb2",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus scientificum wishlist new 2022",
+            "shelf": "corpus scientificum wishlist 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-sharon.jpg"
         },
         {
@@ -9474,7 +9518,7 @@
             "book": "Подстрочник. Жизнь Лилианны Лунгиной, рассказанная ею в фильме Олега Дормана",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new 2022",
+            "shelf": "corpus wishlist 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-podstrochnik3.jpg"
         },
         {
@@ -9484,6 +9528,30 @@
             "publisher": "Corpus",
             "shelf": "corpus wishlist new 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-staroverov.jpg"
+        },
+        {
+            "author": "Наима Костер",
+            "book": "Что мое, что твое",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000862170/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Джонатан Франзен",
+            "book": "Безгрешность",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "franzen corpus wishlist 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000866871/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Пол Стейнхардт",
+            "book": "Невозможность второго рода",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist elements2 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000850519/COVER/cover1__w600.jpg"
         },
         {
             "author": "Дженнифер Сэйнт",
@@ -10369,7 +10437,7 @@
             "year": "2022",
             "publisher": "Иностранка",
             "shelf": "kolgan inostranka wishlist new 2022",
-            "img": "https://sun9-west.userapi.com/sun9-67/s/v1/ig2/-gpKPu-ECoBLDG4Fym6WMJV4dKcdfF5Y0HjKnLjSWPEvcLlLSu1IynRhNDfCKZ9fDXCCt8WQPZOakbOJnBFA_zYh.jpg?size=644x1000&quality=95&type=album"
+            "img": "https://s1.livelib.ru/boocover/1007357272/o/3b84/Dzhenni_Kolgan__Leto_v_malenkoj_pekarne.jpeg"
         },
         {
             "author": "Дженни Колган",
@@ -10394,12 +10462,6 @@
             "book": "THE CHRISTMAS SURPRISE",
             "shelf": "kolgan wishlist",
             "img": "https://www.jennycolgan.com/wp-content/uploads/2019/01/hbg-title-9780751553963-45.jpg"
-        },
-        {
-            "author": "Дженни Колган",
-            "book": "SUMMER AT LITTLE BEACH STREET BAKERY",
-            "shelf": "kolgan wishlist",
-            "img": "https://sun9-west.userapi.com/sun9-67/s/v1/ig2/-gpKPu-ECoBLDG4Fym6WMJV4dKcdfF5Y0HjKnLjSWPEvcLlLSu1IynRhNDfCKZ9fDXCCt8WQPZOakbOJnBFA_zYh.jpg?size=644x1000&quality=95&type=album"
         },
         {
             "author": "Дженни Колган",
@@ -10502,6 +10564,7 @@
         {
             "author": "Мона Кастен",
             "book": "Снова надейся. Книга 4",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "5/25/22",
             "price": "371",
@@ -11178,13 +11241,13 @@
         {
             "author": "Фрида Шибек",
             "book": "Bokskåpets hemlighet",
-            "shelf": "shibek wishlist new",
+            "shelf": "shibek wishlist",
             "img": "https://i0.wp.com/lbforlag.se/wp-content/uploads/2020/04/skyback_boksapets_hemlighet_omslag_inb.jpg?resize=960%2C1484&ssl=1"
         },
         {
             "author": "Фрида Шибек",
             "book": "De rotlösa",
-            "shelf": "shibek wishlist new",
+            "shelf": "shibek wishlist",
             "img": "https://i2.wp.com/lbforlag.se/wp-content/uploads/2021/04/skyback_rotlosa-1.jpeg?w=824&ssl=1"
         },
         {
@@ -11236,7 +11299,7 @@
             "author": "Джули Кэплин",
             "book": "Уютная кондитерская в Париже",
             "year": "2022",
-            "buyDate": "6/12/22",
+            "buyDate": "6/30/22",
             "price": "329",
             "publisher": "Эксмо",
             "shelf": "kaplin eksmo sentimental 2022",
@@ -11934,7 +11997,7 @@
             "book": "Мгла",
             "year": "2022",
             "publisher": "Азбука",
-            "shelf": "ragnar wishlist new 2022",
+            "shelf": "ragnar wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007342029/o/5e7e/Ragnar_Jonasson__Mgla.jpeg"
         },
         {
@@ -12356,6 +12419,48 @@
             "img": "https://s1.livelib.ru/boocover/1007087785/o/8797/Linda_Kejr__Temnoe_ozero.jpeg"
         },
         {
+            "author": "Тиффани Джексон",
+            "book": "Никто не видел Мандей",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo black wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007087797/o/d411/Tiffani_D._Dzhekson__Nikto_ne_videl_Mandej.jpeg"
+        },
+        {
+            "author": "Сэм Холланд",
+            "book": "Человек-эхо",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo black wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007132551/o/0e75/Sem_Holland__Chelovekeho.jpeg"
+        },
+        {
+            "author": "Дэвид Джексон",
+            "book": "Игра начинается",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo black wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1006114450/o/8323/Devid_Dzhekson__Igra_nachinaetsya.jpeg"
+        },
+        {
+            "author": "Эйвери Бишоп",
+            "book": "Школа безумия",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo black wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007332735/o/12da/Ejveri_Bishop__Shkola_bezumiya.jpeg"
+        },
+        {
+            "author": "Ричард Чизмар",
+            "book": "Охота на Бугимена",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo black wishlist 2022"
+        },
+        {
             "author": "Джулия Клэйборн Джонсон",
             "book": "В другой раз повезет!",
             "web": "fb2",
@@ -12559,6 +12664,57 @@
             "img": "https://s1.livelib.ru/boocover/1007316397/o/fab9/Sara_Denzil__Bezmolvnoe_ditya.jpeg"
         },
         {
+            "author": "Брайан Фриман",
+            "book": "Бесконечность",
+            "web": "fb2",
+            "year": "2022",
+            "buyDate": "5/20/22",
+            "price": "378",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria 2022",
+            "img": "https://s1.livelib.ru/boocover/1007281492/o/04e1/Brajan_Friman__Beskonechnost.jpeg"
+        },
+        {
+            "author": "Лора Дэйв",
+            "book": "Последнее, что он сказал мне",
+            "year": "2022",
+            "buyDate": "6/1/22",
+            "price": "325",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria 2022",
+            "img": "https://s1.livelib.ru/boocover/1007280886/o/27fd/Laura_Dejv__Poslednee_chto_on_skazal_mne.jpeg"
+        },
+        {
+            "author": "Патриция Локвуд",
+            "book": "О таком не говорят",
+            "year": "2022",
+            "buyDate": "6/30/22",
+            "price": "358",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria 2022",
+            "img": "https://s1.livelib.ru/boocover/1007315596/o/2034/Patritsiya_Lokvud__O_takom_ne_govoryat.jpeg"
+        },
+        {
+            "author": "Луи Байяр",
+            "book": "Всевидящее око",
+            "year": "2022",
+            "buyDate": "6/30/22",
+            "price": "399",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria 2022",
+            "img": "https://s1.livelib.ru/boocover/1006896874/o/f869/Lui_Bajyar__Vsevidyaschee_oko.jpeg"
+        },
+        {
+            "author": "Барбара Абель",
+            "book": "Инстинкт матери",
+            "year": "2022",
+            "buyDate": "6/30/22",
+            "price": "349",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001252317/COVER/cover1__w820.jpg"
+        },
+        {
             "author": "Марк Биллингхэм",
             "book": "Вниз по кроличьей норе",
             "web": "mp3 fb2",
@@ -12609,7 +12765,7 @@
         {
             "author": "Тереза Дрисколл",
             "book": "До самой смерти",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria driskoll wishlist 2022",
@@ -12632,57 +12788,6 @@
             "publisher": "АСТ",
             "shelf": "ast wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007069812/o/83eb/Dzhejn_Shemilt__Patsient.jpeg"
-        },
-        {
-            "author": "Брайан Фриман",
-            "book": "Бесконечность",
-            "web": "fb2",
-            "year": "2022",
-            "buyDate": "5/20/22",
-            "price": "378",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria 2022",
-            "img": "https://s1.livelib.ru/boocover/1007281492/o/04e1/Brajan_Friman__Beskonechnost.jpeg"
-        },
-        {
-            "author": "Лора Дэйв",
-            "book": "Последнее, что он сказал мне",
-            "year": "2022",
-            "buyDate": "6/1/22",
-            "price": "325",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria 2022",
-            "img": "https://s1.livelib.ru/boocover/1007280886/o/27fd/Laura_Dejv__Poslednee_chto_on_skazal_mne.jpeg"
-        },
-        {
-            "author": "Патриция Локвуд",
-            "book": "О таком не говорят",
-            "year": "2022",
-            "buyDate": "6/12/22",
-            "price": "358",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria 2022",
-            "img": "https://s1.livelib.ru/boocover/1007315596/o/2034/Patritsiya_Lokvud__O_takom_ne_govoryat.jpeg"
-        },
-        {
-            "author": "Луи Байяр",
-            "book": "Всевидящее око",
-            "year": "2022",
-            "buyDate": "6/12/22",
-            "price": "399",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria 2022",
-            "img": "https://s1.livelib.ru/boocover/1006896874/o/f869/Lui_Bajyar__Vsevidyaschee_oko.jpeg"
-        },
-        {
-            "author": "Барбара Абель",
-            "book": "Инстинкт матери",
-            "year": "2022",
-            "buyDate": "6/12/22",
-            "price": "349",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001252317/COVER/cover1__w820.jpg"
         },
         {
             "author": "Майк Омер",
@@ -12731,9 +12836,10 @@
         {
             "author": "Мэри Бёртон",
             "book": "Последнее испытание",
+            "web": "mp3",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria psycho-thriller berton wishlist new 2022",
+            "shelf": "eksmo inspiria psycho-thriller berton wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007295721/o/9b14/Meri_Berton__Poslednee_ispytanie.jpeg"
         },
         {
@@ -12779,7 +12885,7 @@
             "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Азбука",
-            "shelf": "shafak wishlist new 2022",
+            "shelf": "shafak wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007048197/o/23df/Elif_Shafak__Ostrov_propavshih_derevev.jpeg"
         },
         {
