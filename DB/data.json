@@ -1,4 +1,4 @@
-﻿{
+{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -38,7 +38,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "Следы на мне",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2007",
             "readDate": "6/11/22",
             "shelf": "grishkovets",
@@ -47,7 +47,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "Асфальт",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2008",
             "shelf": "grishkovets",
             "img": "https://cv1.litres.ru/pub/c/elektronnaya-kniga/cover_415/165719-evgeniy-grishkovec-asfalt.jpg"
@@ -772,6 +772,7 @@
             "author": "Фредерик Бегбедер",
             "book": "Рассказики под экстази",
             "buyDate": "6/27/15",
+            "readDate": "6/18/22",
             "price": "229",
             "shelf": "begbeder",
             "img": "https://s1.livelib.ru/boocover/1000392751/o/3781/Frederik_Begbeder__Rasskaziki_pod_ekstazi_sbornik.jpeg"
@@ -4689,9 +4690,11 @@
         },
         {
             "author": "Джефф Кинни",
-            "book": "Diary of a Wimpy Kid: The Deep End",
-            "shelf": "slabak wishlist",
-            "img": "https://penguin.co.uk/content/dam/prh/books/313/313148/9780241396643.jpg.transform/PRHDesktopWide_small/image.jpg"
+            "book": "Дневник слабака-15. На дне",
+            "year": "2022",
+            "publisher": "АСТ",
+            "shelf": "slabak ast wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000860647/COVER/cover1__w600.jpg"
         },
         {
             "author": "Джефф Кинни",
@@ -6029,7 +6032,7 @@
             "book": "Империя: чем современный мир обязан Британии",
             "year": "2012",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
+            "shelf": "corpus nial wishlist",
             "img": "https://www.corpus.ru/picts/products/ferguson-imperia-1000.jpg"
         },
         {
@@ -6625,7 +6628,7 @@
             "book": "Цивилизация: чем Запад отличается от остального мира",
             "year": "2014",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
+            "shelf": "corpus nial wishlist",
             "img": "https://www.corpus.ru/picts/products/Fergusson-Civilization-1000.jpg"
         },
         {
@@ -7263,7 +7266,7 @@
             "book": "Великое вырождение. Как разрушаются институты и гибнут государства",
             "year": "2016",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
+            "shelf": "corpus nial wishlist",
             "img": "https://www.corpus.ru/picts/products/Ferguson-Degeneration-1000.jpg"
         },
         {
@@ -7309,6 +7312,15 @@
             "publisher": "Corpus",
             "shelf": "ianagihara corpus",
             "img": "https://www.corpus.ru/picts/products/Yanagihara-LittleLife-1000.jpg"
+        },
+        {
+            "id": "408",
+            "author": "Остин Райт",
+            "book": "Под покровом ночи",
+            "year": "2016",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Wright-Pod-Pokrovom-1000.jpg"
         },
         {
             "id": "409",
@@ -7512,6 +7524,14 @@
             "publisher": "Corpus",
             "shelf": "corpus wishlist",
             "img": "https://www.corpus.ru/picts/products/Asherson-Black%20Sea-1000.jpg"
+        },
+        {
+            "id": "437",
+            "author": "Эрик Хобсбаум",
+            "book": "Разломанное время. Культура и общество в XX веке",
+            "year": "2017",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist"
         },
         {
             "id": "439",
@@ -7730,6 +7750,15 @@
             "publisher": "Corpus",
             "shelf": "corpus motorov wishlist",
             "img": "https://www.corpus.ru/picts/products/Motorov-Gody-1000.jpg"
+        },
+        {
+            "id": "475",
+            "author": "Рута Ванагайте и Эфраим Зурофф",
+            "book": "Свои. Путешествие с врагом",
+            "year": "2018",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Vanagaite-Svoi-1000.jpg"
         },
         {
             "id": "476",
@@ -8243,7 +8272,7 @@
             "book": "Горечь войны. Новый взгляд на Первую мировую",
             "year": "2019",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
+            "shelf": "corpus nial wishlist",
             "img": "https://www.corpus.ru/picts/products/Ferguson-Gorech-1000.jpg"
         },
         {
@@ -8326,6 +8355,14 @@
             "img": "https://www.corpus.ru/picts/products/Piccolo-Neschastie-1000.jpg"
         },
         {
+            "author": "Максим Осипов",
+            "book": "«Люксембург» и другие русские истории",
+            "year": "2020",
+            "publisher": "Corpus",
+            "shelf": "osipov corpus wishlist 2020",
+            "img": "https://www.corpus.ru/picts/products/Osipov-Luxemburg-1000.jpg"
+        },
+        {
             "id": "562",
             "author": "Хендрик Грун",
             "book": "Новые записки Хендрика Груна из амстердамской богадельни",
@@ -8347,12 +8384,13 @@
             "img": "https://www.corpus.ru/picts/products/ferrante-cover-1000-18.jpg"
         },
         {
-            "author": "Максим Осипов",
-            "book": "«Люксембург» и другие русские истории",
+            "id": "564",
+            "author": "Ниал Фергюсон",
+            "book": "Площадь и башня. Cети и власть от масонов до Facebook",
             "year": "2020",
             "publisher": "Corpus",
-            "shelf": "osipov corpus wishlist 2020",
-            "img": "https://www.corpus.ru/picts/products/Osipov-Luxemburg-1000.jpg"
+            "shelf": "corpus nial wishlist 2020",
+            "img": "https://www.corpus.ru/picts/products/Ferguson-Square-1000.jpg"
         },
         {
             "id": "565",
@@ -8429,6 +8467,15 @@
             "publisher": "Corpus",
             "shelf": "corpus wishlist 2020",
             "img": "https://www.corpus.ru/picts/products/O_Cadhain-Dirty-1000.jpg"
+        },
+        {
+            "id": "578",
+            "author": "Эрик Хобсбаум",
+            "book": "Эпоха крайностей. Короткий двадцатый век (1914–1991)",
+            "year": "2020",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist 2020",
+            "img": "https://www.corpus.ru/picts/products/cover-hobsbaum.jpg"
         },
         {
             "id": "579",
@@ -9390,6 +9437,7 @@
             "web": "fb2",
             "year": "2022",
             "buyDate": "4/26/22",
+            "readDate": "6/18/22",
             "price": "500",
             "publisher": "Corpus",
             "shelf": "corpus 2022",
@@ -9478,6 +9526,15 @@
             "img": "https://www.corpus.ru/picts/products/cover1-popravki-new.jpeg"
         },
         {
+            "id": "713",
+            "author": "Александр Староверов",
+            "book": "То, что вы хотели",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist new 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-staroverov.jpg"
+        },
+        {
             "id": "714",
             "author": "Сильвен Прюдом",
             "book": "По дорогам",
@@ -9522,20 +9579,12 @@
             "img": "https://www.corpus.ru/picts/products/cover1-podstrochnik3.jpg"
         },
         {
-            "author": "Александр Староверов",
-            "book": "То, что вы хотели",
-            "year": "2022",
-            "publisher": "Corpus",
-            "shelf": "corpus wishlist new 2022",
-            "img": "https://www.corpus.ru/picts/products/cover1-staroverov.jpg"
-        },
-        {
             "author": "Наима Костер",
             "book": "Что мое, что твое",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000862170/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-chto-moe.jpg"
         },
         {
             "author": "Джонатан Франзен",
@@ -9547,11 +9596,11 @@
         },
         {
             "author": "Пол Стейнхардт",
-            "book": "Невозможность второго рода",
+            "book": "Невозможность второго рода. Невероятные поиски новой формы вещества",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist elements2 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000850519/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-nevozmozhnost.jpg"
         },
         {
             "author": "Дженнифер Сэйнт",
@@ -11140,6 +11189,7 @@
         {
             "author": "Уилл Швальбе",
             "book": "Книжный клуб конца жизни",
+            "web": "mp3",
             "year": "2018",
             "buyDate": "2/1/21",
             "price": "306.13",
@@ -11299,7 +11349,7 @@
             "author": "Джули Кэплин",
             "book": "Уютная кондитерская в Париже",
             "year": "2022",
-            "buyDate": "6/30/22",
+            "buyDate": "6/19/22",
             "price": "329",
             "publisher": "Эксмо",
             "shelf": "kaplin eksmo sentimental 2022",
@@ -12828,7 +12878,7 @@
         {
             "author": "Мэри Бёртон",
             "book": "Последний ход",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria psycho-thriller berton wishlist",
             "img": "https://s1.livelib.ru/boocover/1006257517/o/deba/Meri_Berton__Poslednij_hod.jpeg"
@@ -12887,6 +12937,38 @@
             "publisher": "Азбука",
             "shelf": "shafak wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007048197/o/23df/Elif_Shafak__Ostrov_propavshih_derevev.jpeg"
+        },
+        {
+            "author": "Джон Маррс",
+            "book": "Добрая самаритянка",
+            "shelf": "marrs wishlist",
+            "img": "https://s1.livelib.ru/boocover/1005753175/o/9e21/Dzhon_Marrs__Dobraya_samarityanka.jpeg"
+        },
+        {
+            "author": "Джон Маррс",
+            "book": "Пассажиры",
+            "shelf": "marrs wishlist",
+            "img": "https://s1.livelib.ru/boocover/1004753458/o/faf7/Dzhon_Marrs__Passazhiry.jpeg"
+        },
+        {
+            "author": "Джон Маррс",
+            "book": "Тьма между нами",
+            "shelf": "marrs wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006221661/o/53cd/Dzhon_Marrs__Tma_mezhdu_nami.jpeg"
+        },
+        {
+            "author": "Джон Маррс",
+            "book": "The One. Единственный",
+            "web": "2020",
+            "shelf": "marrs wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1003750333/o/4e40/Dzhon_Marrs__The_One._Edinstvennyj.jpeg"
+        },
+        {
+            "author": "Джон Маррс",
+            "book": "Code. Носители",
+            "web": "2022",
+            "shelf": "marrs wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007013037/o/53da/Dzhon_Marrs__Code._Nositeli.jpeg"
         },
         {
             "author": "Юэжань Чжан",
