@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -9511,6 +9511,7 @@
             "book": "Две недели в сентябре",
             "year": "2022",
             "buyDate": "5/18/22",
+            "readDate": "6/21/22",
             "price": "580",
             "publisher": "Corpus",
             "shelf": "corpus discovery 2022",
@@ -9539,8 +9540,10 @@
             "author": "Сильвен Прюдом",
             "book": "По дорогам",
             "year": "2022",
+            "buyDate": "6/22/22",
+            "price": "441",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new 2022",
+            "shelf": "corpus 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-prudom-main.jpg"
         },
         {
@@ -9549,7 +9552,7 @@
             "book": "Свобода",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "franzen corpus wishlist new 2022",
+            "shelf": "franzen corpus wishlist 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-svoboda-corpus.jpg"
         },
         {
@@ -9566,8 +9569,10 @@
             "author": "Сьюзен Спиндлер",
             "book": "Суррогатная мать",
             "year": "2022",
+            "buyDate": "6/30/22",
+            "price": "608",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new 2022",
+            "shelf": "corpus 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-surrogatnoya.jpg"
         },
         {
@@ -10738,7 +10743,7 @@
             "readDate": "5/28/21",
             "price": "350",
             "publisher": "КоЛибри",
-            "shelf": "baitell bookstore kolibri",
+            "shelf": "baitell bookstore kolibri 2020",
             "img": "https://s1.livelib.ru/boocover/1002791469/o/1527/Shon_Bajtell__Dnevnik_knigotorgovtsa.jpeg"
         },
         {
@@ -10774,7 +10779,7 @@
             "readDate": "4/26/21",
             "price": "321",
             "publisher": "КоЛибри",
-            "shelf": "bookstore kolibri",
+            "shelf": "bookstore kolibri 2020",
             "img": "https://s1.livelib.ru/boocover/1005249529/o/8c84/Dzhessika_Foks__Tri_veschi_kotorye_nuzhno_znat_o_raketah._Dnevnik_devushki_knigo.jpeg"
         },
         {
@@ -10851,7 +10856,7 @@
             "readDate": "8/2/20",
             "price": "472",
             "publisher": "Бомбора",
-            "shelf": "bombora food",
+            "shelf": "bombora food 2020",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001110084/COVER/cover1__w600.jpg"
         },
         {
@@ -10861,7 +10866,7 @@
             "buyDate": "12/13/20",
             "price": "410",
             "publisher": "Бомбора",
-            "shelf": "bombora food",
+            "shelf": "bombora food 2020",
             "img": "https://book.sibverk.ru/image/trumb/500x500/13-857776.jpg"
         },
         {
@@ -10873,7 +10878,7 @@
             "readDate": "9/4/20",
             "price": "347",
             "publisher": "Бомбора",
-            "shelf": "bombora",
+            "shelf": "bombora 2020",
             "img": "https://s1.livelib.ru/boocover/1004747155/o/3b49/Kseniya_KnorreDmitrieva__Najden_zhiv_Zapiski_o_poiskovom_otryade_Liza_Alert.jpeg"
         },
         {
@@ -10884,7 +10889,7 @@
             "readDate": "11/11/20",
             "price": "350",
             "publisher": "Бомбора",
-            "shelf": "bombora",
+            "shelf": "bombora 2020",
             "img": "https://s1.livelib.ru/boocover/1004535604/o/a18b/Katrin_Stejert__Dobro_pozhalovat_na_bort_Chto_delayut_bortprovodniki_vo_vremya_p.jpeg"
         },
         {
@@ -10947,7 +10952,7 @@
             "buyDate": "11/3/20",
             "price": "521",
             "publisher": "Бомбора",
-            "shelf": "bombora apple",
+            "shelf": "bombora apple 2020",
             "img": "https://s1.livelib.ru/boocover/1005639622/o/96fa/Ken_Kosienda__Tvorcheskij_otbor_kak_sozdavalis_luchshie_produkty_Apple_vo_vremen.jpeg"
         },
         {
@@ -11127,7 +11132,7 @@
             "buyDate": "2/3/21",
             "price": "297.31",
             "publisher": "Эксмо",
-            "shelf": "inspiria fedra bookstore eksmo",
+            "shelf": "inspiria fedra bookstore eksmo 2021",
             "img": "https://s1.livelib.ru/boocover/1005478291/o/4556/Fedra_Patrik__Biblioteka_utrat_i_nahodok.jpeg"
         },
         {
@@ -11172,7 +11177,7 @@
             "readDate": "6/23/21",
             "price": "327",
             "publisher": "Центрполиграф",
-            "shelf": "bookstore poligraf",
+            "shelf": "bookstore poligraf 2020",
             "img": "https://s1.livelib.ru/boocover/1002987456/o/8e8c/Erik_de_Kermel__Hozyajka_knizhnoj_lavki_na_ploschadi_Trav.jpeg"
         },
         {
@@ -11256,7 +11261,7 @@
             "book": "Служба доставки книг",
             "year": "2022",
             "buyDate": "8/15/22",
-            "price": "464",
+            "price": "379",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif bookstore 2022",
             "img": "https://s1.livelib.ru/boocover/1007355955/o/618a/Karsten_Sebastian_Henn__Sluzhba_dostavki_knig.jpeg"
@@ -11285,7 +11290,7 @@
             "book": "Книжный клуб на краю света",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "inspiria shibek bookstore eksmo wishlist 2022",
+            "shelf": "inspiria shibek bookstore eksmo wishlist new 2022",
             "img": "https://lbforlag.se/wp-content/uploads/2019/02/skybck_bokcirkeln_vid_vrldens_nde_omslag_inb.jpg"
         },
         {
@@ -11370,8 +11375,10 @@
             "author": "Хелен Рольф",
             "book": "Библиотека всего на свете",
             "year": "2022",
+            "buyDate": "6/22/22",
+            "price": "348",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria rolf bookstore sentimental new wishlist 2022",
+            "shelf": "eksmo inspiria rolf bookstore sentimental 2022",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001246557/COVER/cover1__w820.jpg"
         },
         {
@@ -11411,7 +11418,7 @@
             "buyDate": "2/13/21",
             "price": "327",
             "publisher": "Эксмо",
-            "shelf": "maknamara eksmo",
+            "shelf": "maknamara eksmo 2020",
             "img": "https://s1.livelib.ru/boocover/1003616050/o/432a/Eli_Maknamara__Pisma_s_Mayaka.jpeg"
         },
         {
@@ -11433,7 +11440,7 @@
             "buyDate": "2/1/21",
             "price": "258",
             "publisher": "Иностранка",
-            "shelf": "inostranka",
+            "shelf": "inostranka 2020",
             "img": "https://s1.livelib.ru/boocover/1005380905/o/2dbb/Kler_Puli__Pravdivaya_istoriya.jpeg"
         },
         {
@@ -11614,7 +11621,7 @@
             "book": "Элиза Хеммильтон. Происшествие в Ист-Энде",
             "year": "2022",
             "buyDate": "7/15/22",
-            "price": "461",
+            "price": "415",
             "publisher": "Freedom",
             "shelf": "eksmo bookstore rina animant-kramb 2022",
             "img": "https://chitatel.by/storage/thumbs/KN/h1001_w1001_KNcLZKmtElo2yulX2ZqB.jpg"
@@ -12634,8 +12641,10 @@
             "author": "Эйлин Гарвин",
             "book": "Музыка пчел",
             "year": "2022",
+            "buyDate": "6/22/22",
+            "price": "412",
             "publisher": "АСТ",
-            "shelf": "ast miracle wishlist new 2022",
+            "shelf": "ast miracle 2022",
             "img": "https://s1.livelib.ru/boocover/1007136586/o/7f5a/Ejlin_Garvin__Muzyka_pchel.jpeg"
         },
         {
@@ -12739,7 +12748,7 @@
             "book": "О таком не говорят",
             "year": "2022",
             "buyDate": "6/30/22",
-            "price": "358",
+            "price": "322",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
             "img": "https://s1.livelib.ru/boocover/1007315596/o/2034/Patritsiya_Lokvud__O_takom_ne_govoryat.jpeg"
@@ -12872,7 +12881,7 @@
             "book": "Сеть смерти",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria psycho-thriller omer wishlist new 2022",
+            "shelf": "eksmo inspiria psycho-thriller omer wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007313181/o/fb2d/Majk_Omer__Set_smerti.jpeg"
         },
         {
@@ -13069,7 +13078,7 @@
             "author": "Дэниел Киз",
             "book": "Хроники лечебницы",
             "year": "2022",
-            "shelf": "kiz wishlist new 2022",
+            "shelf": "kiz wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007047630/o/ac6c/Deniel_Kiz__Hroniki_lechebnitsy.jpeg"
         },
         {
@@ -13097,7 +13106,7 @@
             "author": "Кристин Хармель",
             "book": "Книга утраченных имен",
             "year": "2022",
-            "shelf": "harmel wishlist new 2022",
+            "shelf": "harmel wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007028469/o/fbb6/Kristin_Harmel__Kniga_utrachennyh_imen.jpeg"
         },
         {
@@ -13141,14 +13150,14 @@
             "book": "Вандербикеры с 141-й улицы",
             "web": "fb2",
             "year": "2021",
-            "shelf": "glazer wishlist new",
+            "shelf": "glazer wishlist 2021",
             "img": "https://www.clever-media.ru/upload/iblock/8dd/8dde90bc197dbde39a1792c1858194e2.jpg"
         },
         {
             "author": "Карина Ян Глейзер",
             "book": "Вандербикеры и таинственный сад",
             "web": "fb2",
-            "shelf": "glazer wishlist new",
+            "shelf": "glazer wishlist",
             "img": "https://www.clever-media.ru/upload/resize_cache/iblock/2db/800_600_090cf9bfc02c81ba0a02cc940d6445018/2dbab2fe72995177c9ebbe81fe892d27.jpg"
         },
         {
