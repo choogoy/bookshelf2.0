@@ -49,6 +49,7 @@
             "book": "Асфальт",
             "web": "mp3 fb2",
             "year": "2008",
+            "readDate": "6/23/22",
             "shelf": "grishkovets",
             "img": "https://cv1.litres.ru/pub/c/elektronnaya-kniga/cover_415/165719-evgeniy-grishkovec-asfalt.jpg"
         },
@@ -3885,7 +3886,9 @@
             "author": "Петр Земсков",
             "book": "Математика с Петром Земсковым",
             "year": "2022",
-            "shelf": "education wishlist new 2022",
+            "buyDate": "6/28/22",
+            "price": "329",
+            "shelf": "education 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000865277/COVER/cover1__w600.jpg"
         },
         {
@@ -9413,6 +9416,7 @@
             "id": "701",
             "author": "Ларс Кеплер",
             "book": "Зеркальный человек",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist 2022",
@@ -9569,13 +9573,14 @@
             "author": "Сьюзен Спиндлер",
             "book": "Суррогатная мать",
             "year": "2022",
-            "buyDate": "6/30/22",
+            "buyDate": "6/25/22",
             "price": "608",
             "publisher": "Corpus",
             "shelf": "corpus 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-surrogatnoya.jpg"
         },
         {
+            "id": "718",
             "author": "Олег Дорман",
             "book": "Подстрочник. Жизнь Лилианны Лунгиной, рассказанная ею в фильме Олега Дормана",
             "year": "2022",
@@ -9597,7 +9602,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "franzen corpus wishlist 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000866871/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-bezgreshnost.jpg"
         },
         {
             "author": "Пол Стейнхардт",
@@ -10388,7 +10393,7 @@
         {
             "author": "Дженни Колган",
             "book": "Книжный магазинчик счастья",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "11/26/20",
             "readDate": "5/25/21",
@@ -10400,7 +10405,7 @@
         {
             "author": "Дженни Колган",
             "book": "Шоколадная лавка в Париже",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "11/26/20",
             "readDate": "6/21/21",
@@ -10412,7 +10417,7 @@
         {
             "author": "Дженни Колган",
             "book": "Летний ресторанчик на берегу",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "11/26/20",
             "price": "327",
@@ -10423,7 +10428,7 @@
         {
             "author": "Дженни Колган",
             "book": "Книжный магазинчик у озера",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "12/11/20",
             "price": "263",
@@ -10434,7 +10439,7 @@
         {
             "author": "Дженни Колган",
             "book": "500 миль до тебя",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "3/10/21",
             "price": "308",
@@ -10445,7 +10450,7 @@
         {
             "author": "Дженни Колган",
             "book": "Берег счастливых встреч",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "5/25/21",
             "price": "274",
@@ -10456,6 +10461,7 @@
         {
             "author": "Дженни Колган",
             "book": "Встретимся в кафе «Капкейк»",
+            "web": "mp3",
             "year": "2021",
             "buyDate": "10/20/21",
             "price": "269.26",
@@ -10466,7 +10472,7 @@
         {
             "author": "Дженни Колган",
             "book": "Рождество на острове",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "12/11/21",
             "price": "270",
@@ -10477,7 +10483,7 @@
         {
             "author": "Дженни Колган",
             "book": "Маленькая пекарня у моря",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "6/1/22",
             "price": "375",
@@ -10556,7 +10562,7 @@
         {
             "author": "Мона Кастен",
             "book": "Спаси меня. Книга 1",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "buyDate": "1/7/21",
             "price": "312",
             "publisher": "Like Book",
@@ -10566,7 +10572,7 @@
         {
             "author": "Мона Кастен",
             "book": "Спаси себя. Книга 2",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "buyDate": "1/7/21",
             "price": "312",
             "publisher": "Like Book",
@@ -10576,7 +10582,7 @@
         {
             "author": "Мона Кастен",
             "book": "Спаси нас. Книга 3",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "buyDate": "1/7/21",
             "price": "340",
             "publisher": "Like Book",
@@ -10586,7 +10592,7 @@
         {
             "author": "Мона Кастен",
             "book": "Начни сначала. Книга 1",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "buyDate": "1/7/21",
             "price": "340",
             "publisher": "Like Book",
@@ -10596,7 +10602,7 @@
         {
             "author": "Мона Кастен",
             "book": "Доверься мне. Книга 2",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "8/6/21",
             "price": "346",
@@ -11136,6 +11142,26 @@
             "img": "https://s1.livelib.ru/boocover/1005478291/o/4556/Fedra_Patrik__Biblioteka_utrat_i_nahodok.jpeg"
         },
         {
+            "author": "Мэри Энн Марлоу",
+            "book": "Книжный магазинчик Мэделин",
+            "web": "fb2",
+            "year": "2019",
+            "buyDate": "1/7/21",
+            "price": "300",
+            "publisher": "Эксмо",
+            "shelf": "bookstore eksmo marlow",
+            "img": "https://s1.livelib.ru/boocover/1003269569/o/608b/Meri_Enn_Marlou__Knizhnyj_magazinchik_Medelin.jpeg"
+        },
+        {
+            "author": "Мэри Энн Марлоу",
+            "book": "Сумасшедшая любовь",
+            "web": "fb2",
+            "year": "2019",
+            "publisher": "Эксмо",
+            "shelf": "eksmo marlow wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002993617/o/7f2f/Meri_Enn_Marlou__Sumasshedshaya_lyubov.jpeg"
+        },
+        {
             "author": "Билл Сэмюэл",
             "book": "История Foyles. Книготорговец по случаю",
             "web": "fb2",
@@ -11145,17 +11171,6 @@
             "publisher": "Азбука Бизнес",
             "shelf": "bookstore 2020",
             "img": "https://s1.livelib.ru/boocover/1005485959/o/9197/Bill_Semyuel__Istoriya_Foyles._Knigotorgovets_po_sluchayu.jpeg"
-        },
-        {
-            "author": "Мэри Энн Марлоу",
-            "book": "Книжный магазинчик Мэделин",
-            "web": "fb2",
-            "year": "2019",
-            "buyDate": "1/7/21",
-            "price": "300",
-            "publisher": "Эксмо",
-            "shelf": "bookstore eksmo",
-            "img": "https://s1.livelib.ru/boocover/1003269569/o/608b/Meri_Enn_Marlou__Knizhnyj_magazinchik_Medelin.jpeg"
         },
         {
             "author": "Эбби Ваксман",
@@ -11257,16 +11272,6 @@
             "img": "https://s1.livelib.ru/boocover/1007285536/o/ff1a/Ross_King__Knigotorgovets_iz_Florentsii.jpeg"
         },
         {
-            "author": "Карстен Себастиан Хенн",
-            "book": "Служба доставки книг",
-            "year": "2022",
-            "buyDate": "8/15/22",
-            "price": "379",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif bookstore 2022",
-            "img": "https://s1.livelib.ru/boocover/1007355955/o/618a/Karsten_Sebastian_Henn__Sluzhba_dostavki_knig.jpeg"
-        },
-        {
             "author": "Фрейя Сэмпсон",
             "book": "Библиотека моего сердца",
             "year": "2022",
@@ -11275,6 +11280,16 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria bookstore 2022",
             "img": "https://cdn.book24.ru/v2/ITD000000001143051/COVER/cover13d__w410.webp"
+        },
+        {
+            "author": "Карстен Себастиан Хенн",
+            "book": "Служба доставки книг",
+            "year": "2022",
+            "buyDate": "8/15/22",
+            "price": "379",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif bookstore 2022",
+            "img": "https://s1.livelib.ru/boocover/1007355955/o/618a/Karsten_Sebastian_Henn__Sluzhba_dostavki_knig.jpeg"
         },
         {
             "author": "Фрида Шибек",
@@ -12747,6 +12762,13 @@
         },
         {
             "author": "Патриция Локвуд",
+            "book": "Святой папочка",
+            "publisher": "Livebook",
+            "shelf": "livebook",
+            "img": "https://s1.livelib.ru/boocover/1007018590/o/11f5/Patritsiya_Lokvud__Svyatoj_papochka.jpeg"
+        },
+        {
+            "author": "Патриция Локвуд",
             "book": "О таком не говорят",
             "year": "2022",
             "buyDate": "6/30/22",
@@ -12806,6 +12828,15 @@
             "publisher": "Эксмо",
             "shelf": "eksmo wishlist new 2022",
             "img": "https://s1.livelib.ru/boocover/1007315803/o/d546/Vera_Kurian__Tajnyj_klub_psihopatov.jpeg"
+        },
+        {
+            "author": "Сергей Лебеденко",
+            "book": "(не)свобода",
+            "year": "2022",
+            "buyDate": "6/28/22",
+            "price": "468",
+            "publisher": "Редакция Елены Шубиной",
+            "img": "https://s1.livelib.ru/boocover/1007172316/o/3396/Sergej_Lebedenko__nesvoboda.jpeg"
         },
         {
             "author": "Тереза Дрисколл",
