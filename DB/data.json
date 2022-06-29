@@ -2742,6 +2742,7 @@
         {
             "author": "Серж Брусов",
             "book": "Верни мне мой 2007-й",
+            "web": "fb2",
             "buyDate": "10/30/20",
             "shelf": "brusov gift",
             "img": "https://s1.livelib.ru/boocover/1002838696/o/9fbe/Serzh_Brusov__Verni_mne_moj_2007j._Sbornik_korotkoj_prozy.jpeg"
@@ -2749,6 +2750,7 @@
         {
             "author": "Серж Брусов",
             "book": "Верни мне мой 2007-й",
+            "web": "fb2",
             "buyDate": "11/14/19",
             "readDate": "8/23/20",
             "price": "245",
@@ -2758,6 +2760,7 @@
         {
             "author": "Серж Брусов",
             "book": "Дети сети",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "7/23/20",
             "readDate": "8/25/20",
@@ -3804,7 +3807,7 @@
             "author": "Маша Трауб",
             "book": "Невозвратный билет",
             "year": "2022",
-            "buyDate": "7/1/22",
+            "buyDate": "7/10/22",
             "price": "341",
             "publisher": "Эксмо",
             "shelf": "traub eksmo 2022",
@@ -3817,16 +3820,16 @@
             "buyDate": "11/18/20",
             "price": "273",
             "shelf": "traub education russian 2020",
-            "img": "https://s1.livelib.ru/boocover/1005563767/o/c980/Masha_Traub__Russkij_yazyk_s_Mashej_Traub.jpeg"
+            "img": "https://cdn.ast.ru/v2/ASE000000000850905/COVER/cover1__w600.jpg"
         },
         {
             "author": "Маша Трауб и Василий Колесников",
-            "book": "Физика с Машей Трауб и и Василием Колесниковым",
+            "book": "Физика с Машей Трауб и Василием Колесниковым",
             "year": "2021",
             "buyDate": "5/2/21",
             "price": "278",
             "shelf": "traub education 2021",
-            "img": "https://s1.livelib.ru/boocover/1005976483/o/5cbc/Masha_Traub__Fizika_s_Mashej_Traub_i_Vasiliem_Kolesnikovym.jpeg"
+            "img": "https://cdn.ast.ru/v2/ASE000000000855844/COVER/cover1__w600.jpg"
         },
         {
             "author": "Григорий Остер",
@@ -3835,7 +3838,7 @@
             "buyDate": "5/2/21",
             "price": "294",
             "shelf": "education oster 2021",
-            "img": "https://s1.livelib.ru/boocover/1005568957/o/02aa/Grigorij_Oster__Matematika_s_Grigoriem_Osterom.jpeg"
+            "img": "https://cdn.ast.ru/v2/ASE000000000855272/COVER/cover1__w600.jpg"
         },
         {
             "author": "Владимир Сурдин",
@@ -3844,7 +3847,7 @@
             "buyDate": "8/13/21",
             "price": "301",
             "shelf": "education space 2021",
-            "img": "https://cv7.litres.ru/pub/c/pdf-kniga/cover_max1500/65586076-author-g_surdin_v-kniga_astronomiya_s_vladimirom_surdinyim.jpg"
+            "img": "https://cdn.ast.ru/v2/ASE000000000856403/COVER/cover1__w600.jpg"
         },
         {
             "author": "Григорий Остер",
@@ -4308,6 +4311,7 @@
         {
             "author": "Робин Слоун",
             "book": "Закваска",
+            "web": "fb2",
             "buyDate": "1/8/21",
             "readDate": "3/13/21",
             "price": "47",
@@ -4317,6 +4321,7 @@
         {
             "author": "Робин Слоун",
             "book": "Аякс Пенумбра 1969",
+            "web": "fb2",
             "buyDate": "1/8/21",
             "readDate": "1/11/21",
             "price": "47",
@@ -4326,6 +4331,7 @@
         {
             "author": "Робин Слоун",
             "book": "Круглосуточный книжный мистера Пенумбры",
+            "web": "fb2",
             "buyDate": "6/18/20",
             "readDate": "1/14/21",
             "shelf": "gift bookstore sloun",
@@ -4485,6 +4491,16 @@
             "publisher": "bombora",
             "shelf": "bombora elon-musk 2021",
             "img": "https://s1.livelib.ru/boocover/1005641776/o/f821/Ozan_Varol__Dumaj_kak_Ilon_Mask._I_drugie_prostye_strategii_dlya_gigantskogo_ska.jpeg"
+        },
+        {
+            "author": "Эрик Бергер",
+            "book": "Старт. История успеха SpaceX. Илон Маск и команда",
+            "year": "2022",
+            "buyDate": "6/30/22",
+            "price": "491",
+            "publisher": "bombora",
+            "shelf": "bombora elon-musk 2022",
+            "img": "https://s1.livelib.ru/boocover/1007268955/o/c980/Erik_Berger__Start._Istoriya_uspeha_SpaceX._Ilon_Mask_i_komanda.jpeg"
         },
         {
             "author": "Юлия Борисовна Гиппенрейтер",
@@ -11097,7 +11113,7 @@
             "web": "fb2",
             "year": "2020",
             "publisher": "Синдбад",
-            "shelf": "goncur sindbad wishlist slimani",
+            "shelf": "sindbad wishlist slimani 2020",
             "img": "https://s1.livelib.ru/boocover/1005543382/o/c47f/Lejla_Slimani__Adel.jpeg"
         },
         {
@@ -12765,8 +12781,11 @@
         {
             "author": "Патриция Локвуд",
             "book": "Святой папочка",
+            "year": "2022",
+            "buyDate": "6/30/22",
+            "price": "510",
             "publisher": "Livebook",
-            "shelf": "livebook",
+            "shelf": "livebook 2022",
             "img": "https://s1.livelib.ru/boocover/1007018590/o/11f5/Patritsiya_Lokvud__Svyatoj_papochka.jpeg"
         },
         {
@@ -12838,6 +12857,7 @@
             "buyDate": "6/28/22",
             "price": "468",
             "publisher": "Редакция Елены Шубиной",
+            "shelf": "2022",
             "img": "https://s1.livelib.ru/boocover/1007172316/o/3396/Sergej_Lebedenko__nesvoboda.jpeg"
         },
         {
@@ -12886,6 +12906,7 @@
         {
             "author": "Майк Омер",
             "book": "Внутри убийцы",
+            "web": "fb2",
             "publisher": "Эксмо",
             "shelf": "eksmo psycho-thriller omer wishlist",
             "img": "https://cdn.eksmo.ru/v2/ITD000000000996146/COVER/cover1__w820.jpg"
@@ -12893,6 +12914,7 @@
         {
             "author": "Майк Омер",
             "book": "Заживо в темноте",
+            "web": "fb2",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria psycho-thriller omer wishlist",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001107529/COVER/cover1__w820.jpg"
@@ -12900,6 +12922,7 @@
         {
             "author": "Майк Омер",
             "book": "Глазами жертвы",
+            "web": "fb2",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria psycho-thriller omer wishlist",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001122060/COVER/cover1__w820.jpg"
@@ -12907,6 +12930,7 @@
         {
             "author": "Майк Омер",
             "book": "Как ты умрешь",
+            "web": "fb2",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria psycho-thriller omer wishlist",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001116337/COVER/cover1__w820.jpg"
@@ -12939,6 +12963,7 @@
         {
             "author": "Виктор Метос",
             "book": "Жена убийцы",
+            "web": "fb2",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria psycho-thriller metos wishlist",
             "img": "https://s1.livelib.ru/boocover/1005631360/o/fc15/Viktor_Metos__Zhena_ubijtsy.jpeg"
@@ -12946,6 +12971,7 @@
         {
             "author": "Виктор Метос",
             "book": "Ночные твари",
+            "web": "fb2",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria psycho-thriller metos wishlist",
             "img": "https://s1.livelib.ru/boocover/1007003302/o/327e/Viktor_Metos__Nochnye_tvari.jpeg"
@@ -12953,6 +12979,7 @@
         {
             "author": "Изабелла Мальдонадо",
             "book": "Шифр",
+            "web": "fb2",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria psycho-thriller wishlist",
             "img": "https://s1.livelib.ru/boocover/1006950412/o/63af/Izabella_Maldonado__Shifr.jpeg"
@@ -12960,6 +12987,7 @@
         {
             "author": "Виктория Селман",
             "book": "Границы безумия",
+            "web": "fb2",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria psycho-thriller wishlist",
             "img": "https://s1.livelib.ru/boocover/1005948088/o/5294/Viktoriya_Selman__Granitsy_bezumiya.jpeg"
@@ -12985,32 +13013,37 @@
         {
             "author": "Джон Маррс",
             "book": "Добрая самаритянка",
+            "web": "fb2",
             "shelf": "marrs wishlist",
             "img": "https://s1.livelib.ru/boocover/1005753175/o/9e21/Dzhon_Marrs__Dobraya_samarityanka.jpeg"
         },
         {
             "author": "Джон Маррс",
             "book": "Пассажиры",
+            "web": "fb2",
             "shelf": "marrs wishlist",
             "img": "https://s1.livelib.ru/boocover/1004753458/o/faf7/Dzhon_Marrs__Passazhiry.jpeg"
         },
         {
             "author": "Джон Маррс",
             "book": "Тьма между нами",
+            "web": "fb2",
             "shelf": "marrs wishlist",
             "img": "https://s1.livelib.ru/boocover/1006221661/o/53cd/Dzhon_Marrs__Tma_mezhdu_nami.jpeg"
         },
         {
             "author": "Джон Маррс",
             "book": "The One. Единственный",
-            "web": "2020",
+            "web": "fb2",
+            "year": "2020",
             "shelf": "marrs wishlist 2020",
             "img": "https://s1.livelib.ru/boocover/1003750333/o/4e40/Dzhon_Marrs__The_One._Edinstvennyj.jpeg"
         },
         {
             "author": "Джон Маррс",
             "book": "Code. Носители",
-            "web": "2022",
+            "web": "fb2",
+            "year": "2022",
             "shelf": "marrs wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007013037/o/53da/Dzhon_Marrs__Code._Nositeli.jpeg"
         },
@@ -13025,26 +13058,35 @@
         },
         {
             "author": "Ричард Руссо",
-            "book": "Непосредственный человек",
+            "book": "Эмпайр Фоллз",
             "web": "mp3 fb2",
+            "year": "2018",
+            "buyDate": "6/30/22",
+            "price": "386",
             "publisher": "Фантом Пресс",
-            "shelf": "russo fantom-press wishlist",
-            "img": "https://s1.livelib.ru/boocover/1005249535/o/4865/Richard_Russo__Neposredstvennyj_chelovek.jpeg"
+            "shelf": "fantom-press russo",
+            "img": "https://s1.livelib.ru/boocover/1002908550/o/1acf/Richard_Russo__Empajr_Follz.jpeg"
         },
         {
             "author": "Ричард Руссо",
-            "book": "Эмпайр Фоллз",
+            "book": "Непосредственный человек",
             "web": "mp3 fb2",
+            "year": "2020",
+            "buyDate": "6/30/22",
+            "price": "386",
             "publisher": "Фантом Пресс",
-            "shelf": "russo fantom-press wishlist",
-            "img": "https://s1.livelib.ru/boocover/1002908550/o/1acf/Richard_Russo__Empajr_Follz.jpeg"
+            "shelf": "fantom-press russo 2020",
+            "img": "https://s1.livelib.ru/boocover/1005249535/o/4865/Richard_Russo__Neposredstvennyj_chelovek.jpeg"
         },
         {
             "author": "Ричард Руссо",
             "book": "Шансы есть...",
             "web": "mp3 fb2",
+            "year": "2021",
+            "buyDate": "6/30/22",
+            "price": "352",
             "publisher": "Фантом Пресс",
-            "shelf": "russo fantom-press wishlist",
+            "shelf": "fantom-press russo 2021",
             "img": "https://s1.livelib.ru/boocover/1005638782/o/8d16/Richard_Russo__Shansy_est....jpeg"
         },
         {
@@ -13553,6 +13595,7 @@
         {
             "author": "Алексей Иванов",
             "book": "Географ глобус пропил",
+            "web": "mp3 fb2",
             "shelf": "wishlist",
             "img": "https://s1.livelib.ru/boocover/1000255643/o/a360/Aleksej_Ivanov__Geograf_globus_propil.jpeg"
         },
