@@ -1,4 +1,4 @@
-﻿{
+{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -536,6 +536,15 @@
             "publisher": "Corpus",
             "shelf": "corpus sorokin 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-sorokin-roman.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Владимир Сорокин",
+            "book": "De feminis",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus sorokin wishlist new 2022",
+            "img": "https://www.corpus.ru/picts/products/cover_1-sorokin-de-feminis.jpg"
         },
         {
             "author": "Эрленд Лу",
@@ -11366,7 +11375,7 @@
         {
             "author": "Джули Кэплин",
             "book": "Маленькое кафе в Копенгагене",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "2/19/21",
             "price": "290",
@@ -11377,7 +11386,7 @@
         {
             "author": "Джули Кэплин",
             "book": "Маленькая кондитерская в Бруклине",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "2/19/21",
             "price": "290",
@@ -11398,7 +11407,7 @@
         {
             "author": "Хелен Рольф",
             "book": "Маленькое кафе в конце пирса",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "2/19/21",
             "price": "367",
@@ -11751,6 +11760,7 @@
         {
             "author": "Марьян Камали",
             "book": "Маленький книжный магазинчик в Тегеране",
+            "web": "mp3",
             "year": "2021",
             "buyDate": "10/3/21",
             "price": "355",
@@ -12649,6 +12659,7 @@
             "book": "Как пингвины спасли Веронику",
             "year": "2021",
             "buyDate": "12/11/21",
+            "readDate": "6/30/22",
             "price": "337",
             "publisher": "АСТ",
             "shelf": "ast miracle 2021",
@@ -12781,11 +12792,11 @@
         {
             "author": "Патриция Локвуд",
             "book": "Святой папочка",
-            "year": "2022",
+            "year": "2021",
             "buyDate": "6/30/22",
             "price": "510",
             "publisher": "Livebook",
-            "shelf": "livebook 2022",
+            "shelf": "livebook lockwood 2021",
             "img": "https://s1.livelib.ru/boocover/1007018590/o/11f5/Patritsiya_Lokvud__Svyatoj_papochka.jpeg"
         },
         {
@@ -12795,7 +12806,7 @@
             "buyDate": "7/6/22",
             "price": "322",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria 2022",
+            "shelf": "eksmo inspiria lockwood 2022",
             "img": "https://s1.livelib.ru/boocover/1007315596/o/2034/Patritsiya_Lokvud__O_takom_ne_govoryat.jpeg"
         },
         {
