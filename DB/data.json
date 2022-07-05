@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -781,6 +781,7 @@
         {
             "author": "Фредерик Бегбедер",
             "book": "Рассказики под экстази",
+            "web": "fb2",
             "buyDate": "6/27/15",
             "readDate": "6/18/22",
             "price": "229",
@@ -3816,7 +3817,7 @@
             "author": "Маша Трауб",
             "book": "Невозвратный билет",
             "year": "2022",
-            "buyDate": "7/10/22",
+            "buyDate": "7/31/22",
             "price": "341",
             "publisher": "Эксмо",
             "shelf": "traub eksmo 2022",
@@ -8385,6 +8386,7 @@
         {
             "author": "Максим Осипов",
             "book": "«Люксембург» и другие русские истории",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Corpus",
             "shelf": "osipov corpus wishlist 2020",
@@ -8446,6 +8448,7 @@
             "id": "568",
             "author": "Филип Норман",
             "book": "Пол Маккартни. Биография",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "9/29/20",
             "price": "1018",
@@ -8499,7 +8502,7 @@
         {
             "id": "578",
             "author": "Эрик Хобсбаум",
-            "book": "Эпоха крайностей. Короткий двадцатый век (1914–1991)",
+            "book": "Эпоха крайностей. Короткий двадцатый век (1914-1991)",
             "year": "2020",
             "publisher": "Corpus",
             "shelf": "corpus wishlist 2020",
@@ -8552,6 +8555,7 @@
             "id": "588",
             "author": "Орели Валонь",
             "book": "Наши очаровательные невестки",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "12/8/20",
             "price": "446",
@@ -9538,6 +9542,7 @@
             "id": "711",
             "author": "Роберт Седрик Шеррифф",
             "book": "Две недели в сентябре",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "5/18/22",
             "readDate": "6/21/22",
@@ -9568,6 +9573,7 @@
             "id": "714",
             "author": "Сильвен Прюдом",
             "book": "По дорогам",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "6/23/22",
             "price": "441",
@@ -9636,6 +9642,22 @@
             "publisher": "Corpus",
             "shelf": "corpus wishlist elements2 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-nevozmozhnost.jpg"
+        },
+        {
+            "author": "Сергей Плохий",
+            "book": "Забытые бастарды Восточного фронта",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000851936/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Ричард Рэнгем",
+            "book": "Парадокс добродетели",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist elements2 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000848275/COVER/cover1__w600.jpg"
         },
         {
             "author": "Дженнифер Сэйнт",
@@ -10520,7 +10542,7 @@
             "author": "Дженни Колган",
             "book": "Лето в маленькой пекарне",
             "year": "2022",
-            "buyDate": "7/5/22",
+            "buyDate": "7/4/22",
             "price": "301",
             "publisher": "Иностранка",
             "shelf": "kolgan inostranka 2022",
@@ -10819,6 +10841,7 @@
             "author": "Александр Демидов",
             "book": "Квартет Я. Как создавался самый смешной театр страны",
             "web": "fb2",
+            "year": "2019",
             "buyDate": "11/14/19",
             "price": "426",
             "publisher": "Бомбора",
@@ -11482,6 +11505,7 @@
             "web": "fb2",
             "year": "2020",
             "buyDate": "2/1/21",
+            "readDate": "7/3/22",
             "price": "258",
             "publisher": "Иностранка",
             "shelf": "inostranka 2020",
@@ -11664,7 +11688,7 @@
             "author": "Лин Рина",
             "book": "Элиза Хеммильтон. Происшествие в Ист-Энде",
             "year": "2022",
-            "buyDate": "7/15/22",
+            "buyDate": "7/31/22",
             "price": "415",
             "publisher": "Freedom",
             "shelf": "eksmo bookstore rina animant-kramb 2022",
@@ -12328,6 +12352,7 @@
         {
             "author": "Жан-Кристоф Бризар и Лана Паршина",
             "book": "Смерть Гитлера. ФСБ открывает секретные архивы",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "3/14/21",
             "price": "420",
@@ -12803,7 +12828,7 @@
             "author": "Патриция Локвуд",
             "book": "О таком не говорят",
             "year": "2022",
-            "buyDate": "7/6/22",
+            "buyDate": "7/31/22",
             "price": "322",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria lockwood 2022",
@@ -12813,7 +12838,7 @@
             "author": "Луи Байяр",
             "book": "Всевидящее око",
             "year": "2022",
-            "buyDate": "7/6/22",
+            "buyDate": "7/31/22",
             "price": "399",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
@@ -12823,7 +12848,7 @@
             "author": "Барбара Абель",
             "book": "Инстинкт матери",
             "year": "2022",
-            "buyDate": "7/6/22",
+            "buyDate": "7/31/22",
             "price": "349",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
@@ -12856,6 +12881,7 @@
         {
             "author": "Вера Куриан",
             "book": "Тайный клуб психопатов",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo wishlist new 2022",
@@ -12965,7 +12991,7 @@
         {
             "author": "Мэри Бёртон",
             "book": "Последнее испытание",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria psycho-thriller berton wishlist 2022",
@@ -13059,6 +13085,219 @@
             "img": "https://s1.livelib.ru/boocover/1007013037/o/53da/Dzhon_Marrs__Code._Nositeli.jpeg"
         },
         {
+            "author": "Джон Харт",
+            "book": "Король лжи",
+            "web": "fb2",
+            "shelf": "hart wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000533501/o/edea/Dzhon_Hart__Korol_lzhi.jpeg"
+        },
+        {
+            "author": "Джон Харт",
+            "book": "Вниз по реке",
+            "web": "fb2",
+            "shelf": "hart wishlist",
+            "img": "https://s1.livelib.ru/boocover/1005888778/o/8bea/Dzhon_Hart__Vniz_po_reke.jpeg"
+        },
+        {
+            "author": "Джон Харт",
+            "book": "Последний ребенок",
+            "web": "fb2",
+            "shelf": "hart wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002975384/o/6d23/Dzhon_Hart__Poslednij_rebenok.jpeg"
+        },
+        {
+            "author": "Джон Харт",
+            "book": "Путь искупления",
+            "web": "fb2",
+            "shelf": "hart wishlist",
+            "img": "https://s1.livelib.ru/boocover/1004757067/o/0249/Dzhon_Hart__Put_iskupleniya.jpeg"
+        },
+        {
+            "author": "Джон Харт",
+            "book": "Безмолвие",
+            "web": "fb2",
+            "shelf": "hart wishlist",
+            "img": "https://s1.livelib.ru/boocover/1003616022/o/c47c/Dzhon_Hart__Bezmolvie.jpeg"
+        },
+        {
+            "author": "Джон Харт",
+            "book": "Чужая воля",
+            "web": "fb2",
+            "year": "2022",
+            "shelf": "hart wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007130625/o/ddf2/Dzhon_Hart__Chuzhaya_volya.jpeg"
+        },
+        {
+            "author": "Тана Френч",
+            "book": "В лесной чаще",
+            "web": "fb2",
+            "shelf": "french wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000977434/o/0df5/Tana_French__V_lesnoj_chasche.jpeg"
+        },
+        {
+            "author": "Тана Френч",
+            "book": "Мертвые возвращаются?..",
+            "web": "fb2",
+            "shelf": "french wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000443924/o/c4e9/Tana_French__Mertvye_vozvraschayutsya...jpeg"
+        },
+        {
+            "author": "Тана Френч",
+            "book": "Сходство",
+            "web": "fb2",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-press french wishlist",
+            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-10014.jpg"
+        },
+        {
+            "author": "Тана Френч",
+            "book": "Ночь длиною в жизнь",
+            "web": "fb2",
+            "shelf": "french wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000511939/o/0d2b/Tana_French__Noch_dlinoyu_v_zhizn.jpeg"
+        },
+        {
+            "author": "Тана Френч",
+            "book": "Рассветная бухта",
+            "web": "fb2",
+            "shelf": "french wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000934703/o/868c/Tana_French__Rassvetnaya_buhta.jpeg"
+        },
+        {
+            "author": "Тана Френч",
+            "book": "Тайное место",
+            "web": "fb2",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-press french wishlist",
+            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9841.jpg"
+        },
+        {
+            "author": "Тана Френч",
+            "book": "Тень за спиной",
+            "web": "fb2",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-press french wishlist",
+            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9842.jpg"
+        },
+        {
+            "author": "Тана Френч",
+            "book": "Ведьмин вяз",
+            "web": "fb2",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-press french wishlist",
+            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9989.jpg"
+        },
+        {
+            "author": "Тана Френч",
+            "book": "Искатель",
+            "web": "fb2",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-press french wishlist",
+            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-10039.png"
+        },
+        {
+            "author": "Тана Френч",
+            "book": "Фейтфул-Плейс",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-press french wishlist 2022",
+            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-10057.jpg"
+        },
+        {
+            "author": "Мишель Бюсси",
+            "book": "Безумство Мазарини",
+            "web": "fb2",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-pess bussi wishlist",
+            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-10007.jpg"
+        },
+        {
+            "author": "Мишель Бюсси",
+            "book": "Помнишь ли ты, Анаис?",
+            "web": "fb2",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-pess bussi wishlist",
+            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9742.jpg"
+        },
+        {
+            "author": "Мишель Бюсси",
+            "book": "Черные кувшинки",
+            "web": "fb2",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-pess bussi wishlist",
+            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-10042.jpg"
+        },
+        {
+            "author": "Мишель Бюсси",
+            "book": "Самолет без нее",
+            "web": "fb2",
+            "shelf": "bussi wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002080603/o/3abd/Mishel_Byussi__Samoljot_bez_nejo.jpeg"
+        },
+        {
+            "author": "Мишель Бюсси",
+            "book": "Не отпускай мою руку",
+            "web": "fb2",
+            "shelf": "bussi wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002010730/o/8478/Mishel_Byussi__Ne_otpuskaj_moyu_ruku.jpeg"
+        },
+        {
+            "author": "Мишель Бюсси",
+            "book": "Не забывать никогда",
+            "web": "fb2",
+            "shelf": "bussi wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002061350/o/d9fc/Mishel_Byussi__Ne_zabyvat_nikogda.jpeg"
+        },
+        {
+            "author": "Мишель Бюсси",
+            "book": "Следы на песке",
+            "web": "fb2",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-pess bussi wishlist",
+            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9746.jpg"
+        },
+        {
+            "author": "Мишель Бюсси",
+            "book": "Пока ты не спишь",
+            "web": "fb2",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-pess bussi wishlist",
+            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9745.jpg"
+        },
+        {
+            "author": "Мишель Бюсси",
+            "book": "Время-убийца",
+            "web": "fb2",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-pess bussi wishlist",
+            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9743.jpg"
+        },
+        {
+            "author": "Мишель Бюсси",
+            "book": "И все-таки она красавица",
+            "web": "fb2",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-pess bussi wishlist",
+            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9744.jpg"
+        },
+        {
+            "author": "Мишель Бюсси",
+            "book": "Я слишком долго мечтала",
+            "web": "fb2",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-pess bussi wishlist",
+            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9741.jpg"
+        },
+        {
+            "author": "Мишель Бюсси",
+            "book": "Под опасным солнцем",
+            "web": "fb2",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-pess bussi wishlist",
+            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-10051.jpg"
+        },
+        {
             "author": "Юэжань Чжан",
             "book": "Кокон",
             "web": "fb2",
@@ -13130,6 +13369,13 @@
             "img": "https://s1.livelib.ru/boocover/1006787407/o/7dfe/Karen_M._Makmanus__Kuzeny.jpeg"
         },
         {
+            "author": "Карен М. Макманус",
+            "book": "Вы станете моей смертью",
+            "year": "2022",
+            "shelf": "makmanus wishlist 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000862358/COVER/cover1__w600.jpg"
+        },
+        {
             "author": "Дэниел Киз",
             "book": "Элджернон, Чарли и я",
             "web": "fb2",
@@ -13139,6 +13385,7 @@
         {
             "author": "Дэниел Киз",
             "book": "Разоблачение Клаудии",
+            "web": "fb2",
             "shelf": "kiz wishlist",
             "img": "https://s1.livelib.ru/boocover/1006118680/o/4d74/Deniel_Kiz__Razoblachenie_Klaudii.jpeg"
         },
@@ -13159,12 +13406,14 @@
         {
             "author": "Дэниел Киз",
             "book": "Цветы для Элджернона",
+            "web": "fb2",
             "shelf": "kiz wishlist",
             "img": "https://s1.livelib.ru/boocover/1007030176/o/ea47/Deniel_Kiz__Tsvety_dlya_Eldzhernona.jpeg"
         },
         {
             "author": "Дэниел Киз",
             "book": "Хроники лечебницы",
+            "web": "fb2",
             "year": "2022",
             "shelf": "kiz wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007047630/o/ac6c/Deniel_Kiz__Hroniki_lechebnitsy.jpeg"
@@ -13294,18 +13543,21 @@
         {
             "author": "Джей Рейнер",
             "book": "Доизвинялся",
+            "web": "fb2",
             "shelf": "alternative",
             "img": "https://s1.livelib.ru/boocover/1000175993/o/dcc5/Dzhej_Rejner__Doizvinyalsya.jpeg"
         },
         {
             "author": "Грегори Галлоуэй",
             "book": "Простой как снег",
+            "web": "fb2",
             "shelf": "alternative",
             "img": "https://s1.livelib.ru/boocover/1000311938/o/9af5/Gregori_Gallouej__Prostoj_kak_sneg.jpeg"
         },
         {
             "author": "Рана Дасгупта",
             "book": "Токио не принимает",
+            "web": "fb2",
             "shelf": "alternative",
             "img": "https://s1.livelib.ru/boocover/1000249244/o/7f70/Rana_Dasgupta__Tokio_ne_prinimaet.jpeg"
         },
@@ -13594,12 +13846,14 @@
         {
             "author": "Лолита Пий",
             "book": "Хелл",
+            "web": "fb2",
             "shelf": "pille alternative wishlist",
             "img": "https://s1.livelib.ru/boocover/1000188211/o/919a/Lolita_Pij__Hell.jpeg"
         },
         {
             "author": "Джош Бейзел",
             "book": "Бей в точку",
+            "web": "fb2",
             "shelf": "beizel wishlist",
             "img": "https://s1.livelib.ru/boocover/1000317543/o/8509/Dzhosh_Bejzel__Bej_v_tochku.jpeg"
         },
