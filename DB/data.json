@@ -9620,6 +9620,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-podstrochnik3.jpg"
         },
         {
+            "id": "720",
             "author": "Наима Костер",
             "book": "Что мое, что твое",
             "year": "2022",
@@ -12835,6 +12836,16 @@
             "img": "https://s1.livelib.ru/boocover/1007315596/o/2034/Patritsiya_Lokvud__O_takom_ne_govoryat.jpeg"
         },
         {
+            "author": "Барбара Абель",
+            "book": "Инстинкт матери",
+            "year": "2022",
+            "buyDate": "7/8/22",
+            "price": "337",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001252317/COVER/cover1__w820.jpg"
+        },
+        {
             "author": "Луи Байяр",
             "book": "Всевидящее око",
             "year": "2022",
@@ -12843,16 +12854,6 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
             "img": "https://s1.livelib.ru/boocover/1006896874/o/f869/Lui_Bajyar__Vsevidyaschee_oko.jpeg"
-        },
-        {
-            "author": "Барбара Абель",
-            "book": "Инстинкт матери",
-            "year": "2022",
-            "buyDate": "7/31/22",
-            "price": "349",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001252317/COVER/cover1__w820.jpg"
         },
         {
             "author": "Марк Биллингхэм",
@@ -12933,6 +12934,22 @@
         },
         {
             "author": "Джейн Шемилт",
+            "book": "Дочь",
+            "web": "mp3 fb2",
+            "publisher": "АСТ",
+            "shelf": "ast wishlist",
+            "img": "https://s1.livelib.ru/boocover/1001548575/o/84cf/Dzhejn_Shemilt__Doch.jpeg"
+        },
+        {
+            "author": "Джейн Шемилт",
+            "book": "Учись тонуть",
+            "web": "fb2",
+            "publisher": "АСТ",
+            "shelf": "ast wishlist",
+            "img": "https://s1.livelib.ru/boocover/1005616018/o/e2e9/Dzhejn_Shemilt__Uchis_tonut.jpeg"
+        },
+        {
+            "author": "Джейн Шемилт",
             "book": "Пациент",
             "web": "fb2",
             "year": "2022",
@@ -12943,7 +12960,7 @@
         {
             "author": "Майк Омер",
             "book": "Внутри убийцы",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Эксмо",
             "shelf": "eksmo psycho-thriller omer wishlist",
             "img": "https://cdn.eksmo.ru/v2/ITD000000000996146/COVER/cover1__w820.jpg"
@@ -12951,7 +12968,7 @@
         {
             "author": "Майк Омер",
             "book": "Заживо в темноте",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria psycho-thriller omer wishlist",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001107529/COVER/cover1__w820.jpg"
@@ -12959,7 +12976,7 @@
         {
             "author": "Майк Омер",
             "book": "Глазами жертвы",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria psycho-thriller omer wishlist",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001122060/COVER/cover1__w820.jpg"
@@ -12967,7 +12984,7 @@
         {
             "author": "Майк Омер",
             "book": "Как ты умрешь",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria psycho-thriller omer wishlist",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001116337/COVER/cover1__w820.jpg"
@@ -12975,6 +12992,7 @@
         {
             "author": "Майк Омер",
             "book": "Сеть смерти",
+            "web": "mp3",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria psycho-thriller omer wishlist 2022",
@@ -13000,7 +13018,7 @@
         {
             "author": "Виктор Метос",
             "book": "Жена убийцы",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria psycho-thriller metos wishlist",
             "img": "https://s1.livelib.ru/boocover/1005631360/o/fc15/Viktor_Metos__Zhena_ubijtsy.jpeg"
@@ -13016,7 +13034,7 @@
         {
             "author": "Изабелла Мальдонадо",
             "book": "Шифр",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria psycho-thriller wishlist",
             "img": "https://s1.livelib.ru/boocover/1006950412/o/63af/Izabella_Maldonado__Shifr.jpeg"
@@ -13024,7 +13042,7 @@
         {
             "author": "Виктория Селман",
             "book": "Границы безумия",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria psycho-thriller wishlist",
             "img": "https://s1.livelib.ru/boocover/1005948088/o/5294/Viktoriya_Selman__Granitsy_bezumiya.jpeg"
@@ -13050,14 +13068,14 @@
         {
             "author": "Джон Маррс",
             "book": "Добрая самаритянка",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "shelf": "marrs wishlist",
             "img": "https://s1.livelib.ru/boocover/1005753175/o/9e21/Dzhon_Marrs__Dobraya_samarityanka.jpeg"
         },
         {
             "author": "Джон Маррс",
             "book": "Пассажиры",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "shelf": "marrs wishlist",
             "img": "https://s1.livelib.ru/boocover/1004753458/o/faf7/Dzhon_Marrs__Passazhiry.jpeg"
         },
@@ -13071,7 +13089,7 @@
         {
             "author": "Джон Маррс",
             "book": "The One. Единственный",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "shelf": "marrs wishlist 2020",
             "img": "https://s1.livelib.ru/boocover/1003750333/o/4e40/Dzhon_Marrs__The_One._Edinstvennyj.jpeg"
@@ -13079,7 +13097,7 @@
         {
             "author": "Джон Маррс",
             "book": "Code. Носители",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "shelf": "marrs wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007013037/o/53da/Dzhon_Marrs__Code._Nositeli.jpeg"
@@ -13094,35 +13112,35 @@
         {
             "author": "Джон Харт",
             "book": "Вниз по реке",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "shelf": "hart wishlist",
             "img": "https://s1.livelib.ru/boocover/1005888778/o/8bea/Dzhon_Hart__Vniz_po_reke.jpeg"
         },
         {
             "author": "Джон Харт",
             "book": "Последний ребенок",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "shelf": "hart wishlist",
             "img": "https://s1.livelib.ru/boocover/1002975384/o/6d23/Dzhon_Hart__Poslednij_rebenok.jpeg"
         },
         {
             "author": "Джон Харт",
             "book": "Путь искупления",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "shelf": "hart wishlist",
             "img": "https://s1.livelib.ru/boocover/1004757067/o/0249/Dzhon_Hart__Put_iskupleniya.jpeg"
         },
         {
             "author": "Джон Харт",
             "book": "Безмолвие",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "shelf": "hart wishlist",
             "img": "https://s1.livelib.ru/boocover/1003616022/o/c47c/Dzhon_Hart__Bezmolvie.jpeg"
         },
         {
             "author": "Джон Харт",
             "book": "Чужая воля",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "shelf": "hart wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007130625/o/ddf2/Dzhon_Hart__Chuzhaya_volya.jpeg"
@@ -13130,21 +13148,21 @@
         {
             "author": "Тана Френч",
             "book": "В лесной чаще",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "shelf": "french wishlist",
             "img": "https://s1.livelib.ru/boocover/1000977434/o/0df5/Tana_French__V_lesnoj_chasche.jpeg"
         },
         {
             "author": "Тана Френч",
             "book": "Мертвые возвращаются?..",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "shelf": "french wishlist",
             "img": "https://s1.livelib.ru/boocover/1000443924/o/c4e9/Tana_French__Mertvye_vozvraschayutsya...jpeg"
         },
         {
             "author": "Тана Френч",
             "book": "Сходство",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press french wishlist",
             "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-10014.jpg"
@@ -13152,21 +13170,21 @@
         {
             "author": "Тана Френч",
             "book": "Ночь длиною в жизнь",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "shelf": "french wishlist",
             "img": "https://s1.livelib.ru/boocover/1000511939/o/0d2b/Tana_French__Noch_dlinoyu_v_zhizn.jpeg"
         },
         {
             "author": "Тана Френч",
             "book": "Рассветная бухта",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "shelf": "french wishlist",
             "img": "https://s1.livelib.ru/boocover/1000934703/o/868c/Tana_French__Rassvetnaya_buhta.jpeg"
         },
         {
             "author": "Тана Френч",
             "book": "Тайное место",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press french wishlist",
             "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9841.jpg"
@@ -13174,7 +13192,7 @@
         {
             "author": "Тана Френч",
             "book": "Тень за спиной",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press french wishlist",
             "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9842.jpg"
@@ -13182,7 +13200,7 @@
         {
             "author": "Тана Френч",
             "book": "Ведьмин вяз",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press french wishlist",
             "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9989.jpg"
@@ -13190,7 +13208,7 @@
         {
             "author": "Тана Френч",
             "book": "Искатель",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press french wishlist",
             "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-10039.png"
@@ -13198,7 +13216,7 @@
         {
             "author": "Тана Френч",
             "book": "Фейтфул-Плейс",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press french wishlist 2022",
@@ -13207,100 +13225,100 @@
         {
             "author": "Мишель Бюсси",
             "book": "Безумство Мазарини",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
-            "shelf": "fantom-pess bussi wishlist",
+            "shelf": "fantom-press bussi wishlist",
             "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-10007.jpg"
         },
         {
             "author": "Мишель Бюсси",
             "book": "Помнишь ли ты, Анаис?",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
-            "shelf": "fantom-pess bussi wishlist",
+            "shelf": "fantom-press bussi wishlist",
             "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9742.jpg"
         },
         {
             "author": "Мишель Бюсси",
             "book": "Черные кувшинки",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
-            "shelf": "fantom-pess bussi wishlist",
+            "shelf": "fantom-press bussi wishlist",
             "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-10042.jpg"
         },
         {
             "author": "Мишель Бюсси",
             "book": "Самолет без нее",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "shelf": "bussi wishlist",
             "img": "https://s1.livelib.ru/boocover/1002080603/o/3abd/Mishel_Byussi__Samoljot_bez_nejo.jpeg"
         },
         {
             "author": "Мишель Бюсси",
             "book": "Не отпускай мою руку",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "shelf": "bussi wishlist",
             "img": "https://s1.livelib.ru/boocover/1002010730/o/8478/Mishel_Byussi__Ne_otpuskaj_moyu_ruku.jpeg"
         },
         {
             "author": "Мишель Бюсси",
             "book": "Не забывать никогда",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "shelf": "bussi wishlist",
             "img": "https://s1.livelib.ru/boocover/1002061350/o/d9fc/Mishel_Byussi__Ne_zabyvat_nikogda.jpeg"
         },
         {
             "author": "Мишель Бюсси",
             "book": "Следы на песке",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
-            "shelf": "fantom-pess bussi wishlist",
+            "shelf": "fantom-press bussi wishlist",
             "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9746.jpg"
         },
         {
             "author": "Мишель Бюсси",
             "book": "Пока ты не спишь",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
-            "shelf": "fantom-pess bussi wishlist",
+            "shelf": "fantom-press bussi wishlist",
             "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9745.jpg"
         },
         {
             "author": "Мишель Бюсси",
             "book": "Время-убийца",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
-            "shelf": "fantom-pess bussi wishlist",
+            "shelf": "fantom-press bussi wishlist",
             "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9743.jpg"
         },
         {
             "author": "Мишель Бюсси",
             "book": "И все-таки она красавица",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
-            "shelf": "fantom-pess bussi wishlist",
+            "shelf": "fantom-press bussi wishlist",
             "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9744.jpg"
         },
         {
             "author": "Мишель Бюсси",
             "book": "Я слишком долго мечтала",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
-            "shelf": "fantom-pess bussi wishlist",
+            "shelf": "fantom-press bussi wishlist",
             "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9741.jpg"
         },
         {
             "author": "Мишель Бюсси",
             "book": "Под опасным солнцем",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
-            "shelf": "fantom-pess bussi wishlist",
+            "shelf": "fantom-press bussi wishlist",
             "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-10051.jpg"
         },
         {
             "author": "Юэжань Чжан",
             "book": "Кокон",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press wishlist 2021",
