@@ -3484,9 +3484,7 @@
             "author": "Маша Трауб",
             "book": "О чем говорят младенцы",
             "year": "2011",
-            "buyDate": "4/20/12",
-            "price": "198",
-            "shelf": "traub",
+            "shelf": "traub wishlist",
             "img": "https://cv3.litres.ru/pub/c/elektronnaya-kniga/cover_415/611635-masha-traub-o-chem-govoryat-mladency.jpg"
         },
         {
@@ -11315,6 +11313,7 @@
         {
             "author": "Росс Кинг",
             "book": "Книготорговец из Флоренции",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "6/1/22",
             "price": "679",
@@ -12122,6 +12121,7 @@
         {
             "author": "Рагнар Йонассон",
             "book": "Мгла",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Азбука",
             "shelf": "ragnar wishlist 2022",
@@ -12356,6 +12356,7 @@
             "web": "fb2",
             "year": "2020",
             "buyDate": "3/14/21",
+            "readDate": "7/10/22",
             "price": "420",
             "shelf": "fsb",
             "img": "https://cdn1.ozone.ru/s3/multimedia-v/wc1200/6017651479.jpg"
@@ -12808,6 +12809,7 @@
         {
             "author": "Лора Дэйв",
             "book": "Последнее, что он сказал мне",
+            "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "6/1/22",
             "price": "325",
@@ -12937,7 +12939,7 @@
             "book": "Дочь",
             "web": "mp3 fb2",
             "publisher": "АСТ",
-            "shelf": "ast wishlist",
+            "shelf": "ast shemilt wishlist",
             "img": "https://s1.livelib.ru/boocover/1001548575/o/84cf/Dzhejn_Shemilt__Doch.jpeg"
         },
         {
@@ -12945,7 +12947,7 @@
             "book": "Учись тонуть",
             "web": "fb2",
             "publisher": "АСТ",
-            "shelf": "ast wishlist",
+            "shelf": "ast shemilt wishlist",
             "img": "https://s1.livelib.ru/boocover/1005616018/o/e2e9/Dzhejn_Shemilt__Uchis_tonut.jpeg"
         },
         {
@@ -12954,7 +12956,7 @@
             "web": "fb2",
             "year": "2022",
             "publisher": "АСТ",
-            "shelf": "ast wishlist 2022",
+            "shelf": "ast shemilt wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007069812/o/83eb/Dzhejn_Shemilt__Patsient.jpeg"
         },
         {
@@ -12992,7 +12994,7 @@
         {
             "author": "Майк Омер",
             "book": "Сеть смерти",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria psycho-thriller omer wishlist 2022",
@@ -13314,6 +13316,63 @@
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press bussi wishlist",
             "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-10051.jpg"
+        },
+        {
+            "author": "Лоран Гунель",
+            "book": "Человек, который хотел быть счастливым",
+            "web": "fb2",
+            "publisher": "Азбука",
+            "shelf": "azbuka gunel wishlist",
+            "img": "https://s1.livelib.ru/boocover/1003372239/o/40cb/Loran_Gunel__Chelovek_kotoryj_hotel_byt_schastlivym.jpeg"
+        },
+        {
+            "author": "Лоран Гунель",
+            "book": "Бог всегда путешествует инкогнито",
+            "web": "fb2",
+            "publisher": "Азбука",
+            "shelf": "azbuka gunel wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002874688/o/3901/Loran_Gunel__Bog_vsegda_puteshestvuet_inkognito.jpeg"
+        },
+        {
+            "author": "Лоран Гунель",
+            "book": "Философ, которому не хватало мудрости",
+            "web": "fb2",
+            "publisher": "Азбука",
+            "shelf": "azbuka gunel wishlist",
+            "img": "https://s1.livelib.ru/boocover/1003191507/o/cef2/Loran_Gunel__Filosof_kotoromu_ne_hvatalo_mudrosti.jpeg"
+        },
+        {
+            "author": "Лоран Гунель",
+            "book": "День, когда я научился жить",
+            "web": "fb2",
+            "publisher": "Азбука",
+            "shelf": "azbuka gunel wishlist",
+            "img": "https://s1.livelib.ru/boocover/1003011429/o/ec72/Loran_Gunel__Den_kogda_ya_nauchilsya_zhit.jpeg"
+        },
+        {
+            "author": "Лоран Гунель",
+            "book": "Сокровище, которое дремлет в тебе",
+            "web": "fb2",
+            "publisher": "Азбука",
+            "shelf": "azbuka gunel wishlist",
+            "img": "https://s1.livelib.ru/boocover/1003963987/o/212e/Loran_Gunel__Sokrovische_kotoroe_dremlet_v_tebe.jpeg"
+        },
+        {
+            "author": "Лоран Гунель",
+            "book": "Я обещаю тебе свободу",
+            "web": "fb2",
+            "publisher": "Азбука",
+            "shelf": "azbuka gunel wishlist",
+            "img": "https://cdn.azbooka.ru/cv/w1100/db81f4b3-f6ab-43de-b4f0-b1d8abf47333.jpg"
+        },
+        {
+            "author": "Лоран Гунель",
+            "book": "Интуицио",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Азбука",
+            "shelf": "azbuka gunel wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007068930/o/2af2/Loran_Gunel__Intuitsio.jpeg"
         },
         {
             "author": "Юэжань Чжан",
@@ -13879,6 +13938,7 @@
             "author": "Алексей Иванов",
             "book": "Географ глобус пропил",
             "web": "mp3 fb2",
+            "readDate": "7/11/22",
             "shelf": "wishlist",
             "img": "https://s1.livelib.ru/boocover/1000255643/o/a360/Aleksej_Ivanov__Geograf_globus_propil.jpeg"
         },
