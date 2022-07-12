@@ -3815,7 +3815,7 @@
             "author": "Маша Трауб",
             "book": "Невозвратный билет",
             "year": "2022",
-            "buyDate": "7/31/22",
+            "buyDate": "7/13/22",
             "price": "341",
             "publisher": "Эксмо",
             "shelf": "traub eksmo 2022",
@@ -6284,6 +6284,15 @@
             "img": "https://www.corpus.ru/picts/products/winslow-satori-1000.jpg"
         },
         {
+            "id": "209",
+            "author": "Нина Шнирман",
+            "book": "Счастливая девочка растет",
+            "year": "2013",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/schnirman-devochka2-1000.jpg"
+        },
+        {
             "id": "211",
             "author": "Максим Кронгауз",
             "book": "Самоучитель Олбанского",
@@ -6946,6 +6955,15 @@
             "img": "https://s1.livelib.ru/boocover/1001288549/o/a264/Dzhonatan_Tropper__Dalshe_zhivite_sami.jpeg"
         },
         {
+            "id": "330",
+            "author": "Тумас Шёберг",
+            "book": "Ингмар Бергман. Жизнь, любовь и измены",
+            "year": "2015",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Sjoberg-Bergman-1000.jpg"
+        },
+        {
             "id": "331",
             "author": "Алисия Хименес Бартлетт",
             "book": "А собаку я возьму себе",
@@ -7558,7 +7576,8 @@
             "book": "Разломанное время. Культура и общество в XX веке",
             "year": "2017",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist"
+            "shelf": "corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Hobbsbawm-Fractured-1000.jpg"
         },
         {
             "id": "439",
@@ -7626,6 +7645,15 @@
             "publisher": "Corpus",
             "shelf": "corpus razvedcorpus wishlist",
             "img": "https://www.corpus.ru/picts/products/shpion-na-milliard-dollarov.jpg"
+        },
+        {
+            "id": "448",
+            "author": "Дэвид Ремник",
+            "book": "Могила Ленина. Последние дни советской империи",
+            "year": "2017",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/REMNIK_MOGILA__1000.jpg"
         },
         {
             "id": "449",
@@ -9563,8 +9591,10 @@
             "author": "Александр Староверов",
             "book": "То, что вы хотели",
             "year": "2022",
+            "buyDate": "7/31/22",
+            "price": "512",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new 2022",
+            "shelf": "corpus 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-staroverov.jpg"
         },
         {
@@ -9622,8 +9652,10 @@
             "author": "Наима Костер",
             "book": "Что мое, что твое",
             "year": "2022",
+            "buyDate": "7/31/22",
+            "price": "556",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new 2022",
+            "shelf": "corpus 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-chto-moe.jpg"
         },
         {
@@ -9735,6 +9767,14 @@
             "publisher": "Corpus",
             "shelf": "houellebecq corpus wishlist new 2022",
             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Anéantir_%28Michel_Houellebecq%29_-_bandeau_rouge.jpg/1200px-Anéantir_%28Michel_Houellebecq%29_-_bandeau_rouge.jpg"
+        },
+        {
+            "author": "Жоэль Диккер",
+            "book": "«Дело „Аляска Сандерс“»",
+            "year": "2023",
+            "publisher": "Corpus",
+            "shelf": "dikker corpus wishlist new 2022",
+            "img": "https://images.ctfassets.net/ogthibj6tk54/9ZKZrkbEvRJxDLW5LPEUQ/976985c9e8ef262d4a72499a0a64925d/Alaska-Web.jpg"
         },
         {
             "author": "Владимир Набоков",
@@ -9941,15 +9981,6 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/Sansom-Paper-Super-1000.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Питер Акройд",
-            "book": "Кентерберийские рассказы",
-            "year": "2014",
-            "publisher": "Corpus",
-            "shelf": "akroid corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Ackroyd-Canterberry-1000.jpg"
         },
         {
             "id": "n",
@@ -11332,6 +11363,16 @@
             "img": "https://cdn.book24.ru/v2/ITD000000001143051/COVER/cover13d__w410.webp"
         },
         {
+            "author": "Джен Кэмбл",
+            "book": "Диковинные диалоги в книжных магазинах",
+            "year": "2021",
+            "buyDate": "7/12/22",
+            "price": "554",
+            "publisher": "Подписные издания",
+            "shelf": "bookstore 2021",
+            "img": "https://www.podpisnie.ru/upload/resize_cache/iblock/6ea/1262_575_1/8be5ldtznr1bvc2ljsybswkj6srir2nl.jpg"
+        },
+        {
             "author": "Карстен Себастиан Хенн",
             "book": "Служба доставки книг",
             "year": "2022",
@@ -12149,6 +12190,15 @@
             "img": "https://s1.livelib.ru/boocover/1006876483/o/788c/Dzhill_Bajden__Tam_gde_svet._Istoriya_pervoj_ledi_SShA.jpeg"
         },
         {
+            "author": "Омид Скоби и Кэролин Дюран",
+            "book": "Гарри и Меган. Выбирая свободу",
+            "year": "2022",
+            "buyDate": "7/31/22",
+            "publisher": "Эксмо",
+            "shelf": "eksmo 2022",
+            "img": "https://s1.livelib.ru/boocover/1007412370/o/874f/__Garri_i_Megan._Vybiraya_svobodu.jpeg"
+        },
+        {
             "author": "Мэтью Квортруп",
             "book": "Ангела Меркель. Самый влиятельный политик Европы",
             "web": "fb2",
@@ -12181,6 +12231,16 @@
             "publisher": "Бомбора",
             "shelf": "bombora nemcov politics 2022",
             "img": "https://s1.livelib.ru/boocover/1006937089/o/0a86/Zhanna_Nemtsova__Doch_svoego_ottsa.jpeg"
+        },
+        {
+            "author": "Нил Сэмворт",
+            "book": "Глазами надзирателя. Внутри самой суровой тюрьмы мира",
+            "year": "2022",
+            "buyDate": "7/13/22",
+            "price": "330",
+            "publisher": "Бомбора",
+            "shelf": "bombora 2022",
+            "img": "https://s1.livelib.ru/boocover/1006891360/o/2365/Nil_Semvort__Glazami_nadziratelya._Vnutri_samoj_surovoj_tyurmy_mira.jpeg"
         },
         {
             "author": "Эрик Асфог",
@@ -12706,8 +12766,10 @@
             "author": "Джон Айронмонгер",
             "book": "Множество жизней Элоизы Старчайлд",
             "year": "2022",
+            "buyDate": "7/13/22",
+            "price": "384",
             "publisher": "АСТ",
-            "shelf": "ast miracle ironmonger wishlist new 2022",
+            "shelf": "ast miracle ironmonger 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000861542/COVER/cover1__w600.jpg"
         },
         {
@@ -12791,8 +12853,10 @@
             "author": "Сара Дензил",
             "book": "Безмолвное дитя",
             "year": "2022",
+            "buyDate": "7/13/22",
+            "price": "344",
             "publisher": "АСТ",
-            "shelf": "ast puzzle wishlist new 2022",
+            "shelf": "ast puzzle 2022",
             "img": "https://s1.livelib.ru/boocover/1007316397/o/fab9/Sara_Denzil__Bezmolvnoe_ditya.jpeg"
         },
         {
