@@ -1931,6 +1931,7 @@
         {
             "author": "Януш Леон Вишневский",
             "book": "Одиночество в сети",
+            "web": "fb2",
             "year": "2005",
             "buyDate": "3/22/21",
             "price": "350",
@@ -2026,6 +2027,7 @@
         {
             "author": "Януш Леон Вишневский",
             "book": "Триптих: Одиночество в сети",
+            "web": "fb2",
             "shelf": "wishnewski",
             "img": "https://s1.livelib.ru/boocover/1000578718/o/e482/Yanush_Leon_Vishnevskij__Triptih._Odinochestvo_v_Seti.jpeg"
         },
@@ -2142,13 +2144,13 @@
         {
             "author": "Януш Леон Вишневский",
             "book": "Uczucia. Dziecinne opowieści o tym, co najważniejsze",
-            "shelf": "wishnewski wishlist new",
+            "shelf": "wishnewski wishlist",
             "img": "https://s1.livelib.ru/boocover/1002829773/o/2670/Janusz_Leon_Wiśniewski__Uczucia._Dziecinne_opowieści_o_tym_co_najważniejsze.jpeg"
         },
         {
             "author": "Януш Леон Вишневский",
             "book": "Nazwijmy to miłość",
-            "shelf": "wishnewski wishlist new",
+            "shelf": "wishnewski wishlist",
             "img": "https://s1.livelib.ru/boocover/1004165233/o/8cdd/Yanush_Vishnevskij__Nazwijmy_to_miłośc.jpeg"
         },
         {
@@ -6819,6 +6821,7 @@
             "id": "306",
             "author": "Аньес Мартен-Люган",
             "book": "У тебя все получится, дорогая моя",
+            "web": "mp3 fb2",
             "year": "2014",
             "buyDate": "1/19/15",
             "readDate": "12/2/21",
@@ -7001,6 +7004,7 @@
             "id": "338",
             "author": "Аньес Мартен-Люган",
             "book": "Влюбленные в книги не спят в одиночестве",
+            "web": "mp3 fb2",
             "year": "2015",
             "buyDate": "8/28/15",
             "readDate": "11/26/21",
@@ -7033,6 +7037,7 @@
             "id": "348",
             "author": "Донна Тартт",
             "book": "Маленький друг",
+            "web": "fb2",
             "year": "2015",
             "buyDate": "9/21/20",
             "readDate": "2/28/22",
@@ -11181,7 +11186,7 @@
         {
             "author": "Ханна Кент",
             "book": "Вкус дыма",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2019",
             "buyDate": "8/17/21",
             "price": "432",
@@ -11355,6 +11360,7 @@
         {
             "author": "Фрейя Сэмпсон",
             "book": "Библиотека моего сердца",
+            "web": "mp3",
             "year": "2022",
             "buyDate": "6/23/22",
             "price": "322",
@@ -11366,11 +11372,11 @@
             "author": "Джен Кэмбл",
             "book": "Диковинные диалоги в книжных магазинах",
             "year": "2021",
-            "buyDate": "7/12/22",
+            "buyDate": "7/13/22",
             "price": "554",
             "publisher": "Подписные издания",
             "shelf": "bookstore 2021",
-            "img": "https://www.podpisnie.ru/upload/resize_cache/iblock/6ea/1262_575_1/8be5ldtznr1bvc2ljsybswkj6srir2nl.jpg"
+            "img": "https://cdn1.ozone.ru/s3/multimedia-y/wc1200/6228033754.jpg"
         },
         {
             "author": "Карстен Себастиан Хенн",
@@ -11482,6 +11488,7 @@
         {
             "author": "Хелен Рольф",
             "book": "Библиотека всего на свете",
+            "web": "mp3",
             "year": "2022",
             "buyDate": "6/23/22",
             "price": "348",
@@ -11541,7 +11548,7 @@
             "img": "https://s1.livelib.ru/boocover/1006890874/o/f8da/Eli_Maknamara__Magazinchik_schastya_Kejt_i_Klary.jpeg"
         },
         {
-            "author": "Пули Клэр",
+            "author": "Клэр Пули",
             "book": "Правдивая история",
             "web": "fb2",
             "year": "2020",
@@ -11549,8 +11556,16 @@
             "readDate": "7/3/22",
             "price": "258",
             "publisher": "Иностранка",
-            "shelf": "inostranka 2020",
+            "shelf": "inostranka puli 2020",
             "img": "https://s1.livelib.ru/boocover/1005380905/o/2dbb/Kler_Puli__Pravdivaya_istoriya.jpeg"
+        },
+        {
+            "author": "Клэр Пули",
+            "book": "Не винный дневник. Как я перестала пить и начала жить",
+            "year": "2022",
+            "publisher": "Портал",
+            "shelf": "puli wishlist new 2022",
+            "img": "https://css.labirint.ru/t/25037/tild6432-6564-4539-b037-376165366438__--.jpg"
         },
         {
             "author": "Джоджо Мойес",
@@ -11823,17 +11838,6 @@
             "img": "https://s1.livelib.ru/boocover/1005994909/o/b2b0/Rieko_Hinata__Knizhnaya_lavka_pod_dozhdjom_i_kostyanoj_drakon.jpeg"
         },
         {
-            "author": "Марьян Камали",
-            "book": "Маленький книжный магазинчик в Тегеране",
-            "web": "mp3",
-            "year": "2021",
-            "buyDate": "10/3/21",
-            "price": "355",
-            "publisher": "Эксмо",
-            "shelf": "bookstore eksmo inspiria 2021",
-            "img": "https://s1.livelib.ru/boocover/1006229521/o/77b9/Maryan_Kamali__Malenkij_knizhnyj_magazinchik_v_Tegerane.jpeg"
-        },
-        {
             "book": "Во всем виновата книга",
             "web": "fb2",
             "year": "2017",
@@ -11907,6 +11911,17 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
             "img": "https://s1.livelib.ru/boocover/1006973803/o/8f1f/Meri_Ellen_Tejlor__Sad_nashej_pamyati.jpeg"
+        },
+        {
+            "author": "Марьян Камали",
+            "book": "Маленький книжный магазинчик в Тегеране",
+            "web": "mp3",
+            "year": "2021",
+            "buyDate": "10/3/21",
+            "price": "355",
+            "publisher": "Эксмо",
+            "shelf": "bookstore eksmo inspiria 2021",
+            "img": "https://s1.livelib.ru/boocover/1006229521/o/77b9/Maryan_Kamali__Malenkij_knizhnyj_magazinchik_v_Tegerane.jpeg"
         },
         {
             "author": "Маделин Мартин",
@@ -12150,25 +12165,6 @@
             "img": "https://s1.livelib.ru/boocover/1006141915/o/8d82/Soren_Svejstrup__Kashtanovyj_chelovechek.jpeg"
         },
         {
-            "author": "Рагнар Йонассон",
-            "book": "Снежная слепота",
-            "web": "mp3 fb2",
-            "year": "2021",
-            "readDate": "4/6/22",
-            "publisher": "Азбука",
-            "shelf": "ragnar wishlist",
-            "img": "https://s1.livelib.ru/boocover/1007034787/o/2ea3/Ragnar_Jonasson__Snezhnaya_slepota.jpeg"
-        },
-        {
-            "author": "Рагнар Йонассон",
-            "book": "Мгла",
-            "web": "fb2",
-            "year": "2022",
-            "publisher": "Азбука",
-            "shelf": "ragnar wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1007342029/o/5e7e/Ragnar_Jonasson__Mgla.jpeg"
-        },
-        {
             "author": "Джо Байден",
             "book": "Сдержать обещания. В жизни и политике",
             "web": "fb2",
@@ -12194,6 +12190,7 @@
             "book": "Гарри и Меган. Выбирая свободу",
             "year": "2022",
             "buyDate": "7/31/22",
+            "price": "348",
             "publisher": "Эксмо",
             "shelf": "eksmo 2022",
             "img": "https://s1.livelib.ru/boocover/1007412370/o/874f/__Garri_i_Megan._Vybiraya_svobodu.jpeg"
@@ -12399,6 +12396,7 @@
             "year": "2020",
             "buyDate": "12/25/20",
             "price": "548",
+            "shelf": "2020",
             "img": "https://s1.livelib.ru/boocover/1005578212/o/5b55/Deniel_Sasskind__Buduschee_bez_raboty._Tehnologii_avtomatizatsiya_i_stoit_li_ih_.jpeg"
         },
         {
@@ -12418,7 +12416,7 @@
             "buyDate": "3/14/21",
             "readDate": "7/10/22",
             "price": "420",
-            "shelf": "fsb",
+            "shelf": "fsb 2020",
             "img": "https://cdn1.ozone.ru/s3/multimedia-v/wc1200/6017651479.jpg"
         },
         {
@@ -12440,7 +12438,7 @@
             "readDate": "5/11/22",
             "price": "354",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria japan",
+            "shelf": "eksmo inspiria japan 2020",
             "img": "https://s1.livelib.ru/boocover/1005139405/o/6d16/Kanae_Minato__Vinoven.jpeg"
         },
         {
@@ -12452,7 +12450,7 @@
             "readDate": "5/21/22",
             "price": "389",
             "publisher": "Эксмо",
-            "shelf": "eksmo japan inspiria",
+            "shelf": "eksmo japan inspiria 2021",
             "img": "https://s1.livelib.ru/boocover/1005520690/o/fb7d/Hideo_Jokoyama__Polupriznanie.jpeg"
         },
         {
@@ -12463,7 +12461,7 @@
             "buyDate": "10/10/21",
             "price": "344",
             "publisher": "Эксмо",
-            "shelf": "eksmo japan inspiria",
+            "shelf": "eksmo japan inspiria 2021",
             "img": "https://s1.livelib.ru/boocover/1006204024/o/0dab/Takesi_Siota__Golos_greha.jpeg"
         },
         {
@@ -12474,7 +12472,7 @@
             "buyDate": "10/10/21",
             "price": "327",
             "publisher": "Эксмо",
-            "shelf": "eksmo japan inspiria",
+            "shelf": "eksmo japan inspiria 2021",
             "img": "https://s1.livelib.ru/boocover/1006752724/o/6b46/Kotaro_Isaka__Poezd_ubijts.jpeg"
         },
         {
@@ -12531,6 +12529,16 @@
             "img": "https://ndc.book24.ru/resize/820x1192/iblock/fc3/fc3ff911348b6c7e57ec818688ffdf5d/3792c5fe7b9f6a1cc3f2dcd3d95c39d0.jpg"
         },
         {
+            "author": "Сергей Лебеденко",
+            "book": "(не)свобода",
+            "year": "2022",
+            "buyDate": "6/28/22",
+            "price": "468",
+            "publisher": "Редакция Елены Шубиной",
+            "shelf": "2022",
+            "img": "https://s1.livelib.ru/boocover/1007172316/o/3396/Sergej_Lebedenko__nesvoboda.jpeg"
+        },
+        {
             "author": "Кадзуо Исигуро",
             "book": "Клара и Солнце",
             "year": "2021",
@@ -12549,6 +12557,39 @@
             "publisher": "Эксмо",
             "shelf": "eksmo isiguro 2021",
             "img": "https://s1.livelib.ru/boocover/1006894990/o/202a/Kadzuo_Isiguro__Ne_otpuskaj_menya.jpeg"
+        },
+        {
+            "author": "Ричард Руссо",
+            "book": "Эмпайр Фоллз",
+            "web": "mp3 fb2",
+            "year": "2018",
+            "buyDate": "6/30/22",
+            "price": "386",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-press russo",
+            "img": "https://s1.livelib.ru/boocover/1002908550/o/1acf/Richard_Russo__Empajr_Follz.jpeg"
+        },
+        {
+            "author": "Ричард Руссо",
+            "book": "Непосредственный человек",
+            "web": "mp3 fb2",
+            "year": "2020",
+            "buyDate": "6/30/22",
+            "price": "386",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-press russo 2020",
+            "img": "https://s1.livelib.ru/boocover/1005249535/o/4865/Richard_Russo__Neposredstvennyj_chelovek.jpeg"
+        },
+        {
+            "author": "Ричард Руссо",
+            "book": "Шансы есть...",
+            "web": "mp3 fb2",
+            "year": "2021",
+            "buyDate": "6/30/22",
+            "price": "352",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-press russo 2021",
+            "img": "https://s1.livelib.ru/boocover/1005638782/o/8d16/Richard_Russo__Shansy_est....jpeg"
         },
         {
             "author": "Роуз Карлайл",
@@ -12606,48 +12647,6 @@
             "publisher": "Эксмо",
             "shelf": "eksmo white 2022",
             "img": "https://s1.livelib.ru/boocover/1007087785/o/8797/Linda_Kejr__Temnoe_ozero.jpeg"
-        },
-        {
-            "author": "Тиффани Джексон",
-            "book": "Никто не видел Мандей",
-            "web": "fb2",
-            "year": "2022",
-            "publisher": "Эксмо",
-            "shelf": "eksmo black wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1007087797/o/d411/Tiffani_D._Dzhekson__Nikto_ne_videl_Mandej.jpeg"
-        },
-        {
-            "author": "Сэм Холланд",
-            "book": "Человек-эхо",
-            "web": "fb2",
-            "year": "2022",
-            "publisher": "Эксмо",
-            "shelf": "eksmo black wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1007132551/o/0e75/Sem_Holland__Chelovekeho.jpeg"
-        },
-        {
-            "author": "Дэвид Джексон",
-            "book": "Игра начинается",
-            "web": "fb2",
-            "year": "2022",
-            "publisher": "Эксмо",
-            "shelf": "eksmo black wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1006114450/o/8323/Devid_Dzhekson__Igra_nachinaetsya.jpeg"
-        },
-        {
-            "author": "Эйвери Бишоп",
-            "book": "Школа безумия",
-            "year": "2022",
-            "publisher": "Эксмо",
-            "shelf": "eksmo black wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1007332735/o/12da/Ejveri_Bishop__Shkola_bezumiya.jpeg"
-        },
-        {
-            "author": "Ричард Чизмар",
-            "book": "Охота на Бугимена",
-            "year": "2022",
-            "publisher": "Эксмо",
-            "shelf": "eksmo black wishlist 2022"
         },
         {
             "author": "Джулия Клэйборн Джонсон",
@@ -12955,16 +12954,6 @@
             "img": "https://s1.livelib.ru/boocover/1007315803/o/d546/Vera_Kurian__Tajnyj_klub_psihopatov.jpeg"
         },
         {
-            "author": "Сергей Лебеденко",
-            "book": "(не)свобода",
-            "year": "2022",
-            "buyDate": "6/28/22",
-            "price": "468",
-            "publisher": "Редакция Елены Шубиной",
-            "shelf": "2022",
-            "img": "https://s1.livelib.ru/boocover/1007172316/o/3396/Sergej_Lebedenko__nesvoboda.jpeg"
-        },
-        {
             "author": "Тереза Дрисколл",
             "book": "Я слежу за тобой",
             "web": "fb2",
@@ -13022,6 +13011,67 @@
             "publisher": "АСТ",
             "shelf": "ast shemilt wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007069812/o/83eb/Dzhejn_Shemilt__Patsient.jpeg"
+        },
+        {
+            "author": "Тиффани Джексон",
+            "book": "Никто не видел Мандей",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo black wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007087797/o/d411/Tiffani_D._Dzhekson__Nikto_ne_videl_Mandej.jpeg"
+        },
+        {
+            "author": "Сэм Холланд",
+            "book": "Человек-эхо",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo black wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007132551/o/0e75/Sem_Holland__Chelovekeho.jpeg"
+        },
+        {
+            "author": "Дэвид Джексон",
+            "book": "Игра начинается",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo black wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1006114450/o/8323/Devid_Dzhekson__Igra_nachinaetsya.jpeg"
+        },
+        {
+            "author": "Эйвери Бишоп",
+            "book": "Школа безумия",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo black wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007332735/o/12da/Ejveri_Bishop__Shkola_bezumiya.jpeg"
+        },
+        {
+            "author": "Ричард Чизмар",
+            "book": "Охота на Бугимена",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo black wishlist 2022"
+        },
+        {
+            "author": "Рагнар Йонассон",
+            "book": "Снежная слепота",
+            "web": "mp3 fb2",
+            "year": "2021",
+            "readDate": "4/6/22",
+            "publisher": "Азбука",
+            "shelf": "ragnar wishlist",
+            "img": "https://s1.livelib.ru/boocover/1007034787/o/2ea3/Ragnar_Jonasson__Snezhnaya_slepota.jpeg"
+        },
+        {
+            "author": "Рагнар Йонассон",
+            "book": "Мгла",
+            "web": "mp3 fb2",
+            "year": "2022",
+            "publisher": "Азбука",
+            "shelf": "ragnar wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007342029/o/5e7e/Ragnar_Jonasson__Mgla.jpeg"
         },
         {
             "author": "Майк Омер",
@@ -13392,7 +13442,7 @@
         {
             "author": "Лоран Гунель",
             "book": "Бог всегда путешествует инкогнито",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Азбука",
             "shelf": "azbuka gunel wishlist",
             "img": "https://s1.livelib.ru/boocover/1002874688/o/3901/Loran_Gunel__Bog_vsegda_puteshestvuet_inkognito.jpeg"
@@ -13446,39 +13496,6 @@
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1005638530/o/e903/Yuezhan_Chzhan__Kokon.jpeg"
-        },
-        {
-            "author": "Ричард Руссо",
-            "book": "Эмпайр Фоллз",
-            "web": "mp3 fb2",
-            "year": "2018",
-            "buyDate": "6/30/22",
-            "price": "386",
-            "publisher": "Фантом Пресс",
-            "shelf": "fantom-press russo",
-            "img": "https://s1.livelib.ru/boocover/1002908550/o/1acf/Richard_Russo__Empajr_Follz.jpeg"
-        },
-        {
-            "author": "Ричард Руссо",
-            "book": "Непосредственный человек",
-            "web": "mp3 fb2",
-            "year": "2020",
-            "buyDate": "6/30/22",
-            "price": "386",
-            "publisher": "Фантом Пресс",
-            "shelf": "fantom-press russo 2020",
-            "img": "https://s1.livelib.ru/boocover/1005249535/o/4865/Richard_Russo__Neposredstvennyj_chelovek.jpeg"
-        },
-        {
-            "author": "Ричард Руссо",
-            "book": "Шансы есть...",
-            "web": "mp3 fb2",
-            "year": "2021",
-            "buyDate": "6/30/22",
-            "price": "352",
-            "publisher": "Фантом Пресс",
-            "shelf": "fantom-press russo 2021",
-            "img": "https://s1.livelib.ru/boocover/1005638782/o/8d16/Richard_Russo__Shansy_est....jpeg"
         },
         {
             "author": "Карен М. Макманус",
