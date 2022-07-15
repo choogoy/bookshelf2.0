@@ -4513,6 +4513,13 @@
             "img": "https://s1.livelib.ru/boocover/1007268955/o/c980/Erik_Berger__Start._Istoriya_uspeha_SpaceX._Ilon_Mask_i_komanda.jpeg"
         },
         {
+            "author": "Анна Кроули Реддинг",
+            "book": "Илон Маск. До встречи на Марсе",
+            "year": "2022",
+            "shelf": "elon-musk space wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1006941943/o/5b41/Anna_Krouli_Redding__Ilon_Mask._Kak_tebe_takoe_Mars.jpeg"
+        },
+        {
             "author": "Юлия Борисовна Гиппенрейтер",
             "book": "Общаться с ребенком. Как?",
             "year": "2011",
@@ -5091,7 +5098,7 @@
             "buyDate": "8/2/20",
             "price": "257",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus mendosa",
             "img": "https://www.corpus.ru/picts/products/Mendoza-PomponioFlato-1000.jpg"
         },
         {
@@ -5146,7 +5153,7 @@
             "buyDate": "8/8/20",
             "price": "140.5",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus pineiro",
             "img": "https://s1.livelib.ru/boocover/1000328359/o/34dd/Klaudia_Pinejro__Tvoya.jpeg"
         },
         {
@@ -5201,7 +5208,7 @@
             "buyDate": "7/23/20",
             "price": "96",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus mendosa",
             "img": "https://www.corpus.ru/picts/products/Mendosa-Cripta-1000.jpg"
         },
         {
@@ -5212,7 +5219,7 @@
             "buyDate": "8/3/20",
             "price": "98",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus padura",
             "img": "https://s1.livelib.ru/boocover/1000449709/o/bdf3/Leonardo_Padura__Proschaj_Heminguej.jpeg"
         },
         {
@@ -5278,7 +5285,7 @@
             "buyDate": "8/5/20",
             "price": "158",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus pineiro",
             "img": "https://s1.livelib.ru/boocover/1000444142/o/004d/Klaudia_Pinejro__Vdovy_po_chetvergam.jpeg"
         },
         {
@@ -5344,7 +5351,7 @@
             "buyDate": "8/26/20",
             "price": "86",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus padura",
             "img": "https://s1.livelib.ru/boocover/1000474265/o/fa71/Leonardo_Padura__Zlye_vetry_duyut_v_Velikij_post.jpeg"
         },
         {
@@ -8822,6 +8829,7 @@
             "id": "623",
             "author": "Кэтрин Мерридейл",
             "book": "Ленин в поезде. Путешествие, которое изменило мир",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus wishlist 2021",
@@ -8843,6 +8851,7 @@
             "id": "625",
             "author": "Элена Ферранте",
             "book": "Любовь в тягость",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus wishlist 2021",
@@ -9552,6 +9561,7 @@
             "id": "709",
             "author": "Кира Ярмыш",
             "book": "Харассмент",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "4/26/22",
             "readDate": "5/17/22",
@@ -9596,7 +9606,7 @@
             "author": "Александр Староверов",
             "book": "То, что вы хотели",
             "year": "2022",
-            "buyDate": "7/31/22",
+            "buyDate": "7/16/22",
             "price": "512",
             "publisher": "Corpus",
             "shelf": "corpus 2022",
@@ -9653,9 +9663,18 @@
             "img": "https://www.corpus.ru/picts/products/cover1-podstrochnik3.jpg"
         },
         {
+            "id": "719",
+            "author": "Пол Стейнхардт",
+            "book": "Невозможность второго рода. Невероятные поиски новой формы вещества",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist elements2 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-nevozmozhnost.jpg"
+        },
+        {
             "id": "720",
             "author": "Наима Костер",
-            "book": "Что мое, что твое",
+            "book": "Что моё, что твоё",
             "year": "2022",
             "buyDate": "7/31/22",
             "price": "556",
@@ -9672,28 +9691,28 @@
             "img": "https://www.corpus.ru/picts/products/cover1-bezgreshnost.jpg"
         },
         {
-            "author": "Пол Стейнхардт",
-            "book": "Невозможность второго рода. Невероятные поиски новой формы вещества",
-            "year": "2022",
-            "publisher": "Corpus",
-            "shelf": "corpus wishlist elements2 2022",
-            "img": "https://www.corpus.ru/picts/products/cover1-nevozmozhnost.jpg"
-        },
-        {
             "author": "Сергей Плохий",
-            "book": "Забытые бастарды Восточного фронта",
+            "book": "Забытые бастарды Восточного фронта. Американские летчики в СССР и распад антигитлеровской коалиции",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000851936/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-plohiy-bastardy.jpg"
         },
         {
             "author": "Ричард Рэнгем",
-            "book": "Парадокс добродетели",
+            "book": "Парадокс добродетели. Странная история взаимоотношений нравственности и насилия в эволюции человека",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist elements2 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000848275/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-paradoks.jpg"
+        },
+        {
+            "author": "Владимир Набоков",
+            "book": "Дар",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus nabokov wishlist new 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-dar.jpg"
         },
         {
             "author": "Дженнифер Сэйнт",
@@ -9735,14 +9754,6 @@
             "img": "https://img1.od-cdn.com/ImageType-100/1191-1/%7B21D4BC86-57B2-426D-8C72-E149C4F66DC6%7DImg100.jpg"
         },
         {
-            "author": "Владимир Набоков",
-            "book": "Дар",
-            "year": "2022",
-            "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new 2022",
-            "img": "https://s1.livelib.ru/boocover/1002037387/o/41d7/Vladimir_Nabokov__Dar.jpeg"
-        },
-        {
             "author": "Джон Ле Карре",
             "book": "Silverview",
             "year": "2022",
@@ -9775,7 +9786,7 @@
         },
         {
             "author": "Жоэль Диккер",
-            "book": "«Дело „Аляска Сандерс“»",
+            "book": "Дело «Аляска Сандерс»",
             "year": "2023",
             "publisher": "Corpus",
             "shelf": "dikker corpus wishlist new 2022",
@@ -11665,6 +11676,48 @@
             "img": "https://s1.livelib.ru/boocover/1007134639/o/da87/Deniel_Mejson__Zimnij_soldat.jpeg"
         },
         {
+            "author": "Юэжань Чжан",
+            "book": "Кокон",
+            "web": "mp3 fb2",
+            "year": "2021",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-press wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005638530/o/e903/Yuezhan_Chzhan__Kokon.jpeg"
+        },
+        {
+            "author": "Ричард Руссо",
+            "book": "Эмпайр Фоллз",
+            "web": "mp3 fb2",
+            "year": "2018",
+            "buyDate": "6/30/22",
+            "price": "386",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-press russo",
+            "img": "https://s1.livelib.ru/boocover/1002908550/o/1acf/Richard_Russo__Empajr_Follz.jpeg"
+        },
+        {
+            "author": "Ричард Руссо",
+            "book": "Непосредственный человек",
+            "web": "mp3 fb2",
+            "year": "2020",
+            "buyDate": "6/30/22",
+            "price": "386",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-press russo 2020",
+            "img": "https://s1.livelib.ru/boocover/1005249535/o/4865/Richard_Russo__Neposredstvennyj_chelovek.jpeg"
+        },
+        {
+            "author": "Ричард Руссо",
+            "book": "Шансы есть...",
+            "web": "mp3 fb2",
+            "year": "2021",
+            "buyDate": "6/30/22",
+            "price": "352",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-press russo 2021",
+            "img": "https://s1.livelib.ru/boocover/1005638782/o/8d16/Richard_Russo__Shansy_est....jpeg"
+        },
+        {
             "author": "Марианна Вулф",
             "book": "Пруст и кальмар. Нейробиология чтения",
             "web": "fb2",
@@ -11748,7 +11801,7 @@
             "price": "415",
             "publisher": "Freedom",
             "shelf": "eksmo bookstore rina animant-kramb 2022",
-            "img": "https://chitatel.by/storage/thumbs/KN/h1001_w1001_KNcLZKmtElo2yulX2ZqB.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007346559/o/adf2/Lin_Rina__Eliza_Hemmilton._Proisshestvie_v_IstEnde.jpeg"
         },
         {
             "author": "Карен Дюкесс",
@@ -11971,6 +12024,14 @@
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria osten 2021",
             "img": "https://s1.livelib.ru/boocover/1006779994/o/5068/Natali_Dzhenner__Obschestvo_Dzhejn_Osten.jpeg"
+        },
+        {
+            "author": "Рейчел Гивни",
+            "book": "Влюбленная Джейн",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria osten wishist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007401435/o/7a31/Rejchel_Givni__Vlyublennaya_Dzhejn.jpeg"
         },
         {
             "author": "Алекс Кристофи",
@@ -12268,7 +12329,7 @@
             "buyDate": "9/9/21",
             "price": "295",
             "publisher": "Альпина паблишер",
-            "shelf": "alpina space",
+            "shelf": "alpina space elon-musk",
             "img": "https://s1.livelib.ru/boocover/1002898318/o/c449/__Novaya_kosmicheskaya_gonka._Kak_Ilon_Mask_Richard_Brenson_i_Dzheff_Bezos_sorev.jpeg"
         },
         {
@@ -12402,6 +12463,7 @@
         {
             "author": "Кит Мелтон и Роберт Уоллес",
             "book": "Секретная инструкция ЦРУ по технике обманных трюков и введению в заблуждение",
+            "web": "fb2",
             "buyDate": "12/24/20",
             "price": "386",
             "publisher": "Альпина нон-фикшн",
@@ -12559,37 +12621,45 @@
             "img": "https://s1.livelib.ru/boocover/1006894990/o/202a/Kadzuo_Isiguro__Ne_otpuskaj_menya.jpeg"
         },
         {
-            "author": "Ричард Руссо",
-            "book": "Эмпайр Фоллз",
-            "web": "mp3 fb2",
-            "year": "2018",
-            "buyDate": "6/30/22",
-            "price": "386",
-            "publisher": "Фантом Пресс",
-            "shelf": "fantom-press russo",
-            "img": "https://s1.livelib.ru/boocover/1002908550/o/1acf/Richard_Russo__Empajr_Follz.jpeg"
-        },
-        {
-            "author": "Ричард Руссо",
-            "book": "Непосредственный человек",
-            "web": "mp3 fb2",
-            "year": "2020",
-            "buyDate": "6/30/22",
-            "price": "386",
-            "publisher": "Фантом Пресс",
-            "shelf": "fantom-press russo 2020",
-            "img": "https://s1.livelib.ru/boocover/1005249535/o/4865/Richard_Russo__Neposredstvennyj_chelovek.jpeg"
-        },
-        {
-            "author": "Ричард Руссо",
-            "book": "Шансы есть...",
-            "web": "mp3 fb2",
+            "author": "Хейзел Прайор",
+            "book": "Как пингвины спасли Веронику",
             "year": "2021",
-            "buyDate": "6/30/22",
-            "price": "352",
-            "publisher": "Фантом Пресс",
-            "shelf": "fantom-press russo 2021",
-            "img": "https://s1.livelib.ru/boocover/1005638782/o/8d16/Richard_Russo__Shansy_est....jpeg"
+            "buyDate": "12/11/21",
+            "readDate": "6/30/22",
+            "price": "337",
+            "publisher": "АСТ",
+            "shelf": "ast miracle 2021",
+            "img": "https://s1.livelib.ru/boocover/1006842790/o/5ec7/Hejzel_Prajor__Kak_pingviny_spasli_Veroniku.jpeg"
+        },
+        {
+            "author": "Джон Айронмонгер",
+            "book": "Кит на краю света",
+            "year": "2022",
+            "buyDate": "1/20/22",
+            "price": "347",
+            "publisher": "АСТ",
+            "shelf": "ast miracle ironmonger 2022",
+            "img": "https://s1.livelib.ru/boocover/1006969126/o/41d7/Dzhon_Ajronmonger__Kit_na_krayu_sveta.jpeg"
+        },
+        {
+            "author": "Джон Айронмонгер",
+            "book": "Множество жизней Элоизы Старчайлд",
+            "year": "2022",
+            "buyDate": "7/13/22",
+            "price": "384",
+            "publisher": "АСТ",
+            "shelf": "ast miracle ironmonger 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000861542/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Эйлин Гарвин",
+            "book": "Музыка пчел",
+            "year": "2022",
+            "buyDate": "6/23/22",
+            "price": "412",
+            "publisher": "АСТ",
+            "shelf": "ast miracle 2022",
+            "img": "https://s1.livelib.ru/boocover/1007136586/o/7f5a/Ejlin_Garvin__Muzyka_pchel.jpeg"
         },
         {
             "author": "Роуз Карлайл",
@@ -12647,6 +12717,49 @@
             "publisher": "Эксмо",
             "shelf": "eksmo white 2022",
             "img": "https://s1.livelib.ru/boocover/1007087785/o/8797/Linda_Kejr__Temnoe_ozero.jpeg"
+        },
+        {
+            "author": "Тиффани Джексон",
+            "book": "Никто не видел Мандей",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo black wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007087797/o/d411/Tiffani_D._Dzhekson__Nikto_ne_videl_Mandej.jpeg"
+        },
+        {
+            "author": "Сэм Холланд",
+            "book": "Человек-эхо",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo black wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007132551/o/0e75/Sem_Holland__Chelovekeho.jpeg"
+        },
+        {
+            "author": "Дэвид Джексон",
+            "book": "Игра начинается",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo black wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1006114450/o/8323/Devid_Dzhekson__Igra_nachinaetsya.jpeg"
+        },
+        {
+            "author": "Эйвери Бишоп",
+            "book": "Школа безумия",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo black wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007332735/o/12da/Ejveri_Bishop__Shkola_bezumiya.jpeg"
+        },
+        {
+            "author": "Ричард Чизмар",
+            "book": "Охота на Бугимена",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo black wishlist 2022",
+            "img": "https://i0.wp.com/www.thisishorror.co.uk/wp-content/uploads/2020/11/Chasing-the-Boogeyman-scaled.jpg?resize=1017%2C1536&ssl=1"
         },
         {
             "author": "Джулия Клэйборн Джонсон",
@@ -12739,47 +12852,6 @@
             "publisher": "Эксмо",
             "shelf": "eksmo dubua goncur 2021",
             "img": "https://s1.livelib.ru/boocover/1005707824/o/c44e/ZhanPol_Dyubua__Ne_vse_lyudi_zhivut_odinakovo.jpeg"
-        },
-        {
-            "author": "Хейзел Прайор",
-            "book": "Как пингвины спасли Веронику",
-            "year": "2021",
-            "buyDate": "12/11/21",
-            "readDate": "6/30/22",
-            "price": "337",
-            "publisher": "АСТ",
-            "shelf": "ast miracle 2021",
-            "img": "https://s1.livelib.ru/boocover/1006842790/o/5ec7/Hejzel_Prajor__Kak_pingviny_spasli_Veroniku.jpeg"
-        },
-        {
-            "author": "Джон Айронмонгер",
-            "book": "Кит на краю света",
-            "year": "2022",
-            "buyDate": "1/20/22",
-            "price": "347",
-            "publisher": "АСТ",
-            "shelf": "ast miracle ironmonger 2022",
-            "img": "https://s1.livelib.ru/boocover/1006969126/o/41d7/Dzhon_Ajronmonger__Kit_na_krayu_sveta.jpeg"
-        },
-        {
-            "author": "Джон Айронмонгер",
-            "book": "Множество жизней Элоизы Старчайлд",
-            "year": "2022",
-            "buyDate": "7/13/22",
-            "price": "384",
-            "publisher": "АСТ",
-            "shelf": "ast miracle ironmonger 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000861542/COVER/cover1__w600.jpg"
-        },
-        {
-            "author": "Эйлин Гарвин",
-            "book": "Музыка пчел",
-            "year": "2022",
-            "buyDate": "6/23/22",
-            "price": "412",
-            "publisher": "АСТ",
-            "shelf": "ast miracle 2022",
-            "img": "https://s1.livelib.ru/boocover/1007136586/o/7f5a/Ejlin_Garvin__Muzyka_pchel.jpeg"
         },
         {
             "author": "Луанн Райс",
@@ -13011,48 +13083,6 @@
             "publisher": "АСТ",
             "shelf": "ast shemilt wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007069812/o/83eb/Dzhejn_Shemilt__Patsient.jpeg"
-        },
-        {
-            "author": "Тиффани Джексон",
-            "book": "Никто не видел Мандей",
-            "web": "fb2",
-            "year": "2022",
-            "publisher": "Эксмо",
-            "shelf": "eksmo black wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1007087797/o/d411/Tiffani_D._Dzhekson__Nikto_ne_videl_Mandej.jpeg"
-        },
-        {
-            "author": "Сэм Холланд",
-            "book": "Человек-эхо",
-            "web": "fb2",
-            "year": "2022",
-            "publisher": "Эксмо",
-            "shelf": "eksmo black wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1007132551/o/0e75/Sem_Holland__Chelovekeho.jpeg"
-        },
-        {
-            "author": "Дэвид Джексон",
-            "book": "Игра начинается",
-            "web": "fb2",
-            "year": "2022",
-            "publisher": "Эксмо",
-            "shelf": "eksmo black wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1006114450/o/8323/Devid_Dzhekson__Igra_nachinaetsya.jpeg"
-        },
-        {
-            "author": "Эйвери Бишоп",
-            "book": "Школа безумия",
-            "year": "2022",
-            "publisher": "Эксмо",
-            "shelf": "eksmo black wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1007332735/o/12da/Ejveri_Bishop__Shkola_bezumiya.jpeg"
-        },
-        {
-            "author": "Ричард Чизмар",
-            "book": "Охота на Бугимена",
-            "year": "2022",
-            "publisher": "Эксмо",
-            "shelf": "eksmo black wishlist 2022"
         },
         {
             "author": "Рагнар Йонассон",
@@ -13487,15 +13517,6 @@
             "publisher": "Азбука",
             "shelf": "azbuka gunel wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007068930/o/2af2/Loran_Gunel__Intuitsio.jpeg"
-        },
-        {
-            "author": "Юэжань Чжан",
-            "book": "Кокон",
-            "web": "mp3 fb2",
-            "year": "2021",
-            "publisher": "Фантом Пресс",
-            "shelf": "fantom-press wishlist 2021",
-            "img": "https://s1.livelib.ru/boocover/1005638530/o/e903/Yuezhan_Chzhan__Kokon.jpeg"
         },
         {
             "author": "Карен М. Макманус",
