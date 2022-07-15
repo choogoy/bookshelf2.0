@@ -2951,6 +2951,14 @@
             "img": "https://s1.livelib.ru/boocover/1003982305/o/5f69/Verner_Lindemann__Majk_Oldfild_v_kreslekachalke._Zapiski_ottsa_Tillya_Lindemanna.jpeg"
         },
         {
+            "author": "Иэн Уинвуд",
+            "book": "Вдребезги: GREEN DAY, THE OFFSPRING, BAD RELIGION, NOFX и панк-волна 90-х",
+            "web": "fb2",
+            "year": "2022",
+            "shelf": "music wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007021983/o/3630/Ien_Uinvud__Vdrebezgi_GREEN_DAY_THE_OFFSPRING_BAD_RELIGION_NOFX_i_pankvolna_90h.jpeg"
+        },
+        {
             "author": "Андрей Князев",
             "book": "Король и Шут. Старая книга",
             "buyDate": "2/25/19",
@@ -5793,6 +5801,15 @@
             "img": "https://www.corpus.ru/picts/products/android-1000.jpg"
         },
         {
+            "id": "124",
+            "author": "Майкл Каннингем",
+            "book": "Начинается ночь",
+            "year": "2011",
+            "publisher": "Corpus",
+            "shelf": "corpus cunningem wishlist",
+            "img": "https://www.corpus.ru/picts/products/Cunningham-Night-1000.jpg"
+        },
+        {
             "id": "126",
             "author": "Сьюзан Хейбур О'Киф",
             "book": "Чудовище Франкенштейна",
@@ -6573,6 +6590,15 @@
             "img": "https://s1.livelib.ru/boocover/1000780712/o/fade/Asya_Kazantseva__Kto_by_mog_podumat_Kak_mozg_zastavlyaet_nas_delat_gluposti.jpeg"
         },
         {
+            "id": "256",
+            "author": "Ларс Кеплер",
+            "book": "Призраки не лгут",
+            "year": "2014",
+            "publisher": "Corpus",
+            "shelf": "corpus kepler wishlist",
+            "img": "https://www.corpus.ru/picts/products/Kepler-Prizraki-1000.jpg"
+        },
+        {
             "id": "259",
             "author": "Алексей Моторов",
             "book": "Преступление доктора Паровозова",
@@ -6759,6 +6785,15 @@
             "img": "https://www.corpus.ru/picts/products/Sylvein-Voyna-1000.JPG"
         },
         {
+            "id": "296",
+            "author": "Майкл Каннингем",
+            "book": "Снежная королева",
+            "year": "2014",
+            "publisher": "Corpus",
+            "shelf": "corpus cunningem wishlist",
+            "img": "https://www.corpus.ru/picts/products/Cunningham_Snowqueen-1000.jpg"
+        },
+        {
             "id": "297",
             "author": "Александр Горбачев и Илья Зинин",
             "book": "Песни в пустоту. Потерянное поколение русского рока 90-х",
@@ -6812,6 +6847,15 @@
             "publisher": "Corpus",
             "shelf": "tartt corpus",
             "img": "https://s1.livelib.ru/boocover/1002970278/o/6ae1/Donna_Tartt__Schegol.jpeg"
+        },
+        {
+            "id": "304",
+            "author": "Эрик Аксл Сунд",
+            "book": "Голодное пламя",
+            "year": "2014",
+            "publisher": "Corpus",
+            "shelf": "corpus sund wishlist",
+            "img": "https://www.corpus.ru/picts/products/Sund-Plamya-1000.jpg"
         },
         {
             "id": "305",
@@ -6963,6 +7007,15 @@
             "publisher": "Corpus",
             "shelf": "tropper corpus wishlist",
             "img": "https://s1.livelib.ru/boocover/1001288549/o/a264/Dzhonatan_Tropper__Dalshe_zhivite_sami.jpeg"
+        },
+        {
+            "id": "304",
+            "author": "Эрик Аксл Сунд",
+            "book": "Подсказки пифии",
+            "year": "2015",
+            "publisher": "Corpus",
+            "shelf": "corpus sund wishlist",
+            "img": "https://www.corpus.ru/picts/products/Sund-Pifya-1000.jpg"
         },
         {
             "id": "330",
@@ -7434,6 +7487,15 @@
             "img": "https://cdn.ast.ru/v2/AST000000000156527/COVER/cover1__w600.jpg"
         },
         {
+            "id": "415",
+            "author": "Ларс Кеплер",
+            "book": "Гипнотизер",
+            "year": "2017",
+            "publisher": "Corpus",
+            "shelf": "corpus kepler wishlist",
+            "img": "https://www.corpus.ru/picts/products/Kepler-Gipnotizer-1000.jpg"
+        },
+        {
             "id": "416",
             "author": "Джонатан Франзен",
             "book": "Свобода",
@@ -7590,6 +7652,15 @@
             "publisher": "Corpus",
             "shelf": "corpus wishlist",
             "img": "https://www.corpus.ru/picts/products/Hobbsbawm-Fractured-1000.jpg"
+        },
+        {
+            "id": "438",
+            "author": "Ларс Кеплер",
+            "book": "Призраки не лгут",
+            "year": "2017",
+            "publisher": "Corpus",
+            "shelf": "corpus kepler wishlist",
+            "img": "https://www.corpus.ru/picts/products/Kepler-Prizraki-1001.jpg"
         },
         {
             "id": "439",
@@ -8204,6 +8275,15 @@
             "img": "https://www.corpus.ru/picts/products/Martin-Lugand-Dance-1000.jpg"
         },
         {
+            "id": "527",
+            "author": "Майкл Каннингем",
+            "book": "Дом на краю света",
+            "year": "2019",
+            "publisher": "Corpus",
+            "shelf": "corpus cunningem wishlist",
+            "img": "https://www.corpus.ru/picts/products/Cunningham-Dom-1001.jpg"
+        },
+        {
             "id": "528",
             "author": "Маттиас Фалдбаккен",
             "book": "Ресторан «Хиллс»",
@@ -8352,6 +8432,15 @@
             "img": "https://www.corpus.ru/picts/products/Golubkina-Dver-1000.jpg"
         },
         {
+            "id": "550",
+            "author": "Майкл Каннингем",
+            "book": "Плоть и кровь",
+            "year": "2019",
+            "publisher": "Corpus",
+            "shelf": "corpus cunningem wishlist",
+            "img": "https://www.corpus.ru/picts/products/Cunningham-Blood-1000.jpg"
+        },
+        {
             "id": "552",
             "author": "Мишель Уэльбек",
             "book": "Серотонин",
@@ -8495,6 +8584,15 @@
             "img": "https://www.corpus.ru/picts/products/Norman-Mccartney-1000.jpg"
         },
         {
+            "id": "569",
+            "author": "Майкл Каннингем",
+            "book": "Снежная королева",
+            "year": "2020",
+            "publisher": "Corpus",
+            "shelf": "corpus cunningem wishlist 2020",
+            "img": "https://www.corpus.ru/picts/products/cunningham-snow-queen-1000.jpg"
+        },
+        {
             "id": "570",
             "author": "Оса Авдич",
             "book": "Эксперимент «Исола»",
@@ -8538,6 +8636,15 @@
             "img": "https://www.corpus.ru/picts/products/O_Cadhain-Dirty-1000.jpg"
         },
         {
+            "id": "577",
+            "author": "Ларс Кеплер",
+            "book": "Лазарь",
+            "year": "2020",
+            "publisher": "Corpus",
+            "shelf": "corpus kepler wishlist 2020",
+            "img": "https://www.corpus.ru/picts/products/kepler-cover1.jpg"
+        },
+        {
             "id": "578",
             "author": "Эрик Хобсбаум",
             "book": "Эпоха крайностей. Короткий двадцатый век (1914-1991)",
@@ -8557,6 +8664,24 @@
             "publisher": "Corpus",
             "shelf": "martin-lugand corpus happy 2020",
             "img": "https://www.corpus.ru/picts/products/agnes-marten-cover1.jpg"
+        },
+        {
+            "id": "580",
+            "author": "Майкл Каннингем",
+            "book": "Начинается ночь",
+            "year": "2020",
+            "publisher": "Corpus",
+            "shelf": "corpus cunningem wishlist 2020",
+            "img": "https://www.corpus.ru/picts/products/cover1-cunningham.jpg"
+        },
+        {
+            "id": "584",
+            "author": "Майкл Каннингем",
+            "book": "Избранные дни",
+            "year": "2020",
+            "publisher": "Corpus",
+            "shelf": "corpus cunningem wishlist 2020",
+            "img": "https://www.corpus.ru/picts/products/cover1-izbrannye-dni.jpg"
         },
         {
             "id": "585",
@@ -8645,6 +8770,24 @@
             "publisher": "Corpus",
             "shelf": "corpus naim 2020",
             "img": "https://www.corpus.ru/picts/products/cover-caracas.jpg"
+        },
+        {
+            "id": "597",
+            "author": "Майкл Каннингем",
+            "book": "Край земли. Прогулка по Провинстауну",
+            "year": "2020",
+            "publisher": "Corpus",
+            "shelf": "corpus cunningem wishlist 2020",
+            "img": "https://www.corpus.ru/picts/products/cunningham-fin.jpg"
+        },
+        {
+            "id": "598",
+            "author": "Майкл Каннингем",
+            "book": "Дикий лебедь и другие сказки",
+            "year": "2020",
+            "publisher": "Corpus",
+            "shelf": "corpus cunningem wishlist 2020",
+            "img": "https://www.corpus.ru/picts/products/cunningham-lebed-1000.png"
         },
         {
             "id": "599",
@@ -12711,6 +12854,7 @@
         {
             "author": "Линда Кейр",
             "book": "Темное озеро",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "6/12/22",
             "price": "345",
@@ -12975,6 +13119,7 @@
         {
             "author": "Барбара Абель",
             "book": "Инстинкт матери",
+            "web": "mp3",
             "year": "2022",
             "buyDate": "7/8/22",
             "price": "337",
