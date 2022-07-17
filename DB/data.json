@@ -1,4 +1,4 @@
-﻿{
+{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -1934,6 +1934,7 @@
             "web": "fb2",
             "year": "2005",
             "buyDate": "3/22/21",
+            "readDate": "7/15/22",
             "price": "350",
             "shelf": "wishnewski espresso",
             "img": "https://cdn1.ozone.ru/multimedia/wc1200/1000271979.jpg"
@@ -1941,6 +1942,7 @@
         {
             "author": "Януш Леон Вишневский",
             "book": "Любовница",
+            "web": "fb2",
             "shelf": "wishnewski",
             "img": "https://s1.livelib.ru/boocover/1000278320/o/f8e1/Yanush_Leon_Vishnevskij__Lyubovnitsa.jpeg"
         },
@@ -2028,6 +2030,7 @@
             "author": "Януш Леон Вишневский",
             "book": "Триптих: Одиночество в сети",
             "web": "fb2",
+            "readDate": "7/17/22",
             "shelf": "wishnewski",
             "img": "https://s1.livelib.ru/boocover/1000578718/o/e482/Yanush_Leon_Vishnevskij__Triptih._Odinochestvo_v_Seti.jpeg"
         },
@@ -9819,7 +9822,7 @@
             "author": "Наима Костер",
             "book": "Что моё, что твоё",
             "year": "2022",
-            "buyDate": "7/31/22",
+            "buyDate": "7/17/22",
             "price": "556",
             "publisher": "Corpus",
             "shelf": "corpus 2022",
@@ -9858,6 +9861,22 @@
             "img": "https://www.corpus.ru/picts/products/cover1-dar.jpg"
         },
         {
+            "author": "Франсуа-Анри Дезерабль",
+            "book": "Властитель мой и господин",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus dezerabl wishlist new 2022",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/41Q0UKuMStL._SX339_BO1,204,203,200_.jpg"
+        },
+        {
+            "author": "Бен Макинтайр",
+            "book": "Агент Соня. Любовница, мать, шпионка, боец",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus razvedcorpus wishlist new 2022",
+            "img": "https://img1.od-cdn.com/ImageType-100/1191-1/%7B21D4BC86-57B2-426D-8C72-E149C4F66DC6%7DImg100.jpg"
+        },
+        {
             "author": "Дженнифер Сэйнт",
             "book": "Ариадна",
             "year": "2022",
@@ -9879,22 +9898,6 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus notomb wishlist new 2022"
-        },
-        {
-            "author": "Франсуа-Анри Дезерабль",
-            "book": "Владыка мой и победитель",
-            "year": "2022",
-            "publisher": "Corpus",
-            "shelf": "corpus dezerabl wishlist new 2022",
-            "img": "https://images-na.ssl-images-amazon.com/images/I/41Q0UKuMStL._SX339_BO1,204,203,200_.jpg"
-        },
-        {
-            "author": "Бен Макинтайр",
-            "book": "Агент Соня",
-            "year": "2022",
-            "publisher": "Corpus",
-            "shelf": "corpus razvedcorpus wishlist new 2022",
-            "img": "https://img1.od-cdn.com/ImageType-100/1191-1/%7B21D4BC86-57B2-426D-8C72-E149C4F66DC6%7DImg100.jpg"
         },
         {
             "author": "Джон Ле Карре",
@@ -13110,7 +13113,7 @@
             "author": "Патриция Локвуд",
             "book": "О таком не говорят",
             "year": "2022",
-            "buyDate": "7/31/22",
+            "buyDate": "7/18/22",
             "price": "322",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria lockwood 2022",
