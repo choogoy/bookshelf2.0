@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -1931,7 +1931,7 @@
         {
             "author": "Януш Леон Вишневский",
             "book": "Одиночество в сети",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2005",
             "buyDate": "3/22/21",
             "readDate": "7/15/22",
@@ -2133,15 +2133,16 @@
             "book": "Неоконченная исповедь",
             "buyDate": "4/14/20",
             "price": "262",
-            "shelf": "wishnewski",
+            "shelf": "wishnewski 2020",
             "img": "https://cdn.ast.ru/v2/ASE000000000848121/COVER/cover1__w600.jpg"
         },
         {
             "author": "Януш Леон Вишневский",
             "book": "Одиночество в Сети. Возвращение к началу",
             "buyDate": "9/18/20",
+            "readDate": "7/22/22",
             "price": "376",
-            "shelf": "wishnewski",
+            "shelf": "wishnewski 2020",
             "img": "https://cdn.ast.ru/v2/ASE000000000848754/COVER/cover1__w600.jpg"
         },
         {
@@ -2345,6 +2346,7 @@
         {
             "author": "Мишель Уэльбек",
             "book": "Платформа",
+            "web": "fb2",
             "buyDate": "6/26/20",
             "readDate": "8/18/21",
             "price": "320",
@@ -3386,7 +3388,7 @@
             "year": "2020",
             "buyDate": "11/18/20",
             "price": "303",
-            "shelf": "ast",
+            "shelf": "ast 2020",
             "img": "https://cdn1.ozone.ru/s3/multimedia-r/wc1200/6026381511.jpg"
         },
         {
@@ -3807,6 +3809,7 @@
         {
             "author": "Маша Трауб",
             "book": "Посмотри на меня",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "12/4/21",
             "price": "285",
@@ -7673,7 +7676,7 @@
             "buyDate": "11/23/21",
             "price": "515",
             "publisher": "Corpus",
-            "shelf": "corpus razvedcorpus",
+            "shelf": "corpus razvedcorpus makintair",
             "img": "https://www.corpus.ru/picts/products/MacIntyre-Shpion-1001.jpg"
         },
         {
@@ -9286,7 +9289,7 @@
             "buyDate": "9/9/21",
             "price": "566",
             "publisher": "Corpus",
-            "shelf": "corpus razvedcorpus 2021",
+            "shelf": "corpus razvedcorpus makintair 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-macintair-spion.jpg"
         },
         {
@@ -9792,6 +9795,7 @@
             "id": "717",
             "author": "Сьюзен Спиндлер",
             "book": "Суррогатная мать",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "6/25/22",
             "price": "608",
@@ -9866,15 +9870,15 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus dezerabl wishlist new 2022",
-            "img": "https://images-na.ssl-images-amazon.com/images/I/41Q0UKuMStL._SX339_BO1,204,203,200_.jpg"
+            "img": "https://cdn.ast.ru/v2/ASE000000000861985/COVER/cover1__w600.jpg"
         },
         {
             "author": "Бен Макинтайр",
             "book": "Агент Соня. Любовница, мать, шпионка, боец",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus razvedcorpus wishlist new 2022",
-            "img": "https://img1.od-cdn.com/ImageType-100/1191-1/%7B21D4BC86-57B2-426D-8C72-E149C4F66DC6%7DImg100.jpg"
+            "shelf": "corpus razvedcorpus makintair wishlist new 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-shpionka-sonya.jpg"
         },
         {
             "author": "Дженнифер Сэйнт",
@@ -10155,6 +10159,18 @@
         },
         {
             "id": "n",
+            "author": "Давид Фонкинос",
+            "book": "Нежность",
+            "web": "fb2",
+            "year": "2012",
+            "buyDate": "8/5/20",
+            "price": "114",
+            "publisher": "Corpus",
+            "shelf": "fonkinos corpus",
+            "img": "https://www.corpus.ru/picts/products/foenkinos-nejnost-1000.jpg"
+        },
+        {
+            "id": "n",
             "author": "Ирина Фуфаева",
             "book": "Как называются женщины. Феминитивы: история, устройство, конкуренция",
             "web": "fb2",
@@ -10238,18 +10254,6 @@
             "publisher": "Corpus",
             "shelf": "corpus shenderovich",
             "img": "https://www.corpus.ru/picts/products/shenderovich-evroremont-1000.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Давид Фонкинос",
-            "book": "Нежность",
-            "web": "fb2",
-            "year": "2012",
-            "buyDate": "8/5/20",
-            "price": "114",
-            "publisher": "Corpus",
-            "shelf": "fonkinos corpus",
-            "img": "https://www.corpus.ru/picts/products/foenkinos-nejnost-1000.jpg"
         },
         {
             "id": "n",
@@ -11030,6 +11034,81 @@
             "img": "https://s1.livelib.ru/boocover/1005249529/o/8c84/Dzhessika_Foks__Tri_veschi_kotorye_nuzhno_znat_o_raketah._Dnevnik_devushki_knigo.jpeg"
         },
         {
+            "author": "Риэко Хината и Хисанори Ёсида",
+            "book": "Книжная лавка под дождём",
+            "year": "2021",
+            "buyDate": "10/2/21",
+            "readDate": "5/20/22",
+            "price": "542",
+            "publisher": "Поляндрия",
+            "shelf": "bookstore hinata polandria 2021",
+            "img": "https://s1.livelib.ru/boocover/1005994903/o/b1ef/Rieko_Hinata__Knizhnaya_lavka_pod_dozhdjom.jpeg"
+        },
+        {
+            "author": "Риэко Хината и Хисанори Ёсида",
+            "book": "«Книжная лавка под дождём» и костяной дракон",
+            "year": "2021",
+            "buyDate": "10/2/21",
+            "readDate": "5/24/22",
+            "price": "555",
+            "publisher": "Поляндрия",
+            "shelf": "bookstore hinata polandria 2021",
+            "img": "https://s1.livelib.ru/boocover/1005994909/o/b2b0/Rieko_Hinata__Knizhnaya_lavka_pod_dozhdjom_i_kostyanoj_drakon.jpeg"
+        },
+        {
+            "book": "Во всем виновата книга",
+            "web": "fb2",
+            "year": "2017",
+            "buyDate": "10/4/21",
+            "price": "331",
+            "publisher": "Азбука",
+            "shelf": "azbuka bookstore",
+            "img": "https://s1.livelib.ru/boocover/1002911319/o/81c6/__Vo_vsjom_vinovata_kniga_sbornik.jpeg"
+        },
+        {
+            "book": "Во всем виновата книга - 2",
+            "web": "fb2",
+            "year": "2019",
+            "buyDate": "10/4/21",
+            "price": "407",
+            "publisher": "Азбука",
+            "shelf": "azbuka bookstore",
+            "img": "https://s1.livelib.ru/boocover/1002997157/o/0969/__Vo_vsem_vinovata_kniga__2_sbornik.jpeg"
+        },
+        {
+            "author": "Лидия Сальвер",
+            "book": "Не плакать",
+            "web": "fb2",
+            "year": "2016",
+            "buyDate": "7/8/21",
+            "price": "271",
+            "publisher": "Эксмо",
+            "shelf": "goncur eksmo",
+            "img": "https://s1.livelib.ru/boocover/1001527560/o/36c6/Lidiya_Salver__Ne_plakat.jpeg"
+        },
+        {
+            "author": "Эрик Вюйар",
+            "book": "Повестка дня",
+            "web": "fb2",
+            "year": "2018",
+            "buyDate": "7/15/21",
+            "price": "187",
+            "publisher": "Эксмо",
+            "shelf": "goncur eksmo",
+            "img": "https://img4.labirint.ru/rc/5a04b0a3cf924bf61db5bcafe56d555e/348x537/books67/662504/cover.jpg?1618568730"
+        },
+        {
+            "author": "Николя Матье",
+            "book": "И дети их после них",
+            "web": "fb2",
+            "year": "2020",
+            "buyDate": "7/21/21",
+            "price": "406",
+            "publisher": "Эксмо",
+            "shelf": "goncur eksmo",
+            "img": "https://s1.livelib.ru/boocover/1005349042/o/aaf8/Nikolya_Matjo__I_deti_ih_posle_nih.jpeg"
+        },
+        {
             "author": "Александр Демидов",
             "book": "Квартет Я. Как создавался самый смешной театр страны",
             "web": "fb2",
@@ -11624,6 +11703,7 @@
         {
             "author": "Джули Кэплин",
             "book": "Уютная кондитерская в Париже",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "6/19/22",
             "price": "329",
@@ -12015,48 +12095,6 @@
             "img": "https://s1.livelib.ru/boocover/1006897279/o/c980/Ketrin_Hyuz__Poslednee_obeschanie.jpeg"
         },
         {
-            "author": "Риэко Хината и Хисанори Ёсида",
-            "book": "Книжная лавка под дождём",
-            "year": "2021",
-            "buyDate": "10/2/21",
-            "readDate": "5/20/22",
-            "price": "542",
-            "publisher": "Поляндрия",
-            "shelf": "bookstore hinata polandria 2021",
-            "img": "https://s1.livelib.ru/boocover/1005994903/o/b1ef/Rieko_Hinata__Knizhnaya_lavka_pod_dozhdjom.jpeg"
-        },
-        {
-            "author": "Риэко Хината и Хисанори Ёсида",
-            "book": "«Книжная лавка под дождём» и костяной дракон",
-            "year": "2021",
-            "buyDate": "10/2/21",
-            "readDate": "5/24/22",
-            "price": "555",
-            "publisher": "Поляндрия",
-            "shelf": "bookstore hinata polandria 2021",
-            "img": "https://s1.livelib.ru/boocover/1005994909/o/b2b0/Rieko_Hinata__Knizhnaya_lavka_pod_dozhdjom_i_kostyanoj_drakon.jpeg"
-        },
-        {
-            "book": "Во всем виновата книга",
-            "web": "fb2",
-            "year": "2017",
-            "buyDate": "10/4/21",
-            "price": "331",
-            "publisher": "Азбука",
-            "shelf": "azbuka bookstore",
-            "img": "https://s1.livelib.ru/boocover/1002911319/o/81c6/__Vo_vsjom_vinovata_kniga_sbornik.jpeg"
-        },
-        {
-            "book": "Во всем виновата книга - 2",
-            "web": "fb2",
-            "year": "2019",
-            "buyDate": "10/4/21",
-            "price": "407",
-            "publisher": "Азбука",
-            "shelf": "azbuka bookstore",
-            "img": "https://s1.livelib.ru/boocover/1002997157/o/0969/__Vo_vsem_vinovata_kniga__2_sbornik.jpeg"
-        },
-        {
             "author": "Ричард Осман",
             "book": "Клуб убийств по четвергам",
             "web": "mp3 fb2",
@@ -12176,7 +12214,7 @@
             "book": "Влюбленная Джейн",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria osten wishist 2022",
+            "shelf": "eksmo inspiria osten wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007401435/o/7a31/Rejchel_Givni__Vlyublennaya_Dzhejn.jpeg"
         },
         {
@@ -12240,39 +12278,6 @@
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria bromance kei-adams wishlist new 2022",
             "img": "https://is5-ssl.mzstatic.com/image/thumb/Publication116/v4/a2/5a/47/a25a47b6-2022-4e5e-9744-9d472c9b1217/9780593332801.d.jpg/313x0w.webp"
-        },
-        {
-            "author": "Лидия Сальвер",
-            "book": "Не плакать",
-            "web": "fb2",
-            "year": "2016",
-            "buyDate": "7/8/21",
-            "price": "271",
-            "publisher": "Эксмо",
-            "shelf": "goncur eksmo",
-            "img": "https://s1.livelib.ru/boocover/1001527560/o/36c6/Lidiya_Salver__Ne_plakat.jpeg"
-        },
-        {
-            "author": "Эрик Вюйар",
-            "book": "Повестка дня",
-            "web": "fb2",
-            "year": "2018",
-            "buyDate": "7/15/21",
-            "price": "187",
-            "publisher": "Эксмо",
-            "shelf": "goncur eksmo",
-            "img": "https://img4.labirint.ru/rc/5a04b0a3cf924bf61db5bcafe56d555e/348x537/books67/662504/cover.jpg?1618568730"
-        },
-        {
-            "author": "Николя Матье",
-            "book": "И дети их после них",
-            "web": "fb2",
-            "year": "2020",
-            "buyDate": "7/21/21",
-            "price": "406",
-            "publisher": "Эксмо",
-            "shelf": "goncur eksmo",
-            "img": "https://s1.livelib.ru/boocover/1005349042/o/aaf8/Nikolya_Matjo__I_deti_ih_posle_nih.jpeg"
         },
         {
             "author": "Яна Хлюстова",
@@ -13122,7 +13127,7 @@
         {
             "author": "Барбара Абель",
             "book": "Инстинкт матери",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "7/8/22",
             "price": "337",
@@ -13134,10 +13139,8 @@
             "author": "Луи Байяр",
             "book": "Всевидящее око",
             "year": "2022",
-            "buyDate": "7/31/22",
-            "price": "399",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria 2022",
+            "shelf": "eksmo inspiria wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1006896874/o/f869/Lui_Bajyar__Vsevidyaschee_oko.jpeg"
         },
         {
@@ -13174,6 +13177,15 @@
             "img": "https://s1.livelib.ru/boocover/1007315803/o/d546/Vera_Kurian__Tajnyj_klub_psihopatov.jpeg"
         },
         {
+            "author": "Натали Дэниелс",
+            "book": "Кукушка",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022",
+            "img": "https://cdn.book24.ru/v2/ITD000000001258550/COVER/cover13d__w410.webp"
+        },
+        {
             "author": "Тереза Дрисколл",
             "book": "Я слежу за тобой",
             "web": "fb2",
@@ -13197,15 +13209,6 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria driskoll wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007166733/o/4440/Tereza_Driskoll__Do_samoj_smerti.jpeg"
-        },
-        {
-            "author": "Натали Дэниелс",
-            "book": "Кукушка",
-            "web": "fb2",
-            "year": "2022",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria wishlist 2022",
-            "img": "https://cdn.book24.ru/v2/ITD000000001258550/COVER/cover13d__w410.webp"
         },
         {
             "author": "Джейн Шемилт",
