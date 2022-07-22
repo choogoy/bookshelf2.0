@@ -9769,8 +9769,8 @@
             "author": "Владимир Набоков",
             "book": "Ада, или Отрада",
             "year": "2022",
-            "buyDate": "7/23/22",
-            "price": "736",
+            "buyDate": "7/31/22",
+            "price": "675",
             "publisher": "Corpus",
             "shelf": "corpus nabokov 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-ada.jpg"
@@ -11847,8 +11847,10 @@
             "author": "Клэр Пули",
             "book": "Не винный дневник. Как я перестала пить и начала жить",
             "year": "2022",
+            "buyDate": "7/23/22",
+            "price": "490",
             "publisher": "Портал",
-            "shelf": "puli wishlist new 2022",
+            "shelf": "puli 2022",
             "img": "https://css.labirint.ru/t/25037/tild6432-6564-4539-b037-376165366438__--.jpg"
         },
         {
@@ -12648,6 +12650,37 @@
             "publisher": "Бомбора",
             "shelf": "bombora 2021",
             "img": "https://s1.livelib.ru/boocover/1006266070/o/1de5/Robert_Kolker__Chtoto_ne_tak_s_Gelvinami._Idealnaya_semya_razrushennaya_bezumiem.jpeg"
+        },
+        {
+            "author": "Диана Померанц",
+            "book": "Жена психиатра",
+            "web": "fb2",
+            "year": "2021",
+            "buyDate": "7/23/22",
+            "price": "369",
+            "publisher": "Бомбора",
+            "shelf": "bombora 2021",
+            "img": "https://s1.livelib.ru/boocover/1006836412/o/5db5/Diana_Pomerants__Zhena_psihiatra.jpeg"
+        },
+        {
+            "author": "Мэри Тернер Томсон",
+            "book": "Муж под прикрытием. Шесть жизней мистера Джордана",
+            "year": "2022",
+            "buyDate": "7/23/22",
+            "price": "369",
+            "publisher": "Бомбора",
+            "shelf": "bombora 2022",
+            "img": "https://s1.livelib.ru/boocover/1006859275/o/f921/Meri_Terner_Tomson__Muzh_pod_prikrytiem._Shest_zhiznej_mistera_Dzhordana.jpeg"
+        },
+        {
+            "author": "Сюзанна Кэхалан",
+            "book": "Великий притворщик. Миссия под прикрытием, которая изменила наше представление о безумии",
+            "year": "2022",
+            "buyDate": "7/23/22",
+            "price": "415",
+            "publisher": "Бомбора",
+            "shelf": "bombora 2022",
+            "img": "https://s1.livelib.ru/boocover/1007017945/o/c552/Syuzanna_Kehalan__Velikij_pritvorschik._Missiya_pod_prikrytiem_kotoraya_izmenila.jpeg"
         },
         {
             "author": "Дэниел Сасскинд",
