@@ -542,8 +542,10 @@
             "author": "Владимир Сорокин",
             "book": "De feminis",
             "year": "2022",
+            "buyDate": "8/31/22",
+            "price": "520",
             "publisher": "Corpus",
-            "shelf": "corpus sorokin wishlist new 2022",
+            "shelf": "corpus sorokin 2022",
             "img": "https://www.corpus.ru/picts/products/cover_1-sorokin-de-feminis.jpg"
         },
         {
@@ -4749,21 +4751,24 @@
         {
             "author": "Джефф Кинни",
             "book": "Diary of a Wimpy Kid: Big Shot",
-            "shelf": "slabak wishlist",
+            "publisher": "АСТ",
+            "shelf": "slabak ast wishlist",
             "img": "https://www.penguin.co.uk/content/dam/prh/books/313/313149/9780241396650.jpg.transform/PRHDesktopWide_small/image.jpg"
         },
         {
             "author": "Джефф Кинни",
             "book": "Дневник слабака. Грег Хэффли покоряет Голливуд",
             "year": "2018",
-            "shelf": "slabak wishlist",
+            "publisher": "АСТ",
+            "shelf": "slabak ast wishlist",
             "img": "https://cdn.ast.ru/v2/ASE000000000838617/COVER/cover1__w600.jpg"
         },
         {
             "author": "Джефф Кинни",
             "book": "Эту книгу сделай сам",
             "year": "2017",
-            "shelf": "slabak wishlist",
+            "publisher": "АСТ",
+            "shelf": "slabak ast wishlist",
             "img": "https://cdn.ast.ru/v2/ASE000000000829612/COVER/cover1__w600.jpg"
         },
         {
@@ -4776,6 +4781,12 @@
             "publisher": "АСТ",
             "shelf": "slabak ast",
             "img": "https://cdn.ast.ru/v2/ASE000000000847580/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Джефф Кинни",
+            "book": "Роули Джефферсон. Очень милое приключение",
+            "publisher": "АСТ",
+            "shelf": "slabak ast wishlist"
         },
         {
             "author": "Мэтт Хейг",
@@ -5078,10 +5089,8 @@
             "author": "Хуан Рульфо",
             "book": "Педро Парамо. Равнина в огне",
             "year": "2009",
-            "buyDate": "8/5/20",
-            "price": "284",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus wishlist",
             "img": "https://s1.livelib.ru/boocover/1000324231/o/7dd6/Huan_Rulfo__Pedro_Paramo._Ravnina_v_ogne_sbornik.jpeg"
         },
         {
@@ -6125,6 +6134,15 @@
             "img": "https://www.corpus.ru/picts/products/Halpern-Otets-1000.jpg"
         },
         {
+            "id": "179",
+            "author": "Кит Ричардс",
+            "book": "Жизнь",
+            "year": "2012",
+            "publisher": "Corpus",
+            "shelf": "corpus music keith-richards wishlist",
+            "img": "https://www.corpus.ru/picts/products/richards-life-1000.jpg"
+        },
+        {
             "id": "180",
             "author": "Джон Кампфнер",
             "book": "Свобода на продажу",
@@ -6751,6 +6769,15 @@
             "img": "https://www.corpus.ru/picts/products/Sanie-Sudby-1000.jpg"
         },
         {
+            "id": "282",
+            "author": "Эрик Аксл Сунд",
+            "book": "Девочка-ворона",
+            "year": "2014",
+            "publisher": "Corpus",
+            "shelf": "corpus sund wishlist",
+            "img": "https://www.corpus.ru/picts/products/Sund-Devochka-vorona-1000.jpg"
+        },
+        {
             "id": "284",
             "author": "Паоло Джордано",
             "book": "Одиночество простых чисел",
@@ -7257,6 +7284,15 @@
             "publisher": "Corpus",
             "shelf": "corpus naim wishlist",
             "img": "https://www.corpus.ru/picts/products/mojzes-naim-konetz-vlasti.jpg"
+        },
+        {
+            "id": "377",
+            "author": "Андрей Смирнов",
+            "book": "Лопухи и лебеда",
+            "year": "2016",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/smirnov-lopuhi-lebeda.jpg"
         },
         {
             "id": "380",
@@ -7822,6 +7858,15 @@
             "publisher": "Corpus",
             "shelf": "martin-lugand corpus happy",
             "img": "https://www.corpus.ru/picts/products/Marten-Lugand-Music-1000.jpg"
+        },
+        {
+            "id": "463",
+            "author": "Кит Ричардс",
+            "book": "Жизнь",
+            "year": "2017",
+            "publisher": "Corpus",
+            "shelf": "corpus music keith-richards wishlist",
+            "img": "https://www.corpus.ru/picts/products/Richards-Life-1000.jpg"
         },
         {
             "id": "466",
@@ -9637,7 +9682,7 @@
             "web": "fb2",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist 2022",
+            "shelf": "corpus kepler wishlist 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-zerk-chelovek.jpeg"
         },
         {
@@ -9724,8 +9769,10 @@
             "author": "Владимир Набоков",
             "book": "Ада, или Отрада",
             "year": "2022",
+            "buyDate": "7/23/22",
+            "price": "736",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new 2022",
+            "shelf": "corpus nabokov 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-ada.jpg"
         },
         {
@@ -13255,6 +13302,14 @@
             "img": "https://s1.livelib.ru/boocover/1007342029/o/5e7e/Ragnar_Jonasson__Mgla.jpeg"
         },
         {
+            "author": "Рагнар Йонассон",
+            "book": "Остров",
+            "year": "2022",
+            "publisher": "Азбука",
+            "shelf": "ragnar wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007381854/o/660f/Ragnar_Jonasson__Ostrov.jpeg"
+        },
+        {
             "author": "Майк Омер",
             "book": "Внутри убийцы",
             "web": "mp3 fb2",
@@ -13976,7 +14031,7 @@
             "book": "Дерьмо",
             "web": "fb2",
             "year": "1998",
-            "shelf": "welsh alternative",
+            "shelf": "welsh alternative wishlist",
             "img": "https://s1.livelib.ru/boocover/1000320534/o/5810/Irvin_Uelsh__Dermo.jpeg"
         },
         {
@@ -14024,7 +14079,7 @@
             "book": "Сборная солянка",
             "web": "fb2",
             "year": "2009",
-            "shelf": "welsh alternative",
+            "shelf": "welsh alternative wishlist",
             "img": "https://s1.livelib.ru/boocover/1000591840/o/4350/Irvin_Uelsh__Sbornaya_solyanka_sbornik.jpeg"
         },
         {
