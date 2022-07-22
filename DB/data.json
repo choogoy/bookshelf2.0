@@ -543,7 +543,7 @@
             "book": "De feminis",
             "year": "2022",
             "buyDate": "8/31/22",
-            "price": "520",
+            "price": "468",
             "publisher": "Corpus",
             "shelf": "corpus sorokin 2022",
             "img": "https://www.corpus.ru/picts/products/cover_1-sorokin-de-feminis.jpg"
@@ -9834,8 +9834,10 @@
             "author": "Мария Конникова",
             "book": "Величайший блеф. Как я научилась быть внимательной, владеть собой и побеждать",
             "year": "2022",
+            "buyDate": "7/24/22",
+            "price": "580",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new 2022",
+            "shelf": "corpus 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-blef.jpg"
         },
         {
