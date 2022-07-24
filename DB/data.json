@@ -1,4 +1,4 @@
-﻿{
+{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -1800,13 +1800,15 @@
             "author": "Рю Мураками",
             "book": "69",
             "web": "fb2",
-            "shelf": "ru-murakami wishlist"
+            "shelf": "ru-murakami wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002795757/o/7011/Ryu_Murakami__69.jpeg"
         },
         {
             "author": "Рю Мураками",
             "book": "Все оттенки голубого",
             "web": "fb2",
-            "shelf": "ru-murakami wishlist"
+            "shelf": "ru-murakami wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002748536/o/b8c7/Ryu_Murakami__Vse_ottenki_golubogo.jpeg"
         },
         {
             "author": "Рю Мураками",
@@ -1868,7 +1870,8 @@
             "author": "Рю Мураками",
             "book": "Война начинается за морем. Линии",
             "web": "fb2",
-            "shelf": "ru-murakami wishlist"
+            "shelf": "ru-murakami wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000235051/o/acd2/Ryu_Murakami__Vojna_nachinaetsya_za_morem._Linii_sbornik.jpeg"
         },
         {
             "author": "Рю Мураками",
@@ -2962,6 +2965,7 @@
             "book": "Вдребезги: GREEN DAY, THE OFFSPRING, BAD RELIGION, NOFX и панк-волна 90-х",
             "web": "fb2",
             "year": "2022",
+            "readDate": "7/24/22",
             "shelf": "music wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007021983/o/3630/Ien_Uinvud__Vdrebezgi_GREEN_DAY_THE_OFFSPRING_BAD_RELIGION_NOFX_i_pankvolna_90h.jpeg"
         },
@@ -4751,9 +4755,18 @@
         {
             "author": "Джефф Кинни",
             "book": "Diary of a Wimpy Kid: Big Shot",
+            "year": "2022",
             "publisher": "АСТ",
-            "shelf": "slabak ast wishlist",
-            "img": "https://www.penguin.co.uk/content/dam/prh/books/313/313149/9780241396650.jpg.transform/PRHDesktopWide_small/image.jpg"
+            "shelf": "slabak ast wishlist new 2022",
+            "img": "https://s1.livelib.ru/boocover/1006938010/o/c980/Jeff_Kinney__Diary_of_a_Wimpy_Kid_Big_Shot_.jpeg"
+        },
+        {
+            "author": "Джефф Кинни",
+            "book": "Diary of a Wimpy Kid: Diper Överlöde",
+            "year": "2022",
+            "publisher": "АСТ",
+            "shelf": "slabak ast wishlist new 2022",
+            "img": "https://cdn.penguin.com.au/covers/original/9780670079087.jpg"
         },
         {
             "author": "Джефф Кинни",
@@ -4785,8 +4798,10 @@
         {
             "author": "Джефф Кинни",
             "book": "Роули Джефферсон. Очень милое приключение",
+            "year": "2021",
             "publisher": "АСТ",
-            "shelf": "slabak ast wishlist"
+            "shelf": "slabak ast wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006164880/o/4e8e/Dzheff_Kinni__Rouli_Dzhefferson._Ochen_miloe_priklyuchenie.jpeg"
         },
         {
             "author": "Мэтт Хейг",
@@ -9367,6 +9382,7 @@
             "id": "667",
             "author": "Алексей Моторов",
             "book": "Шестая койка и другие истории из жизни Паровозова",
+            "web": "mp3",
             "year": "2021",
             "buyDate": "9/23/21",
             "price": "394",
@@ -9400,7 +9416,7 @@
             "id": "672",
             "author": "Владимир Набоков",
             "book": "Король, дама, валет",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "10/18/21",
             "readDate": "2/20/22",
@@ -9458,7 +9474,7 @@
             "id": "678",
             "author": "Владимир Набоков",
             "book": "Приглашение на казнь",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "11/5/21",
             "price": "301",
@@ -9667,7 +9683,7 @@
             "id": "699",
             "author": "Джонатан Франзен",
             "book": "Перекрестки",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "4/16/22",
             "price": "743",
@@ -9768,8 +9784,9 @@
             "id": "710",
             "author": "Владимир Набоков",
             "book": "Ада, или Отрада",
+            "web": "fb2",
             "year": "2022",
-            "buyDate": "7/31/22",
+            "buyDate": "7/24/22",
             "price": "675",
             "publisher": "Corpus",
             "shelf": "corpus nabokov 2022",
@@ -9950,7 +9967,8 @@
             "book": "Аэростаты",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus notomb wishlist new 2022"
+            "shelf": "corpus notomb wishlist new 2022",
+            "img": "https://media.electre-ng.com/images/image-id/fdc61a8998aec04da89244e9df7c74c92c06e07c2dcce24091d5e4e34f56d9b5.jpg"
         },
         {
             "author": "Джон Ле Карре",
@@ -12264,8 +12282,10 @@
             "author": "Рейчел Гивни",
             "book": "Влюбленная Джейн",
             "year": "2022",
+            "buyDate": "7/31/22",
+            "price": "374",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria osten wishlist 2022",
+            "shelf": "eksmo inspiria osten 2022",
             "img": "https://s1.livelib.ru/boocover/1007401435/o/7a31/Rejchel_Givni__Vlyublennaya_Dzhejn.jpeg"
         },
         {
@@ -12678,7 +12698,7 @@
             "author": "Сюзанна Кэхалан",
             "book": "Великий притворщик. Миссия под прикрытием, которая изменила наше представление о безумии",
             "year": "2022",
-            "buyDate": "7/23/22",
+            "buyDate": "7/25/22",
             "price": "415",
             "publisher": "Бомбора",
             "shelf": "bombora 2022",
