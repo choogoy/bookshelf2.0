@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -2144,6 +2144,7 @@
         {
             "author": "Януш Леон Вишневский",
             "book": "Одиночество в Сети. Возвращение к началу",
+            "web": "mp3",
             "buyDate": "9/18/20",
             "readDate": "7/22/22",
             "price": "376",
@@ -2548,6 +2549,102 @@
             "img": "https://www.salomonssonagency.se/wp-content/uploads/2021/09/SE-FB-Vinnarna-cover-649x1024.jpg"
         },
         {
+            "author": "Салли Руни",
+            "book": "Разговоры с друзьями",
+            "web": "fb2",
+            "year": "2020",
+            "buyDate": "1/7/21",
+            "readDate": "10/2/21",
+            "price": "379",
+            "publisher": "Синдбад",
+            "shelf": "runi sindbad",
+            "img": "https://s1.livelib.ru/boocover/1004112313/o/03d6/Salli_Runi__Razgovory_s_druzyami.jpeg"
+        },
+        {
+            "author": "Салли Руни",
+            "book": "Нормальные люди",
+            "web": "fb2",
+            "year": "2020",
+            "buyDate": "1/7/21",
+            "readDate": "10/5/21",
+            "price": "331",
+            "publisher": "Синдбад",
+            "shelf": "runi sindbad",
+            "img": "https://s1.livelib.ru/boocover/1003635319/o/d7f5/Salli_Runi__Normalnye_lyudi.jpeg"
+        },
+        {
+            "author": "Салли Руни",
+            "book": "Прекрасный мир, где же ты",
+            "year": "2022",
+            "publisher": "Синдбад",
+            "shelf": "runi sindbad wishlist new 2022",
+            "img": "https://s1.livelib.ru/boocover/1006912807/o/a419/Salli_Runi__Prekrasnyj_mir_gde_zhe_ty.jpeg"
+        },
+        {
+            "author": "Лейла Слимани",
+            "book": "Идеальная няня",
+            "web": "mp3 fb2",
+            "year": "2018",
+            "buyDate": "7/8/21",
+            "readDate": "4/30/22",
+            "price": "321",
+            "publisher": "Синдбад",
+            "shelf": "goncur sindbad slimani",
+            "img": "https://s1.livelib.ru/boocover/1002805865/o/c871/Lejla_Slimani__Idealnaya_nyanya.jpeg"
+        },
+        {
+            "author": "Лейла Слимани",
+            "book": "Адель",
+            "web": "fb2",
+            "year": "2020",
+            "publisher": "Синдбад",
+            "shelf": "sindbad wishlist slimani 2020",
+            "img": "https://s1.livelib.ru/boocover/1005543382/o/c47f/Lejla_Slimani__Adel.jpeg"
+        },
+        {
+            "author": "Ханна Кент",
+            "book": "Вкус дыма",
+            "web": "mp3 fb2",
+            "year": "2019",
+            "buyDate": "8/17/21",
+            "price": "432",
+            "publisher": "Синдбад",
+            "shelf": "kent sindbad",
+            "img": "https://s1.livelib.ru/boocover/1003636472/o/14c9/Hanna_Kent__Vkus_dyma.jpeg"
+        },
+        {
+            "author": "Ханна Кент",
+            "book": "Темная вода",
+            "web": "fb2",
+            "year": "2019",
+            "buyDate": "8/17/21",
+            "price": "432",
+            "publisher": "Синдбад",
+            "shelf": "kent sindbad",
+            "img": "https://s1.livelib.ru/boocover/1002896100/o/34cd/Hanna_Kent__Temnaya_voda.jpeg"
+        },
+        {
+            "author": "Патрик Федра",
+            "book": "Артур Пеппер и загадочный браслет",
+            "year": "2018",
+            "buyDate": "1/31/21",
+            "price": "251.71",
+            "publisher": "Синдбад",
+            "shelf": "fedra sindbad",
+            "img": "https://s1.livelib.ru/boocover/1002891333/o/0011/Fedra_Patrik__Artur_Pepper_i_zagadochnyj_braslet.jpeg"
+        },
+        {
+            "author": "Патрик Федра",
+            "book": "Библиотека утрат и находок",
+            "web": "fb2",
+            "year": "2021",
+            "buyDate": "2/3/21",
+            "price": "297.31",
+            "publisher": "Эксмо",
+            "shelf": "inspiria fedra bookstore eksmo 2021",
+            "img": "https://s1.livelib.ru/boocover/1005478291/o/4556/Fedra_Patrik__Biblioteka_utrat_i_nahodok.jpeg"
+        },
+        {
             "author": "Маттиас Фалдбаккен",
             "book": "Кока-гола компани",
             "web": "fb2",
@@ -2584,38 +2681,6 @@
             "price": "150",
             "shelf": "bakli",
             "img": "https://s1.livelib.ru/boocover/1000096776/o/1029/Kristofer_Bakli__Zelenye_chelovechki.jpeg"
-        },
-        {
-            "author": "Салли Руни",
-            "book": "Разговоры с друзьями",
-            "web": "fb2",
-            "year": "2020",
-            "buyDate": "1/7/21",
-            "readDate": "10/2/21",
-            "price": "379",
-            "publisher": "Синдбад",
-            "shelf": "runi sindbad",
-            "img": "https://s1.livelib.ru/boocover/1004112313/o/03d6/Salli_Runi__Razgovory_s_druzyami.jpeg"
-        },
-        {
-            "author": "Салли Руни",
-            "book": "Нормальные люди",
-            "web": "fb2",
-            "year": "2020",
-            "buyDate": "1/7/21",
-            "readDate": "10/5/21",
-            "price": "331",
-            "publisher": "Синдбад",
-            "shelf": "runi sindbad",
-            "img": "https://s1.livelib.ru/boocover/1003635319/o/d7f5/Salli_Runi__Normalnye_lyudi.jpeg"
-        },
-        {
-            "author": "Салли Руни",
-            "book": "Прекрасный мир, где же ты",
-            "year": "2022",
-            "publisher": "Синдбад",
-            "shelf": "runi sindbad wishlist new 2022",
-            "img": "https://s1.livelib.ru/boocover/1006912807/o/a419/Salli_Runi__Prekrasnyj_mir_gde_zhe_ty.jpeg"
         },
         {
             "author": "Питер Гитерс",
@@ -2817,6 +2882,7 @@
         {
             "author": "Джен Синсеро",
             "book": "НИ СЫ. Будь уверен в своих силах и не позволяй сомнениям мешать тебе двигаться вперед",
+            "web": "fb2",
             "buyDate": "11/14/19",
             "price": "530",
             "publisher": "Бомбора",
@@ -2826,6 +2892,7 @@
         {
             "author": "Джен Синсеро",
             "book": "НЕ НОЙ. Только тот, кто перестал сетовать на судьбу, может стать богатым",
+            "web": "fb2",
             "buyDate": "11/14/19",
             "price": "419",
             "publisher": "Бомбора",
@@ -2844,6 +2911,7 @@
         {
             "author": "Джен Синсеро",
             "book": "НИ ЗЯ. Откажись от пагубных слабостей, обрети силу духа и стань хозяином своей судьбы",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "3/31/21",
             "price": "396",
@@ -2854,6 +2922,7 @@
         {
             "author": "Камал Равикант",
             "book": "Люби себя. Словно от этого зависит твоя жизнь",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "12/25/20",
             "price": "378",
@@ -2916,6 +2985,8 @@
         {
             "author": "Алексей Кузовлев",
             "book": "Черно-белые дни: вся правда о группе [AMATORY]",
+            "web": "fb2",
+            "publisher": "Амфора",
             "shelf": "music",
             "img": "https://s1.livelib.ru/boocover/1000454322/o/577c/Aleksej_Kuzovlev__Chernobelye_dni._Vsya_pravda_o_gruppe_Amatory.jpeg"
         },
@@ -3038,6 +3109,26 @@
             "price": "343",
             "shelf": "food",
             "img": "https://s1.livelib.ru/boocover/1002622588/o/7cbd/Sergej_Malozemov__Eda_zhivaya_i_mertvaya_5_printsipov_zdorovogo_pitaniya.jpeg"
+        },
+        {
+            "author": "Евгения Горац",
+            "book": "Как есть. Правдивые истории о потерянных килограммах",
+            "year": "2020",
+            "buyDate": "10/20/20",
+            "price": "230",
+            "publisher": "Портал",
+            "shelf": "food",
+            "img": "https://s1.livelib.ru/boocover/1005080197/o/bae1/Evgeniya_Gorats__Kak_est._Pravdivye_istorii_o_poteryannyh_kilogrammah.jpeg"
+        },
+        {
+            "author": "Евгения Горац",
+            "book": "Человек поедающий: целебное и враждебное. Есть ли надежда победить жир, или Как избавиться от пищевого мусора",
+            "year": "2020",
+            "buyDate": "10/20/20",
+            "price": "298",
+            "publisher": "Портал",
+            "shelf": "food",
+            "img": "https://s1.livelib.ru/boocover/1003628978/o/b457/Evgeniya_Gorats__Chelovek_poedayuschij_tselebnoe_i_vrazhdebnoe.jpeg"
         },
         {
             "author": "Пауло Коэльо",
@@ -3394,6 +3485,7 @@
             "year": "2020",
             "buyDate": "11/18/20",
             "price": "303",
+            "publisher": "АСТ",
             "shelf": "ast 2020",
             "img": "https://cdn1.ozone.ru/s3/multimedia-r/wc1200/6026381511.jpg"
         },
@@ -4505,6 +4597,7 @@
         {
             "author": "Мэй Маск",
             "book": "Женщина, у которой есть план. Правила счастливой жизни",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "3/31/21",
             "price": "408",
@@ -9385,6 +9478,7 @@
             "web": "mp3",
             "year": "2021",
             "buyDate": "9/23/21",
+            "readDate": "7/27/22",
             "price": "394",
             "publisher": "Corpus",
             "shelf": "corpus motorov 2021",
@@ -10701,6 +10795,120 @@
             "img": "https://seatracker.ru/pictures/692c5efd5b746f63fcc042a45179c799.jpg"
         },
         {
+            "author": "Яна Хлюстова",
+            "book": "Шнобелевская премия. Самые нелепые изобретения и не только",
+            "web": "fb2",
+            "year": "2021",
+            "buyDate": "9/3/21",
+            "price": "390",
+            "publisher": "АСТ",
+            "shelf": "ast science",
+            "img": "https://cdn.ast.ru/v2/ASE000000000852775/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Хью Баркер",
+            "book": "Математика на миллион долларов",
+            "year": "2021",
+            "buyDate": "9/23/21",
+            "price": "331",
+            "publisher": "АСТ",
+            "shelf": "ast science",
+            "img": "https://cdn.ast.ru/v2/ASE000000000849136/COVER/cover1__w600.jpg"
+        },
+        {
+            "book": "Автостопом по науке. 70 фактов из истории великих открытий",
+            "web": "fb2",
+            "year": "2021",
+            "buyDate": "9/23/21",
+            "price": "331",
+            "publisher": "АСТ",
+            "shelf": "ast science",
+            "img": "https://cdn.ast.ru/v2/ASE000000000840892/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Борис Штерн и Валерий Рубаков",
+            "book": "Астрофизика. Троицкий вариант",
+            "year": "2021",
+            "buyDate": "11/5/21",
+            "price": "350",
+            "publisher": "АСТ",
+            "shelf": "ast science",
+            "img": "https://cdn.ast.ru/v2/ASE000000000839802/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Со Ёсон",
+            "book": "Мозг и разум в эпоху виртуальной реальности",
+            "web": "fb2",
+            "year": "2021",
+            "buyDate": "10/18/21",
+            "price": "433",
+            "publisher": "АСТ",
+            "shelf": "ast science 2021",
+            "img": "https://cdn.ast.ru/v2/ASE000000000848870/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Марина Корсакова",
+            "book": "Мозг и музыка. Как чувства проявляют себя в музыке и почему ее понимание доступно всем",
+            "year": "2022",
+            "buyDate": "5/19/22",
+            "price": "485",
+            "publisher": "АСТ",
+            "shelf": "ast science 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000863839/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Иван Шипнигов",
+            "book": "Нефть, метель и другие веселые боги",
+            "web": "fb2",
+            "year": "2016",
+            "buyDate": "10/14/21",
+            "price": "347",
+            "shelf": "shipnigov",
+            "img": "https://s1.livelib.ru/boocover/1001533623/o/b4c8/Ivan_Shipnigov__Neft_metel_i_drugie_veselye_bogi.jpeg"
+        },
+        {
+            "author": "Иван Шипнигов",
+            "book": "Стрим",
+            "year": "2021",
+            "buyDate": "10/11/21",
+            "readDate": "4/23/22",
+            "price": "437",
+            "publisher": "Livebook",
+            "shelf": "shipnigov livebook 2021",
+            "img": "https://s1.livelib.ru/boocover/1006268077/o/4e6e/Ivan_Shipnigov__Strim.jpeg"
+        },
+        {
+            "author": "Татьяна Хабенская",
+            "book": "Мой адмирал",
+            "web": "fb2",
+            "year": "2021",
+            "buyDate": "12/20/21",
+            "price": "350",
+            "publisher": "АСТ",
+            "shelf": "ast 2021",
+            "img": "https://s1.livelib.ru/boocover/1006918774/o/b5c0/Tatyana_Habenskaya__Moj_admiral.jpeg"
+        },
+        {
+            "author": "Священник Сергий Круглов",
+            "book": "Про Н., Костю Иночкина и Ностальжи. Приключения в жизни будничной и вечной",
+            "year": "2021",
+            "buyDate": "10/16/21",
+            "price": "401",
+            "publisher": "Никея",
+            "shelf": "nikea 2021",
+            "img": "https://ndc.book24.ru/resize/820x1192/iblock/fc3/fc3ff911348b6c7e57ec818688ffdf5d/3792c5fe7b9f6a1cc3f2dcd3d95c39d0.jpg"
+        },
+        {
+            "author": "Сергей Лебеденко",
+            "book": "(не)свобода",
+            "year": "2022",
+            "buyDate": "6/28/22",
+            "price": "468",
+            "publisher": "Редакция Елены Шубиной",
+            "shelf": "2022",
+            "img": "https://s1.livelib.ru/boocover/1007172316/o/3396/Sergej_Lebedenko__nesvoboda.jpeg"
+        },
+        {
             "author": "Дженни Колган",
             "book": "Книжный магазинчик счастья",
             "web": "mp3 fb2",
@@ -11446,90 +11654,6 @@
             "img": "https://s1.livelib.ru/boocover/1006842802/o/bac0/Dzheffri_Kejn__Vzlet_Samsung._Istoriya_samoj_vydayuschejsya_i_skandalnoj_tehnoko.jpeg"
         },
         {
-            "author": "Евгения Горац",
-            "book": "Как есть. Правдивые истории о потерянных килограммах",
-            "year": "2020",
-            "buyDate": "10/20/20",
-            "price": "230",
-            "publisher": "Портал",
-            "shelf": "food",
-            "img": "https://s1.livelib.ru/boocover/1005080197/o/bae1/Evgeniya_Gorats__Kak_est._Pravdivye_istorii_o_poteryannyh_kilogrammah.jpeg"
-        },
-        {
-            "author": "Евгения Горац",
-            "book": "Человек поедающий: целебное и враждебное. Есть ли надежда победить жир, или Как избавиться от пищевого мусора",
-            "year": "2020",
-            "buyDate": "10/20/20",
-            "price": "298",
-            "publisher": "Портал",
-            "shelf": "food",
-            "img": "https://s1.livelib.ru/boocover/1003628978/o/b457/Evgeniya_Gorats__Chelovek_poedayuschij_tselebnoe_i_vrazhdebnoe.jpeg"
-        },
-        {
-            "author": "Лейла Слимани",
-            "book": "Идеальная няня",
-            "web": "mp3 fb2",
-            "year": "2018",
-            "buyDate": "7/8/21",
-            "readDate": "4/30/22",
-            "price": "321",
-            "publisher": "Синдбад",
-            "shelf": "goncur sindbad slimani",
-            "img": "https://s1.livelib.ru/boocover/1002805865/o/c871/Lejla_Slimani__Idealnaya_nyanya.jpeg"
-        },
-        {
-            "author": "Лейла Слимани",
-            "book": "Адель",
-            "web": "fb2",
-            "year": "2020",
-            "publisher": "Синдбад",
-            "shelf": "sindbad wishlist slimani 2020",
-            "img": "https://s1.livelib.ru/boocover/1005543382/o/c47f/Lejla_Slimani__Adel.jpeg"
-        },
-        {
-            "author": "Ханна Кент",
-            "book": "Вкус дыма",
-            "web": "mp3 fb2",
-            "year": "2019",
-            "buyDate": "8/17/21",
-            "price": "432",
-            "publisher": "Синдбад",
-            "shelf": "kent sindbad",
-            "img": "https://s1.livelib.ru/boocover/1003636472/o/14c9/Hanna_Kent__Vkus_dyma.jpeg"
-        },
-        {
-            "author": "Ханна Кент",
-            "book": "Темная вода",
-            "web": "fb2",
-            "year": "2019",
-            "buyDate": "8/17/21",
-            "price": "432",
-            "publisher": "Синдбад",
-            "shelf": "kent sindbad",
-            "img": "https://s1.livelib.ru/boocover/1002896100/o/34cd/Hanna_Kent__Temnaya_voda.jpeg"
-        },
-        {
-            "author": "Патрик Федра",
-            "book": "Артур Пеппер и загадочный браслет",
-            "year": "2018",
-            "buyDate": "1/31/21",
-            "price": "251.71",
-            "publisher": "Синдбад",
-            "shelf": "fedra sindbad",
-            "img": "https://s1.livelib.ru/boocover/1002891333/o/0011/Fedra_Patrik__Artur_Pepper_i_zagadochnyj_braslet.jpeg"
-        },
-        {
-            "author": "Патрик Федра",
-            "book": "Библиотека утрат и находок",
-            "web": "fb2",
-            "year": "2021",
-            "buyDate": "2/3/21",
-            "price": "297.31",
-            "publisher": "Эксмо",
-            "shelf": "inspiria fedra bookstore eksmo 2021",
-            "img": "https://s1.livelib.ru/boocover/1005478291/o/4556/Fedra_Patrik__Biblioteka_utrat_i_nahodok.jpeg"
-        },
-        {
             "author": "Мэри Энн Марлоу",
             "book": "Книжный магазинчик Мэделин",
             "web": "fb2",
@@ -11708,7 +11832,7 @@
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "inspiria shibek bookstore eksmo wishlist new 2022",
-            "img": "https://lbforlag.se/wp-content/uploads/2019/02/skybck_bokcirkeln_vid_vrldens_nde_omslag_inb.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007432854/o/5b71/Frida_Shibek__Knizhnyj_klub_na_krayu_sveta.jpeg"
         },
         {
             "author": "Фрида Шибек",
@@ -11931,7 +12055,7 @@
         {
             "author": "Мэри Энн Шаффер и Энни Бэрроуз",
             "book": "Клуб любителей книг и пирогов из картофельных очистков",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "2/14/21",
             "price": "427",
@@ -11942,7 +12066,7 @@
         {
             "author": "Кэтрин Стокетт",
             "book": "Прислуга",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "6/16/21",
             "price": "388",
@@ -12351,68 +12475,6 @@
             "img": "https://is5-ssl.mzstatic.com/image/thumb/Publication116/v4/a2/5a/47/a25a47b6-2022-4e5e-9744-9d472c9b1217/9780593332801.d.jpg/313x0w.webp"
         },
         {
-            "author": "Яна Хлюстова",
-            "book": "Шнобелевская премия. Самые нелепые изобретения и не только",
-            "web": "fb2",
-            "year": "2021",
-            "buyDate": "9/3/21",
-            "price": "390",
-            "publisher": "АСТ",
-            "shelf": "ast science",
-            "img": "https://cdn.ast.ru/v2/ASE000000000852775/COVER/cover1__w600.jpg"
-        },
-        {
-            "author": "Хью Баркер",
-            "book": "Математика на миллион долларов",
-            "year": "2021",
-            "buyDate": "9/23/21",
-            "price": "331",
-            "publisher": "АСТ",
-            "shelf": "ast science",
-            "img": "https://cdn.ast.ru/v2/ASE000000000849136/COVER/cover1__w600.jpg"
-        },
-        {
-            "book": "Автостопом по науке. 70 фактов из истории великих открытий",
-            "web": "fb2",
-            "year": "2021",
-            "buyDate": "9/23/21",
-            "price": "331",
-            "publisher": "АСТ",
-            "shelf": "ast science",
-            "img": "https://cdn.ast.ru/v2/ASE000000000840892/COVER/cover1__w600.jpg"
-        },
-        {
-            "author": "Борис Штерн и Валерий Рубаков",
-            "book": "Астрофизика. Троицкий вариант",
-            "year": "2021",
-            "buyDate": "11/5/21",
-            "price": "350",
-            "publisher": "АСТ",
-            "shelf": "ast science",
-            "img": "https://cdn.ast.ru/v2/ASE000000000839802/COVER/cover1__w600.jpg"
-        },
-        {
-            "author": "Со Ёсон",
-            "book": "Мозг и разум в эпоху виртуальной реальности",
-            "web": "fb2",
-            "year": "2021",
-            "buyDate": "10/18/21",
-            "price": "433",
-            "publisher": "АСТ",
-            "shelf": "ast science 2021",
-            "img": "https://cdn.ast.ru/v2/ASE000000000848870/COVER/cover1__w600.jpg"
-        },
-        {
-            "author": "Марина Корсакова",
-            "book": "Мозг и музыка. Как чувства проявляют себя в музыке и почему ее понимание доступно всем",
-            "year": "2022",
-            "buyDate": "5/19/22",
-            "price": "485",
-            "publisher": "АСТ",
-            "shelf": "ast science 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000863839/COVER/cover1__w600.jpg"
-        },
-        {
             "author": "Алекс Михаэлидес",
             "book": "Безмолвный пациент",
             "web": "fb2",
@@ -12800,58 +12862,6 @@
             "publisher": "Эксмо",
             "shelf": "eksmo japan inspiria 2022",
             "img": "https://s1.livelib.ru/boocover/1007122870/o/be37/Natsuhiko_Kjogoku__Leto_zlyh_duhov_ubume.jpeg"
-        },
-        {
-            "author": "Иван Шипнигов",
-            "book": "Нефть, метель и другие веселые боги",
-            "web": "fb2",
-            "year": "2016",
-            "buyDate": "10/14/21",
-            "price": "347",
-            "shelf": "shipnigov",
-            "img": "https://s1.livelib.ru/boocover/1001533623/o/b4c8/Ivan_Shipnigov__Neft_metel_i_drugie_veselye_bogi.jpeg"
-        },
-        {
-            "author": "Иван Шипнигов",
-            "book": "Стрим",
-            "year": "2021",
-            "buyDate": "10/11/21",
-            "readDate": "4/23/22",
-            "price": "437",
-            "publisher": "Livebook",
-            "shelf": "shipnigov livebook 2021",
-            "img": "https://s1.livelib.ru/boocover/1006268077/o/4e6e/Ivan_Shipnigov__Strim.jpeg"
-        },
-        {
-            "author": "Татьяна Хабенская",
-            "book": "Мой адмирал",
-            "web": "fb2",
-            "year": "2021",
-            "buyDate": "12/20/21",
-            "price": "350",
-            "publisher": "АСТ",
-            "shelf": "ast 2021",
-            "img": "https://s1.livelib.ru/boocover/1006918774/o/b5c0/Tatyana_Habenskaya__Moj_admiral.jpeg"
-        },
-        {
-            "author": "Священник Сергий Круглов",
-            "book": "Про Н., Костю Иночкина и Ностальжи. Приключения в жизни будничной и вечной",
-            "year": "2021",
-            "buyDate": "10/16/21",
-            "price": "401",
-            "publisher": "Никея",
-            "shelf": "nikea 2021",
-            "img": "https://ndc.book24.ru/resize/820x1192/iblock/fc3/fc3ff911348b6c7e57ec818688ffdf5d/3792c5fe7b9f6a1cc3f2dcd3d95c39d0.jpg"
-        },
-        {
-            "author": "Сергей Лебеденко",
-            "book": "(не)свобода",
-            "year": "2022",
-            "buyDate": "6/28/22",
-            "price": "468",
-            "publisher": "Редакция Елены Шубиной",
-            "shelf": "2022",
-            "img": "https://s1.livelib.ru/boocover/1007172316/o/3396/Sergej_Lebedenko__nesvoboda.jpeg"
         },
         {
             "author": "Кадзуо Исигуро",
@@ -13338,6 +13348,33 @@
             "img": "https://s1.livelib.ru/boocover/1007069812/o/83eb/Dzhejn_Shemilt__Patsient.jpeg"
         },
         {
+            "author": "Лайза Джуэлл",
+            "book": "Опасные соседи",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria jewell wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006225981/o/1580/Lajza_Dzhuell__Opasnye_sosedi.jpeg"
+        },
+        {
+            "author": "Лайза Джуэлл",
+            "book": "Невидимая девушка",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria jewell wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006834933/o/34f0/Lajza_Dzhuell__Nevidimaya_devushka.jpeg"
+        },
+        {
+            "author": "Лайза Джуэлл",
+            "book": "Ночь, когда она исчезла",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria jewell wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007355607/o/3870/Lajza_Dzhuell__Noch_kogda_ona_ischezla.jpeg"
+        },
+        {
             "author": "Рагнар Йонассон",
             "book": "Снежная слепота",
             "web": "mp3 fb2",
@@ -13471,6 +13508,14 @@
             "publisher": "Азбука",
             "shelf": "shafak wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007048197/o/23df/Elif_Shafak__Ostrov_propavshih_derevev.jpeg"
+        },
+        {
+            "author": "Элиф Шафак",
+            "book": "Ученик архитектора",
+            "year": "2022",
+            "publisher": "Азбука",
+            "shelf": "shafak wishlist 2022",
+            "img": "https://cdn.azbooka.ru/cv/w1100/ec41219b-1dd7-44fd-b6f5-bb748d5e3e9b.jpg"
         },
         {
             "author": "Джон Маррс",
@@ -14004,6 +14049,7 @@
         {
             "author": "Сьюзен Баркер",
             "book": "Сайонара",
+            "web": "fb2",
             "shelf": "alternative",
             "img": "https://s1.livelib.ru/boocover/1000269058/o/1f73/Syuzen_Barker__Sajonara.jpeg"
         },
