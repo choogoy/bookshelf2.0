@@ -245,7 +245,7 @@
             "img": "https://ndc.book24.ru/resize/820x1192/iblock/c5c/c5cf3610e8ddde842a4fdfe04f08fab8/16341f4a6fc3c72d9897609c088fd4a6.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Теллурия",
             "web": "fb2",
@@ -255,7 +255,7 @@
             "img": "https://cdn1.ozone.ru/multimedia/wc1200/1007466165.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "День опричника",
             "web": "fb2",
@@ -265,7 +265,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Optichnik-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Норма",
             "web": "fb2",
@@ -275,7 +275,7 @@
             "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc1200/6017708775.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Сахарный Кремль",
             "web": "fb2",
@@ -285,7 +285,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Kremlin-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "День опричника",
             "web": "fb2",
@@ -297,7 +297,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Oprichnik-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Манарага",
             "web": "fb2",
@@ -309,7 +309,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Manaraga-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Сахарный Кремль",
             "web": "fb2",
@@ -321,7 +321,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Kremlin-100.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Теллурия",
             "web": "fb2",
@@ -333,7 +333,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Telluria-100.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Тридцатая любовь Марины",
             "web": "fb2",
@@ -345,7 +345,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-30_Marina-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Голубое сало",
             "web": "fb2",
@@ -357,7 +357,7 @@
             "img": "https://www.corpus.ru/picts/products/vladimir-sorokin-goluboe-salo.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Моноклон",
             "web": "fb2",
@@ -367,7 +367,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Monoklon-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Ледяная трилогия",
             "web": "fb2",
@@ -379,7 +379,7 @@
             "img": "https://www.corpus.ru/picts/products/vladimir-sorokin-led-trilogija-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Первый субботник",
             "web": "fb2",
@@ -391,7 +391,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Subbotnik-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Очередь",
             "web": "fb2",
@@ -404,7 +404,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Ochered-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Метель",
             "web": "fb2",
@@ -417,7 +417,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Metel-1000-new.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Белый квадрат",
             "web": "fb2",
@@ -429,7 +429,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Kvadrat-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Триумф Времени и Бесчувствия",
             "web": "fb2",
@@ -441,7 +441,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Triumph-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Капитал",
             "web": "fb2",
@@ -453,7 +453,7 @@
             "img": "https://www.corpus.ru/picts/products/sorokin-kapital.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Нормальная история",
             "web": "fb2",
@@ -465,7 +465,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-History-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Норма",
             "web": "fb2",
@@ -478,7 +478,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-Norma-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Русские народные пословицы и поговорки",
             "web": "fb2",
@@ -490,7 +490,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-sorokin.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Пир",
             "web": "fb2",
@@ -502,7 +502,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-pir.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Доктор Гарин",
             "web": "fb2",
@@ -514,7 +514,7 @@
             "img": "https://www.corpus.ru/picts/products/cover-doctor-garin.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Сердца четырёх",
             "web": "fb2",
@@ -526,7 +526,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorokin-4-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "Роман",
             "web": "fb2",
@@ -538,11 +538,11 @@
             "img": "https://www.corpus.ru/picts/products/cover1-sorokin-roman.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Владимир Сорокин",
             "book": "De feminis",
             "year": "2022",
-            "buyDate": "8/31/22",
+            "buyDate": "8/20/22",
             "price": "468",
             "publisher": "Corpus",
             "shelf": "corpus sorokin 2022",
@@ -2178,7 +2178,7 @@
             "img": "https://s1.livelib.ru/boocover/1000904556/o/1600/bez_avtora__Zdravstvujte_doktor_Zapiski_patsientov.jpeg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 1921-1930",
             "year": "2020",
@@ -2189,7 +2189,7 @@
             "img": "https://www.corpus.ru/picts/products/parfenov-21-30.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 1931-1940",
             "year": "2017",
@@ -2200,7 +2200,7 @@
             "img": "https://www.corpus.ru/picts/products/namedni-nasha-era-1931-1940.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 1946-1960",
             "year": "2014",
@@ -2220,7 +2220,7 @@
             "img": "https://s1.livelib.ru/boocover/1000567141/o/bac3/Parfjonov_Leonid__Namedni._Nasha_era._19611970.jpeg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 1961-1970",
             "year": "2022",
@@ -2229,7 +2229,7 @@
             "img": "https://s1.livelib.ru/boocover/1000567141/o/bac3/Parfjonov_Leonid__Namedni._Nasha_era._19611970.jpeg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 1971-1980",
             "buyDate": "1/7/21",
@@ -2239,7 +2239,7 @@
             "img": "https://www.corpus.ru/picts/products/Namedni_1971-1980-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 1981-1990",
             "buyDate": "12/31/20",
@@ -2249,7 +2249,7 @@
             "img": "https://www.corpus.ru/picts/products/Namedni-1981-1990-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 1991-2000",
             "buyDate": "1/4/21",
@@ -2259,7 +2259,7 @@
             "img": "https://www.corpus.ru/picts/products/Namedni_1991-2000-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 2001-2005",
             "year": "2011",
@@ -2270,7 +2270,7 @@
             "img": "https://www.corpus.ru/picts/products/Parfenov-2001-2005-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 2006-2010",
             "year": "2013",
@@ -2281,7 +2281,7 @@
             "img": "https://www.corpus.ru/picts/products/Parfenov-2006-2010-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 2011-2015",
             "year": "2021",
@@ -2292,7 +2292,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-namedni-2011-2015.png"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 2016-2020",
             "year": "2023",
@@ -4515,6 +4515,7 @@
             "book": "Мой сын - Илон Маск. Как воспитать гения",
             "web": "fb2",
             "buyDate": "7/2/20",
+            "readDate": "8/2/22",
             "price": "519",
             "shelf": "elon-musk",
             "img": "https://s1.livelib.ru/boocover/1002040862/o/2c9d/Emi_Ralf__Moj_syn__Ilon_Mask._Kak_vospitat_geniya.jpeg"
@@ -5171,7 +5172,7 @@
             "img": "https://s1.livelib.ru/boocover/1000113323/o/d02a/Uill_Self__Obezyany.jpeg"
         },
         {
-            "id": "1",
+            "undefined": "1",
             "author": "Питер Акройд",
             "book": "Дом доктора Ди",
             "year": "2009",
@@ -5182,7 +5183,7 @@
             "img": "https://www.corpus.ru/picts/products/Ackroyd-Dom-1000.jpg"
         },
         {
-            "id": "2",
+            "undefined": "2",
             "author": "Питер Акройд",
             "book": "Процесс Элизабет Кри",
             "year": "2009",
@@ -5193,7 +5194,7 @@
             "img": "https://www.corpus.ru/picts/products/Ackroyd-Process-1000.jpg"
         },
         {
-            "id": "4",
+            "undefined": "4",
             "author": "Хуан Рульфо",
             "book": "Педро Парамо. Равнина в огне",
             "year": "2009",
@@ -5202,7 +5203,7 @@
             "img": "https://s1.livelib.ru/boocover/1000324231/o/7dd6/Huan_Rulfo__Pedro_Paramo._Ravnina_v_ogne_sbornik.jpeg"
         },
         {
-            "id": "5",
+            "undefined": "5",
             "author": "Гюнтер Грасс",
             "book": "Фотокамера. Истории из темной комнаты",
             "year": "2009",
@@ -5213,7 +5214,7 @@
             "img": "https://s1.livelib.ru/boocover/1000416292/o/fcfb/Gyunter_Grass__Fotokamera.jpeg"
         },
         {
-            "id": "6",
+            "undefined": "6",
             "author": "Сири Хустведт",
             "book": "Что я любил",
             "year": "2009",
@@ -5222,7 +5223,7 @@
             "img": "https://www.corpus.ru/picts/products/Hustvedt-Chto-ya-lubil-1000.jpg"
         },
         {
-            "id": "7",
+            "undefined": "7",
             "author": "Эдуардо Мендоса",
             "book": "Удивительное путешествие Помпония Флата",
             "year": "2009",
@@ -5233,7 +5234,7 @@
             "img": "https://www.corpus.ru/picts/products/Mendoza-PomponioFlato-1000.jpg"
         },
         {
-            "id": "8",
+            "undefined": "8",
             "author": "Тамара Кандала",
             "book": "Эта сладкая голая сволочь",
             "year": "2009",
@@ -5244,7 +5245,7 @@
             "img": "https://s1.livelib.ru/boocover/1000417175/o/b159/Kandala_Tamara__Eta_sladkaya_golaya_svoloch.jpeg"
         },
         {
-            "id": "9",
+            "undefined": "9",
             "author": "Фэй Уэлдон",
             "book": "Род-Айленд блюз",
             "year": "2009",
@@ -5255,7 +5256,7 @@
             "img": "https://s1.livelib.ru/boocover/1000333746/o/159f/Fej_Ueldon__RodAjlend_blyuz.jpeg"
         },
         {
-            "id": "10",
+            "undefined": "10",
             "author": "Максим Осипов",
             "book": "Грех жаловаться",
             "year": "2009",
@@ -5266,7 +5267,7 @@
             "img": "https://www.corpus.ru/picts/products/Osipov-Grekh-1000tt.jpg"
         },
         {
-            "id": "12",
+            "undefined": "12",
             "author": "Тони Моррисон",
             "book": "Жалость",
             "year": "2009",
@@ -5277,7 +5278,7 @@
             "img": "https://s1.livelib.ru/boocover/1000453480/o/6118/Toni_Morrison__Zhalost.jpeg"
         },
         {
-            "id": "17",
+            "undefined": "17",
             "author": "Клаудио Пиньейро",
             "book": "Твоя",
             "year": "2009",
@@ -5288,7 +5289,7 @@
             "img": "https://s1.livelib.ru/boocover/1000328359/o/34dd/Klaudia_Pinejro__Tvoya.jpeg"
         },
         {
-            "id": "18",
+            "undefined": "18",
             "author": "Михаил Идов",
             "book": "Кофемолка",
             "year": "2009",
@@ -5299,7 +5300,7 @@
             "img": "https://www.corpus.ru/picts/products/Idov-GroundUp-1000.jpg"
         },
         {
-            "id": "20",
+            "undefined": "20",
             "author": "Джон Ле Карре",
             "book": "Особо опасен",
             "year": "2009",
@@ -5310,7 +5311,7 @@
             "img": "https://s1.livelib.ru/boocover/1000330560/o/2596/Dzhon_Le_Karre__Osobo_opasen.jpeg"
         },
         {
-            "id": "23",
+            "undefined": "23",
             "author": "Лолита Пий",
             "book": "Бабл-гам",
             "year": "2010",
@@ -5321,7 +5322,7 @@
             "img": "https://www.corpus.ru/picts/products/Pille-Bubble-1000.jpg"
         },
         {
-            "id": "27",
+            "undefined": "27",
             "author": "Арнальд Индридасон",
             "book": "Трясина",
             "year": "2010",
@@ -5332,7 +5333,7 @@
             "img": "https://www.corpus.ru/picts/products/Indridason-Triasina-1000.jpg"
         },
         {
-            "id": "28",
+            "undefined": "28",
             "author": "Эдуардо Мендоса",
             "book": "Тайна заколдованной крипты",
             "year": "2010",
@@ -5343,7 +5344,7 @@
             "img": "https://www.corpus.ru/picts/products/Mendosa-Cripta-1000.jpg"
         },
         {
-            "id": "29",
+            "undefined": "29",
             "author": "Леонардо Падура",
             "book": "Прощай, Хемингуэй!",
             "year": "2010",
@@ -5354,7 +5355,7 @@
             "img": "https://s1.livelib.ru/boocover/1000449709/o/bdf3/Leonardo_Padura__Proschaj_Heminguej.jpeg"
         },
         {
-            "id": "30",
+            "undefined": "30",
             "author": "Оуэн Мэтьюз",
             "book": "Антисоветский роман",
             "year": "2010",
@@ -5365,7 +5366,7 @@
             "img": "https://www.corpus.ru/picts/products/Matthews-Roman-1000.jpg"
         },
         {
-            "id": "33",
+            "undefined": "33",
             "author": "Колин Харрисон",
             "book": "Манхеттенский ноктюрн",
             "year": "2010",
@@ -5376,7 +5377,7 @@
             "img": "https://s1.livelib.ru/boocover/1000466924/o/0126/Kolin_Harrison__Manhettenskij_noktyurn.jpeg"
         },
         {
-            "id": "35",
+            "undefined": "35",
             "author": "Крез",
             "book": "Я - аферист. Признания банкира",
             "year": "2010",
@@ -5387,7 +5388,7 @@
             "img": "https://s1.livelib.ru/boocover/1000474268/o/fa71/Krez__Ya__aferist._Priznaniya_bankira.jpeg"
         },
         {
-            "id": "36",
+            "undefined": "36",
             "author": "Гюнтер Грасс",
             "book": "Кошки-мышки",
             "year": "2010",
@@ -5398,7 +5399,7 @@
             "img": "https://s1.livelib.ru/boocover/1000441729/o/114b/Gyunter_Grass__Koshkimyshki.jpeg"
         },
         {
-            "id": "38",
+            "undefined": "38",
             "author": "Ромен Гари",
             "book": "Свет женщины",
             "year": "2010",
@@ -5409,7 +5410,7 @@
             "img": "https://www.corpus.ru/picts/products/Gari-Svet-1000.jpg"
         },
         {
-            "id": "40",
+            "undefined": "40",
             "author": "Клаудио Пиньейро",
             "book": "Вдовы по четвергам",
             "year": "2010",
@@ -5420,7 +5421,7 @@
             "img": "https://s1.livelib.ru/boocover/1000444142/o/004d/Klaudia_Pinejro__Vdovy_po_chetvergam.jpeg"
         },
         {
-            "id": "41",
+            "undefined": "41",
             "author": "Кристиан Мёрк",
             "book": "Песий остров",
             "year": "2010",
@@ -5431,7 +5432,7 @@
             "img": "https://s1.livelib.ru/boocover/1000444144/o/004d/Kristian_Merk__Pesij_ostrov.jpeg"
         },
         {
-            "id": "42",
+            "undefined": "42",
             "author": "Фэй Уэлдон",
             "book": "Ненавижу семейную жизнь",
             "year": "2010",
@@ -5442,7 +5443,7 @@
             "img": "https://s1.livelib.ru/boocover/1000447789/o/0f09/Fej_Ueldon__Nenavizhu_semejnuyu_zhizn.jpeg"
         },
         {
-            "id": "44",
+            "undefined": "44",
             "author": "Хуан Мадрид",
             "book": "Прощай, принцесса",
             "year": "2010",
@@ -5453,7 +5454,7 @@
             "img": "https://www.corpus.ru/picts/products/Madrid-Princesa-1000.jpg"
         },
         {
-            "id": "45",
+            "undefined": "45",
             "author": "Питер Акройд",
             "book": "Журнал Виктора Франкенштейна",
             "year": "2010",
@@ -5464,7 +5465,7 @@
             "img": "https://www.corpus.ru/picts/products/Acroyd-Frankenstein-1000.jpg"
         },
         {
-            "id": "46",
+            "undefined": "46",
             "author": "Аманда Смит",
             "book": "Черная скала",
             "year": "2010",
@@ -5475,7 +5476,7 @@
             "img": "https://s1.livelib.ru/boocover/1000451706/o/c42e/Amanda_Smit__Chernaya_Ckala.jpeg"
         },
         {
-            "id": "47",
+            "undefined": "47",
             "author": "Леонардо Падура",
             "book": "Злые ветры дуют в Великий пост",
             "year": "2010",
@@ -5486,7 +5487,7 @@
             "img": "https://s1.livelib.ru/boocover/1000474265/o/fa71/Leonardo_Padura__Zlye_vetry_duyut_v_Velikij_post.jpeg"
         },
         {
-            "id": "49",
+            "undefined": "49",
             "author": "Питер Акройд",
             "book": "Повесть о Платоне",
             "year": "2010",
@@ -5497,7 +5498,7 @@
             "img": "https://www.corpus.ru/picts/products/Ackroyd-Platon-1000.jpg"
         },
         {
-            "id": "50",
+            "undefined": "50",
             "author": "Джона Лерер",
             "book": "Как мы принимаем решения",
             "year": "2010",
@@ -5508,7 +5509,7 @@
             "img": "https://www.corpus.ru/picts/products/Lehrer-Decide-1000.jpg"
         },
         {
-            "id": "53",
+            "undefined": "53",
             "author": "Мартин Эмис",
             "book": "Записки о Рейчел",
             "year": "2010",
@@ -5519,7 +5520,7 @@
             "img": "https://www.corpus.ru/picts/products/Amis-Rachel-1000.jpg"
         },
         {
-            "id": "56",
+            "undefined": "56",
             "author": "Бен Х. Уинтерс (Джейн Остин)",
             "book": "Разум и чувства и гады морские",
             "year": "2010",
@@ -5530,7 +5531,7 @@
             "img": "https://s1.livelib.ru/boocover/1000449844/o/bdf3/Ben_Uinters__Razum_i_chuvstva_i_gady_morskie.jpeg"
         },
         {
-            "id": "59",
+            "undefined": "59",
             "author": "Симонетта Греджо",
             "book": "Голыми руками",
             "year": "2010",
@@ -5541,7 +5542,7 @@
             "img": "https://www.corpus.ru/picts/products/Gregio-Ruki-1000.jpg"
         },
         {
-            "id": "61",
+            "undefined": "61",
             "author": "Лолита Пий",
             "book": "Город Сумрак",
             "year": "2010",
@@ -5552,7 +5553,7 @@
             "img": "https://www.corpus.ru/picts/products/Piy-Sumrak-1000.jpg"
         },
         {
-            "id": "62",
+            "undefined": "62",
             "author": "Колин Харрисон",
             "book": "Убийство со взломом",
             "year": "2010",
@@ -5563,7 +5564,7 @@
             "img": "https://s1.livelib.ru/boocover/1000456864/o/34e0/Kolin_Harrison__Ubijstvo_so_vzlomom.jpeg"
         },
         {
-            "id": "64",
+            "undefined": "64",
             "author": "Джонатан Троппер",
             "book": "Дальше живите сами",
             "year": "2010",
@@ -5575,7 +5576,7 @@
             "img": "https://www.corpus.ru/picts/products/Tropper-1000.jpg"
         },
         {
-            "id": "65",
+            "undefined": "65",
             "author": "Виктор Шендерович",
             "book": "Одна голова хорошо, а две лучше",
             "year": "2010",
@@ -5586,7 +5587,7 @@
             "img": "https://www.corpus.ru/picts/products/Shenderovich-2heads-1000.jpg"
         },
         {
-            "id": "67",
+            "undefined": "67",
             "author": "Хербьёрг Вассму",
             "book": "Сто лет",
             "year": "2010",
@@ -5597,7 +5598,7 @@
             "img": "https://s1.livelib.ru/boocover/1000456477/o/33e8/Herberg_Vassmu__Sto_let.jpeg"
         },
         {
-            "id": "69",
+            "undefined": "69",
             "author": "Арнальд Индридасон",
             "book": "Каменный мешок",
             "year": "2010",
@@ -5608,7 +5609,7 @@
             "img": "https://www.corpus.ru/picts/products/Indridason-Meshok-1000.jpg"
         },
         {
-            "id": "72",
+            "undefined": "72",
             "author": "Мартин Эмис",
             "book": "Беременная вдова",
             "year": "2010",
@@ -5619,7 +5620,7 @@
             "img": "https://www.corpus.ru/picts/products/Amis-Vdova-1000.jpg"
         },
         {
-            "id": "75",
+            "undefined": "75",
             "author": "Олег Радзинский",
             "book": "Иванова свобода",
             "year": "2010",
@@ -5630,7 +5631,7 @@
             "img": "https://www.corpus.ru/picts/products/Radzinsky-Svoboda-1000.jpg"
         },
         {
-            "id": "77",
+            "undefined": "77",
             "author": "Асар Эппель",
             "book": "Латунная луна",
             "year": "2010",
@@ -5641,7 +5642,7 @@
             "img": "https://www.corpus.ru/picts/products/Appel-Luna-1000.jpg"
         },
         {
-            "id": "78",
+            "undefined": "78",
             "author": "Мэтт Хейг",
             "book": "Семья Рэдли",
             "web": "fb2",
@@ -5653,7 +5654,7 @@
             "img": "https://s1.livelib.ru/boocover/1000461484/o/868c/Mett_Hejg__Semya_Redli.jpeg"
         },
         {
-            "id": "79",
+            "undefined": "79",
             "author": "Лиза Си",
             "book": "Девушки из Шанхая",
             "year": "2011",
@@ -5664,7 +5665,7 @@
             "img": "https://s1.livelib.ru/boocover/1000467240/o/6b21/Liza_Si__Devushki_iz_Shanhaya.jpeg"
         },
         {
-            "id": "80",
+            "undefined": "80",
             "author": "Мартин Эмис",
             "book": "Ночной поезд",
             "year": "2010",
@@ -5675,7 +5676,7 @@
             "img": "https://www.corpus.ru/picts/products/Amis-Train-1000.jpg"
         },
         {
-            "id": "81",
+            "undefined": "81",
             "author": "Хуан Эслава Галан",
             "book": "В поисках единорога",
             "year": "2010",
@@ -5686,7 +5687,7 @@
             "img": "https://www.corpus.ru/picts/products/Galan-Unicorn-1000.jpg"
         },
         {
-            "id": "82",
+            "undefined": "82",
             "author": "Джонатан Троппер",
             "book": "Книга Джо",
             "year": "2011",
@@ -5697,7 +5698,7 @@
             "img": "https://www.corpus.ru/picts/products/Tropper-Joe-1000.jpg"
         },
         {
-            "id": "83",
+            "undefined": "83",
             "author": "Роберто Боланьо",
             "book": "Шлюхи-убийцы",
             "year": "2011",
@@ -5706,7 +5707,7 @@
             "img": "https://www.corpus.ru/picts/products/Bolanyo-Shliuhi-1000.jpg"
         },
         {
-            "id": "84",
+            "undefined": "84",
             "author": "Джон Ле Карре",
             "book": "Песня для зебры",
             "year": "2011",
@@ -5717,7 +5718,7 @@
             "img": "https://www.corpus.ru/picts/products/LeCarre-Song-1000.jpg"
         },
         {
-            "id": "85",
+            "undefined": "85",
             "author": "Рафаэль Иглесиас",
             "book": "Счастливый брак",
             "year": "2011",
@@ -5728,7 +5729,7 @@
             "img": "https://www.corpus.ru/picts/products/yglesias-marriage-1000.jpg"
         },
         {
-            "id": "86",
+            "undefined": "86",
             "author": "Питер Акройд",
             "book": "Чаттертон",
             "year": "2011",
@@ -5739,7 +5740,7 @@
             "img": "https://www.corpus.ru/picts/products/Ackroyd-Chatterton-1000.jpg"
         },
         {
-            "id": "87",
+            "undefined": "87",
             "author": "Сири Хустведт",
             "book": "Печали американца",
             "year": "2011",
@@ -5748,7 +5749,7 @@
             "img": "https://www.corpus.ru/picts/products/Hustvedt-Pechali-1000.jpg"
         },
         {
-            "id": "88",
+            "undefined": "88",
             "author": "Максим Осипов",
             "book": "Крик домашней птицы",
             "year": "2011",
@@ -5759,7 +5760,7 @@
             "img": "https://www.corpus.ru/picts/products/Osipov-Krik-1000tt.jpg"
         },
         {
-            "id": "89",
+            "undefined": "89",
             "author": "Лаура Лестрепо",
             "book": "Ангел из Галилеи",
             "year": "2011",
@@ -5770,7 +5771,7 @@
             "img": "https://s1.livelib.ru/boocover/1000468090/o/1f7f/Laura_Restrepo__Angel_iz_Galilei.jpeg"
         },
         {
-            "id": "93",
+            "undefined": "93",
             "author": "Маша Гессен",
             "book": "Совершенная строгость. Григорий Перельман: Гений и задача тысячелетия",
             "year": "2011",
@@ -5781,7 +5782,7 @@
             "img": "https://s1.livelib.ru/boocover/1000468884/o/9993/Masha_Gessen__Sovershennaya_strogost._Grigorij_Perelman_genij_i_zadacha_tysyache.jpeg"
         },
         {
-            "id": "94",
+            "undefined": "94",
             "author": "Роберто Боланьо",
             "book": "Третий рейх",
             "year": "2011",
@@ -5792,7 +5793,7 @@
             "img": "https://www.corpus.ru/picts/products/Bolanyo-Reich-1000.jpg"
         },
         {
-            "id": "95",
+            "undefined": "95",
             "author": "Ромен Гари",
             "book": "Дальше ваш билет недействителен",
             "year": "2011",
@@ -5801,7 +5802,7 @@
             "img": "https://www.corpus.ru/picts/products/Gari-Bilet-big.jpg"
         },
         {
-            "id": "96",
+            "undefined": "96",
             "author": "Кристофер Бакли",
             "book": "Господь - мой брокер",
             "year": "2011",
@@ -5810,7 +5811,7 @@
             "img": "https://www.corpus.ru/picts/products/Buckley-Brocker-1000.jpg"
         },
         {
-            "id": "101",
+            "undefined": "101",
             "author": "Николь Краусс",
             "book": "Хроники любви",
             "year": "2011",
@@ -5821,7 +5822,7 @@
             "img": "https://www.corpus.ru/picts/products/Krauss-lovestory-1000.jpg"
         },
         {
-            "id": "102",
+            "undefined": "102",
             "author": "Зое Шарп",
             "book": "Второй выстрел",
             "year": "2011",
@@ -5832,7 +5833,7 @@
             "img": "https://s1.livelib.ru/boocover/1000475279/o/5e0f/Zoe_Sharp__Vtoroj_vystrel.jpeg"
         },
         {
-            "id": "104",
+            "undefined": "104",
             "author": "Дженнифер Иган",
             "book": "Цитадель",
             "year": "2011",
@@ -5843,7 +5844,7 @@
             "img": "https://www.corpus.ru/picts/products/Egan-Citadel-1000.jpg"
         },
         {
-            "id": "106",
+            "undefined": "106",
             "author": "Питер Акройд",
             "book": "Хоксмур",
             "year": "2011",
@@ -5852,7 +5853,7 @@
             "img": "https://www.corpus.ru/picts/products/hawk-900.jpg"
         },
         {
-            "id": "113",
+            "undefined": "113",
             "author": "Дон Уинслоу",
             "book": "Час джентельменов",
             "year": "2011",
@@ -5861,7 +5862,7 @@
             "img": "https://www.corpus.ru/picts/products/winslow-gentelmen-1000.jpg"
         },
         {
-            "id": "114",
+            "undefined": "114",
             "author": "Кристофер Бакли",
             "book": "Зеленые человечки",
             "year": "2011",
@@ -5870,7 +5871,7 @@
             "img": "https://www.corpus.ru/picts/products/buckley-greenman-1000.jpg"
         },
         {
-            "id": "117",
+            "undefined": "117",
             "author": "Арнальд Индридасон",
             "book": "Голос",
             "year": "2011",
@@ -5881,7 +5882,7 @@
             "img": "https://www.corpus.ru/picts/products/indridason-golos-1000.jpg"
         },
         {
-            "id": "120",
+            "undefined": "120",
             "author": "Филип Рот",
             "book": "Немизида",
             "year": "2011",
@@ -5892,7 +5893,7 @@
             "img": "https://s1.livelib.ru/boocover/1000486001/o/7a34/Filip_Rot__Nemezida.jpeg"
         },
         {
-            "id": "121",
+            "undefined": "121",
             "author": "Джарон Ланир",
             "book": "Вы не гаджет. Манифест",
             "web": "fb2",
@@ -5904,7 +5905,7 @@
             "img": "https://www.corpus.ru/picts/products/lanier-gatget-1000.jpg"
         },
         {
-            "id": "122",
+            "undefined": "122",
             "author": "Франсуа Лелорд",
             "book": "Путешествие Гектора в поисках счастья",
             "year": "2011",
@@ -5913,7 +5914,7 @@
             "img": "https://cdn1.ozone.ru/multimedia/wc1200/1021484463.jpg"
         },
         {
-            "id": "123",
+            "undefined": "123",
             "author": "Бен Х. Уинтерс (Лев Н. Толстой)",
             "book": "Андроид Каренина",
             "year": "2011",
@@ -5924,7 +5925,7 @@
             "img": "https://www.corpus.ru/picts/products/android-1000.jpg"
         },
         {
-            "id": "124",
+            "undefined": "124",
             "author": "Майкл Каннингем",
             "book": "Начинается ночь",
             "year": "2011",
@@ -5933,7 +5934,7 @@
             "img": "https://www.corpus.ru/picts/products/Cunningham-Night-1000.jpg"
         },
         {
-            "id": "126",
+            "undefined": "126",
             "author": "Сьюзан Хейбур О'Киф",
             "book": "Чудовище Франкенштейна",
             "year": "2011",
@@ -5944,7 +5945,7 @@
             "img": "https://s1.livelib.ru/boocover/1000493205/o/f426/Syuzan_Hejbur_Oampamp039Kif__Chudovische_Frankenshtejna.jpeg"
         },
         {
-            "id": "127",
+            "undefined": "127",
             "author": "Джон Ле Карре",
             "book": "Такой же предатель, как мы",
             "year": "2011",
@@ -5955,7 +5956,7 @@
             "img": "https://s1.livelib.ru/boocover/1000492432/o/8a2d/Dzhon_Le_Karre__Takoj_zhe_predatel_kak_my.jpeg"
         },
         {
-            "id": "128",
+            "undefined": "128",
             "author": "Дон Уинслоу",
             "book": "Зимняя гонка Фрэнки Машины",
             "year": "2011",
@@ -5966,7 +5967,7 @@
             "img": "https://s1.livelib.ru/boocover/1000495132/o/3bad/Don_Uinslou__Zimnyaya_gonka_Frenki_Mashiny.jpeg"
         },
         {
-            "id": "130",
+            "undefined": "130",
             "author": "Ромен Гари",
             "book": "Ночь будет спокойной",
             "year": "2011",
@@ -5977,7 +5978,7 @@
             "img": "https://www.corpus.ru/picts/products/Gari-Noch-1000.jpg"
         },
         {
-            "id": "132",
+            "undefined": "132",
             "author": "Сиссель Йо-Газан",
             "book": "Перо динозавра",
             "year": "2011",
@@ -5988,7 +5989,7 @@
             "img": "https://s1.livelib.ru/boocover/1000495136/o/3bad/SisselJo_Gazan__Pero_dinozavra.jpeg"
         },
         {
-            "id": "134",
+            "undefined": "134",
             "author": "Максим Кронгауз",
             "book": "Русский язык на грани нервного срыва. 3D",
             "year": "2011",
@@ -5997,7 +5998,7 @@
             "img": "https://www.corpus.ru/picts/products/Kronghaus-Speak-1000.jpg"
         },
         {
-            "id": "135",
+            "undefined": "135",
             "author": "Мишель Уэльбек",
             "book": "Карта и территория",
             "year": "2011",
@@ -6008,7 +6009,7 @@
             "img": "https://www.corpus.ru/picts/products/Houellebecq-Map-1000.jpg"
         },
         {
-            "id": "137",
+            "undefined": "137",
             "author": "Мартин Эмис",
             "book": "Стрела времени, или Природа преступления",
             "year": "2011",
@@ -6019,7 +6020,7 @@
             "img": "https://www.corpus.ru/picts/products/Amis-Arrow-1000.jpg"
         },
         {
-            "id": "139",
+            "undefined": "139",
             "author": "Алекс Росс",
             "book": "Дальше - шум. Слушая XX век",
             "year": "2012",
@@ -6030,7 +6031,7 @@
             "img": "https://www.corpus.ru/picts/products/ross-noise-1000.jpg"
         },
         {
-            "id": "141",
+            "undefined": "141",
             "author": "Джонатан Франзен",
             "book": "Свобода",
             "year": "2012",
@@ -6039,7 +6040,7 @@
             "img": "https://www.corpus.ru/picts/products/FRANZEN-1000.jpg"
         },
         {
-            "id": "142",
+            "undefined": "142",
             "author": "Кристофер Бакли",
             "book": "Суматоха в Белом доме",
             "year": "2011",
@@ -6050,7 +6051,7 @@
             "img": "https://www.corpus.ru/picts/products/Buckley-Whitehouse-1000.jpg"
         },
         {
-            "id": "143",
+            "undefined": "143",
             "author": "Александр Жарден",
             "book": "Фанфан",
             "year": "2012",
@@ -6061,7 +6062,7 @@
             "img": "https://www.corpus.ru/picts/products/Jarden-Fanfan-1000.jpg"
         },
         {
-            "id": "147",
+            "undefined": "147",
             "author": "Тициано Скарпа",
             "book": "Фундаметнальные вещи",
             "year": "2012",
@@ -6072,7 +6073,7 @@
             "img": "https://www.corpus.ru/picts/products/scarpa-fondomentali-1000.jpg"
         },
         {
-            "id": "151",
+            "undefined": "151",
             "author": "Пиа Юль",
             "book": "Убийство Халланда",
             "year": "2012",
@@ -6083,7 +6084,7 @@
             "img": "https://s1.livelib.ru/boocover/1000520075/o/d9a9/Pia_Yul__Ubijstvo_Hallanda.jpeg"
         },
         {
-            "id": "152",
+            "undefined": "152",
             "author": "Елена Бочоришвили",
             "book": "Голова моего отца",
             "year": "2012",
@@ -6092,7 +6093,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Bochorishvili-Head-1000.jpg"
         },
         {
-            "id": "153",
+            "undefined": "153",
             "author": "Кларк Брайди",
             "book": "Светская львица за одну ночь",
             "year": "2012",
@@ -6103,7 +6104,7 @@
             "img": "https://www.corpus.ru/picts/products/Clark-Overnight-1000.jpg"
         },
         {
-            "id": "154",
+            "undefined": "154",
             "author": "Максим Осипов",
             "book": "Человек эпохи возрождения",
             "year": "2012",
@@ -6112,7 +6113,7 @@
             "img": "https://www.corpus.ru/picts/products/Osipov-Vozrazhdenie-1000tt.jpg"
         },
         {
-            "id": "157",
+            "undefined": "157",
             "author": "Франсуа Лелорд",
             "book": "Гектор и секреты любви",
             "year": "2012",
@@ -6123,7 +6124,7 @@
             "img": "https://www.corpus.ru/picts/products/hector-love-1000.jpg"
         },
         {
-            "id": "160",
+            "undefined": "160",
             "author": "Алексей Моторов",
             "book": "Юные годы медбрата Паровозова",
             "year": "2012",
@@ -6132,7 +6133,7 @@
             "img": "https://img3.labirint.ru/rc/6b3e4935070f785b387d8bd4ceb2d0e5/220x340/books35/341837/cover.jpg?1563684274"
         },
         {
-            "id": "162",
+            "undefined": "162",
             "author": "Давид Фонкинос",
             "book": "Наши расставания",
             "year": "2012",
@@ -6143,7 +6144,7 @@
             "img": "https://www.corpus.ru/picts/products/foenkinos-rasstavanie-1000.jpg"
         },
         {
-            "id": "163",
+            "undefined": "163",
             "author": "Сергей Гандлевский",
             "book": "Бездумное былое",
             "year": "2012",
@@ -6154,7 +6155,7 @@
             "img": "https://www.corpus.ru/picts/products/Gandlevsky-Biloe-1000.jpg"
         },
         {
-            "id": "165",
+            "undefined": "165",
             "author": "Лев Рубинштейн",
             "book": "Знаки внимания",
             "year": "2012",
@@ -6165,7 +6166,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-rubinshtein-znaki-1000.jpg"
         },
         {
-            "id": "166",
+            "undefined": "166",
             "author": "Кристофер Бакли",
             "book": "Флоренс Аравийская",
             "year": "2012",
@@ -6174,7 +6175,7 @@
             "img": "https://www.corpus.ru/picts/products/buckley-florence-1000.jpg"
         },
         {
-            "id": "169",
+            "undefined": "169",
             "author": "Ромен Гари",
             "book": "Воздушные змеи",
             "year": "2012",
@@ -6183,7 +6184,7 @@
             "img": "https://www.corpus.ru/picts/products/gary-kite-1000.jpg"
         },
         {
-            "id": "170",
+            "undefined": "170",
             "author": "Александар Хемон",
             "book": "Проект «Лазарь»",
             "year": "2012",
@@ -6194,7 +6195,7 @@
             "img": "https://www.corpus.ru/picts/products/hemon-lazarus-1000.jpg"
         },
         {
-            "id": "172",
+            "undefined": "172",
             "author": "Питер Акройд",
             "book": "Кларкенвельские рассказы",
             "year": "2012",
@@ -6203,7 +6204,7 @@
             "img": "https://www.corpus.ru/picts/products/Ackroyd-Clerkenwell-1000.jpg"
         },
         {
-            "id": "173",
+            "undefined": "173",
             "author": "Ниал Фергюсон",
             "book": "Империя: чем современный мир обязан Британии",
             "year": "2012",
@@ -6212,7 +6213,7 @@
             "img": "https://www.corpus.ru/picts/products/ferguson-imperia-1000.jpg"
         },
         {
-            "id": "175",
+            "undefined": "175",
             "author": "А.Й. Казински",
             "book": "Последний праведник",
             "year": "2012",
@@ -6221,7 +6222,7 @@
             "img": "https://www.corpus.ru/picts/products/kazinsky-pravednik-1000.jpg"
         },
         {
-            "id": "176",
+            "undefined": "176",
             "author": "Том Рэкман",
             "book": "Халтурщики",
             "year": "2012",
@@ -6232,7 +6233,7 @@
             "img": "https://www.corpus.ru/picts/products/rachman-imperfectionists-1000.jpg"
         },
         {
-            "id": "178",
+            "undefined": "178",
             "author": "Джастин Халперн",
             "book": "Пи*ец, сказал отец",
             "year": "2012",
@@ -6242,7 +6243,7 @@
             "img": "https://www.corpus.ru/picts/products/Halpern-Otets-1000.jpg"
         },
         {
-            "id": "179",
+            "undefined": "179",
             "author": "Кит Ричардс",
             "book": "Жизнь",
             "year": "2012",
@@ -6251,7 +6252,7 @@
             "img": "https://www.corpus.ru/picts/products/richards-life-1000.jpg"
         },
         {
-            "id": "180",
+            "undefined": "180",
             "author": "Джон Кампфнер",
             "book": "Свобода на продажу",
             "year": "2012",
@@ -6262,7 +6263,7 @@
             "img": "https://www.corpus.ru/picts/products/kampfner-freedomsale-1000.jpg"
         },
         {
-            "id": "181",
+            "undefined": "181",
             "author": "Франческо Пикколо",
             "book": "Минуты будничного счастья",
             "year": "2012",
@@ -6271,7 +6272,7 @@
             "img": "https://www.corpus.ru/picts/products/piccolo-minuts-1000.jpg"
         },
         {
-            "id": "184",
+            "undefined": "184",
             "author": "Сири Хустведт",
             "book": "За гранью нервного срыва",
             "year": "2012",
@@ -6282,7 +6283,7 @@
             "img": "https://www.corpus.ru/picts/products/hustvedt-nervs-1000.jpg"
         },
         {
-            "id": "185",
+            "undefined": "185",
             "author": "Ирина Ясина",
             "book": "История Болезни. В попытках быть счастливой",
             "year": "2012",
@@ -6293,7 +6294,7 @@
             "img": "https://www.corpus.ru/picts/products/Yasina-cover-1000.jpg"
         },
         {
-            "id": "187",
+            "undefined": "187",
             "author": "Алессандро Пиперно",
             "book": "Ошибка Ле Понтекорво",
             "year": "2013",
@@ -6304,7 +6305,7 @@
             "img": "https://www.corpus.ru/picts/products/Piperno-Pontecorvo-1000.jpg"
         },
         {
-            "id": "188",
+            "undefined": "188",
             "author": "Ребекка Маккаи",
             "book": "Запретное чтение",
             "year": "2013",
@@ -6315,7 +6316,7 @@
             "img": "https://www.corpus.ru/picts/products/makkai-borrower-1000.jpg"
         },
         {
-            "id": "189",
+            "undefined": "189",
             "author": "Джонатан Троппер",
             "book": "Как общаться с вдовцом",
             "year": "2013",
@@ -6326,7 +6327,7 @@
             "img": "https://www.corpus.ru/picts/products/tropper-vdovets-1000.jpg"
         },
         {
-            "id": "193",
+            "undefined": "193",
             "author": "Джастин Торрес",
             "book": "Мы, животные",
             "year": "2013",
@@ -6337,7 +6338,7 @@
             "img": "https://www.corpus.ru/picts/products/torres-animals-1000.jpg"
         },
         {
-            "id": "195",
+            "undefined": "195",
             "author": "Патти Смит",
             "book": "Я пасу облака",
             "year": "2013",
@@ -6348,7 +6349,7 @@
             "img": "https://www.corpus.ru/picts/products/smith-woolgathering-1000.jpg"
         },
         {
-            "id": "197",
+            "undefined": "197",
             "author": "Карл Фруде Тиллер",
             "book": "Замыкая круг",
             "year": "2013",
@@ -6359,7 +6360,7 @@
             "img": "https://www.corpus.ru/picts/products/Tiller-Krug-1000.jpg"
         },
         {
-            "id": "198",
+            "undefined": "198",
             "author": "Николь Краусс",
             "book": "Большой дом",
             "year": "2013",
@@ -6370,7 +6371,7 @@
             "img": "https://www.corpus.ru/picts/products/Krauss-Greathouse-1000.jpg"
         },
         {
-            "id": "199",
+            "undefined": "199",
             "author": "Ханна Кралль",
             "book": "Королю червонному - дорога дальняя",
             "year": "2013",
@@ -6381,7 +6382,7 @@
             "img": "https://www.corpus.ru/picts/products/Krall-Kings-1000.jpg"
         },
         {
-            "id": "200",
+            "undefined": "200",
             "author": "Михаил Гедройц",
             "book": "По краю бездны. Хроника семейного путешествия по военной России",
             "year": "2012",
@@ -6392,7 +6393,7 @@
             "img": "https://www.corpus.ru/picts/products/giedroyc-bezdna-1000.jpg"
         },
         {
-            "id": "201",
+            "undefined": "201",
             "author": "Давид Фонкинос",
             "book": "Леннон",
             "year": "2012",
@@ -6404,7 +6405,7 @@
             "img": "https://www.corpus.ru/picts/products/foenkinos-lennon-1000.jpg"
         },
         {
-            "id": "202",
+            "undefined": "202",
             "author": "Кристофер Бакли",
             "book": "Они ведь едят щенков, правда?",
             "year": "2013",
@@ -6413,7 +6414,7 @@
             "img": "https://www.corpus.ru/picts/products/buckley-puppies-1000.jpg"
         },
         {
-            "id": "205",
+            "undefined": "205",
             "author": "Алекс Росс",
             "book": "Послушайте",
             "year": "2013",
@@ -6422,7 +6423,7 @@
             "img": "https://www.corpus.ru/picts/products/ross-listen-1000.jpg"
         },
         {
-            "id": "206",
+            "undefined": "206",
             "author": "Евгений Ухналев",
             "book": "Это моё",
             "year": "2013",
@@ -6433,7 +6434,7 @@
             "img": "https://www.corpus.ru/picts/products/ukhnalev-moe-1000.jpg"
         },
         {
-            "id": "208",
+            "undefined": "208",
             "author": "Дон Уинслоу",
             "book": "Сатори",
             "year": "2013",
@@ -6442,7 +6443,7 @@
             "img": "https://www.corpus.ru/picts/products/winslow-satori-1000.jpg"
         },
         {
-            "id": "209",
+            "undefined": "209",
             "author": "Нина Шнирман",
             "book": "Счастливая девочка растет",
             "year": "2013",
@@ -6451,7 +6452,7 @@
             "img": "https://www.corpus.ru/picts/products/schnirman-devochka2-1000.jpg"
         },
         {
-            "id": "211",
+            "undefined": "211",
             "author": "Максим Кронгауз",
             "book": "Самоучитель Олбанского",
             "year": "2013",
@@ -6462,7 +6463,7 @@
             "img": "https://www.corpus.ru/picts/products/Kronhaus-Olbansky-1000.jpg"
         },
         {
-            "id": "216",
+            "undefined": "216",
             "author": "Джона Лерер",
             "book": "Вообрази. Как работает креативность",
             "year": "2013",
@@ -6473,7 +6474,7 @@
             "img": "https://www.corpus.ru/picts/products/lehrer-imagine-1000.jpg"
         },
         {
-            "id": "219",
+            "undefined": "219",
             "author": "Джонатан Франзен",
             "book": "Поправки",
             "year": "2013",
@@ -6482,7 +6483,7 @@
             "img": "https://www.corpus.ru/picts/products/franzen-popravki-1000.jpg"
         },
         {
-            "id": "220",
+            "undefined": "220",
             "author": "Франсиско Голдман",
             "book": "Скажи ее имя",
             "year": "2013",
@@ -6493,7 +6494,7 @@
             "img": "https://www.corpus.ru/picts/products/goldman-name-1000.jpg"
         },
         {
-            "id": "222",
+            "undefined": "222",
             "author": "Вуди Аллен",
             "book": "Побочные эффекты",
             "year": "2013",
@@ -6502,7 +6503,7 @@
             "img": "https://cdn1.ozone.ru/multimedia/wc1200/1008818287.jpg"
         },
         {
-            "id": "227",
+            "undefined": "227",
             "author": "Олег Дорман",
             "book": "Нота. Жизнь Рудольфа Баршая, рассказанная им в фильме Олега Дормана",
             "year": "2013",
@@ -6513,7 +6514,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Dorman-Nota-1000.jpg"
         },
         {
-            "id": "228",
+            "undefined": "228",
             "author": "Дженнифер Иган",
             "book": "Время смеется последним",
             "year": "2013",
@@ -6522,7 +6523,7 @@
             "img": "https://www.corpus.ru/picts/products/egan-time-1000.jpg"
         },
         {
-            "id": "229",
+            "undefined": "229",
             "author": "Томас Левенсон",
             "book": "Ньютон и фальшивомонетчик. Как величайший ученый стал сыщиком",
             "year": "2013",
@@ -6533,7 +6534,7 @@
             "img": "https://www.corpus.ru/picts/products/Levenson-Newton-1000.jpg"
         },
         {
-            "id": "231",
+            "undefined": "231",
             "author": "Никколо Амманити",
             "book": "Ты и я",
             "web": "fb2",
@@ -6546,7 +6547,7 @@
             "img": "https://www.corpus.ru/picts/products/Ammaniti-You-1000.jpg"
         },
         {
-            "id": "232",
+            "undefined": "232",
             "author": "Ромен Гари",
             "book": "Большая барахолка",
             "year": "2013",
@@ -6555,7 +6556,7 @@
             "img": "https://www.corpus.ru/picts/products/Gary-Barakholka-1000.jpg"
         },
         {
-            "id": "233",
+            "undefined": "233",
             "author": "Джонатан Троппер",
             "book": "Все к лучшему",
             "year": "2013",
@@ -6566,7 +6567,7 @@
             "img": "https://www.corpus.ru/picts/products/Tropper-Changes-1000.jpg"
         },
         {
-            "id": "234",
+            "undefined": "234",
             "author": "Стюарт Исакофф",
             "book": "Громкая история фортепиано. От Моцарта до современного джаза со всеми остановками",
             "year": "2013",
@@ -6575,7 +6576,7 @@
             "img": "https://www.corpus.ru/picts/products/Isakoff-Piano-1000.jpg"
         },
         {
-            "id": "236",
+            "undefined": "236",
             "author": "Анна Йоргенстдоттер",
             "book": "Шоколадный папа",
             "year": "2013",
@@ -6586,7 +6587,7 @@
             "img": "https://www.corpus.ru/picts/products/Jorgensdotter-Papa-1000.jpg"
         },
         {
-            "id": "237",
+            "undefined": "237",
             "author": "Петр Вайль и Александр Генис",
             "book": "60-е. Мир советского человека",
             "year": "2013",
@@ -6595,7 +6596,7 @@
             "img": "https://cdn1.ozone.ru/multimedia/wc1200/1007503127.jpg"
         },
         {
-            "id": "238",
+            "undefined": "238",
             "author": "Стефан Мендель-Энк",
             "book": "Три обезьяны",
             "year": "2013",
@@ -6606,7 +6607,7 @@
             "img": "https://www.corpus.ru/picts/products/Mendel-Enk-3obezjany-1000.jpg"
         },
         {
-            "id": "240",
+            "undefined": "240",
             "author": "Пол Блум",
             "book": "Наука удовольствия. Почему мы любим то, что любим",
             "year": "2013",
@@ -6617,7 +6618,7 @@
             "img": "https://www.corpus.ru/picts/products/Bloom-Udovolstvia-1000.jpg"
         },
         {
-            "id": "241",
+            "undefined": "241",
             "author": "Лев Рубинштейн",
             "book": "Скорее всего",
             "year": "2013",
@@ -6626,7 +6627,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Rubinstein-Skoree-1000.jpg"
         },
         {
-            "id": "243",
+            "undefined": "243",
             "author": "Паоло Джордано",
             "book": "Человеческое тело",
             "year": "2013",
@@ -6637,7 +6638,7 @@
             "img": "https://www.corpus.ru/picts/products/Jordano-Telo-1000.jpg"
         },
         {
-            "id": "244",
+            "undefined": "244",
             "author": "Джеймс Глик",
             "book": "Информация. История. Теория. Поток",
             "year": "2013",
@@ -6648,7 +6649,7 @@
             "img": "https://www.corpus.ru/picts/products/Gleik-Information-1000.jpg"
         },
         {
-            "id": "245",
+            "undefined": "245",
             "author": "Елена Костюкович",
             "book": "Цвингер",
             "year": "2013",
@@ -6659,7 +6660,7 @@
             "img": "https://www.corpus.ru/picts/products/Kostyukovitch-Zwinger-1000.jpg"
         },
         {
-            "id": "248",
+            "undefined": "248",
             "author": "Михаил Идов",
             "book": "Чёс",
             "year": "2013",
@@ -6670,7 +6671,7 @@
             "img": "https://www.corpus.ru/picts/products/Idov-Chos-1000.jpg"
         },
         {
-            "id": "250",
+            "undefined": "250",
             "author": "Давид Фонкинос",
             "book": "Воспоминания",
             "year": "2013",
@@ -6681,7 +6682,7 @@
             "img": "https://www.corpus.ru/picts/products/Fonkinos-Vospominania-1000.jpg"
         },
         {
-            "id": "251",
+            "undefined": "251",
             "author": "Жоэль Диккер",
             "book": "Правда о деле Гарри Квеберта",
             "year": "2014",
@@ -6690,7 +6691,7 @@
             "img": "https://www.corpus.ru/picts/products/Dicker-Pravda-1000.jpg"
         },
         {
-            "id": "252",
+            "undefined": "252",
             "author": "Джонатан Франзен",
             "book": "Дальний остров",
             "buyDate": "2/9/17",
@@ -6700,7 +6701,7 @@
             "img": "https://www.corpus.ru/picts/products/Franzen-Ostrov-1000.jpg"
         },
         {
-            "id": "254",
+            "undefined": "254",
             "author": "Филипп Шенон",
             "book": "Анатомия убийства. Гибель Джона Кеннеди. Тайны следствия",
             "year": "2013",
@@ -6711,7 +6712,7 @@
             "img": "https://www.corpus.ru/picts/products/SHENNON_KENNEDY-1000.jpg"
         },
         {
-            "id": "255",
+            "undefined": "255",
             "author": "Ася Казанцева",
             "book": "Кто бы мог подумать!",
             "year": "2014",
@@ -6722,7 +6723,7 @@
             "img": "https://s1.livelib.ru/boocover/1000780712/o/fade/Asya_Kazantseva__Kto_by_mog_podumat_Kak_mozg_zastavlyaet_nas_delat_gluposti.jpeg"
         },
         {
-            "id": "256",
+            "undefined": "256",
             "author": "Ларс Кеплер",
             "book": "Призраки не лгут",
             "year": "2014",
@@ -6731,7 +6732,7 @@
             "img": "https://www.corpus.ru/picts/products/Kepler-Prizraki-1000.jpg"
         },
         {
-            "id": "259",
+            "undefined": "259",
             "author": "Алексей Моторов",
             "book": "Преступление доктора Паровозова",
             "year": "2014",
@@ -6740,7 +6741,7 @@
             "img": "https://cdn1.ozone.ru/multimedia/wc1200/1009413020.jpg"
         },
         {
-            "id": "260",
+            "undefined": "260",
             "author": "Джонатан Троппер",
             "book": "На прощанье я скажу",
             "year": "2014",
@@ -6751,7 +6752,7 @@
             "img": "https://www.corpus.ru/picts/products/Tropper-Proschanje-1000.jpg"
         },
         {
-            "id": "263",
+            "undefined": "263",
             "author": "Китти Фергюсон",
             "book": "Стивен Хокинг. Жизнь и наука",
             "year": "2014",
@@ -6760,7 +6761,7 @@
             "img": "https://cdn1.ozone.ru/multimedia/wc1200/1009778302.jpg"
         },
         {
-            "id": "266",
+            "undefined": "266",
             "author": "Джастин Халперн",
             "book": "Все телки мимо",
             "year": "2014",
@@ -6772,7 +6773,7 @@
             "img": "https://www.corpus.ru/picts/products/Halpern-Telki-1000.jpg"
         },
         {
-            "id": "267",
+            "undefined": "267",
             "author": "Максим Осипов",
             "book": "Волною морскою",
             "year": "2014",
@@ -6783,7 +6784,7 @@
             "img": "https://www.corpus.ru/picts/products/Osipov-Volna-1000.jpg"
         },
         {
-            "id": "268",
+            "undefined": "268",
             "author": "Валерий Шубинский",
             "book": "Зодчий. Жизнь Николая Гумилева",
             "year": "2014",
@@ -6792,7 +6793,7 @@
             "img": "https://www.corpus.ru/picts/products/Shubinsky-Gumilev-1000.jpg"
         },
         {
-            "id": "269",
+            "undefined": "269",
             "author": "Эстер Гессен",
             "book": "Белосток - Москва",
             "year": "2014",
@@ -6803,7 +6804,7 @@
             "img": "https://www.corpus.ru/picts/products/Gessen-Bialostok-1000.jpg"
         },
         {
-            "id": "270",
+            "undefined": "270",
             "author": "Аньес Мартен-Люган",
             "book": "Счастливые люди читают книжки и пьют кофе",
             "year": "2014",
@@ -6815,7 +6816,7 @@
             "img": "https://www.corpus.ru/picts/products/Martin-Lugand-Schastlivye-1000.jpg"
         },
         {
-            "id": "273",
+            "undefined": "273",
             "author": "Елена Павлова",
             "book": "Укротители лимфоцитов и другие неофициальные лица",
             "year": "2014",
@@ -6826,7 +6827,7 @@
             "img": "https://www.corpus.ru/picts/products/Pavlova-Limfocity-1000.jpg"
         },
         {
-            "id": "274",
+            "undefined": "274",
             "author": "Ниал Фергюсон",
             "book": "Цивилизация: чем Запад отличается от остального мира",
             "year": "2014",
@@ -6835,7 +6836,7 @@
             "img": "https://www.corpus.ru/picts/products/Fergusson-Civilization-1000.jpg"
         },
         {
-            "id": "275",
+            "undefined": "275",
             "author": "Альбертина Сарразен",
             "book": "Меня зовут Астрагаль",
             "year": "2014",
@@ -6846,7 +6847,7 @@
             "img": "https://s1.livelib.ru/boocover/1000956440/o/92a6/Albertina_Sarrazen__Menya_zovut_Astragal.jpeg"
         },
         {
-            "id": "279",
+            "undefined": "279",
             "author": "Софи ван дер Стап",
             "book": "Девушка с девятью париками",
             "year": "2014",
@@ -6857,7 +6858,7 @@
             "img": "https://www.corpus.ru/picts/products/Stap-Pariki-1000.jpg"
         },
         {
-            "id": "280",
+            "undefined": "280",
             "author": "Евгений Морозов",
             "book": "Интернет как иллюзия. Обратная сторона сети",
             "year": "2014",
@@ -6868,7 +6869,7 @@
             "img": "https://www.corpus.ru/picts/products/Morozov-Internet-1000.jpg"
         },
         {
-            "id": "281",
+            "undefined": "281",
             "author": "Пиринуш Сание",
             "book": "Книга судьбы",
             "year": "2014",
@@ -6877,7 +6878,7 @@
             "img": "https://www.corpus.ru/picts/products/Sanie-Sudby-1000.jpg"
         },
         {
-            "id": "282",
+            "undefined": "282",
             "author": "Эрик Аксл Сунд",
             "book": "Девочка-ворона",
             "year": "2014",
@@ -6886,7 +6887,7 @@
             "img": "https://www.corpus.ru/picts/products/Sund-Devochka-vorona-1000.jpg"
         },
         {
-            "id": "284",
+            "undefined": "284",
             "author": "Паоло Джордано",
             "book": "Одиночество простых чисел",
             "year": "2014",
@@ -6897,7 +6898,7 @@
             "img": "https://www.corpus.ru/picts/products/Giordano-Odinochestvo-1000.JPG"
         },
         {
-            "id": "291",
+            "undefined": "291",
             "author": "Алекс Росс",
             "book": "Дальше - шум. Слушая XX век",
             "year": "2014",
@@ -6906,7 +6907,7 @@
             "img": "https://www.corpus.ru/picts/products/Ross-Noise-pereizdanie-1000.jpg"
         },
         {
-            "id": "292",
+            "undefined": "292",
             "author": "Бенгт Янгфельдт",
             "book": "Рауль Валленберг. Исчезнувший герой Второй мировой",
             "year": "2014",
@@ -6915,7 +6916,7 @@
             "img": "https://www.corpus.ru/picts/products/Jangfeldt-Wallenberg-1000.jpg"
         },
         {
-            "id": "295",
+            "undefined": "295",
             "author": "Доминик Сильвен",
             "book": "Грязная война",
             "year": "2014",
@@ -6926,7 +6927,7 @@
             "img": "https://www.corpus.ru/picts/products/Sylvein-Voyna-1000.JPG"
         },
         {
-            "id": "296",
+            "undefined": "296",
             "author": "Майкл Каннингем",
             "book": "Снежная королева",
             "year": "2014",
@@ -6935,7 +6936,7 @@
             "img": "https://www.corpus.ru/picts/products/Cunningham_Snowqueen-1000.jpg"
         },
         {
-            "id": "297",
+            "undefined": "297",
             "author": "Александр Горбачев и Илья Зинин",
             "book": "Песни в пустоту. Потерянное поколение русского рока 90-х",
             "year": "2014",
@@ -6946,7 +6947,7 @@
             "img": "https://www.corpus.ru/picts/products/pesni.jpg"
         },
         {
-            "id": "298",
+            "undefined": "298",
             "author": "Патти Смит",
             "book": "Просто дети",
             "year": "2014",
@@ -6955,7 +6956,7 @@
             "img": "https://www.corpus.ru/picts/products/patti-cover.jpg"
         },
         {
-            "id": "299",
+            "undefined": "299",
             "author": "Джонатан Литэм",
             "book": "Сады диссидентов",
             "year": "2014",
@@ -6966,7 +6967,7 @@
             "img": "https://www.corpus.ru/picts/products/Lethem-Dissidents-1000.jpg"
         },
         {
-            "id": "301",
+            "undefined": "301",
             "author": "Донна Тартт",
             "book": "Тайная история",
             "year": "2014",
@@ -6978,7 +6979,7 @@
             "img": "https://s1.livelib.ru/boocover/1002970279/o/b6d8/Donna_Tartt__Tajnaya_istoriya.jpeg"
         },
         {
-            "id": "302",
+            "undefined": "302",
             "author": "Донна Тартт",
             "book": "Щегол",
             "year": "2014",
@@ -6990,7 +6991,7 @@
             "img": "https://s1.livelib.ru/boocover/1002970278/o/6ae1/Donna_Tartt__Schegol.jpeg"
         },
         {
-            "id": "304",
+            "undefined": "304",
             "author": "Эрик Аксл Сунд",
             "book": "Голодное пламя",
             "year": "2014",
@@ -6999,7 +7000,7 @@
             "img": "https://www.corpus.ru/picts/products/Sund-Plamya-1000.jpg"
         },
         {
-            "id": "305",
+            "undefined": "305",
             "author": "Гауте Хейволл",
             "book": "Язык огня",
             "year": "2014",
@@ -7010,7 +7011,7 @@
             "img": "https://www.corpus.ru/picts/products/Heivoll-Yazyk_ognya-1000.jpg"
         },
         {
-            "id": "306",
+            "undefined": "306",
             "author": "Аньес Мартен-Люган",
             "book": "У тебя все получится, дорогая моя",
             "web": "mp3 fb2",
@@ -7023,7 +7024,7 @@
             "img": "https://www.corpus.ru/picts/products/Mertin-Lugan-Vsyo-Poluchitsja-1000.jpg"
         },
         {
-            "id": "307",
+            "undefined": "307",
             "author": "Джонатан Троппер",
             "book": "Самое время для новой жизни",
             "year": "2015",
@@ -7034,7 +7035,7 @@
             "img": "https://www.corpus.ru/picts/products/Tropper-Samoe_vremya-1000.jpg"
         },
         {
-            "id": "309",
+            "undefined": "309",
             "author": "Витольд Шабловский",
             "book": "Убийца из города абрикосов. Незнакомая Турция - о чем молчат путеводители",
             "year": "2015",
@@ -7043,7 +7044,7 @@
             "img": "https://www.corpus.ru/picts/products/Shablowsky-Ubiytsa-1000.jpg"
         },
         {
-            "id": "310",
+            "undefined": "310",
             "author": "Рой Якобсен",
             "book": "Чудо-ребенок",
             "year": "2015",
@@ -7054,7 +7055,7 @@
             "img": "https://www.corpus.ru/picts/products/Jakobsen-Chudo-rebenok-1000.jpg"
         },
         {
-            "id": "311",
+            "undefined": "311",
             "author": "Елена Бочоришвили",
             "book": "Только ждать и смотреть",
             "year": "2015",
@@ -7065,7 +7066,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Bochorichvily-Tolko_Jdat-1000.jpg"
         },
         {
-            "id": "312",
+            "undefined": "312",
             "author": "Давид Фонкинос",
             "book": "В случае счастья",
             "year": "2015",
@@ -7077,7 +7078,7 @@
             "img": "https://www.corpus.ru/picts/products/Foenkinos-Scastie-1000.jpg"
         },
         {
-            "id": "315",
+            "undefined": "315",
             "author": "Алекс Гришен",
             "book": "Скотланд-Ярд",
             "year": "2015",
@@ -7086,7 +7087,7 @@
             "img": "https://www.corpus.ru/picts/products/Grecian-Yard-1000.jpg"
         },
         {
-            "id": "318",
+            "undefined": "318",
             "author": "Валерий Шубинский",
             "book": "Даниил Хармс. Жизнь человека на ветру",
             "year": "2015",
@@ -7095,7 +7096,7 @@
             "img": "https://www.corpus.ru/picts/products/Subinsky-Harms-1000.jpg"
         },
         {
-            "id": "319",
+            "undefined": "319",
             "author": "Данни Ваттин",
             "book": "Сокровище господина Исаковица",
             "year": "2015",
@@ -7106,7 +7107,7 @@
             "img": "https://www.corpus.ru/picts/products/Wattin-Isakowitz-1000.jpg"
         },
         {
-            "id": "320",
+            "undefined": "320",
             "author": "Батист Болье",
             "book": "Тысяча и одна ночь отделения скорой помощи",
             "year": "2015",
@@ -7117,7 +7118,7 @@
             "img": "https://www.corpus.ru/picts/products/Beaulieu-1001_noch-1000.jpg"
         },
         {
-            "id": "322",
+            "undefined": "322",
             "author": "Валери Триервейлер",
             "book": "Благодарю за этот миг",
             "year": "2015",
@@ -7128,7 +7129,7 @@
             "img": "https://www.corpus.ru/picts/products/Trierweller-Blagodaryu-1000.jpg"
         },
         {
-            "id": "325",
+            "undefined": "325",
             "author": "Джон Уильямс",
             "book": "Стоунер",
             "web": "mp3 fb2",
@@ -7141,7 +7142,7 @@
             "img": "https://www.corpus.ru/picts/products/Williams-Stoner-1000-1.jpg"
         },
         {
-            "id": "327",
+            "undefined": "327",
             "author": "Джонатан Троппер",
             "book": "Дальше живите сами",
             "year": "2015",
@@ -7150,7 +7151,7 @@
             "img": "https://s1.livelib.ru/boocover/1001288549/o/a264/Dzhonatan_Tropper__Dalshe_zhivite_sami.jpeg"
         },
         {
-            "id": "304",
+            "undefined": "304",
             "author": "Эрик Аксл Сунд",
             "book": "Подсказки пифии",
             "year": "2015",
@@ -7159,7 +7160,7 @@
             "img": "https://www.corpus.ru/picts/products/Sund-Pifya-1000.jpg"
         },
         {
-            "id": "330",
+            "undefined": "330",
             "author": "Тумас Шёберг",
             "book": "Ингмар Бергман. Жизнь, любовь и измены",
             "year": "2015",
@@ -7168,7 +7169,7 @@
             "img": "https://www.corpus.ru/picts/products/Sjoberg-Bergman-1000.jpg"
         },
         {
-            "id": "331",
+            "undefined": "331",
             "author": "Алисия Хименес Бартлетт",
             "book": "А собаку я возьму себе",
             "year": "2015",
@@ -7179,7 +7180,7 @@
             "img": "https://www.corpus.ru/picts/products/gemenes-bartlett-Sobaka-1000.jpg"
         },
         {
-            "id": "334",
+            "undefined": "334",
             "author": "Алисия Хименес Бартлетт",
             "book": "Не зови меня больше в Рим",
             "year": "2015",
@@ -7190,7 +7191,7 @@
             "img": "https://www.corpus.ru/picts/products/gemenes-bartlett-Roma-1000.jpg"
         },
         {
-            "id": "336",
+            "undefined": "336",
             "author": "Аарон Аппельфельд",
             "book": "Цветы тьмы",
             "web": "fb2",
@@ -7202,7 +7203,7 @@
             "img": "https://www.corpus.ru/picts/products/Appelfeld-Tsvety-tmy-1000.jpg"
         },
         {
-            "id": "338",
+            "undefined": "338",
             "author": "Аньес Мартен-Люган",
             "book": "Влюбленные в книги не спят в одиночестве",
             "web": "mp3 fb2",
@@ -7215,7 +7216,7 @@
             "img": "https://www.corpus.ru/picts/products/Martin-Lugan-Vlyublyionnye-1000.jpg"
         },
         {
-            "id": "341",
+            "undefined": "341",
             "author": "Ромен Гари",
             "book": "Вино мертвецов",
             "year": "2015",
@@ -7224,7 +7225,7 @@
             "img": "https://www.corpus.ru/picts/products/Gary-Vino-1000.jpg"
         },
         {
-            "id": "342",
+            "undefined": "342",
             "author": "Паоло Соррентино",
             "book": "Молодость",
             "year": "2015",
@@ -7235,7 +7236,7 @@
             "img": "https://www.corpus.ru/picts/products/sorrentino-1000.jpg"
         },
         {
-            "id": "348",
+            "undefined": "348",
             "author": "Донна Тартт",
             "book": "Маленький друг",
             "web": "fb2",
@@ -7248,7 +7249,7 @@
             "img": "https://s1.livelib.ru/boocover/1002970280/o/bdd7/Donna_Tartt__Malenkij_drug.jpeg"
         },
         {
-            "id": "349",
+            "undefined": "349",
             "author": "Дарья Биньярди",
             "book": "Любовь надо заслужить",
             "year": "2015",
@@ -7259,7 +7260,7 @@
             "img": "https://www.corpus.ru/picts/products/Bignardi-Lubov-1000.jpg"
         },
         {
-            "id": "350",
+            "undefined": "350",
             "author": "Дэниел Гоулман",
             "book": "Фокус. О внимании, рассеянности и жизненном успехе",
             "year": "2015",
@@ -7270,7 +7271,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Goulman-Fokus-1000.jpg"
         },
         {
-            "id": "351",
+            "undefined": "351",
             "author": "Ирина Левонтина",
             "book": "О чём речь",
             "year": "2015",
@@ -7281,7 +7282,7 @@
             "img": "https://www.corpus.ru/picts/products/Levontina-Rech-1000.jpg"
         },
         {
-            "id": "352",
+            "undefined": "352",
             "author": "Мишель Уэльбек",
             "book": "Покорность",
             "year": "2016",
@@ -7292,7 +7293,7 @@
             "img": "https://www.corpus.ru/picts/products/Houellebecq-Pokornost-1000.jpg"
         },
         {
-            "id": "357",
+            "undefined": "357",
             "author": "Жан-Поль Дидьелоран",
             "book": "Утренний чтец",
             "year": "2016",
@@ -7304,7 +7305,7 @@
             "img": "https://www.corpus.ru/picts/products/Didierlorent-Chtets-1000.jpg"
         },
         {
-            "id": "361",
+            "undefined": "361",
             "author": "Стюарт Исакофф",
             "book": "Музыкальный строй. Как музыка превратилась в поле битвы величайших умов западной цивилизации",
             "year": "2016",
@@ -7313,7 +7314,7 @@
             "img": "https://www.corpus.ru/picts/products/isacoff-Stroy-1000.jpg"
         },
         {
-            "id": "362",
+            "undefined": "362",
             "author": "Ася Казанцева",
             "book": "В интернете кто-то не прав!",
             "year": "2016",
@@ -7322,7 +7323,7 @@
             "img": "https://www.corpus.ru/picts/products/Kazantseva-Internet-1000-1.jpg"
         },
         {
-            "id": "366",
+            "undefined": "366",
             "author": "Мишель Уэльбек",
             "book": "Очертания последнего берега",
             "year": "2016",
@@ -7333,7 +7334,7 @@
             "img": "https://www.corpus.ru/picts/products/Huellesbecq-Poem-1000.jpg"
         },
         {
-            "id": "368",
+            "undefined": "368",
             "author": "Джеймс Глик",
             "book": "Информация. История. Теория. Поток",
             "year": "2016",
@@ -7342,7 +7343,7 @@
             "img": "https://www.corpus.ru/picts/products/Gliek-Information-1000.jpg"
         },
         {
-            "id": "369",
+            "undefined": "369",
             "author": "Давид Фонкинос",
             "book": "Мне лучше",
             "year": "2016",
@@ -7354,7 +7355,7 @@
             "img": "https://www.corpus.ru/picts/products/Fonkinos-Luchshe-1000.jpg"
         },
         {
-            "id": "370",
+            "undefined": "370",
             "author": "Дэвид Хоффман",
             "book": "Шпион на миллиард долларов",
             "year": "2016",
@@ -7365,7 +7366,7 @@
             "img": "https://www.corpus.ru/picts/products/Hoffman-Spy-1000.jpg"
         },
         {
-            "id": "371",
+            "undefined": "371",
             "author": "Джон Кампфнер",
             "book": "Богачи",
             "year": "2016",
@@ -7374,7 +7375,7 @@
             "img": "https://www.corpus.ru/picts/products/Kampfner-Bogachi-1000.jpg"
         },
         {
-            "id": "372",
+            "undefined": "372",
             "author": "Эрик Ларсон",
             "book": "Мертвый след",
             "year": "2016",
@@ -7385,7 +7386,7 @@
             "img": "https://www.corpus.ru/picts/products/Larson-Mertvyi_Sled-1000.jpg"
         },
         {
-            "id": "376",
+            "undefined": "376",
             "author": "Мойзес Наим",
             "book": "Конец власти. От залов заседаний до полей сражений, от церкви до государства: почему управлять сегодня нужно иначе.",
             "year": "2016",
@@ -7394,7 +7395,7 @@
             "img": "https://www.corpus.ru/picts/products/mojzes-naim-konetz-vlasti.jpg"
         },
         {
-            "id": "377",
+            "undefined": "377",
             "author": "Андрей Смирнов",
             "book": "Лопухи и лебеда",
             "year": "2016",
@@ -7403,7 +7404,7 @@
             "img": "https://www.corpus.ru/picts/products/smirnov-lopuhi-lebeda.jpg"
         },
         {
-            "id": "380",
+            "undefined": "380",
             "author": "Петер Гардош",
             "book": "Предрассветная лихорадка",
             "year": "2016",
@@ -7414,7 +7415,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Gardos-Lihoradka-1000.jpg"
         },
         {
-            "id": "381",
+            "undefined": "381",
             "author": "Антон Буслов",
             "book": "Между жизнью и смертью. Рассказ человека, который сумел противостоять болезни",
             "year": "2016",
@@ -7425,7 +7426,7 @@
             "img": "https://www.corpus.ru/picts/products/Buslov-Zhizn-1000.jpg"
         },
         {
-            "id": "382",
+            "undefined": "382",
             "author": "Лев Рубинштейн",
             "book": "Причинное время",
             "year": "2016",
@@ -7436,7 +7437,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Rubinstein-vremya-1000.JPG"
         },
         {
-            "id": "384",
+            "undefined": "384",
             "author": "Аннабел Фарджен",
             "book": "Приключения русского художника. Биография Бориса Анрепа",
             "year": "2016",
@@ -7447,7 +7448,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Farjon-Hudozhnik-1000.jpg"
         },
         {
-            "id": "385",
+            "undefined": "385",
             "author": "Мишель Уэльбек",
             "book": "Карта и территория",
             "year": "2016",
@@ -7456,7 +7457,7 @@
             "img": "https://www.corpus.ru/picts/products/Huellesbecq-Carte-1000.jpg"
         },
         {
-            "id": "389",
+            "undefined": "389",
             "author": "Патти Смит",
             "book": "Поезд М",
             "year": "2016",
@@ -7465,7 +7466,7 @@
             "img": "https://www.corpus.ru/picts/products/patti-smith-m-train-1000.jpg"
         },
         {
-            "id": "390",
+            "undefined": "390",
             "author": "Кармело Сардо и Джузеппе Грассонелли",
             "book": "Сорняк",
             "year": "2016",
@@ -7476,7 +7477,7 @@
             "img": "https://www.corpus.ru/picts/products/Sardo-Grassonelli-Sornjak-1000.jpg"
         },
         {
-            "id": "391",
+            "undefined": "391",
             "author": "Титью Лекок",
             "book": "Три стервы",
             "year": "2016",
@@ -7487,7 +7488,7 @@
             "img": "https://www.corpus.ru/picts/products/Lecoq-Stervy-1000.jpg"
         },
         {
-            "id": "392",
+            "undefined": "392",
             "author": "Джонатан Франзен",
             "book": "Безгрешность",
             "year": "2016",
@@ -7498,7 +7499,7 @@
             "img": "https://www.corpus.ru/picts/products/Franzen-Purity-1000.jpg"
         },
         {
-            "id": "394",
+            "undefined": "394",
             "author": "Ирина Левонтина",
             "book": "Русский со словарем",
             "web": "fb2",
@@ -7510,7 +7511,7 @@
             "img": "https://www.corpus.ru/picts/products/Levontina-Russky-1000.jpg"
         },
         {
-            "id": "396",
+            "undefined": "396",
             "author": "Маргалит Фокс",
             "book": "Тайна лабиринта. Как была прочитана забытая письменность",
             "year": "2016",
@@ -7521,7 +7522,7 @@
             "img": "https://www.corpus.ru/picts/products/Fox-Tayna%20Labirinta-1000.jpg"
         },
         {
-            "id": "397",
+            "undefined": "397",
             "author": "Ниал Фергюсон",
             "book": "Великое вырождение. Как разрушаются институты и гибнут государства",
             "year": "2016",
@@ -7530,7 +7531,7 @@
             "img": "https://www.corpus.ru/picts/products/Ferguson-Degeneration-1000.jpg"
         },
         {
-            "id": "398",
+            "undefined": "398",
             "author": "Аманда Гефтер",
             "book": "На лужайке Эйнштейна. Что такое НИЧТО, и где начинается ВСЕ",
             "year": "2016",
@@ -7541,7 +7542,7 @@
             "img": "https://www.corpus.ru/picts/products/Gefter-Einstein-1000.jpg"
         },
         {
-            "id": "399",
+            "undefined": "399",
             "author": "Инна Герасимова",
             "book": "Марш жизни. Как спасали долгиновских евреев",
             "year": "2016",
@@ -7552,7 +7553,7 @@
             "img": "https://www.corpus.ru/picts/products/Gerasimova-Marsh-Zhizni-1000.jpg"
         },
         {
-            "id": "402",
+            "undefined": "402",
             "author": "Максим Кронгауз",
             "book": "Русский язык на грани нервного срыва",
             "year": "2016",
@@ -7563,7 +7564,7 @@
             "img": "https://www.corpus.ru/picts/products/Krongauz-Na%20grani%20sryva-1000.jpg"
         },
         {
-            "id": "406",
+            "undefined": "406",
             "author": "Ханья Янагихара",
             "book": "Маленькая жизнь",
             "year": "2016",
@@ -7574,7 +7575,7 @@
             "img": "https://www.corpus.ru/picts/products/Yanagihara-LittleLife-1000.jpg"
         },
         {
-            "id": "408",
+            "undefined": "408",
             "author": "Остин Райт",
             "book": "Под покровом ночи",
             "year": "2016",
@@ -7583,7 +7584,7 @@
             "img": "https://www.corpus.ru/picts/products/Wright-Pod-Pokrovom-1000.jpg"
         },
         {
-            "id": "409",
+            "undefined": "409",
             "author": "Паоло Джордано",
             "book": "Черное и серебро",
             "year": "2016",
@@ -7594,7 +7595,7 @@
             "img": "https://www.corpus.ru/picts/products/Giordano-Paolo-Serebro-1000.jpg"
         },
         {
-            "id": "411",
+            "undefined": "411",
             "author": "Джонатан Франзен",
             "book": "Поправки",
             "year": "2017",
@@ -7605,7 +7606,7 @@
             "img": "https://www.corpus.ru/picts/products/Popravki-1000.jpg"
         },
         {
-            "id": "412",
+            "undefined": "412",
             "author": "Дон Делилло",
             "book": "Ноль К",
             "year": "2017",
@@ -7616,7 +7617,7 @@
             "img": "https://www.corpus.ru/picts/products/Delillo-Zero K-1000.jpg"
         },
         {
-            "id": "413",
+            "undefined": "413",
             "author": "Титью Лекок",
             "book": "Закон бутерброда",
             "year": "2017",
@@ -7627,7 +7628,7 @@
             "img": "https://www.corpus.ru/picts/products/Lecoq-Buterbrod-1000-new.jpg"
         },
         {
-            "id": "414",
+            "undefined": "414",
             "author": "Майкл Газзанига",
             "book": "Кто за главного? Свобода воли с точки зрения нейробиологии",
             "web": "fb2",
@@ -7637,7 +7638,7 @@
             "img": "https://cdn.ast.ru/v2/AST000000000156527/COVER/cover1__w600.jpg"
         },
         {
-            "id": "415",
+            "undefined": "415",
             "author": "Ларс Кеплер",
             "book": "Гипнотизер",
             "year": "2017",
@@ -7646,7 +7647,7 @@
             "img": "https://www.corpus.ru/picts/products/Kepler-Gipnotizer-1000.jpg"
         },
         {
-            "id": "416",
+            "undefined": "416",
             "author": "Джонатан Франзен",
             "book": "Свобода",
             "year": "2017",
@@ -7657,7 +7658,7 @@
             "img": "https://www.corpus.ru/picts/products/Franzen-Svoboda-1000.jpg"
         },
         {
-            "id": "418",
+            "undefined": "418",
             "author": "Аньес Мартен-Люган",
             "book": "Извини, меня ждут...",
             "year": "2017",
@@ -7669,7 +7670,7 @@
             "img": "https://www.corpus.ru/picts/products/Martin-Lugand-Izvini-1000.jpg"
         },
         {
-            "id": "419",
+            "undefined": "419",
             "author": "Томас Скарлетт",
             "book": "Орхидея съела их всех",
             "year": "2017",
@@ -7680,7 +7681,7 @@
             "img": "https://www.corpus.ru/picts/products/Thomas-Orchid-1000.jpg"
         },
         {
-            "id": "420",
+            "undefined": "420",
             "author": "Маргарита Хемлин",
             "book": "Искальщик",
             "year": "2017",
@@ -7691,7 +7692,7 @@
             "img": "https://www.corpus.ru/picts/products/Hemlin-Iskalschik-1000.jpg"
         },
         {
-            "id": "421",
+            "undefined": "421",
             "author": "Джон Ле Карре",
             "book": "Особые остоятельства",
             "year": "2017",
@@ -7700,7 +7701,7 @@
             "img": "https://www.corpus.ru/picts/products/Le%20Carre-Obstoyatelstva-1000.jpg"
         },
         {
-            "id": "422",
+            "undefined": "422",
             "author": "Карл Проффер",
             "book": "Без купюр. Первая публикация воспоминаний об Иосифе Бродском",
             "year": "2017",
@@ -7711,7 +7712,7 @@
             "img": "https://www.corpus.ru/picts/products/Proffer-Bez-kupur-1000.jpg"
         },
         {
-            "id": "424",
+            "undefined": "424",
             "author": "Джош Бейзел",
             "book": "Дикая тварь",
             "year": "2017",
@@ -7722,7 +7723,7 @@
             "img": "https://www.corpus.ru/picts/products/Bazell-Tvar-1000.jpg"
         },
         {
-            "id": "425",
+            "undefined": "425",
             "author": "Уоллес Стегнер",
             "book": "Останется при мне",
             "web": "fb2",
@@ -7732,7 +7733,7 @@
             "img": "https://www.corpus.ru/picts/products/Stegner-Ostanetsya-1000.jpg"
         },
         {
-            "id": "426",
+            "undefined": "426",
             "author": "Александра Горовиц",
             "book": "Смотреть и видеть. Путеводитель по искусству восприяти",
             "web": "fb2",
@@ -7742,7 +7743,7 @@
             "img": "https://www.corpus.ru/picts/products/Horowitz-Smotret-1000.jpg"
         },
         {
-            "id": "430",
+            "undefined": "430",
             "author": "Доминик Сильвен",
             "book": "Тени и солнце",
             "year": "2017",
@@ -7753,7 +7754,7 @@
             "img": "https://www.corpus.ru/picts/products/Silvain-Teni-1000.jpg"
         },
         {
-            "id": "431",
+            "undefined": "431",
             "author": "Алисия Хименес Бартлетт",
             "book": "Убийство на фоне глянца",
             "year": "2017",
@@ -7764,7 +7765,7 @@
             "img": "https://www.corpus.ru/picts/products/Himenes-Bartlett-Ubiystva-1000.jpg"
         },
         {
-            "id": "433",
+            "undefined": "433",
             "author": "Чарльз Чаплин",
             "book": "Огни рампы. Мир «Огней рампы»",
             "year": "2017",
@@ -7775,7 +7776,7 @@
             "img": "https://www.corpus.ru/picts/products/Chaplin-Ogni-1000.jpg"
         },
         {
-            "id": "435",
+            "undefined": "435",
             "author": "Рене Нюберг",
             "book": "Последний поезд в Москву",
             "year": "2017",
@@ -7786,7 +7787,7 @@
             "img": "https://www.corpus.ru/picts/products/Nyberg-Moscow-1000.jpg"
         },
         {
-            "id": "436",
+            "undefined": "436",
             "author": "Нил Ашерсон",
             "book": "Черное море. Колыбель цивилизации и варварства",
             "year": "2017",
@@ -7795,7 +7796,7 @@
             "img": "https://www.corpus.ru/picts/products/Asherson-Black%20Sea-1000.jpg"
         },
         {
-            "id": "437",
+            "undefined": "437",
             "author": "Эрик Хобсбаум",
             "book": "Разломанное время. Культура и общество в XX веке",
             "year": "2017",
@@ -7804,7 +7805,7 @@
             "img": "https://www.corpus.ru/picts/products/Hobbsbawm-Fractured-1000.jpg"
         },
         {
-            "id": "438",
+            "undefined": "438",
             "author": "Ларс Кеплер",
             "book": "Призраки не лгут",
             "year": "2017",
@@ -7813,7 +7814,7 @@
             "img": "https://www.corpus.ru/picts/products/Kepler-Prizraki-1001.jpg"
         },
         {
-            "id": "439",
+            "undefined": "439",
             "author": "Бен Макинтайр",
             "book": "Шпион среди друзей. Великое предательство Кима Филби",
             "year": "2017",
@@ -7824,7 +7825,7 @@
             "img": "https://www.corpus.ru/picts/products/MacIntyre-Shpion-1001.jpg"
         },
         {
-            "id": "441",
+            "undefined": "441",
             "author": "Эдвард Слингерленд",
             "book": "И не пытайтесь! Древняя мудрость, современная наука и искусство спонтанности",
             "web": "fb2",
@@ -7836,7 +7837,7 @@
             "img": "https://www.corpus.ru/picts/products/edvard-slingerlend-dazhe-ne-pytajtes.jpg"
         },
         {
-            "id": "443",
+            "undefined": "443",
             "author": "Жоэль Диккер",
             "book": "Книга Балтиморов",
             "year": "2017",
@@ -7848,7 +7849,7 @@
             "img": "https://www.corpus.ru/picts/products/zhojel-dikker-kniga-baltimorov.jpg"
         },
         {
-            "id": "444",
+            "undefined": "444",
             "author": "Жоэль Диккер",
             "book": "Правда о деле Гарри Квеберта",
             "year": "2017",
@@ -7860,7 +7861,7 @@
             "img": "https://www.corpus.ru/picts/products/zhojel-dikker-pravda-dele-garri-kveberta.jpg"
         },
         {
-            "id": "445",
+            "undefined": "445",
             "author": "Ханна Кралль",
             "book": "Портрет с пулей в челюсти и другие истории",
             "year": "2017",
@@ -7871,7 +7872,7 @@
             "img": "https://www.corpus.ru/picts/products/hanna-krall-portret-pulej-cheljusti-drugie-istorii.jpg"
         },
         {
-            "id": "447",
+            "undefined": "447",
             "author": "Дэвид Хоффман",
             "book": "Шпион на миллиард долларов",
             "year": "2017",
@@ -7880,7 +7881,7 @@
             "img": "https://www.corpus.ru/picts/products/shpion-na-milliard-dollarov.jpg"
         },
         {
-            "id": "448",
+            "undefined": "448",
             "author": "Дэвид Ремник",
             "book": "Могила Ленина. Последние дни советской империи",
             "year": "2017",
@@ -7889,7 +7890,7 @@
             "img": "https://www.corpus.ru/picts/products/REMNIK_MOGILA__1000.jpg"
         },
         {
-            "id": "449",
+            "undefined": "449",
             "author": "Алексей Бородин",
             "book": "На берегах утопий. Разговоры о театре",
             "year": "2017",
@@ -7898,7 +7899,7 @@
             "img": "https://www.corpus.ru/picts/products/Borodin-Berega-1000.jpg"
         },
         {
-            "id": "452",
+            "undefined": "452",
             "author": "Максим Осипов",
             "book": "пгт Вечность",
             "year": "2017",
@@ -7907,7 +7908,7 @@
             "img": "https://www.corpus.ru/picts/products/Osipov-Vechnost-1000.jpg"
         },
         {
-            "id": "453",
+            "undefined": "453",
             "author": "Джон Ле Карре",
             "book": "Голубиный туннель. Истории из моей жизни",
             "year": "2017",
@@ -7916,7 +7917,7 @@
             "img": "https://www.corpus.ru/picts/products/Le%20Carre-Tunnel-1000.jpg"
         },
         {
-            "id": "455",
+            "undefined": "455",
             "author": "Ханья Янагихара",
             "book": "Люди среди деревьев",
             "buyDate": "9/23/20",
@@ -7926,7 +7927,7 @@
             "img": "https://www.corpus.ru/picts/products/ljudi-sredi-derevev-janagihara.jpg"
         },
         {
-            "id": "457",
+            "undefined": "457",
             "author": "Джон Ле Карре",
             "book": "Ночной администратор",
             "year": "2018",
@@ -7935,7 +7936,7 @@
             "img": "https://www.corpus.ru/picts/products/LeCarre-Admin-1001.jpg"
         },
         {
-            "id": "459",
+            "undefined": "459",
             "author": "Петр Авен",
             "book": "Время Березовского",
             "web": "mp3 fb2",
@@ -7947,7 +7948,7 @@
             "img": "https://www.corpus.ru/picts/products/BEREZOVSKI-1000.jpg"
         },
         {
-            "id": "460",
+            "undefined": "460",
             "author": "Лена Элтанг",
             "book": "Царь велел тебя повесить",
             "year": "2017",
@@ -7956,7 +7957,7 @@
             "img": "https://www.corpus.ru/picts/products/eltang-tzar-1000.jpg"
         },
         {
-            "id": "462",
+            "undefined": "462",
             "author": "Аньес Мартен-Люган",
             "book": "Ты слышишь нашу музыку?",
             "year": "2017",
@@ -7968,7 +7969,7 @@
             "img": "https://www.corpus.ru/picts/products/Marten-Lugand-Music-1000.jpg"
         },
         {
-            "id": "463",
+            "undefined": "463",
             "author": "Кит Ричардс",
             "book": "Жизнь",
             "year": "2017",
@@ -7977,7 +7978,7 @@
             "img": "https://www.corpus.ru/picts/products/Richards-Life-1000.jpg"
         },
         {
-            "id": "466",
+            "undefined": "466",
             "author": "Анн Берест",
             "book": "Требуется идеальная женщина",
             "year": "2018",
@@ -7988,7 +7989,7 @@
             "img": "https://www.corpus.ru/picts/products/Berest-Ideal-1000.jpg"
         },
         {
-            "id": "467",
+            "undefined": "467",
             "author": "Июнь Ли",
             "book": "Добрее одиночества",
             "year": "2018",
@@ -7999,7 +8000,7 @@
             "img": "https://www.corpus.ru/picts/products/ijun-li-dobree-odinochestva1.jpg"
         },
         {
-            "id": "468",
+            "undefined": "468",
             "author": "Паоло Соррентино",
             "book": "Не самое главное",
             "year": "2018",
@@ -8008,7 +8009,7 @@
             "img": "https://www.corpus.ru/picts/products/Sorrentino-Ne-samoe-vazhnoe-1000.jpg"
         },
         {
-            "id": "469",
+            "undefined": "469",
             "author": "Ольга Романова",
             "book": "Русь сидящая",
             "year": "2018",
@@ -8020,7 +8021,7 @@
             "img": "https://www.corpus.ru/picts/products/Romanova-Rus-1000.jpg"
         },
         {
-            "id": "470",
+            "undefined": "470",
             "author": "Нейтан Хилл",
             "book": "Нёкк",
             "year": "2018",
@@ -8031,7 +8032,7 @@
             "img": "https://www.corpus.ru/picts/products/Hill-Nix-1000.jpg"
         },
         {
-            "id": "473",
+            "undefined": "473",
             "author": "Феликс Х. Пальма",
             "book": "Карта хаоса",
             "year": "2018",
@@ -8040,7 +8041,7 @@
             "img": "https://www.corpus.ru/picts/products/Palma-Chaos-1000.jpg"
         },
         {
-            "id": "474",
+            "undefined": "474",
             "author": "Алексей Моторов",
             "book": "Юные годы медбрата Паровозова",
             "year": "2018",
@@ -8049,7 +8050,7 @@
             "img": "https://www.corpus.ru/picts/products/Motorov-Gody-1000.jpg"
         },
         {
-            "id": "475",
+            "undefined": "475",
             "author": "Рута Ванагайте и Эфраим Зурофф",
             "book": "Свои. Путешествие с врагом",
             "year": "2018",
@@ -8058,7 +8059,7 @@
             "img": "https://www.corpus.ru/picts/products/Vanagaite-Svoi-1000.jpg"
         },
         {
-            "id": "476",
+            "undefined": "476",
             "author": "Жан-Поль Дидьелоран",
             "book": "Вся оставшаяся жизнь",
             "year": "2018",
@@ -8070,7 +8071,7 @@
             "img": "https://www.corpus.ru/picts/products/Didierlorent-Ostatok-1000.jpg"
         },
         {
-            "id": "477",
+            "undefined": "477",
             "author": "Майкл Волф",
             "book": "Огонь и ярость. В Белом доме Трампа",
             "year": "2018",
@@ -8081,7 +8082,7 @@
             "img": "https://www.corpus.ru/picts/products/Trump-1000.jpg"
         },
         {
-            "id": "479",
+            "undefined": "479",
             "author": "Джоби Уоррик",
             "book": "Черные флаги. Ближний Восток на рубеже тысячелетий",
             "year": "2018",
@@ -8092,7 +8093,7 @@
             "img": "https://www.corpus.ru/picts/products/Warrick-Flagi-1000.jpg"
         },
         {
-            "id": "480",
+            "undefined": "480",
             "author": "Тимоти Снайдер",
             "book": "О тирании. 20 уроков XX века",
             "year": "2018",
@@ -8103,7 +8104,7 @@
             "img": "https://www.corpus.ru/picts/products/SNYDER_cover.jpg"
         },
         {
-            "id": "482",
+            "undefined": "482",
             "author": "Алексей Моторов",
             "book": "Преступление доктора Паровозова",
             "year": "2018",
@@ -8112,7 +8113,7 @@
             "img": "https://www.corpus.ru/picts/products/parovozov2.jpg"
         },
         {
-            "id": "483",
+            "undefined": "483",
             "author": "Елена Чиркова",
             "book": "От золотого тельца до «Золотого теленка». Что мы знаем о литературе из экономики и об экономике из литературы",
             "year": "2018",
@@ -8121,7 +8122,7 @@
             "img": "https://www.corpus.ru/picts/products/Chirkova-Telets-1000.jpg"
         },
         {
-            "id": "484",
+            "undefined": "484",
             "author": "Михаил Бродский",
             "book": "Сабанеев мост",
             "year": "2018",
@@ -8130,7 +8131,7 @@
             "img": "https://www.corpus.ru/picts/products/Brodsky-Sabaneev-1000.jpg"
         },
         {
-            "id": "485",
+            "undefined": "485",
             "author": "Уильям Макаскилл",
             "book": "Ум во благо",
             "year": "2018",
@@ -8141,7 +8142,7 @@
             "img": "https://www.corpus.ru/picts/products/McAskill-Good-1000.jpg"
         },
         {
-            "id": "486",
+            "undefined": "486",
             "author": "Гаэль Фай",
             "book": "Маленькая страна",
             "year": "2018",
@@ -8152,7 +8153,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Faye-Strana-1000.jpg"
         },
         {
-            "id": "487",
+            "undefined": "487",
             "author": "Алла Хемлин",
             "book": "Заморок",
             "year": "2018",
@@ -8161,7 +8162,7 @@
             "img": "https://www.corpus.ru/picts/products/Hemlin-Zamorok-1000.jpg"
         },
         {
-            "id": "488",
+            "undefined": "488",
             "author": "Саманта Швеблин",
             "book": "Дистанция спасения",
             "year": "2018",
@@ -8173,7 +8174,7 @@
             "img": "https://www.corpus.ru/picts/products/Shweblin-Distance-1000.jpg"
         },
         {
-            "id": "489",
+            "undefined": "489",
             "author": "Олег Радзинский",
             "book": "Случайные жизни",
             "year": "2018",
@@ -8184,7 +8185,7 @@
             "img": "https://www.corpus.ru/picts/products/Radzinsky-Sluchaynye-1000.jpg"
         },
         {
-            "id": "490",
+            "undefined": "490",
             "author": "Дэвид Керцер",
             "book": "Похищение Эдгардо Мортары",
             "year": "2018",
@@ -8193,7 +8194,7 @@
             "img": "https://www.corpus.ru/picts/products/Kertzer-Mortara-1000.jpg"
         },
         {
-            "id": "491",
+            "undefined": "491",
             "author": "Уолтер Айзексон",
             "book": "Леонардо да Винчи",
             "year": "2018",
@@ -8204,7 +8205,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Isaacson-Leonardo-1000.jpg"
         },
         {
-            "id": "492",
+            "undefined": "492",
             "author": "Кристин Фере-Флери",
             "book": "Девушка, которая читала в метро",
             "year": "2018",
@@ -8216,7 +8217,7 @@
             "img": "https://www.corpus.ru/picts/products/Feret-Fleury-Devushka-1000.jpg"
         },
         {
-            "id": "493",
+            "undefined": "493",
             "author": "Лев Рубинштейн",
             "book": "Что слышно",
             "year": "2018",
@@ -8227,7 +8228,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Rubinshtein-Slyshno-1000.jpg"
         },
         {
-            "id": "495",
+            "undefined": "495",
             "author": "Олег Радзинский",
             "book": "Суринам",
             "year": "2018",
@@ -8238,7 +8239,7 @@
             "img": "https://www.corpus.ru/picts/products/Radzinsky-Surinam-1000.jpg"
         },
         {
-            "id": "497",
+            "undefined": "497",
             "author": "Хендрик Грун",
             "book": "Записки Хендрика Груна из амстердамской богадельни",
             "year": "2018",
@@ -8250,7 +8251,7 @@
             "img": "https://www.corpus.ru/picts/products/Grun-Bogadelnya-1000.jpg"
         },
         {
-            "id": "499",
+            "undefined": "499",
             "author": "Уильям Таубман",
             "book": "Горбачев. Его жизнь и время",
             "web": "mp3 fb2",
@@ -8262,7 +8263,7 @@
             "img": "https://www.corpus.ru/picts/products/TAUBMAN_GORBACHEV-1000.jpg"
         },
         {
-            "id": "500",
+            "undefined": "500",
             "author": "Дёрдь Шпиро",
             "book": "Дьяволина Горького",
             "year": "2018",
@@ -8271,7 +8272,7 @@
             "img": "https://www.corpus.ru/picts/products/Shpiro-Diavolina-1000.jpg"
         },
         {
-            "id": "502",
+            "undefined": "502",
             "author": "Сергей Гандлевский",
             "book": "Счастливая ошибка. Стихи и эссе о стихах",
             "year": "2018",
@@ -8280,7 +8281,7 @@
             "img": "https://www.corpus.ru/picts/products/Gandlevsly-Oshibka-1000.jpg"
         },
         {
-            "id": "503",
+            "undefined": "503",
             "author": "Лара Вапняр",
             "book": "Пока еще здесь",
             "year": "2018",
@@ -8292,7 +8293,7 @@
             "img": "https://www.corpus.ru/picts/products/Vapnjar-Zdes-1000.jpg"
         },
         {
-            "id": "504",
+            "undefined": "504",
             "author": "Паскаль Рютер",
             "book": "Барракуда forever",
             "year": "2018",
@@ -8304,7 +8305,7 @@
             "img": "https://www.corpus.ru/picts/products/Ruter-Barrakuda-1000.jpg"
         },
         {
-            "id": "505",
+            "undefined": "505",
             "author": "Адам Грант",
             "book": "Оригиналы. Как нонконформисты двигают мир вперед",
             "year": "2019",
@@ -8315,7 +8316,7 @@
             "img": "https://www.corpus.ru/picts/products/Grant-Originals-1000.jpg"
         },
         {
-            "id": "506",
+            "undefined": "506",
             "author": "Патти Смит",
             "book": "Просто дети",
             "year": "2019",
@@ -8326,7 +8327,7 @@
             "img": "https://www.corpus.ru/picts/products/Smith-Deti-1000.jpg"
         },
         {
-            "id": "507",
+            "undefined": "507",
             "author": "Мадлен Тьен",
             "book": "Не говори, что у нас ничего нет",
             "year": "2019",
@@ -8337,7 +8338,7 @@
             "img": "https://www.corpus.ru/picts/products/Tien-Ne-govori-1000.jpg"
         },
         {
-            "id": "508",
+            "undefined": "508",
             "author": "Джонатан Макмиллан",
             "book": "Конец банковского дела. Деньги и кредит в эпоху цифровой революции",
             "year": "2019",
@@ -8348,7 +8349,7 @@
             "img": "https://www.corpus.ru/picts/products/McMillan-Banking-1000.jpg"
         },
         {
-            "id": "509",
+            "undefined": "509",
             "author": "Франсуа-Анри Дезерабль",
             "book": "Некий господин Пекельный",
             "year": "2019",
@@ -8360,7 +8361,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Deserable-Pekelny-1000.jpg"
         },
         {
-            "id": "510",
+            "undefined": "510",
             "author": "Уолтер Айзексон",
             "book": "Инноваторы. Как несколько гениев, хакеров и гиков совершили цифровую революцию",
             "year": "2019",
@@ -8369,7 +8370,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Isaacson-Innovators.jpg"
         },
         {
-            "id": "516",
+            "undefined": "516",
             "author": "Юрий Слёзкин",
             "book": "Дом правительства. Сага о русской революции",
             "year": "2019",
@@ -8380,7 +8381,7 @@
             "img": "https://www.corpus.ru/picts/products/Slezkin-Dom-Pravitelstva-1000.jpg"
         },
         {
-            "id": "522",
+            "undefined": "522",
             "author": "Сергей Плохий",
             "book": "Человек, стрелявший ядом История одного шпиона времен холодной войны",
             "year": "2019",
@@ -8391,7 +8392,7 @@
             "img": "https://www.corpus.ru/picts/products/Plohiy-Poison-1000.jpg"
         },
         {
-            "id": "520",
+            "undefined": "520",
             "author": "Орели Валонь",
             "book": "У нас все дома",
             "year": "2019",
@@ -8402,7 +8403,7 @@
             "img": "https://www.corpus.ru/picts/products/Valognes-1000.jpg"
         },
         {
-            "id": "524",
+            "undefined": "524",
             "author": "Аркадий Островский",
             "book": "Говорит и показывает Россия. Путешествие из будущего в прошлое средствами массовой информации",
             "year": "2019",
@@ -8411,7 +8412,7 @@
             "img": "https://www.corpus.ru/picts/products/Ostrovsky-Russia-1000.jpg"
         },
         {
-            "id": "525",
+            "undefined": "525",
             "author": "Петр Талантов",
             "book": "0,05. Доказательная медицина от магии до поисков бессмертия",
             "year": "2019",
@@ -8422,7 +8423,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Talantov-005-1000.jpg"
         },
         {
-            "id": "526",
+            "undefined": "526",
             "author": "Аньес Мартен-Люган",
             "book": "Однажды я станцую для тебя",
             "year": "2019",
@@ -8434,7 +8435,7 @@
             "img": "https://www.corpus.ru/picts/products/Martin-Lugand-Dance-1000.jpg"
         },
         {
-            "id": "527",
+            "undefined": "527",
             "author": "Майкл Каннингем",
             "book": "Дом на краю света",
             "year": "2019",
@@ -8443,7 +8444,7 @@
             "img": "https://www.corpus.ru/picts/products/Cunningham-Dom-1001.jpg"
         },
         {
-            "id": "528",
+            "undefined": "528",
             "author": "Маттиас Фалдбаккен",
             "book": "Ресторан «Хиллс»",
             "year": "2019",
@@ -8454,7 +8455,7 @@
             "img": "https://www.corpus.ru/picts/products/Faldbakken-Hills-1001.jpg"
         },
         {
-            "id": "529",
+            "undefined": "529",
             "author": "Ася Казанцева",
             "book": "Мозг материален",
             "year": "2019",
@@ -8465,7 +8466,7 @@
             "img": "https://www.corpus.ru/picts/products/Kazantseva-Mozg-1000.jpg"
         },
         {
-            "id": "530",
+            "undefined": "530",
             "author": "Колсон Уайтхед",
             "book": "Подземная железная дорога",
             "year": "2019",
@@ -8477,7 +8478,7 @@
             "img": "https://www.corpus.ru/picts/products/Whitehead-Railroad-1011.jpg"
         },
         {
-            "id": "531",
+            "undefined": "531",
             "author": "Китти Фергюсон",
             "book": "Стивен Хокинг. Непобедимый разум",
             "year": "2019",
@@ -8488,7 +8489,7 @@
             "img": "https://www.corpus.ru/picts/products/Ferguson-Hawking-1001.jpg"
         },
         {
-            "id": "532",
+            "undefined": "532",
             "author": "Джесси Болл",
             "book": "Стоит только замолчать",
             "year": "2019",
@@ -8500,7 +8501,7 @@
             "img": "https://www.corpus.ru/picts/products/Ball-Silence-1000.jpg"
         },
         {
-            "id": "534",
+            "undefined": "534",
             "author": "Кэтрин Мерридейл",
             "book": "Каменная ночь. Смерть и память в России ХХ века",
             "year": "2019",
@@ -8509,7 +8510,7 @@
             "img": "https://www.corpus.ru/picts/products/merrideil-kamen-noch.jpg"
         },
         {
-            "id": "535",
+            "undefined": "535",
             "author": "Юрий Слёзкин",
             "book": "Эра Меркурия. Евреи в современном мире",
             "year": "2019",
@@ -8520,7 +8521,7 @@
             "img": "https://www.corpus.ru/picts/products/Slezkin-Merkury-1000.jpg"
         },
         {
-            "id": "539",
+            "undefined": "539",
             "author": "Джон Ле Карре",
             "book": "Голубиный туннель. Истории из моей жизни",
             "year": "2019",
@@ -8531,7 +8532,7 @@
             "img": "https://www.corpus.ru/picts/products/LeCarre-Tunnel-1000.jpg"
         },
         {
-            "id": "541",
+            "undefined": "541",
             "author": "Роберто Савьяно",
             "book": "Пираньи Неаполя",
             "year": "2019",
@@ -8540,7 +8541,7 @@
             "img": "https://www.corpus.ru/picts/products/pirani-neapolya-roberto-savyano.jpeg"
         },
         {
-            "id": "542",
+            "undefined": "542",
             "author": "Жоэль Диккер",
             "book": "Исчезновение Стефани Мейлер",
             "web": "mp3 fb2",
@@ -8553,7 +8554,7 @@
             "img": "https://www.corpus.ru/picts/products/Dicker-Stephanie-1000.jpg"
         },
         {
-            "id": "544",
+            "undefined": "544",
             "author": "Сергей Гандлевский",
             "book": "В сторону Новой Зеландии",
             "year": "2019",
@@ -8562,7 +8563,7 @@
             "img": "https://www.corpus.ru/picts/products/Gandlevsky-Zeeland-1000.jpg"
         },
         {
-            "id": "545",
+            "undefined": "545",
             "author": "Джонатан Франзен",
             "book": "Конец конца земли",
             "year": "2019",
@@ -8573,7 +8574,7 @@
             "img": "https://www.corpus.ru/picts/products/Franzen-Konets-1000.jpg"
         },
         {
-            "id": "548",
+            "undefined": "548",
             "author": "Ниал Фергюсон",
             "book": "Горечь войны. Новый взгляд на Первую мировую",
             "year": "2019",
@@ -8582,7 +8583,7 @@
             "img": "https://www.corpus.ru/picts/products/Ferguson-Gorech-1000.jpg"
         },
         {
-            "id": "549",
+            "undefined": "549",
             "author": "Людмила Голубкина",
             "book": "Я медленно открыла эту дверь",
             "year": "2019",
@@ -8591,7 +8592,7 @@
             "img": "https://www.corpus.ru/picts/products/Golubkina-Dver-1000.jpg"
         },
         {
-            "id": "550",
+            "undefined": "550",
             "author": "Майкл Каннингем",
             "book": "Плоть и кровь",
             "year": "2019",
@@ -8600,7 +8601,7 @@
             "img": "https://www.corpus.ru/picts/products/Cunningham-Blood-1000.jpg"
         },
         {
-            "id": "552",
+            "undefined": "552",
             "author": "Мишель Уэльбек",
             "book": "Серотонин",
             "year": "2019",
@@ -8611,7 +8612,7 @@
             "img": "https://www.corpus.ru/picts/products/Houellebecq-Serotonin-1000.jpg"
         },
         {
-            "id": "553",
+            "undefined": "553",
             "author": "Мишель Уэльбек",
             "book": "Покорность",
             "year": "2019",
@@ -8620,7 +8621,7 @@
             "img": "https://www.corpus.ru/picts/products/Houellebecq-Pokornost-1001.jpg"
         },
         {
-            "id": "555",
+            "undefined": "555",
             "author": "Дженнифер Даудна",
             "book": "Трещина в мироздании",
             "web": "fb2",
@@ -8632,7 +8633,7 @@
             "img": "https://www.corpus.ru/picts/products/Daudna-Treschina-1000.jpg"
         },
         {
-            "id": "556",
+            "undefined": "556",
             "author": "Мадлен Миллер",
             "book": "Песнь Ахилла",
             "web": "mp3 fb2",
@@ -8645,7 +8646,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Miller-Ahilles-1000.jpg"
         },
         {
-            "id": "557",
+            "undefined": "557",
             "author": "Франческо Пикколо",
             "book": "Минуты будничного счастья",
             "web": "mp3",
@@ -8658,7 +8659,7 @@
             "img": "https://www.corpus.ru/picts/products/Piccolo-Schastie-1000.jpg"
         },
         {
-            "id": "558",
+            "undefined": "558",
             "author": "Франческо Пикколо",
             "book": "Минуты будничного несчастья",
             "web": "mp3 fb2",
@@ -8679,7 +8680,7 @@
             "img": "https://www.corpus.ru/picts/products/Osipov-Luxemburg-1000.jpg"
         },
         {
-            "id": "562",
+            "undefined": "562",
             "author": "Хендрик Грун",
             "book": "Новые записки Хендрика Груна из амстердамской богадельни",
             "year": "2020",
@@ -8691,7 +8692,7 @@
             "img": "https://www.corpus.ru/picts/products/Grun-New-1000.jpg"
         },
         {
-            "id": "563",
+            "undefined": "563",
             "author": "Элена Ферранте",
             "book": "Дни одиночества",
             "year": "2020",
@@ -8700,7 +8701,7 @@
             "img": "https://www.corpus.ru/picts/products/ferrante-cover-1000-18.jpg"
         },
         {
-            "id": "564",
+            "undefined": "564",
             "author": "Ниал Фергюсон",
             "book": "Площадь и башня. Cети и власть от масонов до Facebook",
             "year": "2020",
@@ -8709,7 +8710,7 @@
             "img": "https://www.corpus.ru/picts/products/Ferguson-Square-1000.jpg"
         },
         {
-            "id": "565",
+            "undefined": "565",
             "author": "Дженнифер Иган",
             "book": "Манхэттен-Бич",
             "year": "2020",
@@ -8718,7 +8719,7 @@
             "img": "https://www.corpus.ru/picts/products/Egan-Manhattan-1000.jpg"
         },
         {
-            "id": "567",
+            "undefined": "567",
             "author": "Жюльен Сандрель",
             "book": "Комната чудес",
             "web": "mp3 fb2",
@@ -8731,7 +8732,7 @@
             "img": "https://www.corpus.ru/picts/products/Sandrel-cover1.jpg"
         },
         {
-            "id": "568",
+            "undefined": "568",
             "author": "Филип Норман",
             "book": "Пол Маккартни. Биография",
             "web": "fb2",
@@ -8743,7 +8744,7 @@
             "img": "https://www.corpus.ru/picts/products/Norman-Mccartney-1000.jpg"
         },
         {
-            "id": "569",
+            "undefined": "569",
             "author": "Майкл Каннингем",
             "book": "Снежная королева",
             "year": "2020",
@@ -8752,7 +8753,7 @@
             "img": "https://www.corpus.ru/picts/products/cunningham-snow-queen-1000.jpg"
         },
         {
-            "id": "570",
+            "undefined": "570",
             "author": "Оса Авдич",
             "book": "Эксперимент «Исола»",
             "year": "2020",
@@ -8764,7 +8765,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Avdic-Isola-1000.jpg"
         },
         {
-            "id": "572",
+            "undefined": "572",
             "author": "Джона Лерер",
             "book": "Книга о любви",
             "year": "2020",
@@ -8775,7 +8776,7 @@
             "img": "https://www.corpus.ru/picts/products/Lehrer-Love-1000.jpg"
         },
         {
-            "id": "574",
+            "undefined": "574",
             "author": "Ханс Рослинг",
             "book": "Фактологичность. Десять причин наших заблуждений о мире - и почему все не так плохо, как кажется",
             "year": "2020",
@@ -8786,7 +8787,7 @@
             "img": "https://www.corpus.ru/picts/products/Rosling-Factfillness-1000.jpg"
         },
         {
-            "id": "575",
+            "undefined": "575",
             "author": "Мартин О Кайнь",
             "book": "Грязь кладбищенская",
             "year": "2020",
@@ -8795,7 +8796,7 @@
             "img": "https://www.corpus.ru/picts/products/O_Cadhain-Dirty-1000.jpg"
         },
         {
-            "id": "577",
+            "undefined": "577",
             "author": "Ларс Кеплер",
             "book": "Лазарь",
             "year": "2020",
@@ -8804,7 +8805,7 @@
             "img": "https://www.corpus.ru/picts/products/kepler-cover1.jpg"
         },
         {
-            "id": "578",
+            "undefined": "578",
             "author": "Эрик Хобсбаум",
             "book": "Эпоха крайностей. Короткий двадцатый век (1914-1991)",
             "year": "2020",
@@ -8813,7 +8814,7 @@
             "img": "https://www.corpus.ru/picts/products/cover-hobsbaum.jpg"
         },
         {
-            "id": "579",
+            "undefined": "579",
             "author": "Аньес Мартен-Люган",
             "book": "Мы не могли разминуться",
             "year": "2020",
@@ -8825,7 +8826,7 @@
             "img": "https://www.corpus.ru/picts/products/agnes-marten-cover1.jpg"
         },
         {
-            "id": "580",
+            "undefined": "580",
             "author": "Майкл Каннингем",
             "book": "Начинается ночь",
             "year": "2020",
@@ -8834,7 +8835,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-cunningham.jpg"
         },
         {
-            "id": "584",
+            "undefined": "584",
             "author": "Майкл Каннингем",
             "book": "Избранные дни",
             "year": "2020",
@@ -8843,7 +8844,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-izbrannye-dni.jpg"
         },
         {
-            "id": "585",
+            "undefined": "585",
             "author": "Джонатан Рауш",
             "book": "Добрые инквизиторы. Власть против свободы мысли",
             "year": "2020",
@@ -8852,7 +8853,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-raush.jpg"
         },
         {
-            "id": "586",
+            "undefined": "586",
             "author": "Томас Скарлетт",
             "book": "Дочь олигарха",
             "year": "2020",
@@ -8863,7 +8864,7 @@
             "img": "https://www.corpus.ru/picts/products/cover-tomas.jpg"
         },
         {
-            "id": "587",
+            "undefined": "587",
             "author": "Саманта Швеблин",
             "book": "Кентуки",
             "year": "2020",
@@ -8874,7 +8875,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-kentuki.jpg"
         },
         {
-            "id": "588",
+            "undefined": "588",
             "author": "Орели Валонь",
             "book": "Наши очаровательные невестки",
             "web": "fb2",
@@ -8886,7 +8887,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-valon.jpg"
         },
         {
-            "id": "589",
+            "undefined": "589",
             "author": "Мадлен Миллер",
             "book": "Цирцея",
             "year": "2020",
@@ -8897,7 +8898,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-cover1-miller.jpg"
         },
         {
-            "id": "590",
+            "undefined": "590",
             "author": "Мэтью Джексон",
             "book": "Человеческие сети",
             "year": "2020",
@@ -8908,7 +8909,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-sety.jpg"
         },
         {
-            "id": "594",
+            "undefined": "594",
             "author": "Виталий Шкляров и Анджей Беловранин",
             "book": "Мир, поставленный на паузу",
             "year": "2020",
@@ -8920,7 +8921,7 @@
             "img": "https://www.corpus.ru/picts/products/SHKLYAROV_PAUSE_1000.jpg"
         },
         {
-            "id": "595",
+            "undefined": "595",
             "author": "Мойзес Наим",
             "book": "Два шпиона в Каракасе. Не совсем выдуманная история про любовь и заговоры в эпоху Уго Чавеса.",
             "year": "2020",
@@ -8931,7 +8932,7 @@
             "img": "https://www.corpus.ru/picts/products/cover-caracas.jpg"
         },
         {
-            "id": "597",
+            "undefined": "597",
             "author": "Майкл Каннингем",
             "book": "Край земли. Прогулка по Провинстауну",
             "year": "2020",
@@ -8940,7 +8941,7 @@
             "img": "https://www.corpus.ru/picts/products/cunningham-fin.jpg"
         },
         {
-            "id": "598",
+            "undefined": "598",
             "author": "Майкл Каннингем",
             "book": "Дикий лебедь и другие сказки",
             "year": "2020",
@@ -8949,7 +8950,7 @@
             "img": "https://www.corpus.ru/picts/products/cunningham-lebed-1000.png"
         },
         {
-            "id": "599",
+            "undefined": "599",
             "author": "Элена Ферранте",
             "book": "Лживая взрослая жизнь",
             "year": "2020",
@@ -8958,7 +8959,7 @@
             "img": "https://www.corpus.ru/picts/products/ferrante-cover.jpg"
         },
         {
-            "id": "600",
+            "undefined": "600",
             "author": "Кристина Ульсон",
             "book": "Лотос-блюз",
             "web": "fb2",
@@ -8971,7 +8972,7 @@
             "img": "https://www.corpus.ru/picts/products/Ulson-Lotus-1000.jpg"
         },
         {
-            "id": "602",
+            "undefined": "602",
             "author": "Рэйчел Снайдер",
             "book": "Без видимых повреждений",
             "year": "2020",
@@ -8982,7 +8983,7 @@
             "img": "https://www.corpus.ru/picts/products/cover-bez-vidimyh.jpg"
         },
         {
-            "id": "604",
+            "undefined": "604",
             "author": "Патти Смит",
             "book": "Преданность. Год обезьяны",
             "year": "2020",
@@ -8993,7 +8994,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-obesyana.jpg"
         },
         {
-            "id": "605",
+            "undefined": "605",
             "author": "Марта Петерсон",
             "book": "Вдова-шпионка. Как работа в ЦРУ привела меня из джунглей Лаоса в московскую тюрьму",
             "year": "2020",
@@ -9004,7 +9005,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-shpionka.jpg"
         },
         {
-            "id": "606",
+            "undefined": "606",
             "author": "Массимилиано Вирджилио",
             "book": "Американец",
             "web": "fb2",
@@ -9016,7 +9017,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-virgilio.jpg"
         },
         {
-            "id": "607",
+            "undefined": "607",
             "author": "Сергей Лебедев",
             "book": "Дебютант",
             "web": "fb2",
@@ -9029,7 +9030,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-lebedev.jpg"
         },
         {
-            "id": "608",
+            "undefined": "608",
             "author": "Кира Ярмыш",
             "book": "Невероятные происшествия в женской камере №3",
             "web": "mp3 fb2",
@@ -9042,7 +9043,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-yarnysh.jpg"
         },
         {
-            "id": "609",
+            "undefined": "609",
             "author": "Андраш Форгач",
             "book": "Незакрытых дел - нет",
             "web": "fb2",
@@ -9054,7 +9055,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-forgach.jpg"
         },
         {
-            "id": "611",
+            "undefined": "611",
             "author": "Елена Мотова",
             "book": "Еда для радости. Записки диетолога",
             "web": "fb2",
@@ -9067,7 +9068,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-motova.jpg"
         },
         {
-            "id": "612",
+            "undefined": "612",
             "author": "Билл Франсуа",
             "book": "Красноречие сардинки. Невероятные истории подводного мира",
             "web": "fb2",
@@ -9079,7 +9080,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-sardinka.jpg"
         },
         {
-            "id": "613",
+            "undefined": "613",
             "author": "Алексей Моторов",
             "book": "Тот самый Паровозов",
             "year": "2020",
@@ -9091,7 +9092,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-motorov.jpg"
         },
         {
-            "id": "616",
+            "undefined": "616",
             "author": "Арсен Ревазов",
             "book": "Одиночество-12",
             "year": "2020",
@@ -9102,7 +9103,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-revasov.jpg"
         },
         {
-            "id": "617",
+            "undefined": "617",
             "author": "Мария Адольфссон",
             "book": "Неверные шаги",
             "web": "fb2",
@@ -9115,7 +9116,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-shagi.jpg"
         },
         {
-            "id": "622",
+            "undefined": "622",
             "author": "Карен Джой Фаулер",
             "book": "Мы совершенно не в себе",
             "web": "fb2",
@@ -9124,11 +9125,11 @@
             "readDate": "3/24/21",
             "price": "433",
             "publisher": "Corpus",
-            "shelf": "corpus 2021",
+            "shelf": "corpus fauler 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-fauler.jpg"
         },
         {
-            "id": "623",
+            "undefined": "623",
             "author": "Кэтрин Мерридейл",
             "book": "Ленин в поезде. Путешествие, которое изменило мир",
             "web": "fb2",
@@ -9138,7 +9139,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-lenin-poezd.jpg"
         },
         {
-            "id": "624",
+            "undefined": "624",
             "author": "Анне Катрине Боман",
             "book": "Агата",
             "year": "2021",
@@ -9150,7 +9151,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-agatha.jpg"
         },
         {
-            "id": "625",
+            "undefined": "625",
             "author": "Элена Ферранте",
             "book": "Любовь в тягость",
             "web": "fb2",
@@ -9160,7 +9161,7 @@
             "img": "https://www.corpus.ru/picts/products/cover-ferrante.jpg"
         },
         {
-            "id": "626",
+            "undefined": "626",
             "author": "Аньес Мартен-Люган",
             "book": "Мне надо кое в чем тебе признаться…",
             "web": "fb2",
@@ -9173,7 +9174,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-lugand.jpg"
         },
         {
-            "id": "627",
+            "undefined": "627",
             "author": "Ирина Левонтина",
             "book": "Честное слово",
             "web": "fb2",
@@ -9185,7 +9186,7 @@
             "img": "https://www.corpus.ru/picts/products/cover-chestnoe-slovo.jpg"
         },
         {
-            "id": "628",
+            "undefined": "628",
             "author": "Жоэль Диккер",
             "book": "Загадка номера 622",
             "web": "fb2",
@@ -9198,7 +9199,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-dicker.jpg"
         },
         {
-            "id": "629",
+            "undefined": "629",
             "author": "Эрин Моргенштерн",
             "book": "Беззвездное море",
             "web": "fb2",
@@ -9211,7 +9212,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-morgenstern.jpg"
         },
         {
-            "id": "630",
+            "undefined": "630",
             "author": "Катарина Фолкмер",
             "book": "Еврейский член",
             "year": "2021",
@@ -9223,7 +9224,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-folkmer.jpg"
         },
         {
-            "id": "631",
+            "undefined": "631",
             "author": "Дэвид Граймс",
             "book": "Неразумная обезьяна. Почему мы верим в дезинформацию, теории заговора и пропаганду",
             "web": "fb2",
@@ -9235,7 +9236,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-grimes-fin.jpg"
         },
         {
-            "id": "638",
+            "undefined": "638",
             "author": "Юнас Юнассон",
             "book": "Неграмотная, которая спасла короля и королевство в придачу",
             "year": "2021",
@@ -9247,7 +9248,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-negramotnaya.jpg"
         },
         {
-            "id": "639",
+            "undefined": "639",
             "author": "Юнас Юнассон",
             "book": "Сто лет и чемодан денег в придачу",
             "web": "fb2",
@@ -9260,7 +9261,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-sto-let.jpg"
         },
         {
-            "id": "641",
+            "undefined": "641",
             "author": "Карин Тюиль",
             "book": "Дела человеческие",
             "web": "fb2",
@@ -9272,7 +9273,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-tuil.jpg"
         },
         {
-            "id": "642",
+            "undefined": "642",
             "author": "Джон Ле Карре",
             "book": "Агент на передовой",
             "web": "fb2",
@@ -9284,7 +9285,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-agent.jpg"
         },
         {
-            "id": "643",
+            "undefined": "643",
             "author": "Дэниел Гоулман",
             "book": "Социальный интеллект. Новая наука о человеческих отношениях",
             "web": "fb2",
@@ -9296,7 +9297,7 @@
             "img": "https://www.corpus.ru/picts/products/cover-intellect.jpg"
         },
         {
-            "id": "644",
+            "undefined": "644",
             "author": "Мария Адольфссон",
             "book": "Штормовое предупреждение",
             "web": "fb2",
@@ -9309,7 +9310,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-adolfsson.jpg"
         },
         {
-            "id": "645",
+            "undefined": "645",
             "author": "Кристина Ульсон",
             "book": "Мио-блюз",
             "web": "fb2",
@@ -9322,7 +9323,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-ulson.jpg"
         },
         {
-            "id": "649",
+            "undefined": "649",
             "author": "Эрин Моргенштерн",
             "book": "Ночной цирк",
             "web": "fb2",
@@ -9335,7 +9336,7 @@
             "img": "https://www.corpus.ru/picts/products/cover-cirk-new.jpg"
         },
         {
-            "id": "650",
+            "undefined": "650",
             "author": "Шерри Тёркл",
             "book": "Живым голосом. Зачем в цифровую эру говорить и слушать",
             "web": "fb2",
@@ -9347,7 +9348,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-turkle-govorit.jpg"
         },
         {
-            "id": "651",
+            "undefined": "651",
             "author": "Джеймс Глик",
             "book": "Хаос. Создание новой науки",
             "year": "2021",
@@ -9356,7 +9357,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-glick-new.jpg"
         },
         {
-            "id": "652",
+            "undefined": "652",
             "author": "Симона де Бовуар",
             "book": "Неразлучные",
             "web": "fb2",
@@ -9366,7 +9367,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-nerazluchnye.jpg"
         },
         {
-            "id": "655",
+            "undefined": "655",
             "author": "Мишель Уэльбек",
             "book": "Карта и территория",
             "web": "fb2",
@@ -9376,7 +9377,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-karta-territoria.jpg"
         },
         {
-            "id": "656",
+            "undefined": "656",
             "author": "Деб Олин Анферт",
             "book": "Птичник №8",
             "year": "2021",
@@ -9387,7 +9388,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-anfert-ptichnik.jpg"
         },
         {
-            "id": "658",
+            "undefined": "658",
             "author": "Владимир Набоков",
             "book": "Камера обскура",
             "web": "fb2",
@@ -9399,7 +9400,7 @@
             "img": "https://www.corpus.ru/picts/products/cover-nabokov-obdkur.jpg"
         },
         {
-            "id": "659",
+            "undefined": "659",
             "author": "Владимир Набоков",
             "book": "Лолита",
             "web": "fb2",
@@ -9411,7 +9412,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-nabokov-lolita.jpg"
         },
         {
-            "id": "660",
+            "undefined": "660",
             "author": "Владимир Набоков",
             "book": "Машенька. Подвиг",
             "web": "fb2",
@@ -9423,7 +9424,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-mashenka.jpg"
         },
         {
-            "id": "661",
+            "undefined": "661",
             "author": "Владимир Набоков",
             "book": "Отчаяние",
             "web": "fb2",
@@ -9435,7 +9436,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-otchayanie.jpg"
         },
         {
-            "id": "662",
+            "undefined": "662",
             "author": "Бен Макинтайр",
             "book": "Шпион и предатель. Самая громкая шпионская история времен холодной войны",
             "year": "2021",
@@ -9446,7 +9447,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-macintair-spion.jpg"
         },
         {
-            "id": "665",
+            "undefined": "665",
             "author": "Алексей Моторов",
             "book": "Юные годы медбрата Паровозова",
             "web": "fb2",
@@ -9459,7 +9460,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-parovozov-new.jpg"
         },
         {
-            "id": "666",
+            "undefined": "666",
             "author": "Алексей Моторов",
             "book": "Преступление доктора Паровозова",
             "web": "fb2",
@@ -9472,7 +9473,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-parovozov3.jpg"
         },
         {
-            "id": "667",
+            "undefined": "667",
             "author": "Алексей Моторов",
             "book": "Шестая койка и другие истории из жизни Паровозова",
             "web": "mp3",
@@ -9485,7 +9486,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-dezhurstvo.jpg"
         },
         {
-            "id": "668",
+            "undefined": "668",
             "author": "Си Джей Беннет",
             "book": "Виндзорский узел",
             "web": "fb2",
@@ -9497,7 +9498,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-koroleva.jpg"
         },
         {
-            "id": "669",
+            "undefined": "669",
             "author": "Энтони Дэвид",
             "book": "Глядя в бездну. Заметки нейропсихиатра о душевных расстройствах",
             "web": "fb2",
@@ -9507,7 +9508,7 @@
             "img": "https://www.corpus.ru/picts/products/David-Bezdna-1000.jpg"
         },
         {
-            "id": "672",
+            "undefined": "672",
             "author": "Владимир Набоков",
             "book": "Король, дама, валет",
             "web": "mp3 fb2",
@@ -9520,7 +9521,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-kqj.jpg"
         },
         {
-            "id": "673",
+            "undefined": "673",
             "author": "Владимир Набоков",
             "book": "Защита Лужина",
             "web": "fb2",
@@ -9532,7 +9533,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-luzhin.jpg"
         },
         {
-            "id": "674",
+            "undefined": "674",
             "author": "Дэниел Гоулман",
             "book": "Фокус. О внимании, рассеянности и жизненном успехе",
             "web": "fb2",
@@ -9542,7 +9543,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-ficus.jpg"
         },
         {
-            "id": "676",
+            "undefined": "676",
             "author": "Кшиштоф Кесьлёвский",
             "book": "О себе. Автобиография, сценарии, статьи, интервью",
             "web": "fb2",
@@ -9552,7 +9553,7 @@
             "img": "https://www.corpus.ru/picts/products/keslevskiy.jpg"
         },
         {
-            "id": "677",
+            "undefined": "677",
             "author": "Эрве Ле Теллье",
             "book": "Аномалия",
             "web": "fb2",
@@ -9565,7 +9566,7 @@
             "img": "https://www.corpus.ru/picts/products/cover-anomaliya.jpg"
         },
         {
-            "id": "678",
+            "undefined": "678",
             "author": "Владимир Набоков",
             "book": "Приглашение на казнь",
             "web": "mp3 fb2",
@@ -9577,7 +9578,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-kazn.jpg"
         },
         {
-            "id": "679",
+            "undefined": "679",
             "author": "Владимир Набоков",
             "book": "Бледный огонь",
             "web": "fb2",
@@ -9589,7 +9590,7 @@
             "img": "https://www.corpus.ru/picts/products/cover-bledny-ogon.jpg"
         },
         {
-            "id": "680",
+            "undefined": "680",
             "author": "Мэриэнн Кронин",
             "book": "Сто лет Ленни и Марго",
             "year": "2021",
@@ -9600,7 +9601,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-kronin.jpg"
         },
         {
-            "id": "681",
+            "undefined": "681",
             "author": "Владимир Набоков",
             "book": "Соглядатай",
             "web": "fb2",
@@ -9612,7 +9613,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-soglyadatay.jpg"
         },
         {
-            "id": "682",
+            "undefined": "682",
             "author": "Кристер Стурмарк",
             "book": "Светоч разума. Рациональное мышление в XXI веке",
             "web": "fb2",
@@ -9624,7 +9625,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1sturmark.jpg"
         },
         {
-            "id": "683",
+            "undefined": "683",
             "author": "Жоэль Диккер",
             "book": "Последние дни наших отцов",
             "web": "fb2",
@@ -9637,7 +9638,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-dicker-otsy.jpg"
         },
         {
-            "id": "684",
+            "undefined": "684",
             "author": "Ян Немец",
             "book": "Возможности любовного романа",
             "year": "2021",
@@ -9648,7 +9649,7 @@
             "img": "https://www.corpus.ru/picts/products/cover-nemetz.jpg"
         },
         {
-            "id": "685",
+            "undefined": "685",
             "author": "Олег Радзинский",
             "book": "Боги и лишние. неГероический эпос",
             "web": "fb2",
@@ -9660,7 +9661,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-lishnie.jpg"
         },
         {
-            "id": "687",
+            "undefined": "687",
             "author": "Клэр Чемберс",
             "book": "Простые радости",
             "year": "2022",
@@ -9671,7 +9672,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-chembers.jpg"
         },
         {
-            "id": "688",
+            "undefined": "688",
             "author": "Владимир Набоков",
             "book": "Другие берега",
             "web": "fb2",
@@ -9683,7 +9684,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-berega.jpg"
         },
         {
-            "id": "690",
+            "undefined": "690",
             "author": "Денворт Лидия",
             "book": "О дружбе. Эволюция, биология и суперсила главных в жизни связей",
             "web": "fb2",
@@ -9695,7 +9696,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-denvort-druzhba.jpg"
         },
         {
-            "id": "691",
+            "undefined": "691",
             "author": "Пол Сен",
             "book": "Холодильник Эйнштейна. Как перепад температур объясняет Вселенную",
             "web": "fb2",
@@ -9705,7 +9706,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-holodil-einstein.jpg"
         },
         {
-            "id": "692",
+            "undefined": "692",
             "author": "Лола Лафон",
             "book": "Ошибка Клео",
             "web": "fb2",
@@ -9717,7 +9718,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-lafon.jpg"
         },
         {
-            "id": "693",
+            "undefined": "693",
             "author": "Хендрик Грун",
             "book": "Живи и давай жить другим",
             "web": "mp3 fb2",
@@ -9730,7 +9731,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1.jpg"
         },
         {
-            "id": "694",
+            "undefined": "694",
             "author": "Петр Вайль и Александр Генис",
             "book": "Родная речь. Уроки изящной словесности",
             "web": "fb2",
@@ -9740,7 +9741,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-rech.jpg"
         },
         {
-            "id": "695",
+            "undefined": "695",
             "author": "Шарон Моалем",
             "book": "Лучшая половина. О генетическом превосходстве женщин",
             "web": "fb2",
@@ -9750,7 +9751,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-sharon.jpg"
         },
         {
-            "id": "696",
+            "undefined": "696",
             "author": "Владимир Набоков",
             "book": "Волшебник. Solus Rex",
             "web": "fb2",
@@ -9762,7 +9763,7 @@
             "img": "https://www.corpus.ru/picts/products/nabokov-volshebnik-1000.jpeg"
         },
         {
-            "id": "698",
+            "undefined": "698",
             "author": "Лейла Слимани",
             "book": "Страна других. Книга 1. Рождество под кипарисами",
             "web": "fb2",
@@ -9774,7 +9775,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-kiparisy.jpeg"
         },
         {
-            "id": "699",
+            "undefined": "699",
             "author": "Джонатан Франзен",
             "book": "Перекрестки",
             "web": "mp3 fb2",
@@ -9786,7 +9787,16 @@
             "img": "https://www.corpus.ru/picts/products/cover-franzen-small.jpg"
         },
         {
-            "id": "701",
+            "undefined": "700",
+            "author": "Ричард Рэнгем",
+            "book": "Парадокс добродетели. Странная история взаимоотношений нравственности и насилия в эволюции человека",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist elements2 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-paradoks.jpg"
+        },
+        {
+            "undefined": "701",
             "author": "Ларс Кеплер",
             "book": "Зеркальный человек",
             "web": "fb2",
@@ -9796,7 +9806,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-zerk-chelovek.jpeg"
         },
         {
-            "id": "702",
+            "undefined": "702",
             "author": "Альберт Санчес Пиньоль",
             "book": "Фунгус",
             "web": "mp3 fb2",
@@ -9808,7 +9818,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-fungus.jpeg"
         },
         {
-            "id": "703",
+            "undefined": "703",
             "author": "Владимир Бабков",
             "book": "Игра слов. Практика и идеология художественного перевода",
             "web": "fb2",
@@ -9821,7 +9831,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-babkov-perevod.jpeg"
         },
         {
-            "id": "705",
+            "undefined": "705",
             "author": "Азра Раза",
             "book": "Первая клетка. И чего стоит борьба с раком до последнего",
             "year": "2022",
@@ -9830,7 +9840,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-raza-azra.jpg"
         },
         {
-            "id": "706",
+            "undefined": "706",
             "author": "Михаил Фишман",
             "book": "Преемник. История Бориса Немцова и страны, в которой он не стал президентом",
             "web": "fb2",
@@ -9842,7 +9852,7 @@
             "img": "https://www.corpus.ru/picts/products/fishman-1000-small.jpeg"
         },
         {
-            "id": "707",
+            "undefined": "707",
             "author": "Аньес Мартен-Люган",
             "book": "Отель «Дача»",
             "year": "2022",
@@ -9853,7 +9863,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-lugan-dacha.jpeg"
         },
         {
-            "id": "708",
+            "undefined": "708",
             "author": "Александр Панчин",
             "book": "Сумма биотехнологии. Руководство по борьбе с мифами о генетической модификации растений, животных и людей",
             "year": "2022",
@@ -9862,7 +9872,7 @@
             "img": "https://www.corpus.ru/picts/products/panchin-summa-1000.jpeg"
         },
         {
-            "id": "709",
+            "undefined": "709",
             "author": "Кира Ярмыш",
             "book": "Харассмент",
             "web": "fb2",
@@ -9875,7 +9885,7 @@
             "img": "https://www.corpus.ru/picts/products/yarmysh-1000-sm.jpeg"
         },
         {
-            "id": "710",
+            "undefined": "710",
             "author": "Владимир Набоков",
             "book": "Ада, или Отрада",
             "web": "fb2",
@@ -9887,7 +9897,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-ada.jpg"
         },
         {
-            "id": "711",
+            "undefined": "711",
             "author": "Роберт Седрик Шеррифф",
             "book": "Две недели в сентябре",
             "web": "fb2",
@@ -9900,7 +9910,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-nedeli-sentyabre.jpeg"
         },
         {
-            "id": "712",
+            "undefined": "712",
             "author": "Джонатан Франзен",
             "book": "Поправки",
             "year": "2022",
@@ -9909,7 +9919,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-popravki-new.jpeg"
         },
         {
-            "id": "713",
+            "undefined": "713",
             "author": "Александр Староверов",
             "book": "То, что вы хотели",
             "year": "2022",
@@ -9920,7 +9930,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-staroverov.jpg"
         },
         {
-            "id": "714",
+            "undefined": "714",
             "author": "Сильвен Прюдом",
             "book": "По дорогам",
             "web": "fb2",
@@ -9932,7 +9942,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-prudom-main.jpg"
         },
         {
-            "id": "715",
+            "undefined": "715",
             "author": "Джонатан Франзен",
             "book": "Свобода",
             "year": "2022",
@@ -9941,7 +9951,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-svoboda-corpus.jpg"
         },
         {
-            "id": "716",
+            "undefined": "716",
             "author": "Мария Конникова",
             "book": "Величайший блеф. Как я научилась быть внимательной, владеть собой и побеждать",
             "year": "2022",
@@ -9952,7 +9962,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-blef.jpg"
         },
         {
-            "id": "717",
+            "undefined": "717",
             "author": "Сьюзен Спиндлер",
             "book": "Суррогатная мать",
             "web": "fb2",
@@ -9964,7 +9974,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-surrogatnoya.jpg"
         },
         {
-            "id": "718",
+            "undefined": "718",
             "author": "Олег Дорман",
             "book": "Подстрочник. Жизнь Лилианны Лунгиной, рассказанная ею в фильме Олега Дормана",
             "year": "2022",
@@ -9973,7 +9983,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-podstrochnik3.jpg"
         },
         {
-            "id": "719",
+            "undefined": "719",
             "author": "Пол Стейнхардт",
             "book": "Невозможность второго рода. Невероятные поиски новой формы вещества",
             "year": "2022",
@@ -9982,7 +9992,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-nevozmozhnost.jpg"
         },
         {
-            "id": "720",
+            "undefined": "720",
             "author": "Наима Костер",
             "book": "Что моё, что твоё",
             "year": "2022",
@@ -9993,14 +10003,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-chto-moe.jpg"
         },
         {
-            "author": "Джонатан Франзен",
-            "book": "Безгрешность",
-            "year": "2022",
-            "publisher": "Corpus",
-            "shelf": "franzen corpus wishlist 2022",
-            "img": "https://www.corpus.ru/picts/products/cover1-bezgreshnost.jpg"
-        },
-        {
+            "undefined": "721",
             "author": "Сергей Плохий",
             "book": "Забытые бастарды Восточного фронта. Американские летчики в СССР и распад антигитлеровской коалиции",
             "year": "2022",
@@ -10009,22 +10012,25 @@
             "img": "https://www.corpus.ru/picts/products/cover1-plohiy-bastardy.jpg"
         },
         {
-            "author": "Ричард Рэнгем",
-            "book": "Парадокс добродетели. Странная история взаимоотношений нравственности и насилия в эволюции человека",
+            "undefined": "722",
+            "author": "Бен Макинтайр",
+            "book": "Агент Соня. Любовница, мать, шпионка, боец",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist elements2 2022",
-            "img": "https://www.corpus.ru/picts/products/cover1-paradoks.jpg"
+            "shelf": "corpus razvedcorpus makintair wishlist new 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-shpionka-sonya.jpg"
         },
         {
-            "author": "Владимир Набоков",
-            "book": "Дар",
+            "undefined": "723",
+            "author": "Джонатан Франзен",
+            "book": "Безгрешность",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new 2022",
-            "img": "https://www.corpus.ru/picts/products/cover1-dar.jpg"
+            "shelf": "franzen corpus wishlist 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-bezgreshnost.jpg"
         },
         {
+            "undefined": "724",
             "author": "Франсуа-Анри Дезерабль",
             "book": "Властитель мой и господин",
             "year": "2022",
@@ -10033,12 +10039,13 @@
             "img": "https://cdn.ast.ru/v2/ASE000000000861985/COVER/cover1__w600.jpg"
         },
         {
-            "author": "Бен Макинтайр",
-            "book": "Агент Соня. Любовница, мать, шпионка, боец",
+            "undefined": "725",
+            "author": "Владимир Набоков",
+            "book": "Дар",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus razvedcorpus makintair wishlist new 2022",
-            "img": "https://www.corpus.ru/picts/products/cover1-shpionka-sonya.jpg"
+            "shelf": "corpus nabokov wishlist new 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-dar.jpg"
         },
         {
             "author": "Дженнифер Сэйнт",
@@ -10153,7 +10160,7 @@
             "img": "https://s1.livelib.ru/boocover/1000607191/o/f66c/Vladimir_Nabokov__Vesna_v_Fialte_sbornik.jpeg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "book": "Происхождение жизни. Наука и вера",
             "year": "2009",
             "buyDate": "8/23/20",
@@ -10163,7 +10170,7 @@
             "img": "https://s1.livelib.ru/boocover/1000427601/o/6e4d/__Proishozhdenie_zhizni._Nauka_i_vera.jpeg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "book": "Очарованный остров. Новые сказки об Италии",
             "year": "2014",
             "buyDate": "8/23/20",
@@ -10173,7 +10180,7 @@
             "img": "https://www.corpus.ru/picts/products/Ocharovannyi-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Томас Скарлетт",
             "book": "Наваждение Люмаса",
             "year": "2010",
@@ -10182,7 +10189,7 @@
             "img": "https://www.corpus.ru/picts/products/Thomas-Liumas-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Джон Ле Карре",
             "book": "Шпион, выйди вон!",
             "year": "2011",
@@ -10193,7 +10200,7 @@
             "img": "https://www.corpus.ru/picts/products/LeCarre-Spy-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Джон Ле Карре",
             "book": "Ночной администратор",
             "year": "2016",
@@ -10202,7 +10209,7 @@
             "img": "https://www.corpus.ru/picts/products/LeCarre-Night_Manager-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Джон Ле Карре",
             "book": "Самый опасный человек",
             "year": "2014",
@@ -10213,7 +10220,7 @@
             "img": "https://www.corpus.ru/picts/products/LeCarre-Opasen-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Джон Ле Карре",
             "book": "Такой же предатель, как мы",
             "year": "2016",
@@ -10222,7 +10229,7 @@
             "img": "https://www.corpus.ru/picts/products/Le-Karre-Predatel-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Олег Радзинский",
             "book": "Агафонкин и Время",
             "year": "2014",
@@ -10233,7 +10240,7 @@
             "img": "https://www.corpus.ru/picts/products/agafonkin.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Мелани Гидеон",
             "book": "Жена-22",
             "year": "2013",
@@ -10244,7 +10251,7 @@
             "img": "https://www.corpus.ru/picts/products/gideon-wife-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Любомир Левчев",
             "book": "Ты следующий",
             "year": "2012",
@@ -10255,7 +10262,7 @@
             "img": "https://www.corpus.ru/picts/products/Levchev-next-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Томас Скарлетт",
             "book": "Наша трагическая вселенная",
             "year": "2011",
@@ -10266,7 +10273,7 @@
             "img": "https://www.corpus.ru/picts/products/thomas-vselennaia-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Оля Ватова",
             "book": "Всё самое важное",
             "year": "2014",
@@ -10277,7 +10284,7 @@
             "img": "https://www.corpus.ru/picts/products/WATOWA-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Иван Чистяков",
             "book": "Сибирской дальней стороной. Дневник охранника БАМа, 1935-1936",
             "year": "2014",
@@ -10288,7 +10295,7 @@
             "img": "https://www.corpus.ru/picts/products/chistyakov-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Франсуа Лелорд",
             "book": "Путешествие Гектора в поисках счастья",
             "year": "2014",
@@ -10299,7 +10306,7 @@
             "img": "https://www.corpus.ru/picts/products/Lelord-Hektor.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Иэн Сэнсом",
             "book": "Бумага. О самом хрупком и вечном материале",
             "year": "2015",
@@ -10310,7 +10317,7 @@
             "img": "https://www.corpus.ru/picts/products/Sansom-Paper-Super-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Дон Уинслоу",
             "book": "Особо опасны",
             "year": "2012",
@@ -10319,7 +10326,7 @@
             "img": "https://www.corpus.ru/picts/products/winslow-savages-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Давид Фонкинос",
             "book": "Нежность",
             "web": "fb2",
@@ -10331,7 +10338,7 @@
             "img": "https://www.corpus.ru/picts/products/foenkinos-nejnost-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Ирина Фуфаева",
             "book": "Как называются женщины. Феминитивы: история, устройство, конкуренция",
             "web": "fb2",
@@ -10343,7 +10350,7 @@
             "img": "https://www.corpus.ru/picts/products/Fufaeva-Women-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Наталья Конрадова",
             "book": "Археология русского интернета",
             "year": "2021",
@@ -10354,7 +10361,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-runet.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Уолтер Айзексон",
             "book": "Стив Джобс",
             "buyDate": "6/24/14",
@@ -10364,7 +10371,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-ajzekson-stiv-dzhobs.jpeg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Уолтер Айзексон",
             "book": "Эйнштейн. Его жизнь и вселенная",
             "buyDate": "10/13/15",
@@ -10374,7 +10381,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Isaacson-Einstein-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Уолтер Айзексон",
             "book": "Инноваторы. Как несколько гениев, хакеров и гиков совершили цифровую революцию",
             "buyDate": "10/13/15",
@@ -10384,7 +10391,7 @@
             "img": "https://www.corpus.ru/picts/products/Isaacson-Innovators-super1.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Виктор Шендерович",
             "book": "Неснятое кино",
             "year": "2009",
@@ -10395,7 +10402,7 @@
             "img": "https://www.corpus.ru/picts/products/Shenderovich-Kino-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Виктор Шендерович",
             "book": "Операция «Остров»",
             "year": "2010",
@@ -10406,7 +10413,7 @@
             "img": "https://www.corpus.ru/picts/products/Shenderovich-Ostrov-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Виктор Шендерович",
             "book": "Евроремонт",
             "year": "2012",
@@ -10417,7 +10424,7 @@
             "img": "https://www.corpus.ru/picts/products/shenderovich-evroremont-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Софи Оксанен",
             "book": "Когда исчезли Голуби",
             "year": "2014",
@@ -10428,7 +10435,7 @@
             "img": "https://www.corpus.ru/picts/products/Oksanen-Golubi-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Роман Канушкин",
             "book": "Мальчик Пого",
             "year": "2012",
@@ -10439,7 +10446,7 @@
             "img": "https://www.corpus.ru/picts/products/Kanushkin-Pogo-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Арнальд Индридасон",
             "book": "Пересыхающее озеро",
             "year": "2013",
@@ -10450,7 +10457,7 @@
             "img": "https://www.corpus.ru/picts/products/Indridason-Ozero-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Алессандро Барикко",
             "book": "Дон Жуан",
             "year": "2013",
@@ -10461,7 +10468,7 @@
             "img": "https://www.corpus.ru/picts/products/don-juan.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Умберто Эко",
             "book": "Обрученные",
             "year": "2013",
@@ -10470,7 +10477,7 @@
             "img": "https://www.corpus.ru/picts/products/Eco-Obruchennye-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Стефано Бенни",
             "book": "Сирано де Бержерак",
             "year": "2013",
@@ -10481,7 +10488,7 @@
             "img": "https://www.corpus.ru/picts/products/Benni-Sirano-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Шон Кэролл",
             "book": "Бесконечное число самых прекрасных форм",
             "year": "2015",
@@ -10492,7 +10499,7 @@
             "img": "https://www.corpus.ru/picts/products/Carroll-Beskonechnoe-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Ричард Докинз",
             "book": "Расплетая радугу. Наука, заблуждения и потребность изумляться",
             "year": "2020",
@@ -10503,7 +10510,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-cover-dawkins-raduga.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Ричард Докинз",
             "book": "Самое грандиозное шоу на Земле: доказательства эволюции",
             "year": "2014",
@@ -10514,7 +10521,7 @@
             "img": "https://www.corpus.ru/picts/products/dawkins-show-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Пико Айер",
             "book": "Искусство покоя. Захватывающие приключения в полной неподвижности",
             "buyDate": "10/1/20",
@@ -10524,7 +10531,7 @@
             "img": "https://www.corpus.ru/picts/products/Iyer-Stillness-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Давид Монтеагудо",
             "book": "Конец",
             "year": "2012",
@@ -10535,7 +10542,7 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-monteagudo-the-end-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Батист Болье",
             "book": "Тысяча и одна ночь отделения скорой помощи",
             "publisher": "Corpus",
@@ -10543,7 +10550,7 @@
             "img": "https://cdn1.ozone.ru/multimedia/wc1200/1012341536.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Аньес Мартен-Люган",
             "book": "Счастливые люди читают книжки и пьют кофе",
             "publisher": "Corpus",
@@ -10551,7 +10558,7 @@
             "img": "https://www.corpus.ru/picts/products/Martin-Lugand-Comix-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Алексей Моторов",
             "book": "Юные годы медбрата Паровозова",
             "year": "2015",
@@ -10560,7 +10567,7 @@
             "img": "https://www.corpus.ru/picts/products/Motorov-Parovozov-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Алексей Моторов",
             "book": "Преступление доктора Паровозова",
             "year": "2015",
@@ -10569,7 +10576,7 @@
             "img": "https://www.corpus.ru/picts/products/Motorov-Prestuplenie-1000-1.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Василий Гроссман и Илья Эренбург",
             "book": "Черная книга",
             "year": "2014",
@@ -10580,7 +10587,7 @@
             "img": "https://s1.livelib.ru/boocover/1001071574/o/e743/__Chernaya_kniga.jpeg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Василий Гроссман и Илья Эренбург",
             "book": "Неизвестная «Черная книга»",
             "year": "2014",
@@ -10591,7 +10598,7 @@
             "img": "https://s1.livelib.ru/boocover/1001105814/o/73f8/bez_avtora__Neizvestnaya_ampquotChernaya_knigaampquot._Materialy_k_ampquotCherno.jpeg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Ричард Коэн",
             "book": "В погоне за Солнцем",
             "year": "2013",
@@ -10602,7 +10609,7 @@
             "img": "https://cdn1.ozone.ru/multimedia/wc1200/1011334022.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Эрин Моргенштерн",
             "book": "Ночной цирк",
             "year": "2013",
@@ -10611,7 +10618,7 @@
             "img": "https://s1.livelib.ru/boocover/1000549185/o/a781/Erin_Morgenshtern__Nochnoj_tsirk.jpeg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Эрин Моргенштерн",
             "book": "Ночной цирк",
             "year": "2015",
@@ -10620,7 +10627,7 @@
             "img": "https://s1.livelib.ru/boocover/1001152587/o/ab36/Erin_Morgenshtern__Nochnoj_tsirk.jpeg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Эрин Моргенштерн",
             "book": "Ночной цирк",
             "year": "2019",
@@ -10629,7 +10636,7 @@
             "img": "https://www.corpus.ru/picts/products/Morgenstern-Circus-obl.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Ханна Фрай",
             "book": "Hello World",
             "year": "2020",
@@ -10640,7 +10647,7 @@
             "img": "https://www.corpus.ru/picts/products/cover-frai-hello.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Оливер Мортон",
             "book": "Луна. История будущего",
             "web": "fb2",
@@ -10652,7 +10659,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-luna.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Джеймс Глик",
             "book": "Хаос. Создание новой науки",
             "web": "fb2",
@@ -10664,7 +10671,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-glick.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Майкл Газзанига",
             "book": "Истории от разных полушарий мозга. Жизнь в нейронауке",
             "web": "fb2",
@@ -10676,7 +10683,7 @@
             "img": "https://www.corpus.ru/picts/products/Gazzaniga-Mozg-1000.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Майкл Газзанига",
             "book": "Кто за главного? Свобода воли с точки зрения нейробиологии",
             "web": "fb2",
@@ -10688,7 +10695,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-glavnogo.jpg"
         },
         {
-            "id": "n",
+            "undefined": "n",
             "author": "Майкл Газзанига",
             "book": "Сознание как инстинкт. Загадки мозга: откуда берется психика",
             "web": "fb2",
@@ -11809,7 +11816,7 @@
             "author": "Карстен Себастиан Хенн",
             "book": "Служба доставки книг",
             "year": "2022",
-            "buyDate": "8/15/22",
+            "buyDate": "8/20/22",
             "price": "379",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif bookstore 2022",
@@ -12216,7 +12223,7 @@
             "author": "Лин Рина",
             "book": "Элиза Хеммильтон. Происшествие в Ист-Энде",
             "year": "2022",
-            "buyDate": "7/31/22",
+            "buyDate": "8/20/22",
             "price": "415",
             "publisher": "Freedom",
             "shelf": "eksmo bookstore rina animant-kramb 2022",
@@ -12389,7 +12396,7 @@
             "year": "2006",
             "buyDate": "10/29/21",
             "price": "250",
-            "shelf": "bookstore osten",
+            "shelf": "fauler bookstore osten",
             "img": "https://img4.labirint.ru/rc/9032c317657e7db8439a83839db0b5b7/594x918/books13/121988/cover.jpg?1280394613"
         },
         {
@@ -12406,7 +12413,7 @@
             "author": "Рейчел Гивни",
             "book": "Влюбленная Джейн",
             "year": "2022",
-            "buyDate": "7/31/22",
+            "buyDate": "8/20/22",
             "price": "374",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria osten 2022",
@@ -12534,7 +12541,7 @@
             "author": "Омид Скоби и Кэролин Дюран",
             "book": "Гарри и Меган. Выбирая свободу",
             "year": "2022",
-            "buyDate": "7/31/22",
+            "buyDate": "8/20/22",
             "price": "348",
             "publisher": "Эксмо",
             "shelf": "eksmo 2022",
@@ -12793,6 +12800,7 @@
             "buyDate": "3/14/21",
             "readDate": "7/10/22",
             "price": "420",
+            "publisher": "БОС",
             "shelf": "fsb 2020",
             "img": "https://cdn1.ozone.ru/s3/multimedia-v/wc1200/6017651479.jpg"
         },
@@ -13012,6 +13020,7 @@
         {
             "author": "Эйвери Бишоп",
             "book": "Школа безумия",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo black wishlist 2022",
@@ -13023,7 +13032,7 @@
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo black wishlist 2022",
-            "img": "https://i0.wp.com/www.thisishorror.co.uk/wp-content/uploads/2020/11/Chasing-the-Boogeyman-scaled.jpg?resize=1017%2C1536&ssl=1"
+            "img": "https://s1.livelib.ru/boocover/1007432860/o/d5c2/Richard_Chizmar__Ohota_na_Bugimena.jpeg"
         },
         {
             "author": "Джулия Клэйборн Джонсон",
@@ -13049,6 +13058,7 @@
         {
             "author": "Брендон Тейлор",
             "book": "Настоящая жизнь",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "11/28/21",
             "price": "350",
@@ -13229,6 +13239,7 @@
         {
             "author": "Патриция Локвуд",
             "book": "О таком не говорят",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "7/18/22",
             "price": "322",
@@ -13242,6 +13253,7 @@
             "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "7/8/22",
+            "readDate": "8/1/22",
             "price": "337",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria 2022",
