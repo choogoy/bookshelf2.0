@@ -12413,8 +12413,8 @@
             "author": "Рейчел Гивни",
             "book": "Влюбленная Джейн",
             "year": "2022",
-            "buyDate": "8/20/22",
-            "price": "374",
+            "buyDate": "8/4/22",
+            "price": "359",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria osten 2022",
             "img": "https://s1.livelib.ru/boocover/1007401435/o/7a31/Rejchel_Givni__Vlyublennaya_Dzhejn.jpeg"
@@ -13056,6 +13056,120 @@
             "img": "https://s1.livelib.ru/boocover/1006778734/o/2556/Dzhuliya_Dzhonson__Bud_so_mnoj_chesten.jpeg"
         },
         {
+            "author": "Барбара Абель",
+            "book": "Инстинкт матери",
+            "web": "mp3 fb2",
+            "year": "2022",
+            "buyDate": "7/8/22",
+            "readDate": "8/1/22",
+            "price": "337",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001252317/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Лора Дэйв",
+            "book": "Последнее, что он сказал мне",
+            "web": "mp3 fb2",
+            "year": "2022",
+            "buyDate": "6/1/22",
+            "readDate": "8/3/22",
+            "price": "325",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria 2022",
+            "img": "https://s1.livelib.ru/boocover/1007280886/o/27fd/Laura_Dejv__Poslednee_chto_on_skazal_mne.jpeg"
+        },
+        {
+            "author": "Брайан Фриман",
+            "book": "Бесконечность",
+            "web": "fb2",
+            "year": "2022",
+            "buyDate": "5/20/22",
+            "price": "378",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria 2022",
+            "img": "https://s1.livelib.ru/boocover/1007281492/o/04e1/Brajan_Friman__Beskonechnost.jpeg"
+        },
+        {
+            "author": "Луи Байяр",
+            "book": "Всевидящее око",
+            "year": "2022",
+            "buyDate": "8/4/22",
+            "price": "385",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria 2022",
+            "img": "https://s1.livelib.ru/boocover/1006896874/o/f869/Lui_Bajyar__Vsevidyaschee_oko.jpeg"
+        },
+        {
+            "author": "Патриция Локвуд",
+            "book": "Святой папочка",
+            "year": "2021",
+            "buyDate": "6/30/22",
+            "price": "510",
+            "publisher": "Livebook",
+            "shelf": "livebook lockwood 2021",
+            "img": "https://s1.livelib.ru/boocover/1007018590/o/11f5/Patritsiya_Lokvud__Svyatoj_papochka.jpeg"
+        },
+        {
+            "author": "Патриция Локвуд",
+            "book": "О таком не говорят",
+            "web": "fb2",
+            "year": "2022",
+            "buyDate": "7/18/22",
+            "price": "322",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria lockwood buker 2022",
+            "img": "https://s1.livelib.ru/boocover/1007315596/o/2034/Patritsiya_Lokvud__O_takom_ne_govoryat.jpeg"
+        },
+        {
+            "author": "Бернадин Эваристо",
+            "book": "Девушка, женщина, иная",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria buker wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005524107/o/95e6/Bernardin_Evaristo__Devushka_zhenschina_inaya.jpeg"
+        },
+        {
+            "author": "Марике Рейневелд",
+            "book": "Неловкий вечер",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria buker wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005524104/o/a156/Marike_Lukas_Rejneveld__Nelovkij_vecher.jpeg"
+        },
+        {
+            "author": "Си Памжань",
+            "book": "Сколько золота в этих холмах",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria buker wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006002460/o/b7d0/Si_Pamzhan__Skolko_zolota_v_etih_holmah.jpeg"
+        },
+        {
+            "author": "Габриэл Краузе",
+            "book": "Кто они такие",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria buker wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006002451/o/8b12/Gabriel_Krauze__Kto_oni_takie.jpeg"
+        },
+        {
+            "author": "Авни Доши",
+            "book": "Жженый сахар",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria buker wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006149520/o/33bc/Avni_Doshi__Zhzhenyj_sahar.jpeg"
+        },
+        {
+            "author": "Фернанда Мельчор",
+            "book": "Время ураганов",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria buker wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006149517/o/7a86/Fernanda_Melchor__Vremya_uraganov.jpeg"
+        },
+        {
             "author": "Брендон Тейлор",
             "book": "Настоящая жизнь",
             "web": "fb2",
@@ -13063,8 +13177,16 @@
             "buyDate": "11/28/21",
             "price": "350",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria 2021",
+            "shelf": "eksmo inspiria buker 2021",
             "img": "https://cdn.book24.ru/v2/ITD000000001153056/COVER/cover13d__w410.webp"
+        },
+        {
+            "author": "Цици Дангарембга",
+            "book": "Безутешная плоть",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria buker wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006285753/o/e329/Tsitsi_Dangarembga__Bezuteshnaya_plot.jpeg"
         },
         {
             "author": "Дуглас Стюарт",
@@ -13075,6 +13197,46 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria buker 2021",
             "img": "https://s1.livelib.ru/boocover/1006855729/o/b650/Duglas_Styuart__Shaggi_Bejn.jpeg"
+        },
+        {
+            "author": "Диана Кук",
+            "book": "Новые Дебри",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria buker wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1006848763/o/f813/Diana_Kuk__Novye_Debri.jpeg"
+        },
+        {
+            "author": "Давид Диоп",
+            "book": "Ночью вся кровь черная",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria buker wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007129941/o/3b7d/David_Diop__Nochyu_vsya_krov_chernaya.jpeg"
+        },
+        {
+            "author": "Софи Уорд",
+            "book": "Любовь и другие мысленные эксперименты",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria buker wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007315761/o/084a/Sofi_Uord__Lyubov_i_drugie_myslennye_eksperimenty.jpeg"
+        },
+        {
+            "author": "Мааза Менгисте",
+            "book": "Царская тень",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria buker wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007365780/o/092c/Maaza_Mengiste__Tsarskaya_ten.jpeg"
+        },
+        {
+            "author": "Джордж Сондерс",
+            "book": "Купание в пруду под дождем",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria buker wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007018722/o/5061/Dzhordzh_Sonders__Kupanie_v_prudu_pod_dozhdem.jpeg"
         },
         {
             "author": "Дэймон Гэлгут",
@@ -13197,75 +13359,13 @@
         {
             "author": "Сара Дензил",
             "book": "Безмолвное дитя",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "7/13/22",
             "price": "344",
             "publisher": "АСТ",
             "shelf": "ast puzzle 2022",
             "img": "https://s1.livelib.ru/boocover/1007316397/o/fab9/Sara_Denzil__Bezmolvnoe_ditya.jpeg"
-        },
-        {
-            "author": "Брайан Фриман",
-            "book": "Бесконечность",
-            "web": "fb2",
-            "year": "2022",
-            "buyDate": "5/20/22",
-            "price": "378",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria 2022",
-            "img": "https://s1.livelib.ru/boocover/1007281492/o/04e1/Brajan_Friman__Beskonechnost.jpeg"
-        },
-        {
-            "author": "Лора Дэйв",
-            "book": "Последнее, что он сказал мне",
-            "web": "mp3 fb2",
-            "year": "2022",
-            "buyDate": "6/1/22",
-            "price": "325",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria 2022",
-            "img": "https://s1.livelib.ru/boocover/1007280886/o/27fd/Laura_Dejv__Poslednee_chto_on_skazal_mne.jpeg"
-        },
-        {
-            "author": "Патриция Локвуд",
-            "book": "Святой папочка",
-            "year": "2021",
-            "buyDate": "6/30/22",
-            "price": "510",
-            "publisher": "Livebook",
-            "shelf": "livebook lockwood 2021",
-            "img": "https://s1.livelib.ru/boocover/1007018590/o/11f5/Patritsiya_Lokvud__Svyatoj_papochka.jpeg"
-        },
-        {
-            "author": "Патриция Локвуд",
-            "book": "О таком не говорят",
-            "web": "fb2",
-            "year": "2022",
-            "buyDate": "7/18/22",
-            "price": "322",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria lockwood 2022",
-            "img": "https://s1.livelib.ru/boocover/1007315596/o/2034/Patritsiya_Lokvud__O_takom_ne_govoryat.jpeg"
-        },
-        {
-            "author": "Барбара Абель",
-            "book": "Инстинкт матери",
-            "web": "mp3 fb2",
-            "year": "2022",
-            "buyDate": "7/8/22",
-            "readDate": "8/1/22",
-            "price": "337",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001252317/COVER/cover1__w820.jpg"
-        },
-        {
-            "author": "Луи Байяр",
-            "book": "Всевидящее око",
-            "year": "2022",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1006896874/o/f869/Lui_Bajyar__Vsevidyaschee_oko.jpeg"
         },
         {
             "author": "Марк Биллингхэм",
@@ -13296,8 +13396,10 @@
             "book": "Тайный клуб психопатов",
             "web": "fb2",
             "year": "2022",
+            "buyDate": "8/4/22",
+            "price": "355",
             "publisher": "Эксмо",
-            "shelf": "eksmo wishlist new 2022",
+            "shelf": "eksmo 2022",
             "img": "https://s1.livelib.ru/boocover/1007315803/o/d546/Vera_Kurian__Tajnyj_klub_psihopatov.jpeg"
         },
         {
