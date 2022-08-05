@@ -8085,6 +8085,7 @@
             "id": "479",
             "author": "Джоби Уоррик",
             "book": "Черные флаги. Ближний Восток на рубеже тысячелетий",
+            "web": "fb2",
             "year": "2018",
             "buyDate": "1/21/22",
             "price": "322",
@@ -8566,6 +8567,7 @@
             "id": "545",
             "author": "Джонатан Франзен",
             "book": "Конец конца земли",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "11/14/19",
             "price": "374",
@@ -8604,6 +8606,7 @@
             "id": "552",
             "author": "Мишель Уэльбек",
             "book": "Серотонин",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "11/14/19",
             "price": "639",
@@ -12927,7 +12930,7 @@
         {
             "author": "Эйлин Гарвин",
             "book": "Музыка пчел",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "6/23/22",
             "price": "412",
@@ -12996,7 +12999,7 @@
         {
             "author": "Тиффани Джексон",
             "book": "Никто не видел Мандей",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo black wishlist 2022",
@@ -13127,25 +13130,25 @@
         {
             "author": "Бернадин Эваристо",
             "book": "Девушка, женщина, иная",
-            "web": "fb2",
-            "year": "2021",
+            "web": "mp3 fb2",
+            "year": "2020",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria buker wishlist 2021",
+            "shelf": "eksmo inspiria buker wishlist 2020",
             "img": "https://s1.livelib.ru/boocover/1005524107/o/95e6/Bernardin_Evaristo__Devushka_zhenschina_inaya.jpeg"
         },
         {
             "author": "Марике Рейневелд",
             "book": "Неловкий вечер",
-            "web": "fb2",
-            "year": "2021",
+            "web": "mp3 fb2",
+            "year": "2020",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria buker wishlist 2021",
+            "shelf": "eksmo inspiria buker wishlist 2020",
             "img": "https://s1.livelib.ru/boocover/1005524104/o/a156/Marike_Lukas_Rejneveld__Nelovkij_vecher.jpeg"
         },
         {
             "author": "Си Памжань",
             "book": "Сколько золота в этих холмах",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria buker wishlist 2021",
@@ -13163,6 +13166,7 @@
         {
             "author": "Авни Доши",
             "book": "Жженый сахар",
+            "web": "mp3",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria buker wishlist 2021",
@@ -13171,7 +13175,7 @@
         {
             "author": "Фернанда Мельчор",
             "book": "Время ураганов",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria buker wishlist 2021",
@@ -13218,7 +13222,7 @@
         {
             "author": "Давид Диоп",
             "book": "Ночью вся кровь черная",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria buker wishlist 2022",
@@ -13447,6 +13451,128 @@
             "img": "https://s1.livelib.ru/boocover/1007166733/o/4440/Tereza_Driskoll__Do_samoj_smerti.jpeg"
         },
         {
+            "author": "Крис Уитакер",
+            "book": "Мы начинаем в конце",
+            "web": "mp3 fb2",
+            "year": "2020",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist crime-fiction 2020",
+            "img": "https://s1.livelib.ru/boocover/1006773847/o/a464/Kris_Uitaker__My_nachinaem_v_kontse.jpeg"
+        },
+        {
+            "author": "Нэнси Такер",
+            "book": "Первый день весны",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist crime-fiction 2022",
+            "img": "https://s1.livelib.ru/boocover/1006948636/o/f6c5/Nensi_Taker__Pervyj_den_vesny.jpeg"
+        },
+        {
+            "author": "Кэрол Джонстон",
+            "book": "Зеркальная страна",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist crime-fiction 2022",
+            "img": "https://s1.livelib.ru/boocover/1007362831/o/1e58/Kerol_Dzhonston__Zerkalnaya_strana.jpeg"
+        },
+        {
+            "author": "Карин Слотер",
+            "book": "Хорошая дочь",
+            "web": "mp3 fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist sloter 2022",
+            "img": "https://s1.livelib.ru/boocover/1006950436/o/5c6d/Karin_Sloter__Horoshaya_doch.jpeg"
+        },
+        {
+            "author": "Карин Слотер",
+            "book": "Осколки прошлого",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist slouter 202"
+        },
+        {
+            "author": "Грегг Олсен",
+            "book": "Не говори никому. Реальная история сестер, выросших с матерью-убийцей",
+            "web": "mp3 fb2",
+            "year": "2020",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist true-crime-story 2020",
+            "img": "https://s1.livelib.ru/boocover/1004786476/o/3f4a/Gregg_Olsen__Ne_govori_nikomu._Realnaya_istoriya_sester_vyrosshih_s_materyuubijt.jpeg"
+        },
+        {
+            "author": "Дэвид Кроу",
+            "book": "Бледнолицая ложь. Как я помогал отцу в его преступлениях",
+            "web": "mp3 fb2",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist true-crime-story 2021",
+            "img": "https://s1.livelib.ru/boocover/1005801988/o/93d7/Devid_Krou__Blednolitsaya_lozh._Kak_ya_pomogal_ottsu_v_ego_prestupleniyah.jpeg"
+        },
+        {
+            "author": "Филип Карло",
+            "book": "Ночной охотник. История серийного убийцы Ричарда Рамиреса",
+            "web": "mp3",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist true-crime-story 2021",
+            "img": "https://s1.livelib.ru/boocover/1006778701/o/965e/Filip_Karlo__Nochnoj_ohotnik._Istoriya_serijnogo_ubijtsy_Richarda_Ramiresa.jpeg"
+        },
+        {
+            "author": "Энн Рул",
+            "book": "Убийца рядом со мной. Мой друг — серийный маньяк Тед Банди",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist true-crime-story 2021",
+            "img": "https://s1.livelib.ru/boocover/1005608713/o/5b2b/Enn_Rul__Ubijtsa_ryadom_so_mnoj._Moj_drug__serijnyj_manyak_Ted_Bandi.jpeg"
+        },
+        {
+            "author": "Рой Венцль, Тим Поттер, Л. Келли и Лавиана Херст",
+            "book": "Связать. Пытать. Убить. История BTK, маньяка в овечьей шкуре",
+            "web": "mp3 fb2",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist btk true-crime-story 2021",
+            "img": "https://s1.livelib.ru/boocover/1006234705/o/dcdd/__Svyazat._Pytat._Ubit._Istoriya_BTK_manyaka_v_ovechej_shkure.jpeg"
+        },
+        {
+            "author": "Брайан Мастерс",
+            "book": "Убийство ради компании. История серийного убийцы Денниса Нильсена",
+            "web": "mp3 fb2",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist masters true-crime-story 2021",
+            "img": "https://s1.livelib.ru/boocover/1006164565/o/f537/Brajan_Masters__Ubijstvo_radi_kompanii._Istoriya_serijnogo_ubijtsy_Dennisa_Nilse.jpeg"
+        },
+        {
+            "author": "Брайан Мастерс",
+            "book": "Алтарь смерти. История маньяка-каннибала Джеффри Дамера",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist masters true-crime-story 2022",
+            "img": "https://s1.livelib.ru/boocover/1007092792/o/f6ca/Brajan_Masters__Altar_smerti._Istoriya_manyakakannibala_Dzheffri_Damera.jpeg"
+        },
+        {
+            "author": "Лайза Родман и Дженнифер Джордан",
+            "book": "Нянька. Меня воспитывал серийный убийца",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist true-crime-story 2022",
+            "img": "https://s1.livelib.ru/boocover/1006867486/o/1dc1/__Nyanka._Menya_vospityval_serijnyj_ubijtsa.jpeg"
+        },
+        {
+            "author": "Мэй Уэст и Нил Маккей",
+            "book": "Люблю тебя, мама. Мои родители — маньяки Фред и Розмари Уэст",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist true-crime-story 2022",
+            "img": "https://s1.livelib.ru/boocover/1007404531/o/d407/__Lyublyu_tebya_mama._Moi_roditeli__manyaki_Fred_i_Rozmari_Uest.jpeg"
+        },
+        {
             "author": "Джейн Шемилт",
             "book": "Дочь",
             "web": "mp3 fb2",
@@ -13474,7 +13600,7 @@
         {
             "author": "Лайза Джуэлл",
             "book": "Опасные соседи",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria jewell wishlist 2021",
@@ -13483,7 +13609,7 @@
         {
             "author": "Лайза Джуэлл",
             "book": "Невидимая девушка",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria jewell wishlist 2021",
@@ -13505,7 +13631,7 @@
             "year": "2021",
             "readDate": "4/6/22",
             "publisher": "Азбука",
-            "shelf": "ragnar wishlist",
+            "shelf": "ragnar wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1007034787/o/2ea3/Ragnar_Jonasson__Snezhnaya_slepota.jpeg"
         },
         {
@@ -13513,6 +13639,7 @@
             "book": "Мгла",
             "web": "mp3 fb2",
             "year": "2022",
+            "readDate": "8/5/22",
             "publisher": "Азбука",
             "shelf": "ragnar wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007342029/o/5e7e/Ragnar_Jonasson__Mgla.jpeg"
