@@ -9145,6 +9145,7 @@
             "id": "624",
             "author": "Анне Катрине Боман",
             "book": "Агата",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "2/1/21",
             "readDate": "3/17/21",
@@ -10040,7 +10041,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus dezerabl wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000861985/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-deserabl.jpg"
         },
         {
             "id": "725",
@@ -10333,9 +10334,10 @@
             "id": "n",
             "author": "Давид Фонкинос",
             "book": "Нежность",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2012",
             "buyDate": "8/5/20",
+            "readDate": "8/6/22",
             "price": "114",
             "publisher": "Corpus",
             "shelf": "fonkinos corpus",
@@ -10643,6 +10645,7 @@
             "id": "n",
             "author": "Ханна Фрай",
             "book": "Hello World",
+            "web": "mp3",
             "year": "2020",
             "buyDate": "11/4/20",
             "price": "459.07",
@@ -11820,8 +11823,8 @@
             "author": "Карстен Себастиан Хенн",
             "book": "Служба доставки книг",
             "year": "2022",
-            "buyDate": "8/20/22",
-            "price": "379",
+            "buyDate": "8/7/22",
+            "price": "278",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif bookstore 2022",
             "img": "https://s1.livelib.ru/boocover/1007355955/o/618a/Karsten_Sebastian_Henn__Sluzhba_dostavki_knig.jpeg"
@@ -11905,7 +11908,7 @@
         {
             "author": "Джули Кэплин",
             "book": "Уютная кондитерская в Париже",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "6/19/22",
             "price": "329",
@@ -13491,7 +13494,7 @@
             "book": "Осколки прошлого",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria wishlist slouter 202"
+            "shelf": "eksmo inspiria wishlist slouter 2022"
         },
         {
             "author": "Грегг Олсен",
