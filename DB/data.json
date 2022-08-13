@@ -1,4 +1,4 @@
-﻿{
+{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -542,7 +542,7 @@
             "author": "Владимир Сорокин",
             "book": "De feminis",
             "year": "2022",
-            "buyDate": "8/20/22",
+            "buyDate": "8/11/22",
             "price": "468",
             "publisher": "Corpus",
             "shelf": "corpus sorokin 2022",
@@ -4486,9 +4486,19 @@
         {
             "author": "Александр Шевякин",
             "book": "Кто готовил развал СССР",
+            "web": "fb2",
             "buyDate": "12/25/20",
             "shelf": "gift",
             "img": "https://mmedia.ozone.ru/multimedia/1018910024.jpg"
+        },
+        {
+            "author": "Андрей Грачев",
+            "book": "Последний день СССР. Свидетельство очевидца. Воспоминания помощника президента Советского Союза",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007383783/o/e7f8/Andrej_Grachjov__Poslednij_den_SSSR._Svidetelstvo_ochevidtsa.jpeg"
         },
         {
             "author": "Жиль Легардинье",
@@ -7362,7 +7372,7 @@
             "buyDate": "11/9/21",
             "price": "720",
             "publisher": "Corpus",
-            "shelf": "corpus razvedcorpus",
+            "shelf": "corpus hoffman",
             "img": "https://www.corpus.ru/picts/products/Hoffman-Spy-1000.jpg"
         },
         {
@@ -7877,7 +7887,7 @@
             "book": "Шпион на миллиард долларов",
             "year": "2017",
             "publisher": "Corpus",
-            "shelf": "corpus razvedcorpus wishlist",
+            "shelf": "corpus hoffman razvedcorpus wishlist",
             "img": "https://www.corpus.ru/picts/products/shpion-na-milliard-dollarov.jpg"
         },
         {
@@ -10347,7 +10357,7 @@
             "id": "n",
             "author": "Ирина Фуфаева",
             "book": "Как называются женщины. Феминитивы: история, устройство, конкуренция",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "11/6/21",
             "price": "394",
@@ -11168,11 +11178,11 @@
         },
         {
             "author": "Мона Кастен",
-            "book": "Dream Again",
+            "book": "Снова мечтай. Книга 5",
             "year": "2022",
             "publisher": "Like Book",
             "shelf": "like-book kasten wishlist new 2022",
-            "img": "https://s1.livelib.ru/boocover/1004658820/200x305/c980/boocover.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007462377/o/4b2a/Mona_Kasten__Snova_mechtaj.jpeg"
         },
         {
             "author": "Мона Кастен",
@@ -12230,7 +12240,7 @@
             "author": "Лин Рина",
             "book": "Элиза Хеммильтон. Происшествие в Ист-Энде",
             "year": "2022",
-            "buyDate": "8/20/22",
+            "buyDate": "8/14/22",
             "price": "415",
             "publisher": "Freedom",
             "shelf": "eksmo bookstore rina animant-kramb 2022",
@@ -12548,7 +12558,7 @@
             "author": "Омид Скоби и Кэролин Дюран",
             "book": "Гарри и Меган. Выбирая свободу",
             "year": "2022",
-            "buyDate": "8/20/22",
+            "buyDate": "8/14/22",
             "price": "348",
             "publisher": "Эксмо",
             "shelf": "eksmo 2022",
