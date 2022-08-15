@@ -3059,16 +3059,29 @@
         },
         {
             "author": "Евгения Либабова",
+            "book": "Король и Шут... И живые споют про мертвецов",
+            "web": "fb2",
+            "year": "2007",
+            "readDate": "8/14/22",
+            "shelf": "music libabova kish wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000272836/o/b9b8/Evgeniya_Libabova__Korol_i_Shut..._I_zhivye_spoyut_pro_mertvetsov.jpeg"
+        },
+        {
+            "author": "Евгения Либабова",
             "book": "Король и Шут. Ангелы панка",
+            "web": "fb2",
+            "year": "2013",
             "buyDate": "6/21/20",
             "price": "350",
-            "shelf": "music kish",
+            "shelf": "music libabova kish",
             "img": "https://s1.livelib.ru/boocover/1002467519/o/9011/Evgeniya_Libabova__Korol_i_Shut._Angely_panka.jpeg"
         },
         {
             "author": "Александр Балунов",
             "book": "Король и Шут. Между Купчино и Ржевкой...",
+            "web": "mp3 fb2",
             "buyDate": "2/25/19",
+            "readDate": "8/13/22",
             "price": "491",
             "shelf": "music kish",
             "img": "https://s1.livelib.ru/boocover/1001578385/o/7208/Aleksandr_Balunov__Korol_i_Shut._Mezhdu_Kupchino_i_Rzhevkoj....jpeg"
@@ -3076,6 +3089,7 @@
         {
             "author": "Александр Балунов",
             "book": "Король и Шут. Бесконечная история",
+            "web": "fb2",
             "buyDate": "2/25/19",
             "price": "491",
             "shelf": "music kish",
@@ -10927,9 +10941,10 @@
             "book": "(не)свобода",
             "year": "2022",
             "buyDate": "6/28/22",
+            "readDate": "8/15/22",
             "price": "468",
             "publisher": "Редакция Елены Шубиной",
-            "shelf": "2022",
+            "shelf": "prison 2022",
             "img": "https://s1.livelib.ru/boocover/1007172316/o/3396/Sergej_Lebedenko__nesvoboda.jpeg"
         },
         {
@@ -13056,7 +13071,7 @@
         {
             "author": "Джулия Клэйборн Джонсон",
             "book": "В другой раз повезет!",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "11/28/21",
             "price": "300",
@@ -13067,6 +13082,7 @@
         {
             "author": "Джулия Клэйборн Джонсон",
             "book": "Будь со мной честен",
+            "web": "mp3",
             "year": "2021",
             "buyDate": "11/14/21",
             "price": "335",
@@ -13101,7 +13117,7 @@
         {
             "author": "Брайан Фриман",
             "book": "Бесконечность",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "5/20/22",
             "price": "378",
@@ -13112,6 +13128,7 @@
         {
             "author": "Луи Байяр",
             "book": "Всевидящее око",
+            "web": "mp3",
             "year": "2022",
             "buyDate": "8/4/22",
             "price": "385",
@@ -13395,6 +13412,48 @@
             "img": "https://s1.livelib.ru/boocover/1007316397/o/fab9/Sara_Denzil__Bezmolvnoe_ditya.jpeg"
         },
         {
+            "author": "Андреас Грубер",
+            "book": "Смерть с уведомлением",
+            "web": "mp3 fb2",
+            "publisher": "Центрполиграф",
+            "shelf": "poligraf gruber wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002213905/o/04ef/Andreas_Gruber__Smert_s_uvedomleniem.jpeg"
+        },
+        {
+            "author": "Андреас Грубер",
+            "book": "Смертный приговор",
+            "web": "mp3 fb2",
+            "publisher": "Центрполиграф",
+            "shelf": "poligraf gruber wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002869840/o/55b8/Andreas_Gruber__Smertnyj_prigovor.jpeg"
+        },
+        {
+            "author": "Андреас Грубер",
+            "book": "Сказка о смерти",
+            "web": "mp3 fb2",
+            "publisher": "Центрполиграф",
+            "shelf": "poligraf gruber wishlist",
+            "img": "https://s1.livelib.ru/boocover/1003033340/o/a6bf/Andreas_Gruber__Skazka_o_smerti.jpeg"
+        },
+        {
+            "author": "Андреас Грубер",
+            "book": "Смертельный хоровод",
+            "web": "fb2",
+            "year": "2020",
+            "publisher": "Центрполиграф",
+            "shelf": "poligraf gruber wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1003956919/o/a48e/Andreas_Gruber__Smertelnyj_horovod.jpeg"
+        },
+        {
+            "author": "Андреас Грубер",
+            "book": "Метка смерти",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Центрполиграф",
+            "shelf": "poligraf gruber wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007313412/o/68ec/Andreas_Gruber__Metka_smerti.jpeg"
+        },
+        {
             "author": "Марк Биллингхэм",
             "book": "Вниз по кроличьей норе",
             "web": "mp3 fb2",
@@ -13462,6 +13521,14 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria driskoll wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007166733/o/4440/Tereza_Driskoll__Do_samoj_smerti.jpeg"
+        },
+        {
+            "author": "Тереза Дрисколл",
+            "book": "Ужас по средам",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria driskoll wishlist 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001261256/COVER/cover1__w820.jpg"
         },
         {
             "author": "Крис Уитакер",
