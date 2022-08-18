@@ -3072,6 +3072,7 @@
             "web": "fb2",
             "year": "2013",
             "buyDate": "6/21/20",
+            "readDate": "8/17/22",
             "price": "350",
             "shelf": "music libabova kish",
             "img": "https://s1.livelib.ru/boocover/1002467519/o/9011/Evgeniya_Libabova__Korol_i_Shut._Angely_panka.jpeg"
@@ -4866,8 +4867,10 @@
             "author": "Джефф Кинни",
             "book": "Дневник слабака-15. На дне",
             "year": "2022",
+            "buyDate": "8/23/22",
+            "price": "363",
             "publisher": "АСТ",
-            "shelf": "slabak ast wishlist new 2022",
+            "shelf": "slabak ast 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000860647/COVER/cover1__w600.jpg"
         },
         {
@@ -9351,6 +9354,33 @@
             "img": "https://www.corpus.ru/picts/products/cover1-ulson.jpg"
         },
         {
+            "id": "646",
+            "author": "Петр Вайль и Александр Генис",
+            "book": "60-е. Мир советского человека",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist 2021",
+            "img": "https://www.corpus.ru/picts/products/cover-mir-sovetskogo.jpg"
+        },
+        {
+            "id": "647",
+            "author": "Нил Шубин",
+            "book": "Внутренняя рыба История человеческого тела с древнейших времен до наших дней",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus elements2 wishlist 2021",
+            "img": "https://www.corpus.ru/picts/products/cover-vnutr-ryba-new.jpg"
+        },
+        {
+            "id": "648",
+            "author": "Сергей Пархоменко",
+            "book": "Всё сначала",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist 2021",
+            "img": "https://www.corpus.ru/picts/products/cover-vse-snachala-new.jpg"
+        },
+        {
             "id": "649",
             "author": "Эрин Моргенштерн",
             "book": "Ночной цирк",
@@ -9395,6 +9425,15 @@
             "img": "https://www.corpus.ru/picts/products/cover1-nerazluchnye.jpg"
         },
         {
+            "id": "653",
+            "author": "Петр Вайль",
+            "book": "Карта Родины",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist 2021",
+            "img": "https://www.corpus.ru/picts/products/cover1-karta-rodiny.jpg"
+        },
+        {
             "id": "655",
             "author": "Мишель Уэльбек",
             "book": "Карта и территория",
@@ -9414,6 +9453,15 @@
             "publisher": "Corpus",
             "shelf": "corpus 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-anfert-ptichnik.jpg"
+        },
+        {
+            "id": "657",
+            "author": "Эрик Аксл Сунд",
+            "book": "Из жизни кукол",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus sund wishlist 2021",
+            "img": "https://www.corpus.ru/picts/products/cover1-sund-kukly.jpg"
         },
         {
             "id": "658",
@@ -10045,8 +10093,10 @@
             "author": "Бен Макинтайр",
             "book": "Агент Соня. Любовница, мать, шпионка, боец",
             "year": "2022",
+            "buyDate": "8/23/22",
+            "price": "665",
             "publisher": "Corpus",
-            "shelf": "corpus razvedcorpus makintair wishlist new 2022",
+            "shelf": "corpus razvedcorpus makintair 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-shpionka-sonya.jpg"
         },
         {
@@ -10072,9 +10122,19 @@
             "author": "Владимир Набоков",
             "book": "Дар",
             "year": "2022",
+            "buyDate": "8/23/22",
+            "price": "433",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new 2022",
+            "shelf": "corpus nabokov 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-dar.jpg"
+        },
+        {
+            "author": "Джеффри Миллер",
+            "book": "Соблазняющий разум",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist elements2 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000867651/COVER/cover1__w600.jpg"
         },
         {
             "author": "Дженнифер Сэйнт",
@@ -10907,6 +10967,7 @@
         {
             "author": "Иван Шипнигов",
             "book": "Стрим",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "10/11/21",
             "readDate": "4/23/22",
@@ -11285,8 +11346,16 @@
             "buyDate": "4/25/22",
             "price": "448",
             "publisher": "Азбука",
-            "shelf": "2022",
+            "shelf": "azbuka 2022",
             "img": "https://s1.livelib.ru/boocover/1007048176/o/43e4/Nita_Prouz__Gornichnaya.jpeg"
+        },
+        {
+            "author": "Бенджамин Стивенсон",
+            "book": "Каждый в нашей семье кого-нибудь да убил",
+            "year": "2022",
+            "publisher": "Азбука",
+            "shelf": "azbuka wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007394439/o/ec7e/Bendzhamin_Stivenson__Kazhdyj_v_nashej_seme_kogonibud_da_ubil.jpeg"
         },
         {
             "author": "Джефф Родки",
@@ -12417,8 +12486,10 @@
             "author": "Келли Риммер",
             "book": "Вещи, о которых мы не можем рассказать",
             "year": "2022",
+            "buyDate": "8/23/22",
+            "price": "403",
             "publisher": "АСТ",
-            "shelf": "ast lost-happiness wishlist new 2022",
+            "shelf": "ast lost-happiness 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000862843/COVER/cover1__w600.jpg"
         },
         {
@@ -13082,7 +13153,7 @@
         {
             "author": "Джулия Клэйборн Джонсон",
             "book": "Будь со мной честен",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "11/14/21",
             "price": "335",
