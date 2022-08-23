@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -4867,7 +4867,7 @@
             "author": "Джефф Кинни",
             "book": "Дневник слабака-15. На дне",
             "year": "2022",
-            "buyDate": "8/23/22",
+            "buyDate": "8/22/22",
             "price": "363",
             "publisher": "АСТ",
             "shelf": "slabak ast 2022",
@@ -6100,6 +6100,16 @@
             "img": "https://www.corpus.ru/picts/products/scarpa-fondomentali-1000.jpg"
         },
         {
+            "id": "149",
+            "author": "Шон Эллис",
+            "book": "Свой среди волков",
+            "web": "fb2",
+            "year": "2012",
+            "publisher": "Corpus",
+            "shelf": "corpus 100%doc wishlist",
+            "img": "https://www.corpus.ru/picts/products/ellis-wolfs-1000.jpg"
+        },
+        {
             "id": "151",
             "author": "Пиа Юль",
             "book": "Убийство Халланда",
@@ -6528,6 +6538,15 @@
             "publisher": "Corpus",
             "shelf": "corpus wishlist",
             "img": "https://cdn1.ozone.ru/multimedia/wc1200/1008818287.jpg"
+        },
+        {
+            "id": "226",
+            "author": "Джон Вэйллант",
+            "book": "Тигр. История мести и спасения",
+            "year": "2013",
+            "publisher": "Corpus",
+            "shelf": "corpus 100%doc wishlist",
+            "img": "https://www.corpus.ru/picts/products/Vaillant-Tigr-1000.jpg"
         },
         {
             "id": "227",
@@ -7067,7 +7086,7 @@
             "book": "Убийца из города абрикосов. Незнакомая Турция - о чем молчат путеводители",
             "year": "2015",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
+            "shelf": "corpus 100%doc wishlist",
             "img": "https://www.corpus.ru/picts/products/Shablowsky-Ubiytsa-1000.jpg"
         },
         {
@@ -7203,7 +7222,7 @@
             "buyDate": "8/8/20",
             "price": "140.5",
             "publisher": "Corpus",
-            "shelf": "bartlett corpus",
+            "shelf": "corpus bartlett",
             "img": "https://www.corpus.ru/picts/products/gemenes-bartlett-Sobaka-1000.jpg"
         },
         {
@@ -7214,8 +7233,17 @@
             "buyDate": "7/27/20",
             "price": "188.9",
             "publisher": "Corpus",
-            "shelf": "bartlett corpus",
+            "shelf": "corpus bartlett",
             "img": "https://www.corpus.ru/picts/products/gemenes-bartlett-Roma-1000.jpg"
+        },
+        {
+            "id": "335",
+            "author": "Трейси Киддер",
+            "book": "За горами - горы. История врача, который лечит весь мир",
+            "year": "2015",
+            "publisher": "Corpus",
+            "shelf": "corpus 100%doc wishlist",
+            "img": "https://www.corpus.ru/picts/products/kidder-gory-300jpg.png"
         },
         {
             "id": "336",
@@ -7261,6 +7289,15 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/sorrentino-1000.jpg"
+        },
+        {
+            "id": "345",
+            "author": "Владимир Динец",
+            "book": "Песни драконов",
+            "year": "2015",
+            "publisher": "Corpus",
+            "shelf": "corpus 100%doc wishlist",
+            "img": "https://www.corpus.ru/picts/products/Dinets-Pesni-drakonov-1000.jpg"
         },
         {
             "id": "348",
@@ -7361,6 +7398,15 @@
             "img": "https://www.corpus.ru/picts/products/Huellesbecq-Poem-1000.jpg"
         },
         {
+            "id": "367",
+            "author": "Роман Свечников",
+            "book": "Рома едет. Вокруг света без гроша в кармане",
+            "year": "2016",
+            "publisher": "Corpus",
+            "shelf": "corpus 100%doc wishlist",
+            "img": "https://www.corpus.ru/picts/products/Svechnikov-Roma-1000.jpg"
+        },
+        {
             "id": "368",
             "author": "Джеймс Глик",
             "book": "Информация. История. Теория. Поток",
@@ -7449,7 +7495,7 @@
             "buyDate": "7/27/20",
             "price": "77",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus 100%doc",
             "img": "https://www.corpus.ru/picts/products/Buslov-Zhizn-1000.jpg"
         },
         {
@@ -7500,7 +7546,7 @@
             "buyDate": "7/24/20",
             "price": "85",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus 100%doc",
             "img": "https://www.corpus.ru/picts/products/Sardo-Grassonelli-Sornjak-1000.jpg"
         },
         {
@@ -7620,6 +7666,15 @@
             "publisher": "Corpus",
             "shelf": "gordano corpus",
             "img": "https://www.corpus.ru/picts/products/Giordano-Paolo-Serebro-1000.jpg"
+        },
+        {
+            "id": "410",
+            "author": "Анна Старобинец",
+            "book": "Посмотри на него",
+            "year": "2017",
+            "publisher": "Corpus",
+            "shelf": "corpus 100%doc starobinets wishlist",
+            "img": "https://www.corpus.ru/picts/products/Starobinets-Posmotri-1000-premiya.jpg"
         },
         {
             "id": "411",
@@ -7768,6 +7823,15 @@
             "publisher": "Corpus",
             "shelf": "corpus scientificum wishlist",
             "img": "https://www.corpus.ru/picts/products/Horowitz-Smotret-1000.jpg"
+        },
+        {
+            "id": "428",
+            "author": "Роберто Савьяно",
+            "book": "Ноль ноль ноль",
+            "year": "2017",
+            "publisher": "Corpus",
+            "shelf": "corpus100%doc wishlist",
+            "img": "https://www.corpus.ru/picts/products/Saviano-Zero-1000.jpg"
         },
         {
             "id": "430",
@@ -8701,13 +8765,13 @@
             "img": "https://www.corpus.ru/picts/products/Piccolo-Neschastie-1000.jpg"
         },
         {
-            "author": "Максим Осипов",
-            "book": "«Люксембург» и другие русские истории",
-            "web": "fb2",
-            "year": "2020",
+            "id": "561",
+            "author": "Катерина Гордеева",
+            "book": "Правила ведения боя #победитьрак",
+            "year": "2019",
             "publisher": "Corpus",
-            "shelf": "osipov corpus wishlist 2020",
-            "img": "https://www.corpus.ru/picts/products/Osipov-Luxemburg-1000.jpg"
+            "shelf": "corpus 100%doc wishlist",
+            "img": "https://www.corpus.ru/picts/products/gordeeva-1000.jpg"
         },
         {
             "id": "562",
@@ -8747,6 +8811,15 @@
             "publisher": "Corpus",
             "shelf": "corpus igan wishlist 2020",
             "img": "https://www.corpus.ru/picts/products/Egan-Manhattan-1000.jpg"
+        },
+        {
+            "author": "Максим Осипов",
+            "book": "«Люксембург» и другие русские истории",
+            "web": "fb2",
+            "year": "2020",
+            "publisher": "Corpus",
+            "shelf": "osipov corpus wishlist 2020",
+            "img": "https://www.corpus.ru/picts/products/Osipov-Luxemburg-1000.jpg"
         },
         {
             "id": "567",
@@ -8793,6 +8866,15 @@
             "publisher": "Corpus",
             "shelf": "corpus 2020",
             "img": "https://www.corpus.ru/picts/products/tnw239-Avdic-Isola-1000.jpg"
+        },
+        {
+            "id": "571",
+            "author": "Мортен А. Стрёкснес",
+            "book": "Времена моря или Как мы ловили вот ТАКЕННУЮ акулу с вот ТАКУСЕНЬКОЙ надувной лодки",
+            "year": "2020",
+            "publisher": "Corpus",
+            "shelf": "corpus 100%doc wishlist 2020",
+            "img": "https://www.corpus.ru/picts/products/Sterksnes-Akula-1000.jpg"
         },
         {
             "id": "572",
@@ -9144,6 +9226,24 @@
             "publisher": "Corpus",
             "shelf": "corpus adolfsson 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-shagi.jpg"
+        },
+        {
+            "id": "618",
+            "author": "Витольд Шабловский",
+            "book": "Танцующие медведи. Опыт обретения свободы",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus 100%doc wishlist 2021",
+            "img": "https://www.corpus.ru/picts/products/cover1-shablovskiy.jpg"
+        },
+        {
+            "id": "620",
+            "author": "Филипп Шотт",
+            "book": "Случайный ветеринар. Записки практикующего айболита",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus 100%doc wishlist 2021",
+            "img": "https://www.corpus.ru/picts/products/cover1-aibolit.jpg"
         },
         {
             "id": "622",
@@ -9515,6 +9615,7 @@
             "id": "662",
             "author": "Бен Макинтайр",
             "book": "Шпион и предатель. Самая громкая шпионская история времен холодной войны",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "9/9/21",
             "price": "566",
@@ -10093,7 +10194,7 @@
             "author": "Бен Макинтайр",
             "book": "Агент Соня. Любовница, мать, шпионка, боец",
             "year": "2022",
-            "buyDate": "8/23/22",
+            "buyDate": "8/22/22",
             "price": "665",
             "publisher": "Corpus",
             "shelf": "corpus razvedcorpus makintair 2022",
@@ -10122,7 +10223,7 @@
             "author": "Владимир Набоков",
             "book": "Дар",
             "year": "2022",
-            "buyDate": "8/23/22",
+            "buyDate": "8/22/22",
             "price": "433",
             "publisher": "Corpus",
             "shelf": "corpus nabokov 2022",
@@ -10135,6 +10236,14 @@
             "publisher": "Corpus",
             "shelf": "corpus wishlist elements2 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000867651/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Анна Старобинец",
+            "book": "Посмотри на него",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus 100%doc starobinets wishlist 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-starobinets-posmotri.jpg"
         },
         {
             "author": "Дженнифер Сэйнт",
@@ -11358,6 +11467,14 @@
             "img": "https://s1.livelib.ru/boocover/1007394439/o/ec7e/Bendzhamin_Stivenson__Kazhdyj_v_nashej_seme_kogonibud_da_ubil.jpeg"
         },
         {
+            "author": "Ти Джей Ньюман",
+            "book": "Падение",
+            "year": "2022",
+            "publisher": "Individuum",
+            "shelf": "wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007358469/o/d41c/Ti_Dzhej_Nyuman__Padenie.jpeg"
+        },
+        {
             "author": "Джефф Родки",
             "book": "В Линкольнвуде гаснет свет",
             "year": "2022",
@@ -11983,6 +12100,7 @@
             "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "2/19/21",
+            "readDate": "8/23/22",
             "price": "290",
             "publisher": "Эксмо",
             "shelf": "kaplin eksmo sentimental",
@@ -12100,6 +12218,7 @@
             "book": "Не винный дневник. Как я перестала пить и начала жить",
             "year": "2022",
             "buyDate": "7/23/22",
+            "readDate": "8/19/22",
             "price": "490",
             "publisher": "Портал",
             "shelf": "puli 2022",
@@ -12486,7 +12605,7 @@
             "author": "Келли Риммер",
             "book": "Вещи, о которых мы не можем рассказать",
             "year": "2022",
-            "buyDate": "8/23/22",
+            "buyDate": "8/22/22",
             "price": "403",
             "publisher": "АСТ",
             "shelf": "ast lost-happiness 2022",
@@ -12605,7 +12724,7 @@
             "readDate": "9/28/21",
             "price": "333",
             "publisher": "Эксмо",
-            "shelf": "eksmo mihaelides",
+            "shelf": "eksmo mihaelides 2021",
             "img": "https://s1.livelib.ru/boocover/1006179925/o/5db1/Aleks_Mihaelides__Devy.jpeg"
         },
         {
@@ -12616,7 +12735,7 @@
             "buyDate": "10/18/21",
             "price": "317",
             "publisher": "Эксмо",
-            "shelf": "eksmo",
+            "shelf": "eksmo 2021",
             "img": "https://s1.livelib.ru/boocover/1006141915/o/8d82/Soren_Svejstrup__Kashtanovyj_chelovechek.jpeg"
         },
         {
@@ -12627,7 +12746,7 @@
             "buyDate": "7/22/21",
             "price": "460",
             "publisher": "Эксмо",
-            "shelf": "eksmo biden politics",
+            "shelf": "eksmo biden politics 2021",
             "img": "https://s1.livelib.ru/boocover/1006269307/o/28e4/Dzho_Bajden__Sderzhat_obeschaniya._V_zhizni_i_politike.jpeg"
         },
         {
@@ -12637,7 +12756,7 @@
             "buyDate": "11/29/21",
             "price": "317",
             "publisher": "Эксмо",
-            "shelf": "eksmo biden politics",
+            "shelf": "eksmo biden politics 2021",
             "img": "https://s1.livelib.ru/boocover/1006876483/o/788c/Dzhill_Bajden__Tam_gde_svet._Istoriya_pervoj_ledi_SShA.jpeg"
         },
         {
@@ -12766,7 +12885,7 @@
             "buyDate": "8/28/21",
             "price": "592",
             "publisher": "Эксмо",
-            "shelf": "eksmo bombora",
+            "shelf": "eksmo bombora 2021",
             "img": "https://s1.livelib.ru/boocover/1002306954/o/602a/__Kak_rabotaet_Google.jpeg"
         },
         {
@@ -14746,6 +14865,19 @@
             "img": "https://s1.livelib.ru/boocover/1000317543/o/8509/Dzhosh_Bejzel__Bej_v_tochku.jpeg"
         },
         {
+            "author": "Харпер Ли",
+            "book": "Убить пересмешника",
+            "web": "fb2",
+            "shelf": "wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002723093/o/5fc4/Harper_Li__Ubit_peresmeshnika.jpeg"
+        },
+        {
+            "author": "Джон Бойн",
+            "book": "Мальчик в полосатой пижаме",
+            "shelf": "wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000332454/o/0c0f/Dzhon_Bojn__Malchik_v_polosatoj_pizhame.jpeg"
+        },
+        {
             "author": "Алексей Иванов",
             "book": "Географ глобус пропил",
             "web": "mp3 fb2",
@@ -14758,18 +14890,6 @@
             "book": "Человек, который всё знал",
             "shelf": "wishlist",
             "img": "https://s1.livelib.ru/boocover/1000994926/o/cd91/Igor_Sahnovskij__Chelovek_kotoryj_znal_vsjo.jpeg"
-        },
-        {
-            "author": "Харпер Ли",
-            "book": "Убить пересмешника",
-            "shelf": "wishlist",
-            "img": "https://s1.livelib.ru/boocover/1002723093/o/5fc4/Harper_Li__Ubit_peresmeshnika.jpeg"
-        },
-        {
-            "author": "Джон Бойн",
-            "book": "Мальчик в полосатой пижаме",
-            "shelf": "wishlist",
-            "img": "https://s1.livelib.ru/boocover/1000332454/o/0c0f/Dzhon_Bojn__Malchik_v_polosatoj_pizhame.jpeg"
         },
         {
             "author": "Дмитрий Глуховский",
