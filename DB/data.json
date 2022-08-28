@@ -1,4 +1,4 @@
-﻿{
+{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -890,6 +890,7 @@
         {
             "author": "Дэн Браун",
             "book": "Цифровая крепость",
+            "web": "mp3 fb2",
             "buyDate": "4/17/17",
             "price": "447",
             "shelf": "braun",
@@ -898,6 +899,7 @@
         {
             "author": "Дэн Браун",
             "book": "Ангелы и демоны",
+            "web": "mp3 fb2",
             "buyDate": "4/17/17",
             "price": "447",
             "shelf": "braun",
@@ -906,6 +908,7 @@
         {
             "author": "Дэн Браун",
             "book": "Точка обмана",
+            "web": "mp3 fb2",
             "buyDate": "4/17/17",
             "price": "447",
             "shelf": "braun",
@@ -914,6 +917,7 @@
         {
             "author": "Дэн Браун",
             "book": "Код да Винчи",
+            "web": "mp3 fb2",
             "buyDate": "4/17/17",
             "price": "447",
             "shelf": "braun",
@@ -922,6 +926,7 @@
         {
             "author": "Дэн Браун",
             "book": "Утраченный символ",
+            "web": "mp3 fb2",
             "buyDate": "4/17/17",
             "price": "447",
             "shelf": "braun",
@@ -930,6 +935,7 @@
         {
             "author": "Дэн Браун",
             "book": "Инферно",
+            "web": "mp3 fb2",
             "buyDate": "9/27/13",
             "price": "201",
             "shelf": "braun",
@@ -938,6 +944,8 @@
         {
             "author": "Дэн Браун",
             "book": "Происхождение",
+            "web": "mp3 fb2",
+            "year": "2017",
             "buyDate": "1/15/18",
             "price": "475",
             "shelf": "braun",
@@ -1346,7 +1354,7 @@
         {
             "author": "Бернар Вербер",
             "book": "Третье человечество",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "buyDate": "12/10/14",
             "price": "396",
             "shelf": "verber",
@@ -1363,7 +1371,7 @@
         {
             "author": "Бернар Вербер",
             "book": "Добро пожаловать в рай!",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "buyDate": "6/11/14",
             "price": "216",
             "shelf": "verber",
@@ -1372,7 +1380,7 @@
         {
             "author": "Бернар Вербер",
             "book": "Третье человечество. Микролюди",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "buyDate": "12/10/14",
             "price": "267",
             "shelf": "verber",
@@ -1381,21 +1389,21 @@
         {
             "author": "Бернар Вербер",
             "book": "Третье человечество. Голос Земли",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "shelf": "verber",
             "img": "https://s1.livelib.ru/boocover/1001280712/o/2233/Bernar_Verber__Trete_chelovechestvo_Golos_Zemli.jpeg"
         },
         {
             "author": "Бернар Вербер",
             "book": "Шестой сон",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "shelf": "verber",
             "img": "https://s1.livelib.ru/boocover/1001528473/o/4456/Bernar_Verber__Shestoj_son.jpeg"
         },
         {
             "author": "Бернар Вербер",
             "book": "Завтрашний день кошки",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2017",
             "buyDate": "4/28/17",
             "price": "268",
@@ -1405,7 +1413,7 @@
         {
             "author": "Бернар Вербер",
             "book": "С того света",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2018",
             "buyDate": "9/23/18",
             "price": "308",
@@ -1416,7 +1424,7 @@
         {
             "author": "Бернар Вербер",
             "book": "Ящик Пандоры",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2019",
             "buyDate": "7/22/19",
             "price": "306",
@@ -1427,7 +1435,7 @@
         {
             "author": "Бернар Вербер",
             "book": "Ее величество кошка",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "9/9/20",
             "price": "322",
@@ -2870,7 +2878,7 @@
             "book": "Нулёвое лето",
             "year": "2022",
             "shelf": "brusov wishlist new 2022",
-            "img": "https://sun9-west.userapi.com/sun9-39/s/v1/if2/kBSBYiNee05VwUomJYMMTVi4Kh4HdfOgOryQikOMbW4UUj_JJyE0V6K5Zm-Rm_oOL_zsGRLloUTRCWCfSlD0U3cq.jpg?size=1138x1138&quality=95&type=album"
+            "img": "https://cv5.litres.ru/pub/c/elektronnaya-kniga/cover_415/67893357-serzh-brusov-8342862-nulevoe-leto.webp"
         },
         {
             "author": "Джим Рон",
@@ -5128,6 +5136,7 @@
         {
             "author": "Лоранс Коссе",
             "book": "31 августа",
+            "readDate": "8/27/22",
             "shelf": "inostranka",
             "img": "https://cdn1.ozone.ru/multimedia/wc1200/1000373594.jpg"
         },
@@ -7830,7 +7839,7 @@
             "book": "Ноль ноль ноль",
             "year": "2017",
             "publisher": "Corpus",
-            "shelf": "corpus100%doc wishlist",
+            "shelf": "corpus 100%doc wishlist",
             "img": "https://www.corpus.ru/picts/products/Saviano-Zero-1000.jpg"
         },
         {
@@ -8908,6 +8917,15 @@
             "img": "https://www.corpus.ru/picts/products/O_Cadhain-Dirty-1000.jpg"
         },
         {
+            "id": "576",
+            "author": "Джеффри Миллер",
+            "book": "Соблазняющий разум. Как выбор сексуального партнера повлиял на эволюцию человеческой природы",
+            "year": "2020",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist 2020",
+            "img": "https://www.corpus.ru/picts/products/Miller-Mind-1000.jpg"
+        },
+        {
             "id": "577",
             "author": "Ларс Кеплер",
             "book": "Лазарь",
@@ -8990,7 +9008,7 @@
             "id": "588",
             "author": "Орели Валонь",
             "book": "Наши очаровательные невестки",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "12/8/20",
             "price": "446",
@@ -9002,6 +9020,7 @@
             "id": "589",
             "author": "Мадлен Миллер",
             "book": "Цирцея",
+            "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "10/5/20",
             "price": "370",
@@ -10222,6 +10241,7 @@
             "id": "725",
             "author": "Владимир Набоков",
             "book": "Дар",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "8/22/22",
             "price": "433",
@@ -10231,11 +10251,11 @@
         },
         {
             "author": "Джеффри Миллер",
-            "book": "Соблазняющий разум",
+            "book": "Соблазняющий разум. Как выбор сексуального партнера повлиял на эволюцию человеческой природы",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist elements2 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000867651/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-miller-razum.jpg"
         },
         {
             "author": "Анна Старобинец",
@@ -10244,6 +10264,14 @@
             "publisher": "Corpus",
             "shelf": "corpus 100%doc starobinets wishlist 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-starobinets-posmotri.jpg"
+        },
+        {
+            "author": "Одед Галор",
+            "book": "Путь человечества. Истоки богатства и неравенства",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-galor.jpg"
         },
         {
             "author": "Дженнифер Сэйнт",
@@ -11216,7 +11244,7 @@
             "price": "375",
             "publisher": "Иностранка",
             "shelf": "kolgan inostranka 2022",
-            "img": "https://s1.livelib.ru/boocover/1007340574/o/57af/Dzhenni_Kolgan__Malenkaya_pekarnya_u_morya.jpeg"
+            "img": "https://s1.livelib.ru/boocover/1007140009/o/dea7/Dzhenni_Kolgan__Malenkaya_pekarnya_u_morya.jpeg"
         },
         {
             "author": "Дженни Колган",
@@ -11453,6 +11481,7 @@
             "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "4/25/22",
+            "readDate": "8/28/22",
             "price": "448",
             "publisher": "Азбука",
             "shelf": "azbuka 2022",
@@ -11482,8 +11511,16 @@
             "readDate": "6/6/22",
             "price": "566",
             "publisher": "Рипол Классик",
-            "shelf": "2022",
+            "shelf": "rodki 2022",
             "img": "https://s1.livelib.ru/boocover/1007126842/o/a049/Dzheff_Rodki__V_Linkolnvude_gasnet_svet.jpeg"
+        },
+        {
+            "author": "Джефф Родки",
+            "book": "Неземляне",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist rodki new 2022",
+            "img": "https://s1.livelib.ru/boocover/1007389384/o/5985/Dzheff_Rodki__Nezemlyane.jpeg"
         },
         {
             "author": "Шон Байтелл",
@@ -12790,6 +12827,22 @@
             "publisher": "АСТ",
             "shelf": "ast merkel politics 2022",
             "img": "https://cdn.book24.ru/v2/ASE000000000860653/COVER/cover13d__w410.webp"
+        },
+        {
+            "author": "Кэти Мартон",
+            "book": "Канцлер. История жизни Ангелы Меркель",
+            "year": "2022",
+            "publisher": "Бомбора",
+            "shelf": "bombora merlek politics wishlist new 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001292425/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Кэти Мартон",
+            "book": "Канцлер. История жизни Ангелы Меркель",
+            "year": "2022",
+            "publisher": "Бомбора",
+            "shelf": "bombora merlek politics wishlist new 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001260737/COVER/cover1__w820.jpg"
         },
         {
             "author": "Жанна Немцова",
