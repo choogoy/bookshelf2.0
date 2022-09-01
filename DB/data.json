@@ -2876,6 +2876,7 @@
         {
             "author": "Серж Брусов",
             "book": "Нулёвое лето",
+            "web": "fb2",
             "year": "2022",
             "shelf": "brusov wishlist new 2022",
             "img": "https://cv5.litres.ru/pub/c/elektronnaya-kniga/cover_415/67893357-serzh-brusov-8342862-nulevoe-leto.webp"
@@ -5136,6 +5137,7 @@
         {
             "author": "Лоранс Коссе",
             "book": "31 августа",
+            "web": "fb2",
             "readDate": "8/27/22",
             "shelf": "inostranka",
             "img": "https://cdn1.ozone.ru/multimedia/wc1200/1000373594.jpg"
@@ -6902,6 +6904,15 @@
             "img": "https://s1.livelib.ru/boocover/1000956440/o/92a6/Albertina_Sarrazen__Menya_zovut_Astragal.jpeg"
         },
         {
+            "id": "276",
+            "author": "Вуди Аллен",
+            "book": "Сводя счеты",
+            "year": "2014",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://cdn1.ozone.ru/multimedia/wc1000/1010304006.jpg"
+        },
+        {
             "id": "279",
             "author": "Софи ван дер Стап",
             "book": "Девушка с девятью париками",
@@ -8078,6 +8089,15 @@
             "img": "https://www.corpus.ru/picts/products/Richards-Life-1000.jpg"
         },
         {
+            "id": "464",
+            "author": "Карло Ровелли",
+            "book": "Семь этюдов по физике",
+            "year": "2018",
+            "publisher": "Corpus",
+            "shelf": "corpus rovelli wishlist",
+            "img": "https://www.corpus.ru/picts/products/karlo-rovelli-sem-etjudov-fizike3.jpg"
+        },
+        {
             "id": "466",
             "author": "Анн Берест",
             "book": "Требуется идеальная женщина",
@@ -8482,15 +8502,22 @@
             "img": "https://www.corpus.ru/picts/products/Slezkin-Dom-Pravitelstva-1000.jpg"
         },
         {
-            "id": "522",
-            "author": "Сергей Плохий",
-            "book": "Человек, стрелявший ядом История одного шпиона времен холодной войны",
+            "id": "518",
+            "author": "Паоло Коньетти",
+            "book": "Восемь гор",
             "year": "2019",
-            "buyDate": "5/26/21",
-            "price": "574",
             "publisher": "Corpus",
-            "shelf": "corpus razvedcorpus",
-            "img": "https://www.corpus.ru/picts/products/Plohiy-Poison-1000.jpg"
+            "shelf": "corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Cognetti-Vosem-1000.jpg"
+        },
+        {
+            "id": "519",
+            "author": "Ниал Фергюсон",
+            "book": "Виртуальная история. Альтернативы и предположения",
+            "year": "2019",
+            "publisher": "Corpus",
+            "shelf": "corpus nial wishlist",
+            "img": "https://www.corpus.ru/picts/products/Ferguson-Virtual-1000.jpg"
         },
         {
             "id": "520",
@@ -8502,6 +8529,17 @@
             "publisher": "Corpus",
             "shelf": "corpus happy valon",
             "img": "https://www.corpus.ru/picts/products/Valognes-1000.jpg"
+        },
+        {
+            "id": "522",
+            "author": "Сергей Плохий",
+            "book": "Человек, стрелявший ядом История одного шпиона времен холодной войны",
+            "year": "2019",
+            "buyDate": "5/26/21",
+            "price": "574",
+            "publisher": "Corpus",
+            "shelf": "corpus razvedcorpus",
+            "img": "https://www.corpus.ru/picts/products/Plohiy-Poison-1000.jpg"
         },
         {
             "id": "524",
@@ -8772,6 +8810,15 @@
             "publisher": "Corpus",
             "shelf": "pikkolo corpus",
             "img": "https://www.corpus.ru/picts/products/Piccolo-Neschastie-1000.jpg"
+        },
+        {
+            "id": "559",
+            "author": "Карло Ровелли",
+            "book": "Семь этюдов по физике",
+            "year": "2019",
+            "publisher": "Corpus",
+            "shelf": "corpus rovelli wishlist",
+            "img": "https://www.corpus.ru/picts/products/rovelli.jpg"
         },
         {
             "id": "561",
@@ -10027,6 +10074,15 @@
             "img": "https://www.corpus.ru/picts/products/cover1-babkov-perevod.jpeg"
         },
         {
+            "id": "704",
+            "author": "Одед Галор",
+            "book": "Путь человечества. Истоки богатства и неравенства",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-galor.jpg"
+        },
+        {
             "id": "705",
             "author": "Азра Раза",
             "book": "Первая клетка. И чего стоит борьба с раком до последнего",
@@ -10250,6 +10306,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-dar.jpg"
         },
         {
+            "id": "726",
             "author": "Джеффри Миллер",
             "book": "Соблазняющий разум. Как выбор сексуального партнера повлиял на эволюцию человеческой природы",
             "year": "2022",
@@ -10258,6 +10315,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-miller-razum.jpg"
         },
         {
+            "id": "728",
             "author": "Анна Старобинец",
             "book": "Посмотри на него",
             "year": "2022",
@@ -10266,12 +10324,12 @@
             "img": "https://www.corpus.ru/picts/products/cover1-starobinets-posmotri.jpg"
         },
         {
-            "author": "Одед Галор",
-            "book": "Путь человечества. Истоки богатства и неравенства",
+            "author": "Юлия Бедерова, Лев Ганкин, Анна Сокольская",
+            "book": "Книга о музыке",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist 2022",
-            "img": "https://www.corpus.ru/picts/products/cover1-galor.jpg"
+            "shelf": "corpus music wishlist 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-muzika.jpg"
         },
         {
             "author": "Дженнифер Сэйнт",
@@ -11720,7 +11778,7 @@
             "readDate": "8/2/20",
             "price": "472",
             "publisher": "Бомбора",
-            "shelf": "bombora food 2020",
+            "shelf": "bombora fang food 2020",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001110084/COVER/cover1__w600.jpg"
         },
         {
@@ -11730,7 +11788,7 @@
             "buyDate": "12/13/20",
             "price": "410",
             "publisher": "Бомбора",
-            "shelf": "bombora food 2020",
+            "shelf": "bombora fang food 2020",
             "img": "https://book.sibverk.ru/image/trumb/500x500/13-857776.jpg"
         },
         {
@@ -11831,17 +11889,6 @@
             "img": "https://s1.livelib.ru/boocover/1002954947/o/0b60/Brajan_Merchant__Universalnoe_ustrojstvo._Neizvestnaya_istoriya_sozdaniya_iPhone.jpeg"
         },
         {
-            "author": "Мишель Обама",
-            "book": "Becoming. Моя история",
-            "web": "fb2",
-            "year": "2019",
-            "buyDate": "12/14/20",
-            "price": "486",
-            "publisher": "Бомбора",
-            "shelf": "obama bombora",
-            "img": "https://s1.livelib.ru/boocover/1003235332/o/df51/Mishel_Obama__Becoming._Moya_istoriya.jpeg"
-        },
-        {
             "author": "Мип Гиз",
             "book": "Я прятала Анну Франк. История женщины, которая пыталась спасти семью Франк от нацистов",
             "web": "fb2",
@@ -11914,6 +11961,16 @@
             "publisher": "Бомбора",
             "shelf": "bombora 2022",
             "img": "https://s1.livelib.ru/boocover/1006842802/o/bac0/Dzheffri_Kejn__Vzlet_Samsung._Istoriya_samoj_vydayuschejsya_i_skandalnoj_tehnoko.jpeg"
+        },
+        {
+            "author": "Нил Сэмворт",
+            "book": "Глазами надзирателя. Внутри самой суровой тюрьмы мира",
+            "year": "2022",
+            "buyDate": "7/13/22",
+            "price": "330",
+            "publisher": "Бомбора",
+            "shelf": "bombora 2022",
+            "img": "https://s1.livelib.ru/boocover/1006891360/o/2365/Nil_Semvort__Glazami_nadziratelya._Vnutri_samoj_surovoj_tyurmy_mira.jpeg"
         },
         {
             "author": "Мэри Энн Марлоу",
@@ -12072,6 +12129,7 @@
             "book": "Служба доставки книг",
             "year": "2022",
             "buyDate": "8/7/22",
+            "readDate": "9/1/22",
             "price": "278",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif bookstore 2022",
@@ -12776,6 +12834,17 @@
             "img": "https://s1.livelib.ru/boocover/1006141915/o/8d82/Soren_Svejstrup__Kashtanovyj_chelovechek.jpeg"
         },
         {
+            "author": "Мишель Обама",
+            "book": "Becoming. Моя история",
+            "web": "fb2",
+            "year": "2019",
+            "buyDate": "12/14/20",
+            "price": "486",
+            "publisher": "Бомбора",
+            "shelf": "obama bombora politics",
+            "img": "https://s1.livelib.ru/boocover/1003235332/o/df51/Mishel_Obama__Becoming._Moya_istoriya.jpeg"
+        },
+        {
             "author": "Джо Байден",
             "book": "Сдержать обещания. В жизни и политике",
             "web": "fb2",
@@ -12855,16 +12924,6 @@
             "publisher": "Бомбора",
             "shelf": "bombora nemcov politics 2022",
             "img": "https://s1.livelib.ru/boocover/1006937089/o/0a86/Zhanna_Nemtsova__Doch_svoego_ottsa.jpeg"
-        },
-        {
-            "author": "Нил Сэмворт",
-            "book": "Глазами надзирателя. Внутри самой суровой тюрьмы мира",
-            "year": "2022",
-            "buyDate": "7/13/22",
-            "price": "330",
-            "publisher": "Бомбора",
-            "shelf": "bombora 2022",
-            "img": "https://s1.livelib.ru/boocover/1006891360/o/2365/Nil_Semvort__Glazami_nadziratelya._Vnutri_samoj_surovoj_tyurmy_mira.jpeg"
         },
         {
             "author": "Эрик Асфог",
@@ -13845,7 +13904,7 @@
         },
         {
             "author": "Энн Рул",
-            "book": "Убийца рядом со мной. Мой друг — серийный маньяк Тед Банди",
+            "book": "Убийца рядом со мной. Мой друг - серийный маньяк Тед Банди",
             "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
@@ -13889,7 +13948,7 @@
         },
         {
             "author": "Мэй Уэст и Нил Маккей",
-            "book": "Люблю тебя, мама. Мои родители — маньяки Фред и Розмари Уэст",
+            "book": "Люблю тебя, мама. Мои родители - маньяки Фред и Розмари Уэст",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria wishlist true-crime-story 2022",
@@ -14191,7 +14250,7 @@
             "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press french wishlist",
-            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-10014.jpg"
+            "img": "https://s1.livelib.ru/boocover/1005638800/o/79f6/Tana_French__Shodstvo.jpeg"
         },
         {
             "author": "Тана Френч",
@@ -14213,7 +14272,7 @@
             "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press french wishlist",
-            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9841.jpg"
+            "img": "https://s1.livelib.ru/boocover/1002879407/o/78a9/Tana_French__Tajnoe_mesto.jpeg"
         },
         {
             "author": "Тана Френч",
@@ -14221,7 +14280,7 @@
             "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press french wishlist",
-            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9842.jpg"
+            "img": "https://s1.livelib.ru/boocover/1003008117/o/8a40/Tana_French__Ten_za_spinoj.jpeg"
         },
         {
             "author": "Тана Френч",
@@ -14229,7 +14288,7 @@
             "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press french wishlist",
-            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9989.jpg"
+            "img": "https://s1.livelib.ru/boocover/1005249538/o/0b1e/Tana_French__Vedmin_vyaz.jpeg"
         },
         {
             "author": "Тана Френч",
@@ -14237,7 +14296,7 @@
             "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press french wishlist",
-            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-10039.png"
+            "img": "https://s1.livelib.ru/boocover/1006264513/o/d323/Tana_French__Iskatel.jpeg"
         },
         {
             "author": "Тана Френч",
@@ -14246,7 +14305,7 @@
             "year": "2022",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press french wishlist 2022",
-            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-10057.jpg"
+            "img": "https://s1.livelib.ru/boocover/1006977964/o/d8b7/Tana_French__FejtfulPlejs.jpeg"
         },
         {
             "author": "Мишель Бюсси",
