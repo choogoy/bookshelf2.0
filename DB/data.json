@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -541,6 +541,7 @@
             "id": "n",
             "author": "Владимир Сорокин",
             "book": "De feminis",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "8/11/22",
             "price": "468",
@@ -2878,6 +2879,7 @@
             "book": "Нулёвое лето",
             "web": "fb2",
             "year": "2022",
+            "readDate": "9/3/22",
             "shelf": "brusov wishlist new 2022",
             "img": "https://cv5.litres.ru/pub/c/elektronnaya-kniga/cover_415/67893357-serzh-brusov-8342862-nulevoe-leto.webp"
         },
@@ -3101,6 +3103,7 @@
             "book": "Король и Шут. Бесконечная история",
             "web": "fb2",
             "buyDate": "2/25/19",
+            "readDate": "9/3/22",
             "price": "491",
             "shelf": "music kish",
             "img": "https://s1.livelib.ru/boocover/1002286889/o/ca3b/Aleksandr_Balunov__Korol_i_Shut._Beskonechnaya_istoriya.jpeg"
@@ -12902,7 +12905,7 @@
             "book": "Канцлер. История жизни Ангелы Меркель",
             "year": "2022",
             "publisher": "Бомбора",
-            "shelf": "bombora merlek politics wishlist new 2022",
+            "shelf": "bombora merkel politics wishlist new 2022",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001292425/COVER/cover1__w820.jpg"
         },
         {
@@ -12910,7 +12913,7 @@
             "book": "Канцлер. История жизни Ангелы Меркель",
             "year": "2022",
             "publisher": "Бомбора",
-            "shelf": "bombora merlek politics wishlist new 2022",
+            "shelf": "bombora merkel politics wishlist new 2022",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001260737/COVER/cover1__w820.jpg"
         },
         {
@@ -13036,6 +13039,7 @@
         {
             "author": "Марк Рэндольф",
             "book": "That will never work. Это никогда не будет работать. История создания Netflix, рассказанная ее основателем",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "9/9/21",
             "price": "560",
@@ -14007,6 +14011,25 @@
             "img": "https://s1.livelib.ru/boocover/1007355607/o/3870/Lajza_Dzhuell__Noch_kogda_ona_ischezla.jpeg"
         },
         {
+            "author": "Ингар Йонсруд",
+            "book": "Братство",
+            "shelf": "ingar wishlist",
+            "img": "https://s1.livelib.ru/boocover/1005565798/o/cc85/Ingar_Jonsrud__Bratstvo.jpeg"
+        },
+        {
+            "author": "Ингар Йонсруд",
+            "book": "Калипсо",
+            "shelf": "ingar wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006166521/o/7bfd/Ingar_Jonsrud__Kalipso.jpeg"
+        },
+        {
+            "author": "Ингар Йонсруд",
+            "book": "Крест",
+            "year": "2022",
+            "shelf": "ingar wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007331793/o/42be/Ingar_Jonsrud__Krest.jpeg"
+        },
+        {
             "author": "Рагнар Йонассон",
             "book": "Снежная слепота",
             "web": "mp3 fb2",
@@ -14074,6 +14097,14 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria psycho-thriller omer wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007313181/o/fb2d/Majk_Omer__Set_smerti.jpeg"
+        },
+        {
+            "author": "Майк Омер",
+            "book": "Дом страха",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria psycho-thriller omer wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007483950/o/51e1/Majk_Omer__Dom_straha.jpeg"
         },
         {
             "author": "Мэри Бёртон",
@@ -14186,6 +14217,12 @@
             "year": "2022",
             "shelf": "marrs wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007013037/o/53da/Dzhon_Marrs__Code._Nositeli.jpeg"
+        },
+        {
+            "author": "Джон Маррс",
+            "book": "Последняя жертва",
+            "year": "2022",
+            "shelf": "marrs wishlist 2022"
         },
         {
             "author": "Джон Харт",
@@ -14313,7 +14350,7 @@
             "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press bussi wishlist",
-            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-10007.jpg"
+            "img": "https://s1.livelib.ru/boocover/1005569545/o/d6cf/Mishel_Byussi__Bezumstvo_Mazarini.jpeg"
         },
         {
             "author": "Мишель Бюсси",
@@ -14321,7 +14358,7 @@
             "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press bussi wishlist",
-            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9742.jpg"
+            "img": "https://s1.livelib.ru/boocover/1003031432/o/af31/Mishel_Byussi__Pomnish_li_ty_Anais_sbornik.jpeg"
         },
         {
             "author": "Мишель Бюсси",
@@ -14329,7 +14366,7 @@
             "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press bussi wishlist",
-            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-10042.jpg"
+            "img": "https://s1.livelib.ru/boocover/1005638542/o/361d/Mishel_Byussi__Chjornye_kuvshinki.jpeg"
         },
         {
             "author": "Мишель Бюсси",
@@ -14358,7 +14395,7 @@
             "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press bussi wishlist",
-            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9746.jpg"
+            "img": "https://s1.livelib.ru/boocover/1004022472/o/1e2b/Mishel_Byussi__Sledy_na_peske.jpeg"
         },
         {
             "author": "Мишель Бюсси",
@@ -14366,7 +14403,7 @@
             "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press bussi wishlist",
-            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9745.jpg"
+            "img": "https://s1.livelib.ru/boocover/1001978374/o/04ff/Mishel_Byussi__Poka_ty_ne_spish.jpeg"
         },
         {
             "author": "Мишель Бюсси",
@@ -14374,7 +14411,7 @@
             "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press bussi wishlist",
-            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9743.jpg"
+            "img": "https://s1.livelib.ru/boocover/1002086356/o/1d87/Mishel_Byussi__Vremyaubijtsa.jpeg"
         },
         {
             "author": "Мишель Бюсси",
@@ -14382,7 +14419,7 @@
             "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press bussi wishlist",
-            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9744.jpg"
+            "img": "https://s1.livelib.ru/boocover/1002879405/o/58d0/Mishel_Byussi__I_vsetaki_ona_krasavitsa.jpeg"
         },
         {
             "author": "Мишель Бюсси",
@@ -14390,7 +14427,7 @@
             "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press bussi wishlist",
-            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-9741.jpg"
+            "img": "https://s1.livelib.ru/boocover/1003465840/o/9e3c/Mishel_Byussi__Ya_slishkom_dolgo_mechtala.jpeg"
         },
         {
             "author": "Мишель Бюсси",
@@ -14398,7 +14435,7 @@
             "web": "mp3 fb2",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press bussi wishlist",
-            "img": "https://www.phantom-press.ru/uploads/filestorage/catalog/elements/large-10051.jpg"
+            "img": "https://s1.livelib.ru/boocover/1006940710/o/afd9/Mishel_Byussi__Pod_opasnym_solntsem.jpeg"
         },
         {
             "author": "Лоран Гунель",
@@ -14560,6 +14597,7 @@
         {
             "author": "Кристин Хармель",
             "book": "Книга утраченных имен",
+            "web": "mp3",
             "year": "2022",
             "shelf": "harmel wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007028469/o/fbb6/Kristin_Harmel__Kniga_utrachennyh_imen.jpeg"
