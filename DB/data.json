@@ -6400,6 +6400,15 @@
             "img": "https://www.corpus.ru/picts/products/smith-woolgathering-1000.jpg"
         },
         {
+            "id": "196",
+            "author": "Джон Бакстер",
+            "book": "Лучшая на свете прогулка. Пешком по Парижу",
+            "year": "2013",
+            "publisher": "Corpus",
+            "shelf": "corpus bakster wishlist",
+            "img": "https://www.corpus.ru/picts/products/baxter-paris-1000.jpg"
+        },
+        {
             "id": "197",
             "author": "Карл Фруде Тиллер",
             "book": "Замыкая круг",
@@ -6821,6 +6830,15 @@
             "img": "https://cdn1.ozone.ru/multimedia/wc1200/1009778302.jpg"
         },
         {
+            "id": "264",
+            "author": "Джонатан Котт",
+            "book": "Рядом с Джоном и Йоко",
+            "year": "2014",
+            "publisher": "Corpus",
+            "shelf": "corpus lennon music wishlist",
+            "img": "https://www.corpus.ru/picts/products/Kott-Lennon-1000.jpg"
+        },
+        {
             "id": "266",
             "author": "Джастин Халперн",
             "book": "Все телки мимо",
@@ -7156,6 +7174,15 @@
             "img": "https://www.corpus.ru/picts/products/Grecian-Yard-1000.jpg"
         },
         {
+            "id": "317",
+            "author": "Джон Бакстер",
+            "book": "Франция в свое удовольствие. В поисках утраченных вкусов",
+            "year": "2015",
+            "publisher": "Corpus",
+            "shelf": "corpus bakster wishlist",
+            "img": "https://www.corpus.ru/picts/products/Baxter-France-1000.jpg"
+        },
+        {
             "id": "318",
             "author": "Валерий Шубинский",
             "book": "Даниил Хармс. Жизнь человека на ветру",
@@ -7220,7 +7247,7 @@
             "img": "https://s1.livelib.ru/boocover/1001288549/o/a264/Dzhonatan_Tropper__Dalshe_zhivite_sami.jpeg"
         },
         {
-            "id": "304",
+            "id": "328",
             "author": "Эрик Аксл Сунд",
             "book": "Подсказки пифии",
             "year": "2015",
@@ -7380,6 +7407,16 @@
             "img": "https://www.corpus.ru/picts/products/Houellebecq-Pokornost-1000.jpg"
         },
         {
+            "id": "354",
+            "author": "Александр Панчин",
+            "book": "Сумма биотехнологии. Руководство по борьбе с мифами о генетической модификации растений, животных и людей",
+            "web": "fb2",
+            "year": "2016",
+            "publisher": "Corpus",
+            "shelf": "corpus panchin wishlist",
+            "img": "https://www.corpus.ru/picts/products/Panchin-Summa-1001.jpg"
+        },
+        {
             "id": "357",
             "author": "Жан-Поль Дидьелоран",
             "book": "Утренний чтец",
@@ -7408,6 +7445,15 @@
             "publisher": "Corpus",
             "shelf": "kazantseva corpus",
             "img": "https://www.corpus.ru/picts/products/Kazantseva-Internet-1000-1.jpg"
+        },
+        {
+            "id": "364",
+            "author": "Анна фон Бремзен",
+            "book": "Тайны советской кухни. Книга о еде и надежде",
+            "year": "2016",
+            "publisher": "Corpus",
+            "shelf": "corpus food wishlist",
+            "img": "https://www.corpus.ru/picts/products/Bremzen-Eda-1000.jpg"
         },
         {
             "id": "366",
@@ -8048,6 +8094,16 @@
             "publisher": "Corpus",
             "shelf": "le-karre corpus wishlist",
             "img": "https://www.corpus.ru/picts/products/LeCarre-Admin-1001.jpg"
+        },
+        {
+            "id": "458",
+            "author": "Александр Панчин",
+            "book": "Защита от темных искусств. Путеводитель по миру паранормальных явлений",
+            "web": "fb2",
+            "year": "2018",
+            "publisher": "Corpus",
+            "shelf": "corpus panchin wishlist",
+            "img": "https://www.corpus.ru/picts/products/Panchin-Zaschita-1000.jpg"
         },
         {
             "id": "459",
@@ -9627,6 +9683,7 @@
             "id": "657",
             "author": "Эрик Аксл Сунд",
             "book": "Из жизни кукол",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus sund wishlist 2021",
@@ -10122,9 +10179,10 @@
             "id": "708",
             "author": "Александр Панчин",
             "book": "Сумма биотехнологии. Руководство по борьбе с мифами о генетической модификации растений, животных и людей",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist 2022",
+            "shelf": "corpus panchin wishlist 2022",
             "img": "https://www.corpus.ru/picts/products/panchin-summa-1000.jpeg"
         },
         {
@@ -10292,8 +10350,10 @@
             "author": "Франсуа-Анри Дезерабль",
             "book": "Властитель мой и господин",
             "year": "2022",
+            "buyDate": "9/11/22",
+            "price": "480",
             "publisher": "Corpus",
-            "shelf": "corpus dezerabl wishlist new 2022",
+            "shelf": "corpus dezerabl 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-deserabl.jpg"
         },
         {
@@ -10327,7 +10387,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-starobinets-posmotri.jpg"
         },
         {
-            "author": "Юлия Бедерова, Лев Ганкин, Анна Сокольская",
+            "author": "Юлия Бедерова, Лев Ганкин и Анна Сокольская",
             "book": "Книга о музыке",
             "year": "2022",
             "publisher": "Corpus",
@@ -11531,6 +11591,7 @@
             "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "4/10/22",
+            "readDate": "9/7/22",
             "price": "498",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press 2021",
@@ -11579,8 +11640,10 @@
             "author": "Джефф Родки",
             "book": "Неземляне",
             "year": "2022",
+            "buyDate": "9/11/22",
+            "price": "560",
             "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist rodki new 2022",
+            "shelf": "mif rodki 2022",
             "img": "https://s1.livelib.ru/boocover/1007389384/o/5985/Dzheff_Rodki__Nezemlyane.jpeg"
         },
         {
@@ -12153,8 +12216,10 @@
             "author": "Фрида Шибек",
             "book": "Книжный клуб на краю света",
             "year": "2022",
+            "buyDate": "9/11/22",
+            "price": "430",
             "publisher": "Эксмо",
-            "shelf": "inspiria shibek bookstore eksmo wishlist new 2022",
+            "shelf": "inspiria shibek bookstore eksmo 2022",
             "img": "https://s1.livelib.ru/boocover/1007432854/o/5b71/Frida_Shibek__Knizhnyj_klub_na_krayu_sveta.jpeg"
         },
         {
@@ -12904,8 +12969,10 @@
             "author": "Кэти Мартон",
             "book": "Канцлер. История жизни Ангелы Меркель",
             "year": "2022",
+            "buyDate": "9/11/22",
+            "price": "650",
             "publisher": "Бомбора",
-            "shelf": "bombora merkel politics wishlist new 2022",
+            "shelf": "bombora merkel politics 2022",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001292425/COVER/cover1__w820.jpg"
         },
         {
