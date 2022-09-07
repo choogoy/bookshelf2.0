@@ -670,7 +670,7 @@
             "book": "Helvete",
             "year": "2019",
             "shelf": "erlend-lou wishlist",
-            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558715828l/46005582._SX318_.jpg"
+            "img": "https://imusic.dk/images/item/scaled/065/9788702297065/erlend-loe-2020-helvede-hardcover-book-908.jpg"
         },
         {
             "author": "Эрленд Лу",
@@ -8550,6 +8550,24 @@
             "img": "https://www.corpus.ru/picts/products/tnw239-Isaacson-Innovators.jpg"
         },
         {
+            "id": "513",
+            "author": "Станислав Дробышевский",
+            "book": "Достающее звено. Книга первая. Обезьяны и все-все-все",
+            "year": "2019",
+            "publisher": "Corpus",
+            "shelf": "corpus drobyshevsky wishlist",
+            "img": "https://cdn.ast.ru/v2/ASE000000000842204/COVER/cover1__w600.jpg"
+        },
+        {
+            "id": "514",
+            "author": "Станислав Дробышевский",
+            "book": "Достающее звено. Книга вторая. Люди",
+            "year": "2019",
+            "publisher": "Corpus",
+            "shelf": "corpus drobyshevsky wishlist",
+            "img": "https://cdn.ast.ru/v2/ASE000000000842211/COVER/cover1__w600.jpg"
+        },
+        {
             "id": "516",
             "author": "Юрий Слёзкин",
             "book": "Дом правительства. Сага о русской революции",
@@ -9490,6 +9508,24 @@
             "publisher": "Corpus",
             "shelf": "corpus social 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-grimes-fin.jpg"
+        },
+        {
+            "id": "633",
+            "author": "Станислав Дробышевский",
+            "book": "Достающее звено. Книга первая. Обезьяны и все-все-все",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus drobyshevsky wishlist 2021",
+            "img": "https://www.corpus.ru/picts/products/cover-drobyshevskiy1.jpg"
+        },
+        {
+            "id": "634",
+            "author": "Станислав Дробышевский",
+            "book": "Достающее звено. Книга вторая. Люди",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus drobyshevsky wishlist 2021",
+            "img": "https://www.corpus.ru/picts/products/covercover-drobyshevskiy2.jpg"
         },
         {
             "id": "638",
@@ -10687,29 +10723,6 @@
         },
         {
             "id": "n",
-            "author": "Ирина Фуфаева",
-            "book": "Как называются женщины. Феминитивы: история, устройство, конкуренция",
-            "web": "mp3 fb2",
-            "year": "2020",
-            "buyDate": "11/6/21",
-            "price": "394",
-            "publisher": "Corpus",
-            "shelf": "corpus primus russian 2020",
-            "img": "https://www.corpus.ru/picts/products/Fufaeva-Women-1000.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Наталья Конрадова",
-            "book": "Археология русского интернета",
-            "year": "2021",
-            "buyDate": "12/11/21",
-            "price": "420",
-            "publisher": "Corpus",
-            "shelf": "corpus primus 2021",
-            "img": "https://www.corpus.ru/picts/products/cover1-runet.jpg"
-        },
-        {
-            "id": "n",
             "author": "Уолтер Айзексон",
             "book": "Стив Джобс",
             "buyDate": "6/24/14",
@@ -11151,6 +11164,131 @@
             "img": "https://seatracker.ru/pictures/692c5efd5b746f63fcc042a45179c799.jpg"
         },
         {
+            "id": "n",
+            "author": "Борис Жуков",
+            "book": "Введение в поведение. История наук о том, что движет животными и как их правильно понимать",
+            "web": "fb2",
+            "year": "2016",
+            "publisher": "Corpus",
+            "shelf": "corpus primus wishlist",
+            "img": "https://www.corpus.ru/picts/products/Zhukov-Povedenie-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Станислав Дробышевский",
+            "book": "Достающее звено. Книга первая. Обезьяны и все-все-все",
+            "web": "fb2",
+            "year": "2017",
+            "publisher": "Corpus",
+            "shelf": "corpus primus drobyshevsky wishlist",
+            "img": "https://cdn.ast.ru/v2/ASE000000000719556/COVER/cover1__w600.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Станислав Дробышевский",
+            "book": "Достающее звено. Книга вторая. Люди",
+            "web": "fb2",
+            "year": "2017",
+            "publisher": "Corpus",
+            "shelf": "corpus primus drobyshevsky wishlist",
+            "img": "https://cdn.ast.ru/v2/ASE000000000828425/COVER/cover1__w600.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Ирина Фуфаева",
+            "book": "Как называются женщины. Феминитивы: история, устройство, конкуренция",
+            "web": "mp3 fb2",
+            "year": "2020",
+            "buyDate": "11/6/21",
+            "price": "394",
+            "publisher": "Corpus",
+            "shelf": "corpus primus russian 2020",
+            "img": "https://www.corpus.ru/picts/products/Fufaeva-Women-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Наталья Конрадова",
+            "book": "Археология русского интернета. Телепатия, телемосты и другие техноутопии холодной войны",
+            "year": "2021",
+            "buyDate": "12/11/21",
+            "price": "420",
+            "publisher": "Corpus",
+            "shelf": "corpus primus 2021",
+            "img": "https://www.corpus.ru/picts/products/cover1-runet.jpg"
+        },
+        {
+            "author": "Михаил Никитин",
+            "book": "Происхождение жизни. От туманности до клетки",
+            "web": "fb2",
+            "year": "2016",
+            "publisher": "Альпина нон-фикшн",
+            "shelf": "alpina primus wishlist",
+            "img": "https://alpinabook.ru/resize/1230x1800/upload/iblock/8e3/8e33d63f9a4fac5bfeddd809a15a2f84.jpg"
+        },
+        {
+            "author": "Ирина Якутенко",
+            "book": "Воля и самоконтроль. Как гены и мозг мешают нам бороться с соблазнами",
+            "web": "fb2",
+            "year": "2017",
+            "publisher": "Альпина нон-фикшн",
+            "shelf": "alpina primus wishlist",
+            "img": "https://alpinabook.ru/resize/1230x1800/upload/iblock/fa3/fa34872cececf0720a98cd64d9e86864.jpg"
+        },
+        {
+            "author": "Сергей Ястребов",
+            "book": "От атомов к древу. Введение в современную науку о жизни",
+            "web": "fb2",
+            "year": "2018",
+            "publisher": "Альпина нон-фикшн",
+            "shelf": "alpina primus wishlist",
+            "img": "https://alpinabook.ru/resize/1230x1800/upload/iblock/2f1/2f197fe65289cd2afe3eb21232d40741.jpg"
+        },
+        {
+            "author": "Елена Клещенко",
+            "book": "ДНК и ее человек. Краткая история ДНК-идентификации",
+            "web": "fb2",
+            "year": "2019",
+            "publisher": "Альпина нон-фикшн",
+            "shelf": "alpina primus wishlist",
+            "img": "https://alpinabook.ru/resize/1230x1800/upload/iblock/6ef/6ef23c6cc963967202975f10c6298347.jpg"
+        },
+        {
+            "author": "Николай Кукушкин",
+            "book": "Хлопок одной ладонью. Как неживая природа породила человеческий разум",
+            "web": "fb2",
+            "year": "2020",
+            "publisher": "Альпина нон-фикшн",
+            "shelf": "alpina primus wishlist 2020",
+            "img": "https://alpinabook.ru/resize/1230x1800/upload/iblock/e8d/e8de48c79532016fdf5b4cead014a571.jpg"
+        },
+        {
+            "author": "Мария Елифёрова",
+            "book": "#Панталоныфракжилет. Что такое языковые заимствования и как они работают",
+            "web": "fb2",
+            "year": "2020",
+            "publisher": "Альпина нон-фикшн",
+            "shelf": "alpina primus wishlist 2020",
+            "img": "https://alpinabook.ru/resize/1230x1800/upload/iblock/9d9/9d9361c4aaf54bee0db4f9ad9a379b73.jpg"
+        },
+        {
+            "author": "Полина Лосева",
+            "book": "Против часовой стрелки. Что такое старение и как с ним бороться",
+            "web": "fb2",
+            "year": "2020",
+            "publisher": "Альпина нон-фикшн",
+            "shelf": "alpina primus wishlist 2020",
+            "img": "https://alpinabook.ru/resize/1230x1800/upload/iblock/303/3033bf54f3dc4278fcd6530534b5c7ec.jpg"
+        },
+        {
+            "author": "Максим Винарский",
+            "book": "Евангелие от LUCA. В поисках родословной животного мира",
+            "web": "fb2",
+            "year": "2020",
+            "publisher": "Альпина нон-фикшн",
+            "shelf": "alpina primus wishlist",
+            "img": "https://alpinabook.ru/resize/1230x1800/upload/iblock/939/939f02ac2417f676eb4f2147bc1c151a.jpg"
+        },
+        {
             "author": "Яна Хлюстова",
             "book": "Шнобелевская премия. Самые нелепые изобретения и не только",
             "web": "fb2",
@@ -11211,6 +11349,59 @@
             "publisher": "АСТ",
             "shelf": "ast science 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000863839/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Эрик Асфог",
+            "book": "Когда у Земли было две Луны: Планеты-каннибалы, ледяные гиганты, грязевые кометы и другие светила ночного неба",
+            "web": "fb2",
+            "year": "2021",
+            "buyDate": "8/13/21",
+            "price": "513",
+            "publisher": "Альпина нон-фикшн",
+            "shelf": "alpina space",
+            "img": "https://s1.livelib.ru/boocover/1006204066/o/6217/Erik_Asfog__Kogda_u_Zemli_bylo_dve_Luny.jpeg"
+        },
+        {
+            "author": "Аманда Хендрикс и Чарльз Уолфорт",
+            "book": "За пределами Земли. В поисках нового дома в Солнечной системе",
+            "web": "fb2",
+            "year": "2018",
+            "buyDate": "9/9/21",
+            "price": "295",
+            "publisher": "Альпина нон-фикшн",
+            "shelf": "alpina space",
+            "img": "https://s1.livelib.ru/boocover/1002727094/o/a639/__Za_predelami_Zemli._V_poiskah_novogo_doma_v_Solnechnoj_sisteme.jpeg"
+        },
+        {
+            "author": "Тим Фернхольц",
+            "book": "Новая космическая гонка: Как Илон Маск, Джефф Безос и Ричард Брэнсон соревнуются за первенство в космосе",
+            "year": "2021",
+            "buyDate": "9/9/21",
+            "price": "295",
+            "publisher": "Альпина паблишер",
+            "shelf": "alpina space elon-musk",
+            "img": "https://s1.livelib.ru/boocover/1002898318/o/c449/__Novaya_kosmicheskaya_gonka._Kak_Ilon_Mask_Richard_Brenson_i_Dzheff_Bezos_sorev.jpeg"
+        },
+        {
+            "author": "Иэн Стюарт",
+            "book": "Математика космоса: Как современная наука расшифровывает Вселенную",
+            "web": "fb2",
+            "year": "2021",
+            "buyDate": "9/9/21",
+            "price": "297",
+            "publisher": "Альпина нон-фикшн",
+            "shelf": "alpina space",
+            "img": "https://s1.livelib.ru/boocover/1002779170/o/1f9e/Ien_Styuart__Matematika_kosmosa._Kak_sovremennaya_nauka_rasshifrovyvaet_Vselennu.jpeg"
+        },
+        {
+            "author": "Карл Саган",
+            "book": "Голубая точка. Космическое будущее человечества",
+            "web": "fb2",
+            "buyDate": "9/9/21",
+            "price": "393",
+            "publisher": "Альпина нон-фикшн",
+            "shelf": "alpina space",
+            "img": "https://s1.livelib.ru/boocover/1002619017/o/ffe8/Karl_Sagan__Golubaya_tochka.jpeg"
         },
         {
             "author": "Иван Шипнигов",
@@ -12996,59 +13187,6 @@
             "img": "https://s1.livelib.ru/boocover/1006937089/o/0a86/Zhanna_Nemtsova__Doch_svoego_ottsa.jpeg"
         },
         {
-            "author": "Эрик Асфог",
-            "book": "Когда у Земли было две Луны: Планеты-каннибалы, ледяные гиганты, грязевые кометы и другие светила ночного неба",
-            "web": "fb2",
-            "year": "2021",
-            "buyDate": "8/13/21",
-            "price": "513",
-            "publisher": "Альпина нон-фикшн",
-            "shelf": "alpina space",
-            "img": "https://s1.livelib.ru/boocover/1006204066/o/6217/Erik_Asfog__Kogda_u_Zemli_bylo_dve_Luny.jpeg"
-        },
-        {
-            "author": "Аманда Хендрикс и Чарльз Уолфорт",
-            "book": "За пределами Земли. В поисках нового дома в Солнечной системе",
-            "web": "fb2",
-            "year": "2018",
-            "buyDate": "9/9/21",
-            "price": "295",
-            "publisher": "Альпина нон-фикшн",
-            "shelf": "alpina space",
-            "img": "https://s1.livelib.ru/boocover/1002727094/o/a639/__Za_predelami_Zemli._V_poiskah_novogo_doma_v_Solnechnoj_sisteme.jpeg"
-        },
-        {
-            "author": "Тим Фернхольц",
-            "book": "Новая космическая гонка: Как Илон Маск, Джефф Безос и Ричард Брэнсон соревнуются за первенство в космосе",
-            "year": "2021",
-            "buyDate": "9/9/21",
-            "price": "295",
-            "publisher": "Альпина паблишер",
-            "shelf": "alpina space elon-musk",
-            "img": "https://s1.livelib.ru/boocover/1002898318/o/c449/__Novaya_kosmicheskaya_gonka._Kak_Ilon_Mask_Richard_Brenson_i_Dzheff_Bezos_sorev.jpeg"
-        },
-        {
-            "author": "Иэн Стюарт",
-            "book": "Математика космоса: Как современная наука расшифровывает Вселенную",
-            "web": "fb2",
-            "year": "2021",
-            "buyDate": "9/9/21",
-            "price": "297",
-            "publisher": "Альпина нон-фикшн",
-            "shelf": "alpina space",
-            "img": "https://s1.livelib.ru/boocover/1002779170/o/1f9e/Ien_Styuart__Matematika_kosmosa._Kak_sovremennaya_nauka_rasshifrovyvaet_Vselennu.jpeg"
-        },
-        {
-            "author": "Карл Саган",
-            "book": "Голубая точка. Космическое будущее человечества",
-            "web": "fb2",
-            "buyDate": "9/9/21",
-            "price": "393",
-            "publisher": "Альпина нон-фикшн",
-            "shelf": "alpina space",
-            "img": "https://s1.livelib.ru/boocover/1002619017/o/ffe8/Karl_Sagan__Golubaya_tochka.jpeg"
-        },
-        {
             "author": "Дункан Кларк",
             "book": "Alibaba. История мирового восхождения от первого лица",
             "web": "fb2",
@@ -13707,6 +13845,50 @@
             "img": "https://s1.livelib.ru/boocover/1005707824/o/c44e/ZhanPol_Dyubua__Ne_vse_lyudi_zhivut_odinakovo.jpeg"
         },
         {
+            "author": "Марк Биллингхэм",
+            "book": "Вниз по кроличьей норе",
+            "web": "mp3 fb2",
+            "year": "2022",
+            "buyDate": "2/19/22",
+            "readDate": "4/17/22",
+            "price": "323",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria psycho-thriller 2022",
+            "img": "https://s1.livelib.ru/boocover/1007020618/o/a295/Mark_Billingem__Vniz_po_krolichej_nore.jpeg"
+        },
+        {
+            "author": "Джастин Девитт",
+            "book": "Пациент",
+            "web": "mp3 fb2",
+            "year": "2022",
+            "buyDate": "4/5/22",
+            "readDate": "4/8/22",
+            "price": "309",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria psycho-thriller 2022",
+            "img": "https://cdn.book24.ru/v2/ITD000000001250977/COVER/cover13d__w410.webp"
+        },
+        {
+            "author": "Вера Куриан",
+            "book": "Тайный клуб психопатов",
+            "web": "fb2",
+            "year": "2022",
+            "buyDate": "8/4/22",
+            "price": "355",
+            "publisher": "Эксмо",
+            "shelf": "eksmo 2022",
+            "img": "https://s1.livelib.ru/boocover/1007315803/o/d546/Vera_Kurian__Tajnyj_klub_psihopatov.jpeg"
+        },
+        {
+            "author": "Натали Дэниелс",
+            "book": "Кукушка",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022",
+            "img": "https://cdn.book24.ru/v2/ITD000000001258550/COVER/cover13d__w410.webp"
+        },
+        {
             "author": "Луанн Райс",
             "book": "Ящик Пандоры",
             "web": "mp3 fb2",
@@ -13825,50 +14007,6 @@
             "publisher": "Центрполиграф",
             "shelf": "poligraf gruber wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007313412/o/68ec/Andreas_Gruber__Metka_smerti.jpeg"
-        },
-        {
-            "author": "Марк Биллингхэм",
-            "book": "Вниз по кроличьей норе",
-            "web": "mp3 fb2",
-            "year": "2022",
-            "buyDate": "2/19/22",
-            "readDate": "4/17/22",
-            "price": "323",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria psycho-thriller 2022",
-            "img": "https://s1.livelib.ru/boocover/1007020618/o/a295/Mark_Billingem__Vniz_po_krolichej_nore.jpeg"
-        },
-        {
-            "author": "Джастин Девитт",
-            "book": "Пациент",
-            "web": "mp3 fb2",
-            "year": "2022",
-            "buyDate": "4/5/22",
-            "readDate": "4/8/22",
-            "price": "309",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria psycho-thriller 2022",
-            "img": "https://cdn.book24.ru/v2/ITD000000001250977/COVER/cover13d__w410.webp"
-        },
-        {
-            "author": "Вера Куриан",
-            "book": "Тайный клуб психопатов",
-            "web": "fb2",
-            "year": "2022",
-            "buyDate": "8/4/22",
-            "price": "355",
-            "publisher": "Эксмо",
-            "shelf": "eksmo 2022",
-            "img": "https://s1.livelib.ru/boocover/1007315803/o/d546/Vera_Kurian__Tajnyj_klub_psihopatov.jpeg"
-        },
-        {
-            "author": "Натали Дэниелс",
-            "book": "Кукушка",
-            "web": "fb2",
-            "year": "2022",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria wishlist 2022",
-            "img": "https://cdn.book24.ru/v2/ITD000000001258550/COVER/cover13d__w410.webp"
         },
         {
             "author": "Тереза Дрисколл",
@@ -14289,7 +14427,8 @@
             "author": "Джон Маррс",
             "book": "Последняя жертва",
             "year": "2022",
-            "shelf": "marrs wishlist 2022"
+            "shelf": "marrs wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007493664/o/6be9/Dzhon_Marrs__Poslednyaya_zhertva.jpeg"
         },
         {
             "author": "Джон Харт",
