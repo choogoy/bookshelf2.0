@@ -8792,6 +8792,16 @@
             "img": "https://www.corpus.ru/picts/products/Franzen-Konets-1000.jpg"
         },
         {
+            "id": "546",
+            "author": "Дэниел Деннет",
+            "book": "Насосы интуиции и другие инструменты мышления",
+            "web": "fb2",
+            "year": "2019",
+            "publisher": "Corpus",
+            "shelf": "corpus dennet wishlist",
+            "img": "https://cdn1.ozone.ru/s3/multimedia-i/wc1000/6017745066.jpg"
+        },
+        {
             "id": "548",
             "author": "Ниал Фергюсон",
             "book": "Горечь войны. Новый взгляд на Первую мировую",
@@ -8899,6 +8909,15 @@
             "img": "https://www.corpus.ru/picts/products/rovelli.jpg"
         },
         {
+            "author": "Максим Осипов",
+            "book": "«Люксембург» и другие русские истории",
+            "web": "fb2",
+            "year": "2020",
+            "publisher": "Corpus",
+            "shelf": "osipov corpus wishlist 2020",
+            "img": "https://www.corpus.ru/picts/products/Osipov-Luxemburg-1000.jpg"
+        },
+        {
             "id": "561",
             "author": "Катерина Гордеева",
             "book": "Правила ведения боя #победитьрак",
@@ -8947,13 +8966,13 @@
             "img": "https://www.corpus.ru/picts/products/Egan-Manhattan-1000.jpg"
         },
         {
-            "author": "Максим Осипов",
-            "book": "«Люксембург» и другие русские истории",
-            "web": "fb2",
+            "id": "566",
+            "author": "Крис Стрингер",
+            "book": "Остались одни. Единственный вид людей на земле",
             "year": "2020",
             "publisher": "Corpus",
-            "shelf": "osipov corpus wishlist 2020",
-            "img": "https://www.corpus.ru/picts/products/Osipov-Luxemburg-1000.jpg"
+            "shelf": "corpus elements2 wishlist 2020",
+            "img": "https://www.corpus.ru/picts/products/cover1-ostalis-odni.jpg"
         },
         {
             "id": "567",
@@ -9165,6 +9184,15 @@
             "img": "https://www.corpus.ru/picts/products/cover1-sety.jpg"
         },
         {
+            "id": "591",
+            "author": "Жанна Левин",
+            "book": "Блюз черных дыр и другие мелодии космоса",
+            "year": "2020",
+            "publisher": "Corpus",
+            "shelf": "corpus elements2 wishlist 2020",
+            "img": "https://www.corpus.ru/picts/products/cover1-levin.jpg"
+        },
+        {
             "id": "594",
             "author": "Виталий Шкляров и Анджей Беловранин",
             "book": "Мир, поставленный на паузу",
@@ -9311,6 +9339,15 @@
             "img": "https://www.corpus.ru/picts/products/cover1-forgach.jpg"
         },
         {
+            "id": "610",
+            "author": "Дэвид Дарлинг и Агниджо Банерджи",
+            "book": "Эта странная математика. На краю бесконечности и за ним",
+            "year": "2020",
+            "publisher": "Corpus",
+            "shelf": "corpus elements2 wishlist 2020",
+            "img": "https://www.corpus.ru/picts/products/cover1-matematika.jpg"
+        },
+        {
             "id": "611",
             "author": "Елена Мотова",
             "book": "Еда для радости. Записки диетолога",
@@ -9375,6 +9412,7 @@
             "id": "618",
             "author": "Витольд Шабловский",
             "book": "Танцующие медведи. Опыт обретения свободы",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus 100%doc wishlist 2021",
@@ -9529,6 +9567,15 @@
             "img": "https://www.corpus.ru/picts/products/covercover-drobyshevskiy2.jpg"
         },
         {
+            "id": "637",
+            "author": "Крис Фрит",
+            "book": "Мозг и душа. Как нервная деятельность формирует наш внутренний мир",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus elements2 wishlist 2021",
+            "img": "https://www.corpus.ru/picts/products/cover1-mozg-dusha.jpg"
+        },
+        {
             "id": "638",
             "author": "Юнас Юнассон",
             "book": "Неграмотная, которая спасла короля и королевство в придачу",
@@ -9628,9 +9675,10 @@
             "id": "647",
             "author": "Нил Шубин",
             "book": "Внутренняя рыба История человеческого тела с древнейших времен до наших дней",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus elements2 wishlist 2021",
+            "shelf": "corpus shubin elements2 wishlist 2022",
             "img": "https://www.corpus.ru/picts/products/cover-vnutr-ryba-new.jpg"
         },
         {
@@ -9694,6 +9742,15 @@
             "publisher": "Corpus",
             "shelf": "corpus wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-karta-rodiny.jpg"
+        },
+        {
+            "id": "654",
+            "author": "Энтони Агирре",
+            "book": "Космологические коаны. Путешествие в самое сердце физической реальности",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus elements2 wishlist 2021",
+            "img": "https://www.corpus.ru/picts/products/cover-koany1.jpg"
         },
         {
             "id": "655",
@@ -9846,6 +9903,25 @@
             "publisher": "Corpus",
             "shelf": "corpus scientificum wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/David-Bezdna-1000.jpg"
+        },
+        {
+            "id": "670",
+            "author": "Дэниел Деннет",
+            "book": "Насосы интуиции и другие инструменты мышления",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus dennet elements2 wishlist 2021",
+            "img": "https://www.corpus.ru/picts/products/Dennett-Pumps-1000.jpg"
+        },
+        {
+            "author": "Эрик Кандель",
+            "book": "В поисках памяти. Возникновение новой науки о человеческой психике",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus elements2 wishlist 2021",
+            "img": "https://www.corpus.ru/picts/products/cover1-pamyat.jpg"
         },
         {
             "id": "672",
@@ -10001,6 +10077,16 @@
             "img": "https://www.corpus.ru/picts/products/cover1-lishnie.jpg"
         },
         {
+            "id": "686",
+            "author": "Мелани Митчелл",
+            "book": "Идиот или гений? Как работает и на что способен искусственный интеллект",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus elements2 wishlist 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-mitchell.jpg"
+        },
+        {
             "id": "687",
             "author": "Клэр Чемберс",
             "book": "Простые радости",
@@ -10101,6 +10187,16 @@
             "publisher": "Corpus",
             "shelf": "corpus nabokov 2022",
             "img": "https://www.corpus.ru/picts/products/nabokov-volshebnik-1000.jpeg"
+        },
+        {
+            "id": "697",
+            "author": "Нил Шубин",
+            "book": "Требуется сборка. Расшифровываем четыре миллиарда лет истории жизни - от древних окаменелостей до ДНК",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus shubin elements2 wishlist 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-sborka.jpeg"
         },
         {
             "id": "698",
