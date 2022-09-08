@@ -893,6 +893,7 @@
             "book": "Цифровая крепость",
             "web": "mp3 fb2",
             "buyDate": "4/17/17",
+            "readDate": "9/7/22",
             "price": "447",
             "shelf": "braun",
             "img": "https://cdn.ast.ru/v2/AST000000000136265/COVER/cover1__w600.jpg"
@@ -12953,7 +12954,7 @@
             "price": "409",
             "publisher": "АСТ",
             "shelf": "ast lost-happiness 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000860117/COVER/cover1__w600.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007132602/o/464e/Dzhuliya_Kelli__Poslednij_sad_Anglii.jpeg"
         },
         {
             "author": "Келли Риммер",
@@ -12963,7 +12964,17 @@
             "price": "403",
             "publisher": "АСТ",
             "shelf": "ast lost-happiness 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000862843/COVER/cover1__w600.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007396275/o/2754/Kelli_Rimmer__Veschi_o_kotoryh_my_ne_mozhem_rasskazat.jpeg"
+        },
+        {
+            "author": "Виена Дэй Рэндел",
+            "book": "Последняя роза Шанхая",
+            "year": "2022",
+            "buyDate": "9/30/22",
+            "price": "404",
+            "publisher": "АСТ",
+            "shelf": "ast lost-happiness 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000865327/COVER/cover1__w600.jpg"
         },
         {
             "author": "Карен Джой Фаулер",
@@ -14578,8 +14589,10 @@
             "author": "Мишель Бюсси",
             "book": "Самолет без нее",
             "web": "mp3 fb2",
-            "shelf": "bussi wishlist",
-            "img": "https://s1.livelib.ru/boocover/1002080603/o/3abd/Mishel_Byussi__Samoljot_bez_nejo.jpeg"
+            "year": "2022",
+            "publisher": "Фантом Пресс",
+            "shelf": "fantom-press bussi wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007496844/o/7915/Mishel_Byussi__Samolet_bez_nee.jpeg"
         },
         {
             "author": "Мишель Бюсси",
