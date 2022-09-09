@@ -8969,6 +8969,7 @@
             "id": "566",
             "author": "Крис Стрингер",
             "book": "Остались одни. Единственный вид людей на земле",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Corpus",
             "shelf": "corpus elements2 wishlist 2020",
@@ -9187,6 +9188,7 @@
             "id": "591",
             "author": "Жанна Левин",
             "book": "Блюз черных дыр и другие мелодии космоса",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Corpus",
             "shelf": "corpus elements2 wishlist 2020",
@@ -9572,7 +9574,7 @@
             "book": "Мозг и душа. Как нервная деятельность формирует наш внутренний мир",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus elements2 wishlist 2021",
+            "shelf": "corpus elements2 frit wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-mozg-dusha.jpg"
         },
         {
@@ -9920,7 +9922,7 @@
             "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus elements2 wishlist 2021",
+            "shelf": "corpus elements2 kandel wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-pamyat.jpg"
         },
         {
@@ -10947,17 +10949,6 @@
         },
         {
             "id": "n",
-            "author": "Шон Кэролл",
-            "book": "Бесконечное число самых прекрасных форм",
-            "year": "2015",
-            "buyDate": "8/28/20",
-            "price": "233",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/Carroll-Beskonechnoe-1000.jpg"
-        },
-        {
-            "id": "n",
             "author": "Ричард Докинз",
             "book": "Расплетая радугу. Наука, заблуждения и потребность изумляться",
             "year": "2020",
@@ -11259,6 +11250,257 @@
             "publisher": "Бомбора",
             "shelf": "bombora politeh wishlist new 2022",
             "img": "https://seatracker.ru/pictures/692c5efd5b746f63fcc042a45179c799.jpg"
+        },
+        {
+            "author": "Алекс Виленкин",
+            "book": "Мир многих миров. Физики в поисках параллельных вселенных",
+            "web": "fb2",
+            "year": "2010",
+            "publisher": "Corpus",
+            "shelf": "corpus elements wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000437945/o/9e7e/Aleks_Vilenkin__Mir_mnogih_mirov._Fiziki_v_poiskah_parallelnyh_vselennyh.jpeg"
+        },
+        {
+            "author": "Нил Шубин",
+            "book": "Внутренняя рыба. История человеческого тела с древнейших времен до наших дней",
+            "web": "fb2",
+            "year": "2010",
+            "publisher": "Corpus",
+            "shelf": "corpus elements shubin wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000442707/o/35c3/Nil_Shubin__Vnutrennyaya_ryba._Istoriya_chelovecheskogo_tela_s_drevnejshih_vreme.jpeg"
+        },
+        {
+            "author": "Иэн Стюарт",
+            "book": "Истина и красота. Всемирная история симметрии",
+            "web": "fb2",
+            "year": "2010",
+            "publisher": "Corpus",
+            "shelf": "corpus elements wishlist",
+            "img": "https://www.corpus.ru/picts/products/Stewart-Istina-1000.jpg"
+        },
+        {
+            "author": "Крис Фрит",
+            "book": "Мозг и душа. Как нервная деятельность формирует наш внутренний мир",
+            "web": "fb2",
+            "year": "2010",
+            "publisher": "Corpus",
+            "shelf": "corpus elements frit wishlist",
+            "img": "https://www.corpus.ru/picts/products/Frit-Mozg-1000.jpg"
+        },
+        {
+            "author": "Арман Мари Леруа",
+            "book": "Мутанты. О генетической изменчивости и человеческом теле",
+            "web": "fb2",
+            "year": "2010",
+            "publisher": "Corpus",
+            "shelf": "corpus elements mari-lerua wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000333662/o/159f/Arman_Mari_Lerua__Mutanty.jpeg"
+        },
+        {
+            "author": "Джон Дербишир",
+            "book": "Простая одержимость. Бернхард Риман и величайшая нерешенная проблема в математике",
+            "web": "fb2",
+            "year": "2010",
+            "publisher": "Corpus",
+            "shelf": "corpus elements wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000444417/o/2a18/Dzhon_Derbishir__Prostaya_oderzhimost._Bernhard_Riman_i_velichajshaya_nereshenna.jpeg"
+        },
+        {
+            "id": "n",
+            "author": "Эрик Кандель",
+            "book": "В поисках памяти. Возникновение новой науки о человеческой психике",
+            "web": "fb2",
+            "year": "2011",
+            "publisher": "Corpus",
+            "shelf": "corpus elements kandel wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002414301/o/a69b/Erik_Kandel__V_poiskah_pamyati_Vozniknovenie_novoj_nauki_o_chelovecheskoj_psihik.jpeg"
+        },
+        {
+            "id": "n",
+            "author": "Эрик Кандель",
+            "book": "В поисках памяти. Возникновение новой науки о человеческой психике",
+            "web": "fb2",
+            "year": "2012",
+            "publisher": "Corpus",
+            "shelf": "corpus elements kandel wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000498986/o/9031/Erik_Kandel__V_poiskah_pamyati.jpeg"
+        },
+        {
+            "author": "Джессика Сакс",
+            "book": "Микробы хорошие и плохие. Наше здоровье и выживание в мире бактерий",
+            "web": "fb2",
+            "year": "2012",
+            "publisher": "Corpus",
+            "shelf": "corpus elements saks wishlist",
+            "img": "https://www.corpus.ru/picts/products/sachs-germs-1000.jpg"
+        },
+        {
+            "author": "Пенни Лекутер и Джей Берресон",
+            "book": "Пуговицы Наполеона. Семнадцать молекул, которые изменили мир",
+            "web": "fb2",
+            "year": "2012",
+            "publisher": "Corpus",
+            "shelf": "corpus elements wishlist",
+            "img": "https://www.corpus.ru/picts/products/lecouter-napoleon-1000.jpg"
+        },
+        {
+            "author": "Ник Лейн",
+            "book": "Лестница жизни. Десять величайших изобретений эволюции",
+            "web": "fb2",
+            "year": "2013",
+            "publisher": "Corpus",
+            "shelf": "corpus elements lein wishlist",
+            "img": "https://www.corpus.ru/picts/products/Lane-Lestnitsa-1000.jpg"
+        },
+        {
+            "author": "Нил Шубин",
+            "book": "Вселенная внутри нас. Что общего у камней, планет и людей",
+            "web": "fb2",
+            "year": "2013",
+            "publisher": "Corpus",
+            "shelf": "corpus elements shubin wishlist",
+            "img": "https://www.corpus.ru/picts/products/Shubin-Vselennaya-1000.jpg"
+        },
+        {
+            "author": "Манжит Кумар",
+            "book": "Квант. Эйнштейн, Бор и великий спор о природе реальности",
+            "web": "fb2",
+            "year": "2013",
+            "publisher": "Corpus",
+            "shelf": "corpus elements wishlist",
+            "img": "https://www.corpus.ru/picts/products/Kumar-Quantum-1000.jpg"
+        },
+        {
+            "author": "Марк Чангизи",
+            "book": "Революция в зрении. Что, как и почему мы видим на самом деле",
+            "web": "fb2",
+            "year": "2014",
+            "publisher": "Corpus",
+            "shelf": "corpus elements changizi wishlist",
+            "img": "https://www.corpus.ru/picts/products/Changizi-Zrenie-1000.jpg"
+        },
+        {
+            "author": "Нил Шубин",
+            "book": "Внутренняя рыба. История человеческого тела с древнейших времен до наших дней",
+            "web": "fb2",
+            "year": "2015",
+            "publisher": "Corpus",
+            "shelf": "corpus elements shubin wishlist",
+            "img": "https://s1.livelib.ru/boocover/1001478408/o/bc2a/Nil_Shubin__Vnutrennyaya_ryba._Istoriya_chelovecheskogo_tela_s_drevnejshih_vreme.jpeg"
+        },
+        {
+            "author": "Шон Кэрролл",
+            "book": "Приспособиться и выжить! ДНК как летопись эволюции",
+            "web": "fb2",
+            "year": "2015",
+            "publisher": "Corpus",
+            "shelf": "corpus elements karroll wishlist",
+            "img": "https://www.corpus.ru/picts/products/Carroll-Fittest-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Шон Кэрролл",
+            "book": "Бесконечное число самых прекрасных форм. Новая наука эво-дево и эволюция царства животных",
+            "web": "fb2",
+            "year": "2015",
+            "buyDate": "8/28/20",
+            "price": "233",
+            "publisher": "Corpus",
+            "shelf": "corpus elements karroll",
+            "img": "https://www.corpus.ru/picts/products/Carroll-Beskonechnoe-1000.jpg"
+        },
+        {
+            "author": "Джессика Сакс",
+            "book": "Микробы хорошие и плохие. Наше здоровье и выживание в мире бактерий",
+            "web": "fb2",
+            "year": "2015",
+            "publisher": "Corpus",
+            "shelf": "corpus elements saks wishlist",
+            "img": "https://www.corpus.ru/picts/products/Sachs-Germs-new-1001.jpg"
+        },
+        {
+            "author": "Марк Чангизи",
+            "book": "Революция в зрении. Что, как и почему мы видим на самом деле",
+            "web": "fb2",
+            "year": "2015",
+            "publisher": "Corpus",
+            "shelf": "corpus elements changizi wishlist",
+            "img": "https://www.corpus.ru/picts/products/Changizi-Zrenie-1001.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Эрик Кандель",
+            "book": "Век самопознания. Поиски бессознательного в искусстве и науке с начала XX века до наших дней",
+            "web": "fb2",
+            "year": "2016",
+            "publisher": "Corpus",
+            "shelf": "corpus elements kandel wishlist",
+            "img": "https://www.corpus.ru/picts/products/Kandel-Vek-1000.jpg"
+        },
+        {
+            "author": "Макс Тегмарк",
+            "book": "Наша математическая Вселенная. В поисках фундаментальной природы реальности",
+            "web": "fb2",
+            "year": "2016",
+            "publisher": "Corpus",
+            "shelf": "corpus elements tegmark wishlist",
+            "img": "https://www.corpus.ru/picts/products/Tegmark-Math-universe-1000.jpg"
+        },
+        {
+            "author": "Сванте Пэабо",
+            "book": "Неандерталец. В поисках исчезнувших геномов",
+            "web": "fb2",
+            "year": "2017",
+            "publisher": "Corpus",
+            "shelf": "corpus elements wishlist",
+            "img": "https://www.corpus.ru/picts/products/ELEMENTS_PAEBO_1000.jpg"
+        },
+        {
+            "author": "Ник Лейн",
+            "book": "Вопрос жизни. Энергия, эволюция и происхождение сложности",
+            "web": "fb2",
+            "year": "2018",
+            "publisher": "Corpus",
+            "shelf": "corpus elements lein wishlist",
+            "img": "https://www.corpus.ru/picts/products/LANE_1000.jpg"
+        },
+        {
+            "author": "Арман Мари Леруа",
+            "book": "Лагуна. Как Аристотель придумал науку",
+            "web": "fb2",
+            "year": "2019",
+            "publisher": "Corpus",
+            "shelf": "corpus elements mari-lerua wishlist",
+            "img": "https://www.corpus.ru/picts/products/Leroi-Lagoon-1000.jpg"
+        },
+        {
+            "author": "Макс Тегмарк",
+            "book": "Жизнь 3.0 Быть человеком в эпоху искусственного интеллекта",
+            "web": "fb2",
+            "year": "2019",
+            "publisher": "Corpus",
+            "shelf": "corpus elements tegmark wishlist",
+            "img": "https://www.corpus.ru/picts/products/Tegmark-Life-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Эрик Кандель",
+            "book": "В поисках памяти. Возникновение новой науки о человеческой психике",
+            "web": "fb2",
+            "year": "2020",
+            "publisher": "Corpus",
+            "shelf": "corpus elements kandel wishlist 2020",
+            "img": "https://www.corpus.ru/picts/products/kandel-new.png"
+        },
+        {
+            "id": "n",
+            "author": "Эрик Кандель",
+            "book": "Расстроенная психика. Что рассказывает о нас необычный мозг",
+            "web": "fb2",
+            "year": "2020",
+            "publisher": "Corpus",
+            "shelf": "corpus elements kandel wishlist 2020",
+            "img": "https://www.corpus.ru/picts/products/cover1-kandel.jpg"
         },
         {
             "id": "n",
@@ -11802,8 +12044,10 @@
             "author": "Мона Кастен",
             "book": "Снова мечтай. Книга 5",
             "year": "2022",
+            "buyDate": "10/31/22",
+            "price": "275",
             "publisher": "Like Book",
-            "shelf": "like-book kasten wishlist new 2022",
+            "shelf": "like-book kasten 2022",
             "img": "https://s1.livelib.ru/boocover/1007462377/o/4b2a/Mona_Kasten__Snova_mechtaj.jpeg"
         },
         {
