@@ -3006,7 +3006,9 @@
             "author": "Денис Ступников",
             "book": "Северный флот. Первая правдивая история легендарной группы. Вещание из Судного дня",
             "web": "fb2",
+            "year": "2019",
             "buyDate": "4/9/19",
+            "readDate": "9/15/22",
             "price": "530",
             "publisher": "Бомбора",
             "shelf": "bombora music stupnikov",
@@ -5448,15 +5450,6 @@
             "img": "https://www.corpus.ru/picts/products/Rushdie-Quishot-1000.jpg"
         },
         {
-            "id": "n",
-            "author": "Дарси Белл",
-            "book": "Простая просьба",
-            "year": "2018",
-            "publisher": "Corpus",
-            "shelf": "corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/Bell-Favor-1000.jpg"
-        },
-        {
             "id": "1",
             "author": "Питер Акройд",
             "book": "Дом доктора Ди",
@@ -6278,7 +6271,7 @@
             "img": "https://www.corpus.ru/picts/products/Galan-Unicorn-1000.jpg"
         },
         {
-            "id": "82",
+            "id": "83",
             "author": "Джонатан Троппер",
             "book": "Книга Джо",
             "year": "2011",
@@ -6289,7 +6282,7 @@
             "img": "https://www.corpus.ru/picts/products/Tropper-Joe-1000.jpg"
         },
         {
-            "id": "83",
+            "id": "84",
             "author": "Роберто Боланьо",
             "book": "Шлюхи-убийцы",
             "year": "2011",
@@ -7645,7 +7638,7 @@
             "book": "Побочные эффекты",
             "year": "2013",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
+            "shelf": "corpus allen wishlist",
             "img": "https://cdn1.ozone.ru/multimedia/wc1200/1008818287.jpg"
         },
         {
@@ -7665,14 +7658,6 @@
             "publisher": "Corpus",
             "shelf": "corpus evginidis wishlist",
             "img": "https://www.corpus.ru/picts/products/Eugenides-Virgins-1000.jpg"
-        },
-        {
-            "author": "Петр Вайль",
-            "book": "Слово в пути",
-            "year": "2013",
-            "publisher": "Corpus",
-            "shelf": "corpus vail wishlist",
-            "img": "https://s1.livelib.ru/boocover/1000974203/o/4093/Petr_Vajl__Slovo_v_puti_sbornik.jpeg"
         },
         {
             "id": "226",
@@ -10490,7 +10475,7 @@
             "web": "fb2",
             "year": "2019",
             "publisher": "Corpus",
-            "shelf": "corpus verdon wishlist",
+            "shelf": "corpus master-detective verdon wishlist",
             "img": "https://www.corpus.ru/picts/products/Verdon-Devil-1000.jpg"
         },
         {
@@ -11262,7 +11247,7 @@
             "web": "fb2",
             "year": "2020",
             "publisher": "Corpus",
-            "shelf": "corpus verdon wishlist 2020",
+            "shelf": "corpus master-detective verdon wishlist 2020",
             "img": "https://www.corpus.ru/picts/products/cover1-verdon-ozero.jpg"
         },
         {
@@ -11492,6 +11477,14 @@
             "publisher": "Corpus",
             "shelf": "corpus motorov 2020",
             "img": "https://www.corpus.ru/picts/products/cover1-motorov.jpg"
+        },
+        {
+            "author": "Вуди Аллен",
+            "book": "Побочные эффекты",
+            "year": "2021",
+            "publisher": "Corpus",
+            "shelf": "corpus allen wishlist 2021",
+            "img": "https://www.corpus.ru/picts/products/cover1-effecty.jpg"
         },
         {
             "id": "615",
@@ -12469,8 +12462,10 @@
             "author": "Одед Галор",
             "book": "Путь человечества. Истоки богатства и неравенства",
             "year": "2022",
+            "buyDate": "9/30/22",
+            "price": "562",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist 2022",
+            "shelf": "corpus 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-galor.jpg"
         },
         {
@@ -12718,11 +12713,14 @@
             "img": "https://www.corpus.ru/picts/products/cover1-starobinets-posmotri.jpg"
         },
         {
-            "author": "Юлия Бедерова, Лев Ганкин и Анна Сокольская",
+            "id": "729",
+            "author": "Юлия Бедерова, Лев Ганкин, Анна Сокольская и Максима Семеляка",
             "book": "Книга о музыке",
             "year": "2022",
+            "buyDate": "9/30/22",
+            "price": "1786",
             "publisher": "Corpus",
-            "shelf": "corpus music wishlist 2022",
+            "shelf": "corpus music 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-muzika.jpg"
         },
         {
@@ -12731,7 +12729,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist elements2 offit 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000868969/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-opasny-vybor.jpg"
         },
         {
             "author": "Дэвид Граймс",
@@ -12747,7 +12745,15 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist elements2 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000852790/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-tunelli.jpg"
+        },
+        {
+            "author": "Валерий Шубинский",
+            "book": "Владислав Ходасевич. Чающий и говорящий",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000862025/COVER/cover1__w600.jpg"
         },
         {
             "author": "Дженнифер Сэйнт",
@@ -12873,6 +12879,35 @@
         },
         {
             "id": "n",
+            "author": "Уолтер Керн",
+            "book": "Мне бы в небо",
+            "year": "2010",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000332670/o/230e/Uolter_Kern__Mne_by_v_nebo.jpeg"
+        },
+        {
+            "id": "n",
+            "author": "Виктор Шендерович",
+            "book": "Неснятое кино",
+            "year": "2010",
+            "buyDate": "8/5/20",
+            "price": "130",
+            "publisher": "Corpus",
+            "shelf": "corpus shenderovich",
+            "img": "https://www.corpus.ru/picts/products/Shenderovich-Kino-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Тьерри Янсен",
+            "book": "Испытание болезнью. Как победить рак груди",
+            "year": "2010",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000433668/o/8f36/Terri_Yansen__Ispytanie_boleznyu._Kak_pobedit_rak_grudi.jpeg"
+        },
+        {
+            "id": "n",
             "book": "Очарованный остров. Новые сказки об Италии",
             "year": "2014",
             "buyDate": "8/23/20",
@@ -12936,6 +12971,15 @@
             "publisher": "Corpus",
             "shelf": "corpus wishlist",
             "img": "https://s1.livelib.ru/boocover/1000758516/o/9c7c/Doroti_Sejers__Gde_budet_trup.jpeg"
+        },
+        {
+            "id": "n",
+            "author": "Дарси Белл",
+            "book": "Простая просьба",
+            "year": "2018",
+            "publisher": "Corpus",
+            "shelf": "corpus bell wishlist",
+            "img": "https://www.corpus.ru/picts/products/Bell-Favor-1000.jpg"
         },
         {
             "id": "n",
@@ -13141,17 +13185,6 @@
             "publisher": "Corpus",
             "shelf": "izakson corpus",
             "img": "https://www.corpus.ru/picts/products/Isaacson-Innovators-super1.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Виктор Шендерович",
-            "book": "Неснятое кино",
-            "year": "2009",
-            "buyDate": "8/5/20",
-            "price": "130",
-            "publisher": "Corpus",
-            "shelf": "corpus shenderovich",
-            "img": "https://www.corpus.ru/picts/products/Shenderovich-Kino-1000.jpg"
         },
         {
             "id": "n",
@@ -14880,6 +14913,7 @@
             "book": "Интервальное голодание. Как восстановить свой организм, похудеть и активизировать работу мозга",
             "year": "2020",
             "buyDate": "12/13/20",
+            "readDate": "9/14/22",
             "price": "410",
             "publisher": "Бомбора",
             "shelf": "bombora fang food 2020",
