@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -252,7 +252,7 @@
             "year": "2013",
             "publisher": "Corpus",
             "shelf": "corpus sorokin wishlist",
-            "img": "https://cdn1.ozone.ru/multimedia/wc1200/1007466165.jpg"
+            "img": "https://s1.livelib.ru/boocover/1000732972/o/9c7a/Vladimir_Sorokin__Telluriya.jpeg"
         },
         {
             "id": "n",
@@ -272,7 +272,7 @@
             "year": "2014",
             "publisher": "Corpus",
             "shelf": "corpus sorokin wishlist",
-            "img": "https://cdn1.ozone.ru/s3/multimedia-f/wc1200/6017708775.jpg"
+            "img": "https://s1.livelib.ru/boocover/1000983433/o/b21e/Vladimir_Sorokin__Norma.jpeg"
         },
         {
             "id": "n",
@@ -883,6 +883,16 @@
         },
         {
             "author": "Фредерик Бегбедер",
+            "book": "Библиотека выживания",
+            "year": "2022",
+            "buyDate": "10/31/22",
+            "price": "531",
+            "publisher": "Metamorphoses",
+            "shelf": "begbeder 2022",
+            "img": "https://s1.livelib.ru/boocover/1007489332/o/b221/Frederik_Begbeder__Biblioteka_vyzhivaniya.jpeg"
+        },
+        {
+            "author": "Фредерик Бегбедер",
             "book": "Un barrage contre l'Atlantique",
             "year": "2022",
             "shelf": "begbeder wishlist new 2022",
@@ -964,6 +974,7 @@
         {
             "author": "Николай Кононов",
             "book": "Код Дурова. Реальная история соцсети «ВКонтакте» и ее создателя",
+            "web": "fb2",
             "year": "2013",
             "buyDate": "5/28/14",
             "price": "420",
@@ -1000,6 +1011,7 @@
         {
             "author": "Слава Сэ",
             "book": "Ева",
+            "web": "fb2",
             "buyDate": "7/3/20",
             "price": "300",
             "shelf": "slava",
@@ -1008,6 +1020,7 @@
         {
             "author": "Слава Сэ",
             "book": "Сантехник, его кот, жена и другие подробности",
+            "web": "fb2",
             "buyDate": "12/27/16",
             "price": "221",
             "shelf": "slava",
@@ -1016,6 +1029,7 @@
         {
             "author": "Слава Сэ",
             "book": "Сантехник. Твоё моё колено",
+            "web": "fb2",
             "buyDate": "12/27/16",
             "price": "221",
             "shelf": "slava",
@@ -1024,6 +1038,7 @@
         {
             "author": "Слава Сэ",
             "book": "Последний сантехник",
+            "web": "fb2",
             "buyDate": "12/27/16",
             "price": "237",
             "shelf": "slava",
@@ -1032,6 +1047,7 @@
         {
             "author": "Слава Сэ",
             "book": "Когда утонет черепаха",
+            "web": "fb2",
             "buyDate": "9/21/18",
             "price": "297",
             "shelf": "slava",
@@ -1040,6 +1056,7 @@
         {
             "author": "Слава Сэ",
             "book": "Сантехник с пылу и с жаром",
+            "web": "fb2",
             "buyDate": "9/23/18",
             "price": "268",
             "shelf": "slava",
@@ -1048,6 +1065,7 @@
         {
             "author": "Слава Сэ",
             "book": "Разводы",
+            "web": "fb2",
             "buyDate": "3/6/20",
             "price": "350",
             "shelf": "slava",
@@ -1056,6 +1074,7 @@
         {
             "author": "Славы Сэ",
             "book": "Маленькая опера",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "3/31/21",
             "price": "313",
@@ -1065,6 +1084,7 @@
         {
             "author": "Дуглас Коупленд",
             "book": "Generation Икс",
+            "web": "fb2",
             "year": "1991",
             "shelf": "kouplend alternative",
             "img": "https://s1.livelib.ru/boocover/1000210801/o/61f6/Duglas_Kouplend__Generation_Iks.jpeg"
@@ -1072,6 +1092,7 @@
         {
             "author": "Дуглас Коупленд",
             "book": "Планета шампуня",
+            "web": "fb2",
             "year": "1992",
             "buyDate": "6/21/20",
             "price": "345",
@@ -1081,6 +1102,7 @@
         {
             "author": "Дуглас Коупленд",
             "book": "Жизнь после бога",
+            "web": "fb2",
             "year": "1994",
             "shelf": "kouplend",
             "img": "https://s1.livelib.ru/boocover/1000463064/o/2dd2/Duglas_Kouplend__Zhizn_posle_Boga_sbornik.jpeg"
@@ -1088,6 +1110,7 @@
         {
             "author": "Дуглас Коупленд",
             "book": "Рабы «Майкрософта»",
+            "web": "fb2",
             "year": "1995",
             "buyDate": "6/24/14",
             "price": "255",
@@ -1097,6 +1120,7 @@
         {
             "author": "Дуглас Коупленд",
             "book": "Пока подружка в коме",
+            "web": "fb2",
             "year": "1998",
             "buyDate": "7/23/14",
             "price": "337",
@@ -1105,21 +1129,24 @@
         },
         {
             "author": "Дуглас Коупленд",
-            "book": "Нормальных семей не бывает",
-            "year": "2001",
-            "shelf": "kouplend alternative",
-            "img": "https://s1.livelib.ru/boocover/1000328357/o/34dd/Duglas_Kouplend__Normalnyh_semej_ne_byvaet.jpeg"
-        },
-        {
-            "author": "Дуглас Коупленд",
             "book": "Мисс Вайоминг",
+            "web": "fb2",
             "year": "1999",
             "shelf": "kouplend alternative",
             "img": "https://s1.livelib.ru/boocover/1000501143/o/c92a/Duglas_Kouplend__Miss_Vajoming.jpeg"
         },
         {
             "author": "Дуглас Коупленд",
+            "book": "Нормальных семей не бывает",
+            "web": "fb2",
+            "year": "2001",
+            "shelf": "kouplend alternative",
+            "img": "https://s1.livelib.ru/boocover/1000328357/o/34dd/Duglas_Kouplend__Normalnyh_semej_ne_byvaet.jpeg"
+        },
+        {
+            "author": "Дуглас Коупленд",
             "book": "Эй, Нострадамус!",
+            "web": "fb2",
             "year": "2003",
             "shelf": "kouplend alternative",
             "img": "https://s1.livelib.ru/boocover/1000117238/o/a0de/Duglas_Kouplend__Ej_Nostradamus.jpeg"
@@ -1127,6 +1154,7 @@
         {
             "author": "Дуглас Коупленд",
             "book": "Элеанор Ригби",
+            "web": "fb2",
             "year": "2004",
             "shelf": "kouplend alternative",
             "img": "https://s1.livelib.ru/boocover/1000329890/o/e979/Duglas_Kouplend__Elinor_Rigbi.jpeg"
@@ -1134,6 +1162,7 @@
         {
             "author": "Дуглас Коупленд",
             "book": "JPod",
+            "web": "fb2",
             "year": "2006",
             "shelf": "kouplend",
             "img": "https://s1.livelib.ru/boocover/1000313331/o/2e9e/Duglas_Kouplend__JPod.jpeg"
@@ -1141,6 +1170,7 @@
         {
             "author": "Дуглас Коупленд",
             "book": "Похитители жвачки",
+            "web": "fb2",
             "year": "2007",
             "shelf": "kouplend alternative",
             "img": "https://s1.livelib.ru/boocover/1000501124/o/c92a/Duglas_Kouplend__Pohititeli_zhvachki.jpeg"
@@ -1148,6 +1178,7 @@
         {
             "author": "Дуглас Коупленд",
             "book": "Поколение А",
+            "web": "fb2",
             "year": "2009",
             "buyDate": "7/23/14",
             "price": "315",
@@ -1157,6 +1188,7 @@
         {
             "author": "Дуглас Коупленд",
             "book": "Игрок 1. Что с нами будет?",
+            "web": "fb2",
             "year": "2010",
             "buyDate": "6/17/14",
             "price": "210",
@@ -7849,7 +7881,7 @@
             "buyDate": "9/26/21",
             "price": "454",
             "publisher": "Corpus",
-            "shelf": "corpus glik",
+            "shelf": "corpus elements glik",
             "img": "https://www.corpus.ru/picts/products/Gleik-Information-1000.jpg"
         },
         {
@@ -7959,7 +7991,7 @@
             "buyDate": "7/22/14",
             "price": "390",
             "publisher": "Corpus",
-            "shelf": "kazantseva corpus",
+            "shelf": "corpus elements kazantseva",
             "img": "https://s1.livelib.ru/boocover/1000780712/o/fade/Asya_Kazantseva__Kto_by_mog_podumat_Kak_mozg_zastavlyaet_nas_delat_gluposti.jpeg"
         },
         {
@@ -8204,7 +8236,7 @@
             "buyDate": "7/27/20",
             "price": "96",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus elements",
             "img": "https://www.corpus.ru/picts/products/Morozov-Internet-1000.jpg"
         },
         {
@@ -8269,7 +8301,7 @@
             "book": "Возвращение времени: от античной космогонии к космологии будущего",
             "year": "2014",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
+            "shelf": "corpus elements wishlist",
             "img": "https://www.corpus.ru/picts/products/Smolin-Time-1000.jpg"
         },
         {
@@ -8914,7 +8946,7 @@
             "buyDate": "10/4/21",
             "price": "459",
             "publisher": "Corpus",
-            "shelf": "corpus russian levontina",
+            "shelf": "corpus elements russian levontina",
             "img": "https://www.corpus.ru/picts/products/Levontina-Rech-1000.jpg"
         },
         {
@@ -8944,7 +8976,7 @@
             "web": "fb2",
             "year": "2016",
             "publisher": "Corpus",
-            "shelf": "corpus panchin wishlist",
+            "shelf": "corpus elements panchin wishlist",
             "img": "https://www.corpus.ru/picts/products/Panchin-Summa-1001.jpg"
         },
         {
@@ -9019,7 +9051,7 @@
             "book": "В интернете кто-то не прав!",
             "year": "2016",
             "publisher": "Corpus",
-            "shelf": "kazantseva corpus",
+            "shelf": "corpus elements kazantseva",
             "img": "https://www.corpus.ru/picts/products/Kazantseva-Internet-1000-1.jpg"
         },
         {
@@ -9066,7 +9098,7 @@
             "book": "Информация. История. Теория. Поток",
             "year": "2016",
             "publisher": "Corpus",
-            "shelf": "corpus glik wishlist",
+            "shelf": "corpus elements glik wishlist",
             "img": "https://www.corpus.ru/picts/products/Gliek-Information-1000.jpg"
         },
         {
@@ -9334,7 +9366,7 @@
             "buyDate": "10/1/20",
             "price": "258.26",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus elements",
             "img": "https://www.corpus.ru/picts/products/Fox-Tayna%20Labirinta-1000.jpg"
         },
         {
@@ -9354,7 +9386,7 @@
             "buyDate": "7/29/20",
             "price": "171",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus elements",
             "img": "https://www.corpus.ru/picts/products/Gefter-Einstein-1000.jpg"
         },
         {
@@ -9383,7 +9415,7 @@
             "book": "Язык химии. Этимология химических названий",
             "year": "2016",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
+            "shelf": "corpus elements wishlist",
             "img": "https://www.corpus.ru/picts/products/Leenson-Yazyk-1000.jpg"
         },
         {
@@ -9394,7 +9426,7 @@
             "buyDate": "9/23/21",
             "price": "428",
             "publisher": "Corpus",
-            "shelf": "corpus russian krongauz",
+            "shelf": "corpus elements russian krongauz",
             "img": "https://www.corpus.ru/picts/products/Krongauz-Na%20grani%20sryva-1000.jpg"
         },
         {
@@ -9421,7 +9453,7 @@
             "book": "Игры разума. История жизни Джона Нэша, гениального математика и лауреата Нобелевской премии",
             "year": "2016",
             "publisher": "Corpus",
-            "shelf": "corpus nazar wishlist",
+            "shelf": "corpus evolution nazar wishlist",
             "img": "https://www.corpus.ru/picts/products/nazar-big.jpg"
         },
         {
@@ -9441,7 +9473,7 @@
             "book": "Ни кошелька, ни жизни. Нетрадиционная медицина под следствием",
             "year": "2016",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
+            "shelf": "corpus evolution wishlist",
             "img": "https://www.corpus.ru/picts/products/Singh-Ni-koshelka-1000.jpg"
         },
         {
@@ -9763,7 +9795,7 @@
             "book": "Смертельно опасный выбор. Чем борьба с прививками грозит нам всем",
             "year": "2017",
             "publisher": "Corpus",
-            "shelf": "corpus offit wishlist",
+            "shelf": "corpus evolution offit wishlist",
             "img": "https://www.corpus.ru/picts/products/pol-offit-smertelno-opasnyj-vybor-chem-borba-privivkami-grozit-nam-vsem.jpg"
         },
         {
@@ -9940,7 +9972,7 @@
             "web": "fb2",
             "year": "2018",
             "publisher": "Corpus",
-            "shelf": "corpus panchin wishlist",
+            "shelf": "corpus evolution panchin wishlist",
             "img": "https://www.corpus.ru/picts/products/Panchin-Zaschita-1000.jpg"
         },
         {
@@ -10337,7 +10369,7 @@
             "book": "Все мы смертны. Что для нас дорого в самом конце и чем тут может помочь медицина",
             "year": "2018",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
+            "shelf": "corpus evolution wishlist",
             "img": "https://www.corpus.ru/picts/products/Gavande-Smertny-1000.jpg"
         },
         {
@@ -10493,7 +10525,7 @@
             "book": "Достающее звено. Книга первая. Обезьяны и все-все-все",
             "year": "2019",
             "publisher": "Corpus",
-            "shelf": "corpus drobyshevsky wishlist",
+            "shelf": "corpus elements drobyshevsky wishlist",
             "img": "https://cdn.ast.ru/v2/ASE000000000842204/COVER/cover1__w600.jpg"
         },
         {
@@ -10502,7 +10534,7 @@
             "book": "Достающее звено. Книга вторая. Люди",
             "year": "2019",
             "publisher": "Corpus",
-            "shelf": "corpus drobyshevsky wishlist",
+            "shelf": "corpus elements drobyshevsky wishlist",
             "img": "https://cdn.ast.ru/v2/ASE000000000842211/COVER/cover1__w600.jpg"
         },
         {
@@ -10609,7 +10641,7 @@
             "buyDate": "9/29/20",
             "price": "501",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus evolution",
             "img": "https://www.corpus.ru/picts/products/tnw239-Talantov-005-1000.jpg"
         },
         {
@@ -10652,7 +10684,7 @@
             "buyDate": "7/22/19",
             "price": "420",
             "publisher": "Corpus",
-            "shelf": "kazantseva corpus",
+            "shelf": "corpus elements kazantseva",
             "img": "https://www.corpus.ru/picts/products/Kazantseva-Mozg-1000.jpg"
         },
         {
@@ -10807,7 +10839,7 @@
             "web": "fb2",
             "year": "2019",
             "publisher": "Corpus",
-            "shelf": "corpus dennet wishlist",
+            "shelf": "corpus elements dennet wishlist",
             "img": "https://cdn1.ozone.ru/s3/multimedia-i/wc1000/6017745066.jpg"
         },
         {
@@ -10886,7 +10918,7 @@
             "buyDate": "10/14/20",
             "price": "536",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus evolution",
             "img": "https://www.corpus.ru/picts/products/Daudna-Treschina-1000.jpg"
         },
         {
@@ -11104,7 +11136,7 @@
             "book": "Соблазняющий разум. Как выбор сексуального партнера повлиял на эволюцию человеческой природы",
             "year": "2020",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist 2020",
+            "shelf": "corpus evolution wishlist 2020",
             "img": "https://www.corpus.ru/picts/products/Miller-Mind-1000.jpg"
         },
         {
@@ -11256,7 +11288,7 @@
             "book": "Дарвинизм в XXI веке",
             "year": "2020",
             "publisher": "Corpus",
-            "shelf": "corpus zhukov wishlist 2020",
+            "shelf": "corpus evolution zhukov wishlist 2020",
             "img": "https://www.corpus.ru/picts/products/cover1-zhukov.jpg"
         },
         {
@@ -11288,7 +11320,7 @@
             "book": "Игры гормонов. Как гормоны движут нашими желаниями, определяют наши отношения с людьми, влияют на наш выбор и делают нас мудрее",
             "year": "2020",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist 2020",
+            "shelf": "corpus evolution wishlist 2020",
             "img": "https://www.corpus.ru/picts/products/Hazelton-Gormony-1000.jpg"
         },
         {
@@ -11451,7 +11483,7 @@
             "readDate": "4/2/21",
             "price": "416",
             "publisher": "Corpus",
-            "shelf": "corpus motova food 2020",
+            "shelf": "corpus elements motova food 2020",
             "img": "https://www.corpus.ru/picts/products/cover1-motova.jpg"
         },
         {
@@ -11625,7 +11657,7 @@
             "buyDate": "3/31/21",
             "price": "691",
             "publisher": "Corpus",
-            "shelf": "corpus russian levontina 2021",
+            "shelf": "corpus elements russian levontina 2021",
             "img": "https://www.corpus.ru/picts/products/cover-chestnoe-slovo.jpg"
         },
         {
@@ -11693,7 +11725,7 @@
             "book": "Достающее звено. Книга первая. Обезьяны и все-все-все",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus drobyshevsky wishlist 2021",
+            "shelf": "corpus elements drobyshevsky wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/cover-drobyshevskiy1.jpg"
         },
         {
@@ -11702,7 +11734,7 @@
             "book": "Достающее звено. Книга вторая. Люди",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus drobyshevsky wishlist 2021",
+            "shelf": "corpus elements drobyshevsky wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/covercover-drobyshevskiy2.jpg"
         },
         {
@@ -12454,7 +12486,7 @@
             "readDate": "6/18/22",
             "price": "500",
             "publisher": "Corpus",
-            "shelf": "corpus 2022",
+            "shelf": "corpus elements 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-babkov-perevod.jpeg"
         },
         {
@@ -12462,7 +12494,7 @@
             "author": "Одед Галор",
             "book": "Путь человечества. Истоки богатства и неравенства",
             "year": "2022",
-            "buyDate": "9/30/22",
+            "buyDate": "10/15/22",
             "price": "562",
             "publisher": "Corpus",
             "shelf": "corpus 2022",
@@ -12508,7 +12540,7 @@
             "web": "fb2",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus panchin wishlist 2022",
+            "shelf": "corpus evolution panchin wishlist 2022",
             "img": "https://www.corpus.ru/picts/products/panchin-summa-1000.jpeg"
         },
         {
@@ -12717,7 +12749,7 @@
             "author": "Юлия Бедерова, Лев Ганкин, Анна Сокольская и Максима Семеляка",
             "book": "Книга о музыке",
             "year": "2022",
-            "buyDate": "9/30/22",
+            "buyDate": "10/15/22",
             "price": "1786",
             "publisher": "Corpus",
             "shelf": "corpus music 2022",
@@ -12756,28 +12788,20 @@
             "img": "https://cdn.ast.ru/v2/ASE000000000862025/COVER/cover1__w600.jpg"
         },
         {
+            "author": "Амели Нотомб",
+            "book": "Аэростаты. Первая кровь",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus notomb wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000864306/COVER/cover1__w600.jpg"
+        },
+        {
             "author": "Дженнифер Сэйнт",
             "book": "Ариадна",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist new 2022",
             "img": "https://www.corpus.ru/picts/news/93_20211102225137ariadne-31.jpg"
-        },
-        {
-            "author": "Амели Нотомб",
-            "book": "Первая кровь",
-            "year": "2022",
-            "publisher": "Corpus",
-            "shelf": "corpus notomb wishlist new 2022",
-            "img": "https://www.corpus.ru/picts/news/21_20211111025806fYtf-OOCtwk.jpg"
-        },
-        {
-            "author": "Амели Нотомб",
-            "book": "Аэростаты",
-            "year": "2022",
-            "publisher": "Corpus",
-            "shelf": "corpus notomb wishlist new 2022",
-            "img": "https://media.electre-ng.com/images/image-id/fdc61a8998aec04da89244e9df7c74c92c06e07c2dcce24091d5e4e34f56d9b5.jpg"
         },
         {
             "author": "Джон Ле Карре",
@@ -12874,7 +12898,7 @@
             "buyDate": "8/23/20",
             "price": "162",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus elements",
             "img": "https://s1.livelib.ru/boocover/1000427601/o/6e4d/__Proishozhdenie_zhizni._Nauka_i_vera.jpeg"
         },
         {
@@ -13702,7 +13726,7 @@
             "book": "Рождение сложности Эволюционная биология сегодня: неожиданные открытия и новые вопросы",
             "year": "2010",
             "publisher": "Corpus",
-            "shelf": "corpus markov wishlist",
+            "shelf": "corpus elements markov wishlist",
             "img": "https://www.corpus.ru/picts/products/Markov-Birth-1000.jpg"
         },
         {
@@ -13711,7 +13735,7 @@
             "book": "Эволюция человека. Книга 1 Обезьяны, кости и гены",
             "year": "2011",
             "publisher": "Corpus",
-            "shelf": "corpus markov wishlist",
+            "shelf": "corpus elements markov wishlist",
             "img": "https://www.corpus.ru/picts/products/Markov-Evolution-tom1-1000.jpg"
         },
         {
@@ -13720,7 +13744,7 @@
             "book": "Эволюция человека. Книга 2 Обезьяны, нейроны и душа",
             "year": "2011",
             "publisher": "Corpus",
-            "shelf": "corpus markov wishlist",
+            "shelf": "corpus elements markov wishlist",
             "img": "https://www.corpus.ru/picts/products/Markov-Evolution-tom2-1000.jpg"
         },
         {
@@ -13729,7 +13753,7 @@
             "book": "Кто изобрел современную физику?",
             "year": "2013",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
+            "shelf": "corpus elements wishlist",
             "img": "https://www.corpus.ru/picts/products/Gorelik-Kto_izobrel-1000.jpg"
         },
         {
@@ -13738,7 +13762,7 @@
             "book": "Эволюция. Классические идеи в свете новых открытий",
             "year": "2016",
             "publisher": "Corpus",
-            "shelf": "corpus markov wishlist",
+            "shelf": "corpus elements markov wishlist",
             "img": "https://www.corpus.ru/picts/products/Markov-Evolution-1000-new.jpg"
         },
         {
@@ -13747,7 +13771,7 @@
             "book": "Перспективы отбора. От зеленых пеночек и бессмысленного усложнения до голых землекопов и мутирующего человечества",
             "year": "2019",
             "publisher": "Corpus",
-            "shelf": "corpus markov wishlist",
+            "shelf": "corpus elements markov wishlist",
             "img": "https://www.corpus.ru/picts/products/Markov-Perspektivy-1000.jpg"
         },
         {
@@ -13756,7 +13780,7 @@
             "book": "Эволюция человека. Книга 3 Кости, гены и культура",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus markov wishlist 2021",
+            "shelf": "corpus elements markov wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/cover-markov.jpg"
         },
         {
@@ -13818,6 +13842,16 @@
             "publisher": "Corpus",
             "shelf": "corpus elements wishlist",
             "img": "https://s1.livelib.ru/boocover/1000444417/o/2a18/Dzhon_Derbishir__Prostaya_oderzhimost._Bernhard_Riman_i_velichajshaya_nereshenna.jpeg"
+        },
+        {
+            "id": "n",
+            "author": "Светлана Бурлак",
+            "book": "Происхождение языка. Факты, исследования, гипотезы",
+            "web": "fb2",
+            "year": "2011",
+            "publisher": "Corpus",
+            "shelf": "corpus elements wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000489568/o/792f/Svetlana_Burlak__Proishozhdenie_yazyka._Fakty_issledovaniya_gipotezy.jpeg"
         },
         {
             "id": "n",
@@ -14272,6 +14306,15 @@
             "img": "https://s1.livelib.ru/boocover/1002619017/o/ffe8/Karl_Sagan__Golubaya_tochka.jpeg"
         },
         {
+            "author": "Светлана Бурлак",
+            "book": "Происхождение языка. Факты, исследования, гипотезы",
+            "web": "fb2",
+            "year": "2018",
+            "publisher": "Альпина нон-фикшн",
+            "shelf": "alpina elements wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002907803/o/17a7/Svetlana_Burlak__Proishozhdenie_yazyka._Fakty_issledovaniya_gipotezy.jpeg"
+        },
+        {
             "author": "Иван Шипнигов",
             "book": "Нефть, метель и другие веселые боги",
             "web": "fb2",
@@ -14682,8 +14725,10 @@
             "author": "Ти Джей Ньюман",
             "book": "Падение",
             "year": "2022",
+            "buyDate": "9/20/22",
+            "price": "393",
             "publisher": "Individuum",
-            "shelf": "wishlist 2022",
+            "shelf": "2022",
             "img": "https://s1.livelib.ru/boocover/1007358469/o/d41c/Ti_Dzhej_Nyuman__Padenie.jpeg"
         },
         {
@@ -14911,6 +14956,7 @@
         {
             "author": "Джейсон Фанг",
             "book": "Интервальное голодание. Как восстановить свой организм, похудеть и активизировать работу мозга",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "12/13/20",
             "readDate": "9/14/22",
@@ -15592,11 +15638,11 @@
             "author": "Марианна Вулф",
             "book": "Пруст и кальмар. Нейробиология чтения",
             "web": "fb2",
-            "year": "2002",
+            "year": "2020",
             "buyDate": "6/1/21",
             "price": "395",
             "publisher": "КоЛибри",
-            "shelf": "bookstore kolibri",
+            "shelf": "bookstore kolibri 2020",
             "img": "https://s1.livelib.ru/boocover/1005533218/o/1485/Marianna_Vulf__Prust_i_kalmar._Nejrobiologiya_chteniya.jpeg"
         },
         {
@@ -15681,7 +15727,7 @@
             "buyDate": "6/18/21",
             "price": "303",
             "publisher": "АСТ",
-            "shelf": "bookstore ast",
+            "shelf": "bookstore ast 2021",
             "img": "https://s1.livelib.ru/boocover/1005948199/o/6a34/Karen_Dyukess__Poslednyaya_knizhnaya_vecherinka.jpeg"
         },
         {
@@ -15692,7 +15738,7 @@
             "buyDate": "6/18/21",
             "price": "318",
             "publisher": "АСТ",
-            "shelf": "bookstore ast different-life",
+            "shelf": "bookstore ast different-life 2021",
             "img": "https://s1.livelib.ru/boocover/1005620749/o/128f/Kim_Mishel_Richardson__Knizhnaya_dama_iz_Bespokojnogo_ruchya.jpeg"
         },
         {
@@ -15715,7 +15761,7 @@
             "buyDate": "8/13/21",
             "price": "313",
             "publisher": "АСТ",
-            "shelf": "ast different-life",
+            "shelf": "ast different-life 2021",
             "img": "https://s1.livelib.ru/boocover/1005504400/o/c8d1/Barbara_Oampamp039Nil__Kogda_my_verili_v_rusalok.jpeg"
         },
         {
@@ -15726,7 +15772,7 @@
             "buyDate": "8/13/21",
             "price": "313",
             "publisher": "АСТ",
-            "shelf": "ast different-life",
+            "shelf": "ast different-life 2021",
             "img": "https://s1.livelib.ru/boocover/1005671449/o/4c50/Anna_Houp__Ozhidanie.jpeg"
         },
         {
@@ -16247,7 +16293,7 @@
             "readDate": "5/11/22",
             "price": "354",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria japan 2020",
+            "shelf": "eksmo japan inspiria 2020",
             "img": "https://s1.livelib.ru/boocover/1005139405/o/6d16/Kanae_Minato__Vinoven.jpeg"
         },
         {
@@ -16357,6 +16403,16 @@
             "publisher": "АСТ",
             "shelf": "ast miracle 2022",
             "img": "https://s1.livelib.ru/boocover/1007136586/o/7f5a/Ejlin_Garvin__Muzyka_pchel.jpeg"
+        },
+        {
+            "author": "Хелена Турстен",
+            "book": "Фрекен Мод задумала что-то недоброе",
+            "year": "2022",
+            "buyDate": "10/31/22",
+            "price": "387",
+            "publisher": "АСТ",
+            "shelf": "ast miracle 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000867331/COVER/cover1__w600.jpg"
         },
         {
             "author": "Роуз Карлайл",
