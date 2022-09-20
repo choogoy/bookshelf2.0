@@ -7847,6 +7847,7 @@
             "id": "241",
             "author": "Лев Рубинштейн",
             "book": "Скорее всего",
+            "web": "fb2",
             "year": "2013",
             "buyDate": "9/17/22",
             "price": "501",
@@ -15456,6 +15457,22 @@
             "img": "https://cdn.eksmo.ru/v2/ITD000000001246557/COVER/cover1__w820.jpg"
         },
         {
+            "author": "Ребекка Рейсин",
+            "book": "Чайный фургончик Рози",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007411359/o/448b/Rebekka_Rejsin__Chajnyj_furgonchik_Rozi.jpeg"
+        },
+        {
+            "author": "Лилак Миллс",
+            "book": "Маленькая кондитерская в Танглвуде",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001246552/COVER/cover1__w820.jpg"
+        },
+        {
             "author": "Эли Макнамара",
             "book": "Маленький цветочный магазин у моря",
             "web": "fb2",
@@ -16019,6 +16036,14 @@
             "img": "https://is5-ssl.mzstatic.com/image/thumb/Publication116/v4/a2/5a/47/a25a47b6-2022-4e5e-9744-9d472c9b1217/9780593332801.d.jpg/313x0w.webp"
         },
         {
+            "author": "Лилак Миллс",
+            "book": "Маленькая кондитерская в Танглвуде",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001246552/COVER/cover1__w820.jpg"
+        },
+        {
             "author": "Алекс Михаэлидес",
             "book": "Безмолвный пациент",
             "web": "fb2",
@@ -16029,6 +16054,15 @@
             "publisher": "Эксмо",
             "shelf": "eksmo mihaelides psycho-thriller",
             "img": "https://s1.livelib.ru/boocover/1005707755/o/28ca/Aleks_Mihaelides__Bezmolvnyj_patsient.jpeg"
+        },
+        {
+            "author": "Алекс Михаэлидес",
+            "book": "Безмолвный пациент",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria mihaelides psycho-thriller wishlist 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001278966/COVER/cover1__w820.jpg"
         },
         {
             "author": "Алекс Михаэлидес",
@@ -16619,6 +16653,21 @@
             "img": "https://s1.livelib.ru/boocover/1006896874/o/f869/Lui_Bajyar__Vsevidyaschee_oko.jpeg"
         },
         {
+            "author": "Стейси Уиллингхэм",
+            "book": "Мерцание во тьме",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007463097/o/2b04/Stejsi_Uillinghem__Mertsanie_vo_tme.jpeg"
+        },
+        {
+            "author": "Алекс Финли",
+            "book": "Все до последнего страхи",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022"
+        },
+        {
             "author": "Патриция Локвуд",
             "book": "Святой папочка",
             "year": "2021",
@@ -16697,7 +16746,7 @@
         {
             "author": "Брендон Тейлор",
             "book": "Настоящая жизнь",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "11/28/21",
             "price": "350",
@@ -16716,6 +16765,7 @@
         {
             "author": "Дуглас Стюарт",
             "book": "Шагги Бейн",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "12/4/21",
             "price": "414",
@@ -16773,7 +16823,30 @@
             "price": "425",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria buker 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001251165/COVER/cover1__w820.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007507050/o/1da0/Dejmon_Gelgut__Obeschanie.jpeg"
+        },
+        {
+            "author": "Луиза Эрдрич",
+            "book": "Ночной сторож",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria buker wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007491105/o/e458/Luiza_Erdrich__Nochnoj_storozh.jpeg"
+        },
+        {
+            "author": "Карен Дженнингс",
+            "book": "На острове",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria buker wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007501074/o/f965/Karen_Dzhennings__Na_ostrove.jpeg"
+        },
+        {
+            "author": "Фрэнсис Спаффорд",
+            "book": "Вечный свет",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria buker wishlist 2022"
         },
         {
             "author": "Пол Бейти",
@@ -16819,6 +16892,26 @@
             "img": "https://s1.livelib.ru/boocover/1005707824/o/c44e/ZhanPol_Dyubua__Ne_vse_lyudi_zhivut_odinakovo.jpeg"
         },
         {
+            "author": "Вера Куриан",
+            "book": "Тайный клуб психопатов",
+            "web": "fb2",
+            "year": "2022",
+            "buyDate": "8/4/22",
+            "price": "355",
+            "publisher": "Эксмо",
+            "shelf": "eksmo 2022",
+            "img": "https://s1.livelib.ru/boocover/1007315803/o/d546/Vera_Kurian__Tajnyj_klub_psihopatov.jpeg"
+        },
+        {
+            "author": "Натали Дэниелс",
+            "book": "Кукушка",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022",
+            "img": "https://cdn.book24.ru/v2/ITD000000001258550/COVER/cover13d__w410.webp"
+        },
+        {
             "author": "Марк Биллингхэм",
             "book": "Вниз по кроличьей норе",
             "web": "mp3 fb2",
@@ -16843,24 +16936,35 @@
             "img": "https://cdn.book24.ru/v2/ITD000000001250977/COVER/cover13d__w410.webp"
         },
         {
-            "author": "Вера Куриан",
-            "book": "Тайный клуб психопатов",
-            "web": "fb2",
-            "year": "2022",
-            "buyDate": "8/4/22",
-            "price": "355",
-            "publisher": "Эксмо",
-            "shelf": "eksmo 2022",
-            "img": "https://s1.livelib.ru/boocover/1007315803/o/d546/Vera_Kurian__Tajnyj_klub_psihopatov.jpeg"
-        },
-        {
-            "author": "Натали Дэниелс",
-            "book": "Кукушка",
-            "web": "fb2",
+            "author": "Адам Симкокс",
+            "book": "Отряд мёртвых",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria wishlist 2022",
-            "img": "https://cdn.book24.ru/v2/ITD000000001258550/COVER/cover13d__w410.webp"
+            "img": "https://s1.livelib.ru/boocover/1006553884/o/5142/Adam_Simkoks__Otryad_mjortvyh.jpeg"
+        },
+        {
+            "author": "Вивиан Барц",
+            "book": "Забытые кости",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007141698/o/e1dd/Vivian_Barts__Zabytye_kosti.jpeg"
+        },
+        {
+            "author": "Венди Вэбб",
+            "book": "Дочери озера",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007412517/o/55f4/Vendi_Vebb__Docheri_ozera.jpeg"
+        },
+        {
+            "author": "Сара Грэн",
+            "book": "Книга о бесценной субстанции",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022"
         },
         {
             "author": "Луанн Райс",
@@ -17043,6 +17147,14 @@
             "img": "https://s1.livelib.ru/boocover/1007362831/o/1e58/Kerol_Dzhonston__Zerkalnaya_strana.jpeg"
         },
         {
+            "author": "Лин Йоварт",
+            "book": "Молчаливая слушательница",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist crime-fiction 2022",
+            "img": "https://s1.livelib.ru/boocover/1007460829/o/29f9/Lin_Jovart__Molchalivaya_slushatelnitsa.jpeg"
+        },
+        {
             "author": "Карин Слотер",
             "book": "Хорошая дочь",
             "web": "mp3 fb2",
@@ -17056,7 +17168,7 @@
             "book": "Осколки прошлого",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria wishlist slouter 2022"
+            "shelf": "eksmo inspiria wishlist sloter 2022"
         },
         {
             "author": "Грегг Олсен",
@@ -17138,6 +17250,160 @@
             "img": "https://s1.livelib.ru/boocover/1007404531/o/d407/__Lyublyu_tebya_mama._Moi_roditeli__manyaki_Fred_i_Rozmari_Uest.jpeg"
         },
         {
+            "author": "Дэвид Бушман и Марк Гивенс",
+            "book": "Убийство у Тилз-Понд. Реальная история, легшая в основу «Твин Пикс»",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist true-crime-story 2022",
+            "img": "https://s1.livelib.ru/boocover/1007506819/o/6296/__Ubijstvo_u_TilzPond._Realnaya_istoriya_legshaya_v_osnovu_Tvin_Piks.jpeg"
+        },
+        {
+            "author": "Рафаэль Монтес",
+            "book": "Карнавал смерти",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007498455/o/f2e1/Rafael_Montes__Karnaval_smerti.jpeg"
+        },
+        {
+            "author": "Лаура Липман",
+            "book": "Леди в озере",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007108791/o/fb4b/Laura_Lipman__Ledi_v_ozere.jpeg"
+        },
+        {
+            "author": "Вирджиния Фейто",
+            "book": "Миссис Марч",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007528449/o/942a/Virdzhiniya_Fejto__Missis_March.jpeg"
+        },
+        {
+            "author": "Мэри Кубика",
+            "book": "Другая миссис",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007056762/o/b2b0/Meri_Kubika__Drugaya_missis.jpeg"
+        },
+        {
+            "author": "Дарби Кейн",
+            "book": "Милая женушка",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007147203/o/25dc/Darbi_Kejn__Milaya_zhenushka.jpeg"
+        },
+        {
+            "author": "Натали Барелли",
+            "book": "Лгунья",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007354779/o/378d/Natali_Barelli__Lgunya.jpeg"
+        },
+        {
+            "author": "Дженива Роуз",
+            "book": "Почти идеальный брак",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007495233/o/69dc/Dzheniva_Rouz__Pochti_idealnyj_brak.jpeg"
+        },
+        {
+            "author": "Дженнифер Хиллиер",
+            "book": "Маленькие грязные секреты",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022"
+        },
+        {
+            "author": "Кристоффер Хольст",
+            "book": "Летний сон в алых тонах",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria holst wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005627985/o/df5d/Kristoffer_Holst__Letnij_son_v_alyh_tonah.jpeg"
+        },
+        {
+            "author": "Кристоффер Хольст",
+            "book": "Убийство у синего моря",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria holst wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007432869/o/3e63/Kristoffer_Holst__Ubijstvo_u_sinego_morya.jpeg"
+        },
+        {
+            "author": "Белла Макки",
+            "book": "Как убить свою семью",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022"
+        },
+        {
+            "author": "Кайра Руда",
+            "book": "Его новая жена",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007108800/o/fc08/Kajra_Ruda__Ego_novaya_zhena.jpeg"
+        },
+        {
+            "author": "Элизабет Джордж",
+            "book": "Есть что скрывать",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007491090/o/33ea/Elizabet_Dzhordzh__Est_chto_skryvat.jpeg"
+        },
+        {
+            "author": "Дебби Херберт",
+            "book": "Не лги мне",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007473453/o/9584/Debbi_Herbert__Ne_lgi_mne.jpeg"
+        },
+        {
+            "author": "Лиза Ангер",
+            "book": "Экспресс на 19:45",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007428855/o/2f4c/Liza_Anger__Ekspress_na_1945.jpeg"
+        },
+        {
+            "author": "Хилари Дэвидсон",
+            "book": "Значит, я умерла",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022"
+        },
+        {
+            "author": "Алекс Смит",
+            "book": "Бумажные девочки",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007365138/o/fb95/Aleks_Smit__Bumazhnye_devochki.jpeg"
+        },
+        {
+            "author": "Джей Ди Кирк",
+            "book": "Куча костей",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007473210/o/470e/Dzhej_Di_Kirk__Kucha_kostej.jpeg"
+        },
+        {
             "author": "Джейн Шемилт",
             "book": "Дочь",
             "web": "mp3 fb2",
@@ -17192,12 +17458,14 @@
         {
             "author": "Ингар Йонсруд",
             "book": "Братство",
+            "web": "fb2",
             "shelf": "ingar wishlist",
             "img": "https://s1.livelib.ru/boocover/1005565798/o/cc85/Ingar_Jonsrud__Bratstvo.jpeg"
         },
         {
             "author": "Ингар Йонсруд",
             "book": "Калипсо",
+            "web": "fb2",
             "shelf": "ingar wishlist",
             "img": "https://s1.livelib.ru/boocover/1006166521/o/7bfd/Ingar_Jonsrud__Kalipso.jpeg"
         },
