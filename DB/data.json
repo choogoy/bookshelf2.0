@@ -6184,6 +6184,7 @@
             "id": "70",
             "author": "Ларс Кеплер",
             "book": "Гипнотизер",
+            "web": "fb2",
             "year": "2010",
             "publisher": "Corpus",
             "shelf": "corpus thriller kepler wishlist",
@@ -6865,6 +6866,7 @@
             "id": "139",
             "author": "Алекс Росс",
             "book": "Дальше - шум. Слушая XX век",
+            "web": "fb2",
             "year": "2012",
             "buyDate": "11/25/20",
             "price": "549",
@@ -8000,6 +8002,7 @@
             "id": "256",
             "author": "Ларс Кеплер",
             "book": "Призраки не лгут",
+            "web": "fb2",
             "year": "2014",
             "publisher": "Corpus",
             "shelf": "corpus secret-corpus kepler wishlist",
@@ -8346,6 +8349,7 @@
             "id": "291",
             "author": "Алекс Росс",
             "book": "Дальше - шум. Слушая XX век",
+            "web": "fb2",
             "year": "2014",
             "publisher": "Corpus",
             "shelf": "corpus music ross wishlist",
@@ -8364,6 +8368,7 @@
             "id": "293",
             "author": "Ларс Кеплер",
             "book": "Песочный человек",
+            "web": "fb2",
             "year": "2014",
             "publisher": "Corpus",
             "shelf": "corpus secret-corpus kepler wishlist",
@@ -9406,6 +9411,7 @@
             "id": "400",
             "author": "Ларс Кеплер",
             "book": "Соглядатай",
+            "web": "fb2",
             "year": "2016",
             "publisher": "Corpus",
             "shelf": "corpus kepler master-detective wishlist",
@@ -9555,6 +9561,7 @@
             "id": "415",
             "author": "Ларс Кеплер",
             "book": "Гипнотизер",
+            "web": "fb2",
             "year": "2017",
             "publisher": "Corpus",
             "shelf": "corpus kepler master-detective wishlist",
@@ -9696,6 +9703,7 @@
             "id": "429",
             "author": "Ларс Кеплер",
             "book": "Контракт Паганини",
+            "web": "fb2",
             "year": "2017",
             "publisher": "Corpus",
             "shelf": "corpus master-detective kepler wishlist",
@@ -9776,6 +9784,7 @@
             "id": "438",
             "author": "Ларс Кеплер",
             "book": "Призраки не лгут",
+            "web": "fb2",
             "year": "2017",
             "publisher": "Corpus",
             "shelf": "corpus master-detective kepler wishlist",
@@ -9898,6 +9907,7 @@
             "id": "450",
             "author": "Ларс Кеплер",
             "book": "Охотник на кроликов",
+            "web": "fb2",
             "year": "2017",
             "publisher": "Corpus",
             "shelf": "corpus master-detective kepler wishlist",
@@ -9907,6 +9917,7 @@
             "id": "451",
             "author": "Ларс Кеплер",
             "book": "Песочный человек",
+            "web": "fb2",
             "year": "2017",
             "publisher": "Corpus",
             "shelf": "corpus master-detective kepler wishlist",
@@ -11150,6 +11161,7 @@
             "id": "577",
             "author": "Ларс Кеплер",
             "book": "Лазарь",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Corpus",
             "shelf": "corpus master-detective kepler wishlist 2020",
@@ -16459,7 +16471,7 @@
             "price": "384",
             "publisher": "АСТ",
             "shelf": "ast miracle ironmonger 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000861542/COVER/cover1__w600.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007393233/o/1549/Dzhon_Ajronmonger__Mnozhestvo_zhiznej_Eloizy_Starchajld.jpeg"
         },
         {
             "author": "Эйлин Гарвин",
@@ -16480,7 +16492,7 @@
             "price": "387",
             "publisher": "АСТ",
             "shelf": "ast miracle 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000867331/COVER/cover1__w600.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007502397/o/fe23/Helena_Tursten__Freken_Mod_zadumala_chtoto_nedobroe.jpeg"
         },
         {
             "author": "Роуз Карлайл",
@@ -16583,6 +16595,14 @@
             "publisher": "Эксмо",
             "shelf": "eksmo black wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007432860/o/d5c2/Richard_Chizmar__Ohota_na_Bugimena.jpeg"
+        },
+        {
+            "author": "Дот Хатчисон",
+            "book": "Сад бабочек",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo black wishlist 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001289622/COVER/cover1__w820.jpg"
         },
         {
             "author": "Джулия Клэйборн Джонсон",
@@ -18129,15 +18149,27 @@
             "author": "Tracy Dobmeier, Wendy Katzman",
             "book": "Girl with Bright Futures",
             "year": "2022",
-            "shelf": "wishlist new 2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist new 2022",
             "img": "https://media1.popsugar-assets.com/files/thumbor/pq_HtP6yPMA5iF1Fw8QrVbW6CSU/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2021/01/23/233/n/43611095/3ce29f84576ed74d_81qvGHnjvsL/i/Girls-With-Bright-Futures-by-Tracy-Dobmeier-Wendy-Katzman.jpg"
         },
         {
-            "author": "Али Новак",
-            "book": "Моя жизнь с братьями Уолтер",
+            "author": "Эли Новак",
+            "book": "Моя жизнь с мальчиками Уолтер",
             "year": "2022",
-            "shelf": "wishlist new 2022",
-            "img": "https://img1.od-cdn.com/ImageType-100/0174-1/%7B9B25F10E-4FD7-4709-A9C4-DD84337F550B%7DImg100.jpg"
+            "buyDate": "11/30/22",
+            "price": "499",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif 2022",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/38/27938/1.00x-thumb.png"
+        },
+        {
+            "book": "Вы найдете это в библиотеке",
+            "year": "2022",
+            "buyDate": "11/30/22",
+            "price": "543",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif bookstore 2022"
         },
         {
             "author": "Мохамед Мбугар Сарр",
