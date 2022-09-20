@@ -913,6 +913,7 @@
             "book": "Ангелы и демоны",
             "web": "mp3 fb2",
             "buyDate": "4/17/17",
+            "readDate": "9/21/22",
             "price": "447",
             "shelf": "braun",
             "img": "https://cdn.ast.ru/v2/AST000000000136260/COVER/cover1__w600.jpg"
@@ -8976,7 +8977,7 @@
             "web": "fb2",
             "year": "2016",
             "publisher": "Corpus",
-            "shelf": "corpus elements panchin wishlist",
+            "shelf": "corpus evolution elements panchin wishlist",
             "img": "https://www.corpus.ru/picts/products/Panchin-Summa-1001.jpg"
         },
         {
@@ -9048,10 +9049,10 @@
         {
             "id": "362",
             "author": "Ася Казанцева",
-            "book": "В интернете кто-то не прав!",
+            "book": "В интернете кто-то неправ! Научные исследования спорных вопросов",
             "year": "2016",
             "publisher": "Corpus",
-            "shelf": "corpus elements kazantseva",
+            "shelf": "corpus elements evolution kazantseva",
             "img": "https://www.corpus.ru/picts/products/Kazantseva-Internet-1000-1.jpg"
         },
         {
@@ -9346,7 +9347,7 @@
             "buyDate": "1/15/22",
             "price": "660",
             "publisher": "Corpus",
-            "shelf": "corpus russian levontina",
+            "shelf": "corpus evolution russian levontina",
             "img": "https://www.corpus.ru/picts/products/Levontina-Russky-1000.jpg"
         },
         {
@@ -9460,6 +9461,7 @@
             "id": "406",
             "author": "Ханья Янагихара",
             "book": "Маленькая жизнь",
+            "web": "fb2",
             "year": "2016",
             "buyDate": "9/23/20",
             "price": "446.5",
@@ -9940,6 +9942,7 @@
             "id": "455",
             "author": "Ханья Янагихара",
             "book": "Люди среди деревьев",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "9/23/20",
             "price": "446.5",
@@ -10032,7 +10035,7 @@
             "book": "Семь этюдов по физике",
             "year": "2018",
             "publisher": "Corpus",
-            "shelf": "corpus rovelli wishlist",
+            "shelf": "corpus traektoria rovelli wishlist",
             "img": "https://www.corpus.ru/picts/products/karlo-rovelli-sem-etjudov-fizike3.jpg"
         },
         {
@@ -10182,6 +10185,7 @@
             "id": "480",
             "author": "Тимоти Снайдер",
             "book": "О тирании. 20 уроков XX века",
+            "web": "fb2",
             "year": "2018",
             "buyDate": "10/13/20",
             "price": "245",
@@ -10680,11 +10684,12 @@
             "id": "529",
             "author": "Ася Казанцева",
             "book": "Мозг материален",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "7/22/19",
             "price": "420",
             "publisher": "Corpus",
-            "shelf": "corpus elements kazantseva",
+            "shelf": "corpus elements evolution kazantseva",
             "img": "https://www.corpus.ru/picts/products/Kazantseva-Mozg-1000.jpg"
         },
         {
@@ -10965,7 +10970,7 @@
             "book": "Срок времени",
             "year": "2019",
             "publisher": "Corpus",
-            "shelf": "corpus rovelli wishlist",
+            "shelf": "corpus traektoria rovelli wishlist",
             "img": "https://www.corpus.ru/picts/products/rovelli.jpg"
         },
         {
@@ -11032,7 +11037,7 @@
             "web": "fb2",
             "year": "2020",
             "publisher": "Corpus",
-            "shelf": "corpus elements2 wishlist 2020",
+            "shelf": "corpus elements2 zimin wishlist 2020",
             "img": "https://www.corpus.ru/picts/products/cover1-ostalis-odni.jpg"
         },
         {
@@ -11064,6 +11069,7 @@
             "id": "569",
             "author": "Майкл Каннингем",
             "book": "Снежная королева",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Corpus",
             "shelf": "corpus cunningem wishlist 2020",
@@ -11173,6 +11179,7 @@
             "id": "580",
             "author": "Майкл Каннингем",
             "book": "Начинается ночь",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Corpus",
             "shelf": "corpus cunningem wishlist 2020",
@@ -11191,6 +11198,7 @@
             "id": "584",
             "author": "Майкл Каннингем",
             "book": "Избранные дни",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Corpus",
             "shelf": "corpus cunningem wishlist 2020",
@@ -11255,6 +11263,7 @@
             "id": "590",
             "author": "Мэтью Джексон",
             "book": "Человеческие сети",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "11/3/20",
             "price": "663.03",
@@ -11269,7 +11278,7 @@
             "web": "fb2",
             "year": "2020",
             "publisher": "Corpus",
-            "shelf": "corpus elements2 wishlist 2020",
+            "shelf": "corpus elements2 zimin wishlist 2020",
             "img": "https://www.corpus.ru/picts/products/cover1-levin.jpg"
         },
         {
@@ -11286,6 +11295,7 @@
             "id": "593",
             "author": "Борис Жуков",
             "book": "Дарвинизм в XXI веке",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Corpus",
             "shelf": "corpus evolution zhukov wishlist 2020",
@@ -11307,6 +11317,7 @@
             "id": "595",
             "author": "Мойзес Наим",
             "book": "Два шпиона в Каракасе. Не совсем выдуманная история про любовь и заговоры в эпоху Уго Чавеса.",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "9/29/21",
             "price": "399",
@@ -11327,6 +11338,7 @@
             "id": "597",
             "author": "Майкл Каннингем",
             "book": "Край земли. Прогулка по Провинстауну",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Corpus",
             "shelf": "corpus cunningem wishlist 2020",
@@ -11336,6 +11348,7 @@
             "id": "598",
             "author": "Майкл Каннингем",
             "book": "Дикий лебедь и другие сказки",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Corpus",
             "shelf": "corpus cunningem wishlist 2020",
@@ -11345,6 +11358,7 @@
             "id": "599",
             "author": "Элена Ферранте",
             "book": "Лживая взрослая жизнь",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Corpus",
             "shelf": "corpus wishlist 2020",
@@ -11369,7 +11383,7 @@
             "book": "Точное мышление в безумные времена. Венский кружок и крестовый поход за основаниями науки",
             "year": "2020",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist 2020",
+            "shelf": "corpus traektoria wishlist 2020",
             "img": "https://www.corpus.ru/picts/products/cover-zigmund.jpg"
         },
         {
@@ -11387,6 +11401,7 @@
             "id": "603",
             "author": "Тимоти Снайдер",
             "book": "Дорога к несвободе. Россия, Европа. Америка",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Corpus",
             "shelf": "corpus wishlist 2020",
@@ -11396,6 +11411,7 @@
             "id": "604",
             "author": "Патти Смит",
             "book": "Преданность. Год обезьяны",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "11/3/20",
             "price": "416",
@@ -11407,6 +11423,7 @@
             "id": "605",
             "author": "Марта Петерсон",
             "book": "Вдова-шпионка. Как работа в ЦРУ привела меня из джунглей Лаоса в московскую тюрьму",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "11/3/20",
             "price": "637",
@@ -11468,9 +11485,10 @@
             "id": "610",
             "author": "Дэвид Дарлинг и Агниджо Банерджи",
             "book": "Эта странная математика. На краю бесконечности и за ним",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Corpus",
-            "shelf": "corpus elements2 wishlist 2020",
+            "shelf": "corpus evolution elements2 wishlist 2020",
             "img": "https://www.corpus.ru/picts/products/cover1-matematika.jpg"
         },
         {
@@ -11513,6 +11531,7 @@
         {
             "author": "Вуди Аллен",
             "book": "Побочные эффекты",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus allen wishlist 2021",
@@ -11565,6 +11584,7 @@
             "id": "619",
             "author": "Вуди Аллен",
             "book": "Без перьев",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus allen wishlist 2021",
@@ -11574,6 +11594,7 @@
             "id": "620",
             "author": "Филипп Шотт",
             "book": "Случайный ветеринар. Записки практикующего айболита",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus 100%doc wishlist 2021",
@@ -11707,13 +11728,14 @@
             "buyDate": "9/3/21",
             "price": "821",
             "publisher": "Corpus",
-            "shelf": "corpus social graims 2021",
+            "shelf": "corpus social traektoria graims 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-grimes-fin.jpg"
         },
         {
             "id": "632",
             "author": "Сэм Грин и Грэм Робертсон",
             "book": "Кто здесь власть? Граждане, государство и борьба за Россию",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus wishlist 2021",
@@ -11723,6 +11745,7 @@
             "id": "633",
             "author": "Станислав Дробышевский",
             "book": "Достающее звено. Книга первая. Обезьяны и все-все-все",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus elements drobyshevsky wishlist 2021",
@@ -11732,6 +11755,7 @@
             "id": "634",
             "author": "Станислав Дробышевский",
             "book": "Достающее звено. Книга вторая. Люди",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus elements drobyshevsky wishlist 2021",
@@ -11740,6 +11764,7 @@
         {
             "author": "Джоан Дидион",
             "book": "Год магического мышления",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus didion wishlist 2021",
@@ -11759,7 +11784,7 @@
             "book": "Мозг и душа. Как нервная деятельность формирует наш внутренний мир",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus elements2 frit wishlist 2021",
+            "shelf": "corpus elements2 zimin frit wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-mozg-dusha.jpg"
         },
         {
@@ -11874,7 +11899,7 @@
             "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus shubin elements2 wishlist 2022",
+            "shelf": "corpus shubin elements2 zimin wishlist 2022",
             "img": "https://www.corpus.ru/picts/products/cover-vnutr-ryba-new.jpg"
         },
         {
@@ -11945,7 +11970,7 @@
             "book": "Космологические коаны. Путешествие в самое сердце физической реальности",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus elements2 wishlist 2021",
+            "shelf": "corpus elements2 zimin wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/cover-koany1.jpg"
         },
         {
@@ -12045,7 +12070,7 @@
             "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus elements2 kandel wishlist 2021",
+            "shelf": "corpus elements2 zimin kandel wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-pamyat.jpg"
         },
         {
@@ -12125,7 +12150,7 @@
             "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus dennet elements2 wishlist 2021",
+            "shelf": "corpus dennet elements2 zimin wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/Dennett-Pumps-1000.jpg"
         },
         {
@@ -12306,7 +12331,7 @@
             "web": "fb2",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus elements2 wishlist 2022",
+            "shelf": "corpus elements2 zimin wishlist 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-mitchell.jpg"
         },
         {
@@ -12351,7 +12376,7 @@
             "web": "fb2",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus elements2 wishlist 2022",
+            "shelf": "corpus elements2 traektoria wishlist 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-holodil-einstein.jpg"
         },
         {
@@ -12418,7 +12443,7 @@
             "web": "fb2",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus shubin elements2 wishlist 2022",
+            "shelf": "corpus shubin elements2 zimin wishlist 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-sborka.jpeg"
         },
         {
@@ -12451,7 +12476,7 @@
             "book": "Парадокс добродетели. Странная история взаимоотношений нравственности и насилия в эволюции человека",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist elements2 2022",
+            "shelf": "corpus elements2 zimin wishlist 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-paradoks.jpg"
         },
         {
@@ -12660,7 +12685,7 @@
             "book": "Невозможность второго рода. Невероятные поиски новой формы вещества",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist elements2 2022",
+            "shelf": "corpus elements2 zimin wishlist 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-nevozmozhnost.jpg"
         },
         {
@@ -12732,7 +12757,7 @@
             "book": "Соблазняющий разум. Как выбор сексуального партнера повлиял на эволюцию человеческой природы",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist elements2 2022",
+            "shelf": "corpus elements2 evolution wishlist 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-miller-razum.jpg"
         },
         {
@@ -12760,7 +12785,7 @@
             "book": "Смертельно опасный выбор. Чем борьба с прививками грозит нам всем",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist elements2 offit 2022",
+            "shelf": "corpus evolution elements2 offit wishlist 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-opasny-vybor.jpg"
         },
         {
@@ -12768,7 +12793,7 @@
             "book": "Неразумная обезьяна. Почему мы верим в дезинформацию, теории заговора и пропаганду",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist elements2 graimst 2022",
+            "shelf": "corpus elements2 graims wishlist 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000868951/COVER/cover1__w600.jpg"
         },
         {
@@ -12776,7 +12801,7 @@
             "book": "Книга бытия. Общая история происхождения",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist elements2 2022",
+            "shelf": "corpus elements2 zimin wishlist 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-tunelli.jpg"
         },
         {
@@ -12816,7 +12841,7 @@
             "book": "В сторону рая",
             "year": "2023",
             "publisher": "Corpus",
-            "shelf": "ianagihara corpus wishlist new 2022",
+            "shelf": "ianagihara corpus wishlist new 2023",
             "img": "https://coollib.net/i/52/553552/img_0.webp"
         },
         {
@@ -12824,14 +12849,14 @@
             "book": "Илон Маск",
             "year": "2023",
             "publisher": "Corpus",
-            "shelf": "izakson corpus elon-musk wishlist new 2022"
+            "shelf": "izakson corpus elon-musk wishlist new 2023"
         },
         {
             "author": "Мишель Уэльбек",
             "book": "Уничтожить",
             "year": "2023",
             "publisher": "Corpus",
-            "shelf": "houellebecq corpus wishlist new 2022",
+            "shelf": "houellebecq corpus wishlist new 2023",
             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Anéantir_%28Michel_Houellebecq%29_-_bandeau_rouge.jpg/1200px-Anéantir_%28Michel_Houellebecq%29_-_bandeau_rouge.jpg"
         },
         {
@@ -12839,7 +12864,7 @@
             "book": "Дело «Аляска Сандерс»",
             "year": "2023",
             "publisher": "Corpus",
-            "shelf": "dikker corpus wishlist new 2022",
+            "shelf": "dikker corpus wishlist new 2023",
             "img": "https://images.ctfassets.net/ogthibj6tk54/9ZKZrkbEvRJxDLW5LPEUQ/976985c9e8ef262d4a72499a0a64925d/Alaska-Web.jpg"
         },
         {
@@ -13602,6 +13627,15 @@
         },
         {
             "id": "n",
+            "author": "Грэм Лоутон",
+            "book": "Происхождение (почти) всего",
+            "year": "2020",
+            "publisher": "Corpus",
+            "shelf": "corpus traektoria wishlist 2020",
+            "img": "https://www.corpus.ru/picts/products/Lawtyon-Origin-1000.jpg"
+        },
+        {
+            "id": "n",
             "author": "Ричард Докинз",
             "book": "Расширенный фенотип",
             "year": "2010",
@@ -14072,7 +14106,7 @@
             "web": "fb2",
             "year": "2016",
             "publisher": "Corpus",
-            "shelf": "corpus primus zhukov wishlist",
+            "shelf": "corpus evolution primus zhukov zimin wishlist",
             "img": "https://www.corpus.ru/picts/products/Zhukov-Povedenie-1000.jpg"
         },
         {
@@ -14082,7 +14116,7 @@
             "web": "fb2",
             "year": "2017",
             "publisher": "Corpus",
-            "shelf": "corpus primus drobyshevsky wishlist",
+            "shelf": "corpus evolution primus drobyshevsky zimin wishlist",
             "img": "https://cdn.ast.ru/v2/ASE000000000719556/COVER/cover1__w600.jpg"
         },
         {
@@ -14092,7 +14126,7 @@
             "web": "fb2",
             "year": "2017",
             "publisher": "Corpus",
-            "shelf": "corpus primus drobyshevsky wishlist",
+            "shelf": "corpus evolution primus drobyshevsky zimin wishlist",
             "img": "https://cdn.ast.ru/v2/ASE000000000828425/COVER/cover1__w600.jpg"
         },
         {
@@ -14104,7 +14138,7 @@
             "buyDate": "11/6/21",
             "price": "394",
             "publisher": "Corpus",
-            "shelf": "corpus primus russian 2020",
+            "shelf": "corpus evolution primus zimin russian 2020",
             "img": "https://www.corpus.ru/picts/products/Fufaeva-Women-1000.jpg"
         },
         {
@@ -14115,7 +14149,7 @@
             "buyDate": "12/11/21",
             "price": "420",
             "publisher": "Corpus",
-            "shelf": "corpus primus 2021",
+            "shelf": "corpus evolution zimin primus 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-runet.jpg"
         },
         {
@@ -14124,7 +14158,7 @@
             "web": "fb2",
             "year": "2016",
             "publisher": "Альпина нон-фикшн",
-            "shelf": "alpina primus wishlist",
+            "shelf": "alpina evolution primus zimin wishlist",
             "img": "https://alpinabook.ru/resize/1230x1800/upload/iblock/8e3/8e33d63f9a4fac5bfeddd809a15a2f84.jpg"
         },
         {
@@ -14133,7 +14167,7 @@
             "web": "fb2",
             "year": "2017",
             "publisher": "Альпина нон-фикшн",
-            "shelf": "alpina primus wishlist",
+            "shelf": "alpina evolution primus zimin wishlist",
             "img": "https://alpinabook.ru/resize/1230x1800/upload/iblock/fa3/fa34872cececf0720a98cd64d9e86864.jpg"
         },
         {
@@ -14142,7 +14176,7 @@
             "web": "fb2",
             "year": "2018",
             "publisher": "Альпина нон-фикшн",
-            "shelf": "alpina primus wishlist",
+            "shelf": "alpina evolution primus zimin wishlist",
             "img": "https://alpinabook.ru/resize/1230x1800/upload/iblock/2f1/2f197fe65289cd2afe3eb21232d40741.jpg"
         },
         {
@@ -14151,7 +14185,7 @@
             "web": "fb2",
             "year": "2019",
             "publisher": "Альпина нон-фикшн",
-            "shelf": "alpina primus wishlist",
+            "shelf": "alpina evolution primus zimin wishlist",
             "img": "https://alpinabook.ru/resize/1230x1800/upload/iblock/6ef/6ef23c6cc963967202975f10c6298347.jpg"
         },
         {
@@ -14160,7 +14194,7 @@
             "web": "fb2",
             "year": "2020",
             "publisher": "Альпина нон-фикшн",
-            "shelf": "alpina primus wishlist 2020",
+            "shelf": "alpina evolution primus zimin wishlist 2020",
             "img": "https://alpinabook.ru/resize/1230x1800/upload/iblock/e8d/e8de48c79532016fdf5b4cead014a571.jpg"
         },
         {
@@ -14169,7 +14203,7 @@
             "web": "fb2",
             "year": "2020",
             "publisher": "Альпина нон-фикшн",
-            "shelf": "alpina primus wishlist 2020",
+            "shelf": "alpina evolution primus zimin wishlist 2020",
             "img": "https://alpinabook.ru/resize/1230x1800/upload/iblock/9d9/9d9361c4aaf54bee0db4f9ad9a379b73.jpg"
         },
         {
@@ -14178,7 +14212,7 @@
             "web": "fb2",
             "year": "2020",
             "publisher": "Альпина нон-фикшн",
-            "shelf": "alpina primus wishlist 2020",
+            "shelf": "alpina evolution primus zimin wishlist 2020",
             "img": "https://alpinabook.ru/resize/1230x1800/upload/iblock/303/3033bf54f3dc4278fcd6530534b5c7ec.jpg"
         },
         {
@@ -14187,7 +14221,7 @@
             "web": "fb2",
             "year": "2020",
             "publisher": "Альпина нон-фикшн",
-            "shelf": "alpina primus wishlist",
+            "shelf": "alpina evolution primus zimin wishlist 2020",
             "img": "https://alpinabook.ru/resize/1230x1800/upload/iblock/939/939f02ac2417f676eb4f2147bc1c151a.jpg"
         },
         {
@@ -14260,7 +14294,7 @@
             "buyDate": "8/13/21",
             "price": "513",
             "publisher": "Альпина нон-фикшн",
-            "shelf": "alpina space",
+            "shelf": "alpina space zimin",
             "img": "https://s1.livelib.ru/boocover/1006204066/o/6217/Erik_Asfog__Kogda_u_Zemli_bylo_dve_Luny.jpeg"
         },
         {
@@ -14302,7 +14336,7 @@
             "buyDate": "9/9/21",
             "price": "393",
             "publisher": "Альпина нон-фикшн",
-            "shelf": "alpina space",
+            "shelf": "alpina space traektoria",
             "img": "https://s1.livelib.ru/boocover/1002619017/o/ffe8/Karl_Sagan__Golubaya_tochka.jpeg"
         },
         {
@@ -16589,6 +16623,7 @@
             "book": "Святой папочка",
             "year": "2021",
             "buyDate": "6/30/22",
+            "readDate": "9/19/22",
             "price": "510",
             "publisher": "Livebook",
             "shelf": "livebook lockwood 2021",
