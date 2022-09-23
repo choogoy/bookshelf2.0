@@ -2830,7 +2830,7 @@
         },
         {
             "author": "Милдред Эбботт",
-            "book": "Корги-детектив. хитрые мордашки",
+            "book": "Корги-детектив. Хитрые мордашки",
             "year": "2022",
             "buyDate": "2/12/22",
             "price": "426",
@@ -3960,6 +3960,7 @@
         {
             "author": "Маша Трауб",
             "book": "Суп, второе и компот",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "8/18/21",
             "price": "284",
@@ -3991,6 +3992,7 @@
         {
             "author": "Маша Трауб",
             "book": "Невозвратный билет",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "7/13/22",
             "price": "341",
@@ -4726,6 +4728,7 @@
         {
             "author": "Стефан Пастис",
             "book": "Дневник «Эпик Фейл». Мы снова встретились!",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "1/21/22",
             "price": "234",
@@ -5728,7 +5731,7 @@
             "book": "Олигархи. Богатство и власть в новой России",
             "year": "2010",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
+            "shelf": "corpus hoffman wishlist",
             "img": "https://www.corpus.ru/picts/products/Hoffman-Oligarchs-1000.jpg"
         },
         {
@@ -8949,6 +8952,7 @@
             "id": "351",
             "author": "Ирина Левонтина",
             "book": "О чём речь",
+            "web": "fb2",
             "year": "2015",
             "buyDate": "10/4/21",
             "price": "459",
@@ -9124,6 +9128,7 @@
             "id": "370",
             "author": "Дэвид Хоффман",
             "book": "Шпион на миллиард долларов",
+            "web": "fb2",
             "year": "2016",
             "buyDate": "11/9/21",
             "price": "720",
@@ -9794,6 +9799,7 @@
             "id": "439",
             "author": "Бен Макинтайр",
             "book": "Шпион среди друзей. Великое предательство Кима Филби",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "11/23/21",
             "price": "515",
@@ -11230,6 +11236,7 @@
             "id": "586",
             "author": "Томас Скарлетт",
             "book": "Дочь олигарха",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "8/7/20",
             "price": "396",
@@ -11241,6 +11248,7 @@
             "id": "587",
             "author": "Саманта Швеблин",
             "book": "Кентуки",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "6/18/21",
             "price": "447",
@@ -11919,6 +11927,7 @@
             "id": "648",
             "author": "Сергей Пархоменко",
             "book": "Всё сначала",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus wishlist 2021",
@@ -11953,6 +11962,7 @@
             "id": "651",
             "author": "Джеймс Глик",
             "book": "Хаос. Создание новой науки",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus elements2 glik wishlist 2021",
@@ -12125,7 +12135,7 @@
             "id": "667",
             "author": "Алексей Моторов",
             "book": "Шестая койка и другие истории из жизни Паровозова",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "9/23/21",
             "readDate": "7/27/22",
@@ -12487,6 +12497,7 @@
             "id": "700",
             "author": "Ричард Рэнгем",
             "book": "Парадокс добродетели. Странная история взаимоотношений нравственности и насилия в эволюции человека",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus elements2 zimin wishlist 2022",
@@ -12542,6 +12553,7 @@
             "id": "705",
             "author": "Азра Раза",
             "book": "Первая клетка. И чего стоит борьба с раком до последнего",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus scientificum wishlist 2022",
@@ -12632,6 +12644,7 @@
             "id": "713",
             "author": "Александр Староверов",
             "book": "То, что вы хотели",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "7/16/22",
             "price": "512",
@@ -12687,6 +12700,7 @@
             "id": "718",
             "author": "Олег Дорман",
             "book": "Подстрочник. Жизнь Лилианны Лунгиной, рассказанная ею в фильме Олега Дормана",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist 2022",
@@ -12696,6 +12710,7 @@
             "id": "719",
             "author": "Пол Стейнхардт",
             "book": "Невозможность второго рода. Невероятные поиски новой формы вещества",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus elements2 zimin wishlist 2022",
@@ -12705,6 +12720,7 @@
             "id": "720",
             "author": "Наима Костер",
             "book": "Что моё, что твоё",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "7/17/22",
             "price": "556",
@@ -12716,6 +12732,7 @@
             "id": "721",
             "author": "Сергей Плохий",
             "book": "Забытые бастарды Восточного фронта. Американские летчики в СССР и распад антигитлеровской коалиции",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus plokhy wishlist 2022",
@@ -13222,6 +13239,7 @@
             "id": "n",
             "author": "Уолтер Айзексон",
             "book": "Стив Джобс",
+            "web": "fb2",
             "buyDate": "6/24/14",
             "price": "498",
             "publisher": "Corpus",
@@ -13232,6 +13250,7 @@
             "id": "n",
             "author": "Уолтер Айзексон",
             "book": "Эйнштейн. Его жизнь и вселенная",
+            "web": "fb2",
             "buyDate": "10/13/15",
             "price": "709",
             "publisher": "Corpus",
@@ -13242,6 +13261,7 @@
             "id": "n",
             "author": "Уолтер Айзексон",
             "book": "Инноваторы. Как несколько гениев, хакеров и гиков совершили цифровую революцию",
+            "web": "fb2",
             "buyDate": "10/13/15",
             "price": "689",
             "publisher": "Corpus",
@@ -13770,7 +13790,8 @@
         {
             "id": "n",
             "author": "Александр Марков",
-            "book": "Рождение сложности Эволюционная биология сегодня: неожиданные открытия и новые вопросы",
+            "book": "Рождение сложности. Эволюционная биология сегодня: неожиданные открытия и новые вопросы",
+            "web": "fb2",
             "year": "2010",
             "publisher": "Corpus",
             "shelf": "corpus elements markov wishlist",
@@ -13780,6 +13801,7 @@
             "id": "n",
             "author": "Александр Марков",
             "book": "Эволюция человека. Книга 1 Обезьяны, кости и гены",
+            "web": "fb2",
             "year": "2011",
             "publisher": "Corpus",
             "shelf": "corpus elements markov wishlist",
@@ -13789,6 +13811,7 @@
             "id": "n",
             "author": "Александр Марков",
             "book": "Эволюция человека. Книга 2 Обезьяны, нейроны и душа",
+            "web": "fb2",
             "year": "2011",
             "publisher": "Corpus",
             "shelf": "corpus elements markov wishlist",
@@ -13798,6 +13821,7 @@
             "id": "n",
             "author": "Геннадий Горелик",
             "book": "Кто изобрел современную физику?",
+            "web": "fb2",
             "year": "2013",
             "publisher": "Corpus",
             "shelf": "corpus elements wishlist",
@@ -13807,6 +13831,7 @@
             "id": "n",
             "author": "Александр Марков и Елена Наймарк",
             "book": "Эволюция. Классические идеи в свете новых открытий",
+            "web": "fb2",
             "year": "2016",
             "publisher": "Corpus",
             "shelf": "corpus elements markov wishlist",
@@ -13816,6 +13841,7 @@
             "id": "n",
             "author": "Александр Марков и Елена Наймарк",
             "book": "Перспективы отбора. От зеленых пеночек и бессмысленного усложнения до голых землекопов и мутирующего человечества",
+            "web": "fb2",
             "year": "2019",
             "publisher": "Corpus",
             "shelf": "corpus elements markov wishlist",
@@ -13825,6 +13851,7 @@
             "id": "n",
             "author": "Александр Марков и Елена Наймарк",
             "book": "Эволюция человека. Книга 3 Кости, гены и культура",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus elements markov wishlist 2021",
@@ -14158,6 +14185,7 @@
             "id": "n",
             "author": "Наталья Конрадова",
             "book": "Археология русского интернета. Телепатия, телемосты и другие техноутопии холодной войны",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "12/11/21",
             "price": "420",
@@ -14486,7 +14514,7 @@
         {
             "author": "Дженни Колган",
             "book": "Встретимся в кафе «Капкейк»",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "10/20/21",
             "price": "269.26",
@@ -14519,6 +14547,7 @@
         {
             "author": "Дженни Колган",
             "book": "Лето в маленькой пекарне",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "7/4/22",
             "price": "301",
@@ -14763,9 +14792,12 @@
         {
             "author": "Бенджамин Стивенсон",
             "book": "Каждый в нашей семье кого-нибудь да убил",
+            "web": "fb2",
             "year": "2022",
+            "buyDate": "9/30/22",
+            "price": "253",
             "publisher": "Азбука",
-            "shelf": "azbuka wishlist 2022",
+            "shelf": "azbuka 2022",
             "img": "https://s1.livelib.ru/boocover/1007394439/o/ec7e/Bendzhamin_Stivenson__Kazhdyj_v_nashej_seme_kogonibud_da_ubil.jpeg"
         },
         {
@@ -14792,6 +14824,7 @@
         {
             "author": "Джефф Родки",
             "book": "Неземляне",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "9/11/22",
             "price": "560",
@@ -15081,6 +15114,7 @@
         {
             "author": "Андрей Беловешкин",
             "book": "Что и когда есть. Как найти золотую середину между голодом и перееданием",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "11/4/20",
             "price": "295.9",
@@ -15186,6 +15220,7 @@
         {
             "author": "Нил Сэмворт",
             "book": "Глазами надзирателя. Внутри самой суровой тюрьмы мира",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "7/13/22",
             "price": "330",
@@ -15327,7 +15362,7 @@
         {
             "author": "Фрейя Сэмпсон",
             "book": "Библиотека моего сердца",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "6/23/22",
             "price": "322",
@@ -15348,6 +15383,7 @@
         {
             "author": "Карстен Себастиан Хенн",
             "book": "Служба доставки книг",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "8/7/22",
             "readDate": "9/1/22",
@@ -15359,7 +15395,7 @@
         {
             "author": "Фрида Шибек",
             "book": "Книжный магазин у реки",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "1/8/21",
             "price": "356",
@@ -15370,6 +15406,7 @@
         {
             "author": "Фрида Шибек",
             "book": "Книжный клуб на краю света",
+            "web": "mp3",
             "year": "2022",
             "buyDate": "9/11/22",
             "price": "430",
@@ -15776,6 +15813,7 @@
         {
             "author": "Лин Рина",
             "book": "Элиза Хеммильтон. Происшествие в Ист-Энде",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "8/14/22",
             "price": "415",
@@ -15841,6 +15879,7 @@
         {
             "author": "Кэтрин Хьюз",
             "book": "Последнее обещание",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "11/27/21",
             "price": "351",
@@ -15928,6 +15967,7 @@
         {
             "author": "Джулия Келли",
             "book": "Последний сад Англии",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "6/6/22",
             "price": "409",
@@ -15968,6 +16008,7 @@
         {
             "author": "Натали Дженнер",
             "book": "Общество Джейн Остен",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "11/12/21",
             "price": "305",
@@ -15978,6 +16019,7 @@
         {
             "author": "Рейчел Гивни",
             "book": "Влюбленная Джейн",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "8/4/22",
             "price": "359",
@@ -15988,6 +16030,7 @@
         {
             "author": "Алекс Кристофи",
             "book": "Достоевский in love",
+            "web": "mp3",
             "year": "2021",
             "buyDate": "12/13/21",
             "price": "347",
@@ -16022,7 +16065,7 @@
         {
             "author": "Лисса Кей Адамс",
             "book": "Bromance. Книжный клуб спешит на помощь",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "3/12/22",
             "readDate": "4/4/22",
@@ -16046,14 +16089,6 @@
             "publisher": "Эксмо",
             "shelf": "bookstore eksmo inspiria bromance kei-adams wishlist new 2022",
             "img": "https://is5-ssl.mzstatic.com/image/thumb/Publication116/v4/a2/5a/47/a25a47b6-2022-4e5e-9744-9d472c9b1217/9780593332801.d.jpg/313x0w.webp"
-        },
-        {
-            "author": "Лилак Миллс",
-            "book": "Маленькая кондитерская в Танглвуде",
-            "year": "2022",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria wishlist 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001246552/COVER/cover1__w820.jpg"
         },
         {
             "author": "Алекс Михаэлидес",
@@ -16591,6 +16626,7 @@
         {
             "author": "Ричард Чизмар",
             "book": "Охота на Бугимена",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo black wishlist 2022",
@@ -16785,7 +16821,7 @@
         {
             "author": "Дуглас Стюарт",
             "book": "Шагги Бейн",
-            "web": "mp3 fb2",
+            "web": "mp3",
             "year": "2021",
             "buyDate": "12/4/21",
             "price": "414",
@@ -16822,6 +16858,7 @@
         {
             "author": "Мааза Менгисте",
             "book": "Царская тень",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria buker wishlist 2022",
@@ -16958,6 +16995,7 @@
         {
             "author": "Адам Симкокс",
             "book": "Отряд мёртвых",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria wishlist 2022",
@@ -16966,6 +17004,7 @@
         {
             "author": "Вивиан Барц",
             "book": "Забытые кости",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria wishlist 2022",
@@ -16974,6 +17013,7 @@
         {
             "author": "Венди Вэбб",
             "book": "Дочери озера",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria wishlist 2022",
@@ -17264,6 +17304,7 @@
         {
             "author": "Мэй Уэст и Нил Маккей",
             "book": "Люблю тебя, мама. Мои родители - маньяки Фред и Розмари Уэст",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria wishlist true-crime-story 2022",
@@ -17280,6 +17321,7 @@
         {
             "author": "Рафаэль Монтес",
             "book": "Карнавал смерти",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria wishlist 2022",
@@ -17323,6 +17365,7 @@
         {
             "author": "Натали Барелли",
             "book": "Лгунья",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria wishlist 2022",
@@ -17355,6 +17398,7 @@
         {
             "author": "Кристоффер Хольст",
             "book": "Убийство у синего моря",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria holst wishlist 2022",
@@ -17395,6 +17439,7 @@
         {
             "author": "Лиза Ангер",
             "book": "Экспресс на 19:45",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria wishlist 2022",
@@ -17410,6 +17455,7 @@
         {
             "author": "Алекс Смит",
             "book": "Бумажные девочки",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria wishlist 2022",
@@ -17492,6 +17538,7 @@
         {
             "author": "Ингар Йонсруд",
             "book": "Крест",
+            "web": "fb2",
             "year": "2022",
             "shelf": "ingar wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007331793/o/42be/Ingar_Jonsrud__Krest.jpeg"
@@ -17519,6 +17566,7 @@
         {
             "author": "Рагнар Йонассон",
             "book": "Остров",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Азбука",
             "shelf": "ragnar wishlist 2022",
@@ -17996,6 +18044,7 @@
         {
             "author": "Карен М. Макманус",
             "book": "Вы станете моей смертью",
+            "web": "fb2",
             "year": "2022",
             "shelf": "makmanus wishlist 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000862358/COVER/cover1__w600.jpg"
@@ -18154,7 +18203,7 @@
             "img": "https://media1.popsugar-assets.com/files/thumbor/pq_HtP6yPMA5iF1Fw8QrVbW6CSU/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2021/01/23/233/n/43611095/3ce29f84576ed74d_81qvGHnjvsL/i/Girls-With-Bright-Futures-by-Tracy-Dobmeier-Wendy-Katzman.jpg"
         },
         {
-            "author": "Эли Новак",
+            "author": "Али Новак",
             "book": "Моя жизнь с мальчиками Уолтер",
             "year": "2022",
             "buyDate": "11/30/22",
