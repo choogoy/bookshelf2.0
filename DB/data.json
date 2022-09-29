@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -932,6 +932,7 @@
             "book": "Код да Винчи",
             "web": "mp3 fb2",
             "buyDate": "4/17/17",
+            "readDate": "9/29/22",
             "price": "447",
             "shelf": "braun",
             "img": "https://cdn.ast.ru/v2/AST000000000136264/COVER/cover1__w600.jpg"
@@ -2592,6 +2593,33 @@
             "img": "https://www.salomonssonagency.se/wp-content/uploads/2021/09/SE-FB-Vinnarna-cover-649x1024.jpg"
         },
         {
+            "author": "Юваль Ной Харари",
+            "book": "Sapiens. Краткая история человечества",
+            "buyDate": "7/3/20",
+            "price": "433.29",
+            "publisher": "Синдбад",
+            "shelf": "harari sindbad",
+            "img": "https://s1.livelib.ru/boocover/1005543433/o/2f49/Yuval_Noj_Harari__Homo_Sapiens._Kratkaya_istoriya_chelovechestva.jpeg"
+        },
+        {
+            "author": "Юваль Ной Харари",
+            "book": "Homo Deus. Краткая история будущего",
+            "buyDate": "7/3/20",
+            "price": "390",
+            "publisher": "Синдбад",
+            "shelf": "harari sindbad",
+            "img": "https://s1.livelib.ru/boocover/1002729879/o/108c/Yuval_Noj_Harari__Nomo_Deus._Kratkaya_istoriya_buduschego.jpeg"
+        },
+        {
+            "author": "Юваль Ной Харари",
+            "book": "21 урок для XXI века",
+            "buyDate": "7/3/20",
+            "price": "386",
+            "publisher": "Синдбад",
+            "shelf": "harari sindbad",
+            "img": "https://s1.livelib.ru/boocover/1003030762/o/137a/Yuval_Noj_Harari__21_urok_dlya_XXI_veka.jpeg"
+        },
+        {
             "author": "Салли Руни",
             "book": "Разговоры с друзьями",
             "web": "fb2",
@@ -2675,6 +2703,22 @@
             "publisher": "Синдбад",
             "shelf": "fedra sindbad",
             "img": "https://s1.livelib.ru/boocover/1002891333/o/0011/Fedra_Patrik__Artur_Pepper_i_zagadochnyj_braslet.jpeg"
+        },
+        {
+            "author": "Дженин Камминс",
+            "book": "Американская грязь",
+            "year": "2020",
+            "publisher": "Синдбад",
+            "shelf": "sindbad wishlist kammins 2020",
+            "img": "https://s1.livelib.ru/boocover/1005249541/o/26a9/Dzhenin_Kammins__Amerikanskaya_gryaz.jpeg"
+        },
+        {
+            "author": "Дженин Камминс",
+            "book": "Мост в небеса. История убийства моих сестер и его последствий для нашей семьи",
+            "year": "2022",
+            "publisher": "Синдбад",
+            "shelf": "sindbad wishlist kammins 2022",
+            "img": "https://s1.livelib.ru/boocover/1007505229/o/132b/Dzhenin_Kammins__Most_v_nebesa._Istoriya_ubijstva_moih_sester_i_ego_posledstvij_.jpeg"
         },
         {
             "author": "Маттиас Фалдбаккен",
@@ -2963,33 +3007,6 @@
             "publisher": "Бомбора",
             "shelf": "bombora cincero 2020",
             "img": "https://s1.livelib.ru/boocover/1005610594/o/c980/Kamal_Ravikant__Lyubi_sebya._Slovno_ot_etogo_zavisit_tvoya_zhizn.jpeg"
-        },
-        {
-            "author": "Юваль Ной Харари",
-            "book": "Sapiens. Краткая история человечества",
-            "buyDate": "7/3/20",
-            "price": "433.29",
-            "publisher": "Синдбад",
-            "shelf": "harari sindbad",
-            "img": "https://s1.livelib.ru/boocover/1005543433/o/2f49/Yuval_Noj_Harari__Homo_Sapiens._Kratkaya_istoriya_chelovechestva.jpeg"
-        },
-        {
-            "author": "Юваль Ной Харари",
-            "book": "Homo Deus. Краткая история будущего",
-            "buyDate": "7/3/20",
-            "price": "390",
-            "publisher": "Синдбад",
-            "shelf": "harari sindbad",
-            "img": "https://s1.livelib.ru/boocover/1002729879/o/108c/Yuval_Noj_Harari__Nomo_Deus._Kratkaya_istoriya_buduschego.jpeg"
-        },
-        {
-            "author": "Юваль Ной Харари",
-            "book": "21 урок для XXI века",
-            "buyDate": "7/3/20",
-            "price": "386",
-            "publisher": "Синдбад",
-            "shelf": "harari sindbad",
-            "img": "https://s1.livelib.ru/boocover/1003030762/o/137a/Yuval_Noj_Harari__21_urok_dlya_XXI_veka.jpeg"
         },
         {
             "author": "Эндрю Траск",
@@ -3991,6 +4008,14 @@
         },
         {
             "author": "Маша Трауб",
+            "book": "Кот Тихон, или Похищение Голландца",
+            "year": "2022",
+            "publisher": "АСТ",
+            "shelf": "traub ast wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007539522/o/c980/Masha_Traub__Kot_Tihon_ili_Pohischenie_Gollandtsa.jpeg"
+        },
+        {
+            "author": "Маша Трауб",
             "book": "Русский язык с Машей Трауб",
             "year": "2020",
             "buyDate": "11/18/20",
@@ -4402,6 +4427,7 @@
         {
             "author": "Роман Емельянов",
             "book": "Вата, или Не все так однозначно",
+            "web": "fb2",
             "buyDate": "9/21/18",
             "price": "312",
             "img": "https://s1.livelib.ru/boocover/1002757135/o/ffbc/Roman_Emelyanov__Vata_ili_Ne_vse_tak_odnoznachno.jpeg"
@@ -4409,6 +4435,7 @@
         {
             "author": "Марк Гоулстон",
             "book": "Как разговаривать с мудаками. Что делать с неадекватными и невыносимыми людьми в вашей жизни",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "12/27/17",
             "price": "510",
@@ -6762,7 +6789,7 @@
             "book": "Мертвая рука",
             "year": "2011",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
+            "shelf": "corpus hoffman wishlist",
             "img": "https://www.corpus.ru/picts/products/hoffman-deadhand-1000.jpg"
         },
         {
@@ -14795,7 +14822,7 @@
             "book": "Каждый в нашей семье кого-нибудь да убил",
             "web": "mp3 fb2",
             "year": "2022",
-            "buyDate": "9/30/22",
+            "buyDate": "9/28/22",
             "price": "253",
             "publisher": "Азбука",
             "shelf": "azbuka 2022",
@@ -14810,6 +14837,24 @@
             "publisher": "Individuum",
             "shelf": "2022",
             "img": "https://s1.livelib.ru/boocover/1007358469/o/d41c/Ti_Dzhej_Nyuman__Padenie.jpeg"
+        },
+        {
+            "author": "Саяка Мурата",
+            "book": "Человек-комбини",
+            "web": "mp3 fb2",
+            "year": "2020",
+            "readDate": "9/30/22",
+            "publisher": "Popcorn Books",
+            "shelf": "murata wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1004151598/o/58ad/Sayaka_Murata__Chelovekkombini.jpeg"
+        },
+        {
+            "author": "Саяка Мурата",
+            "book": "Земляноиды",
+            "year": "2022",
+            "publisher": "Popcorn Books",
+            "shelf": "murata wishlist 2022",
+            "img": "https://ndc.book24.ru/resize/820x1192/iblock/722/722729cc331125e995cc596bbb638e78/4e8124322d56bd30af7e8cdd8e25491a.jpg"
         },
         {
             "author": "Джефф Родки",
@@ -15175,6 +15220,14 @@
             "publisher": "Бомбора",
             "shelf": "bombora 2022",
             "img": "https://s1.livelib.ru/boocover/1006891360/o/2365/Nil_Semvort__Glazami_nadziratelya._Vnutri_samoj_surovoj_tyurmy_mira.jpeg"
+        },
+        {
+            "author": "Джон Дуглас и Джонни Додд",
+            "book": "Проникнуть в мысли BTK. Подлинная история тридцатилетней охоты на жесточайшего серийного убийцу из Уичито",
+            "web": "fb2",
+            "publisher": "Бомбора",
+            "shelf": "bombora wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007131735/o/3e41/__Proniknut_v_mysli_BTK._Podlinnaya_istoriya_tridtsatiletnej_ohoty_na_zhestochaj.jpeg"
         },
         {
             "author": "Билл Сэмюэл",
@@ -16469,6 +16522,7 @@
         {
             "author": "Алексей Поляринов",
             "book": "Риф",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern-moment polyarinov wishlist 2020",
@@ -16485,6 +16539,7 @@
         {
             "author": "Сергей Самсонов",
             "book": "Высокая кровь",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern-moment wishlist 2020",
@@ -16493,6 +16548,7 @@
         {
             "author": "Мршавко Штапич",
             "book": "Плейлист волонтера",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern-moment wishlist 2020",
@@ -16509,6 +16565,7 @@
         {
             "author": "Ксения Буржская",
             "book": "Мой белый",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern-moment burzhuiskaya wishlist 2021",
@@ -16517,6 +16574,7 @@
         {
             "author": "Анаит Григорян",
             "book": "Осьминог",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern-moment wishlist 2021",
@@ -16533,6 +16591,7 @@
         {
             "author": "Юлия Яковлева и Карина Добротворская",
             "book": "Мужчина апреля",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern-moment wishlist 2021",
@@ -16596,14 +16655,16 @@
         {
             "author": "Дебора Леви",
             "book": "Человек, который видел все",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria loft-modern wishlist 2021",
+            "shelf": "eksmo wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1006076326/o/53b0/Debora_Levi__Chelovek_kotoryj_videl_vse.jpeg"
         },
         {
             "author": "Рейчел Инглз",
             "book": "Миссис Калибан",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2020",
@@ -16612,6 +16673,7 @@
         {
             "author": "Эмили Сент-Джон Мандел",
             "book": "Стеклянный отель",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2020",
@@ -16636,6 +16698,7 @@
         {
             "author": "Джонатан Сафран Фоер",
             "book": "Погода - это мы",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2020",
@@ -16644,6 +16707,7 @@
         {
             "author": "Юн Фоссе",
             "book": "Трилогия",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern fosse wishlist 2020",
@@ -16652,6 +16716,7 @@
         {
             "author": "Арто Паасилинна",
             "book": "Тысяча Чертей пастора Хуусконена",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern paasilinna wishlist 2021",
@@ -16676,6 +16741,7 @@
         {
             "author": "Элизабет Уэтмор",
             "book": "Валентайн",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2021",
@@ -16684,6 +16750,7 @@
         {
             "author": "Эмма Донохью",
             "book": "Притяжение звезд",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2021",
@@ -16700,6 +16767,7 @@
         {
             "author": "Рейчел Йодер",
             "book": "Ночная сучка",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2021",
@@ -16716,6 +16784,7 @@
         {
             "author": "Сандра Сиснерос",
             "book": "Карамело",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2021",
@@ -16732,6 +16801,7 @@
         {
             "author": "Юн Фоссе",
             "book": "Другое имя (Септология I-II)",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern fosse wishlist 2022",
@@ -16740,6 +16810,7 @@
         {
             "author": "Леони Росс",
             "book": "Один день ясного неба",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2022",
@@ -16748,6 +16819,7 @@
         {
             "author": "Мегха Маджумдар",
             "book": "Сожжение",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2022",
@@ -16764,6 +16836,7 @@
         {
             "author": "Клэр Бойлз",
             "book": "Верность месту",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2022",
@@ -16804,7 +16877,7 @@
             "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria lotf-buker wishlist 2020",
+            "shelf": "eksmo inspiria loft-buker wishlist 2020",
             "img": "https://s1.livelib.ru/boocover/1005524107/o/95e6/Bernardin_Evaristo__Devushka_zhenschina_inaya.jpeg"
         },
         {
@@ -16885,7 +16958,7 @@
         {
             "author": "Патриция Локвуд",
             "book": "О таком не говорят",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "7/18/22",
             "price": "322",
@@ -16932,7 +17005,7 @@
             "author": "Дэймон Гэлгут",
             "book": "Обещание",
             "year": "2022",
-            "buyDate": "9/30/22",
+            "buyDate": "10/14/22",
             "price": "425",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-buker 2022",
@@ -17075,6 +17148,7 @@
         {
             "author": "Ширшенду Мухопадхай",
             "book": "Тетушка, которая не умирает",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-east wishlist 2020",
@@ -17091,6 +17165,7 @@
         {
             "author": "Пэ Суа",
             "book": "Непостижимая ночь, неразгаданный день",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-east wishlist 2021",
@@ -17246,6 +17321,7 @@
         {
             "author": "Хелен Даррант",
             "book": "Смертельная ошибка",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -17254,6 +17330,7 @@
         {
             "author": "Рэйчел Хаузэлл Холл",
             "book": "Женщина в бегах",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -17262,6 +17339,7 @@
         {
             "author": "Эдвин Хилл",
             "book": "Слабое утешение",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -17270,6 +17348,7 @@
         {
             "author": "Эдвин Хилл",
             "book": "Пропавшие",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -17478,6 +17557,7 @@
         {
             "author": "Эр Джей Джейкобс",
             "book": "И вдруг тебя не стало",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2020",
@@ -17486,6 +17566,7 @@
         {
             "author": "Лорен Норт",
             "book": "Идеальный сын",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2020",
@@ -17494,6 +17575,7 @@
         {
             "author": "Эй Джей Гнюзи",
             "book": "Девочка из стен",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -17502,6 +17584,7 @@
         {
             "author": "Стефани Бюленс",
             "book": "Неудобная женщина",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -17510,6 +17593,7 @@
         {
             "author": "Дреда Сэй Митчелл",
             "book": "Свободная комната",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -17518,6 +17602,7 @@
         {
             "author": "Триш Арнетьо",
             "book": "Тайный Санта",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2020",
@@ -17526,6 +17611,7 @@
         {
             "author": "Сара Пирс",
             "book": "Санаторий",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -17534,6 +17620,7 @@
         {
             "author": "Элли Рейнолдс",
             "book": "Дрожь",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2022",
@@ -17549,6 +17636,7 @@
         {
             "author": "Александер Макколл-Смит",
             "book": "Отдел деликатных расследований",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo wishlist 2020",
@@ -17565,6 +17653,7 @@
         {
             "author": "Алекс Павези",
             "book": "Восьмой детектив",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2020",
@@ -17573,6 +17662,7 @@
         {
             "author": "Питер Свенсон",
             "book": "Восемь идеальных убийств",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -17581,6 +17671,7 @@
         {
             "author": "Чарльз Харрис",
             "book": "Комната 15",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -17589,7 +17680,7 @@
         {
             "author": "Монс Каллентофт",
             "book": "Смотри, я падаю",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2020",
@@ -17644,6 +17735,7 @@
         {
             "author": "Риа Фрай",
             "book": "Не ее дочь",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok familty-thriller wishlist 2020",
@@ -17652,6 +17744,7 @@
         {
             "author": "Колин Гувер",
             "book": "Тайный дневник Верити",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok familty-thriller guver wishlist 2021",
@@ -17660,6 +17753,7 @@
         {
             "author": "Элисон Диксон",
             "book": "Другая миссис Миллер",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok familty-thriller wishlist 2021",
@@ -17668,6 +17762,7 @@
         {
             "author": "Йонас Бонниер",
             "book": "День гнева",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok familty-thriller wishlist 2021",
@@ -17676,6 +17771,7 @@
         {
             "author": "Анна Даунз",
             "book": "Укромный уголок",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok familty-thriller wishlist 2021",
@@ -17684,6 +17780,7 @@
         {
             "author": "Колин Гувер",
             "book": "Первая смерть Лайлы",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok familty-thriller guver wishlist 2021",
@@ -17692,6 +17789,7 @@
         {
             "author": "Лор Ван Ренсбург",
             "book": "Только ты и я",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok familty-thriller wishlist 2022",
@@ -17732,6 +17830,7 @@
         {
             "author": "Оскар де Мюриэл",
             "book": "Темные искусства",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -17740,6 +17839,7 @@
         {
             "author": "Стивен Спотсвуд",
             "book": "Фортуна на стороне мертвеца",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -17748,6 +17848,7 @@
         {
             "author": "Меган Миранда",
             "book": "Девушка из Уидоу-Хиллз",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok miranda wishlist 2021",
@@ -17756,6 +17857,7 @@
         {
             "author": "Меган Миранда",
             "book": "Последняя гостья",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok miranda wishlist 2021",
@@ -17764,6 +17866,7 @@
         {
             "author": "Катриона Уорд",
             "book": "Последний дом на Никчемной улице",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -17772,6 +17875,7 @@
         {
             "author": "Эмма Стоунекс",
             "book": "Смотрители маяка",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -17787,6 +17891,7 @@
         {
             "author": "Ибон Мартин",
             "book": "Танец тюльпанов",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -17795,6 +17900,7 @@
         {
             "author": "Элиза Джейн Брейзер",
             "book": "Если я исчезну",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -17803,6 +17909,7 @@
         {
             "author": "Дженис Халлетт",
             "book": "Выйти из чата",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -17838,6 +17945,7 @@
         {
             "author": "Сьюзен Хилл",
             "book": "Этюд на холме",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok hill wishlist 2020",
@@ -17846,6 +17954,7 @@
         {
             "author": "Сьюзен Хилл",
             "book": "Чистые сердцем",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok hill wishlist 2021",
@@ -17854,6 +17963,7 @@
         {
             "author": "Сьюзен Хилл",
             "book": "Опасность тьмы",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok hill wishlist 2021",
@@ -17862,6 +17972,7 @@
         {
             "author": "Сьюзен Хилл",
             "book": "Обеты молчания",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok hill wishlist 2022",
@@ -17870,6 +17981,7 @@
         {
             "author": "Энн Кливз",
             "book": "Ловушка для ворона",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo klivs wishlist 2020",
@@ -17878,6 +17990,7 @@
         {
             "author": "Энн Кливз",
             "book": "Скрытые глубины",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok klivs wishlist 2021",
@@ -17886,6 +17999,7 @@
         {
             "author": "Энн Кливз",
             "book": "Немые голоса",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok klivs wishlist 2021",
@@ -17894,14 +18008,16 @@
         {
             "author": "Энн Кливз",
             "book": "Рассказывая сказки",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok klivs wishlist 2021",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001138709/COVER/cover1__w820.jpg"
         },
         {
-            "author": "Ким Слейтер",
+            "author": "Ким Слэйтер",
             "book": "Запертая в своем теле",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -17910,6 +18026,7 @@
         {
             "author": "Эллери Ллойд",
             "book": "Одним лайком меньше",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -17918,6 +18035,7 @@
         {
             "author": "Харриет Уокер",
             "book": "Новая девушка",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -17968,6 +18086,7 @@
         {
             "author": "Иван Филиппов",
             "book": "Тень",
+            "web": "mp3",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -17976,6 +18095,7 @@
         {
             "author": "Анне Метте Ханкок",
             "book": "Трупный цветок",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2020",
@@ -17984,6 +18104,7 @@
         {
             "author": "Анне Метте Ханкок",
             "book": "Собиратель лиц",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -17992,6 +18113,7 @@
         {
             "author": "Анне Метте Ханкок",
             "book": "Питбуль",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -18000,6 +18122,7 @@
         {
             "author": "Магнус Йонссон",
             "book": "Игра в куклы",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -18008,6 +18131,7 @@
         {
             "author": "Магнус Йонссон",
             "book": "Пожиратели",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -18016,6 +18140,7 @@
         {
             "author": "Туве Альстердаль",
             "book": "Тоннель",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -18024,6 +18149,7 @@
         {
             "author": "Магнус Йонссон",
             "book": "Одинокая охота",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2022",
@@ -18039,6 +18165,7 @@
         {
             "author": "Софи Саренбрант",
             "book": "Стыд",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2022",
@@ -18192,6 +18319,7 @@
         {
             "author": "Ричард Галлахер",
             "book": "Одержимые дьяволом. Мой опыт психиатра рядом с паранормальным",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2021",
@@ -18224,7 +18352,7 @@
         {
             "author": "Тереза Дрисколл",
             "book": "Я слежу за тобой",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Эксмо",
             "shelf": "eksmo driskoll wishlist",
             "img": "https://s1.livelib.ru/boocover/1002971221/o/d22a/Tereza_Driskoll__Ya_slezhu_za_toboj.jpeg"
@@ -18232,7 +18360,7 @@
         {
             "author": "Тереза Дрисколл",
             "book": "Это не сон",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Эксмо",
             "shelf": "eksmo driskoll wishlist",
             "img": "https://s1.livelib.ru/boocover/1003172015/o/4be0/Tereza_Driskoll__Eto_ne_son.jpeg"
@@ -18257,6 +18385,7 @@
         {
             "author": "Шэрон Болтон",
             "book": "Маленькая черная ложь",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-britain wishlist 2022",
@@ -18272,6 +18401,7 @@
         {
             "author": "Шарлотта Линк",
             "book": "Обманутая",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-germany wishlist 2020",
@@ -18280,6 +18410,7 @@
         {
             "author": "Арно Штробель",
             "book": "Оффлайн",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-germany wishlist 2021",
@@ -18288,6 +18419,7 @@
         {
             "author": "Роми Хаусманн",
             "book": "Милое дитя",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-germany wishlist 2021",
@@ -18296,6 +18428,7 @@
         {
             "author": "Со Миэ",
             "book": "Единственный ребенок",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-korea wishlist 2021",
@@ -18304,6 +18437,7 @@
         {
             "author": "Чжоу Хаохуэй",
             "book": "Письма смерти",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-china wishlist 2021",
@@ -18312,6 +18446,7 @@
         {
             "author": "Чжоу Хаохуэй",
             "book": "Знаки судьбы",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-china wishlist 2022",
@@ -18320,6 +18455,7 @@
         {
             "author": "Цзы Цзиньчэнь",
             "book": "Долгая ночь",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-china wishlist 2022",
@@ -18392,6 +18528,7 @@
         {
             "author": "Ремигиуш Мруз",
             "book": "Безмолвная",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-poland wishlist 2021",
@@ -18400,6 +18537,7 @@
         {
             "author": "Анита Шивакумаран",
             "book": "Холодное солнце",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-india wishlist 2022",
@@ -18408,6 +18546,7 @@
         {
             "author": "Вито Франкини",
             "book": "Хищный зверь",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-italy wishlist 2022",
@@ -18465,6 +18604,7 @@
         {
             "author": "Мари Хермансон",
             "book": "Чумной остров",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-sweden wishlist 2022",
@@ -18489,6 +18629,7 @@
         {
             "author": "Эва Гарсиа Саэнс де Уртури",
             "book": "Жало белого города",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-spain wishlist 2020",
@@ -18497,6 +18638,7 @@
         {
             "author": "Эва Гарсиа Саэнс де Уртури",
             "book": "Водные ритуалы",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-spain wishlist 2022",
@@ -18505,6 +18647,7 @@
         {
             "author": "Маркос Чикот",
             "book": "Убить Пифагора",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-spain wishlist 2022",
@@ -18518,8 +18661,50 @@
             "shelf": "eksmo inspiria tok-spain wishlist 2022"
         },
         {
+            "author": "Эмили Грей Тедроу",
+            "book": "Талантливая мисс Фаруэлл",
+            "web": "mp3 fb2",
+            "year": "2020",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria tok wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1006361860/o/0df2/Emili_Grej_Tedrou__Talantlivaya_miss_Faruell.jpeg"
+        },
+        {
+            "author": "Корен Зайлцкас",
+            "book": "Мама, мама",
+            "web": "mp3 fb2",
+            "year": "2020",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria tok wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1005521410/o/1b90/Koren_Zajltskas__Mama_mama.jpeg"
+        },
+        {
+            "author": "Корен Зайлцкас",
+            "book": "Учитель драмы",
+            "web": "mp3 fb2",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria tok wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005793045/o/675c/Koren_Zajltskas__Uchitel_dramy.jpeg"
+        },
+        {
+            "author": "Ане Риэль",
+            "book": "Зверь",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria tok wishlist 2022"
+        },
+        {
+            "author": "Хейли Кришер",
+            "book": "С Эли Гринлиф что-то случилось",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria tok wishlist 2022"
+        },
+        {
             "author": "Сара Хогл",
             "book": "Вы друг друга стоите",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2021",
@@ -18528,6 +18713,7 @@
         {
             "author": "Сара Хогл",
             "book": "Застенчивость в квадрате",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2022",
@@ -18536,6 +18722,7 @@
         {
             "author": "Люси Даймонд",
             "book": "Кое-что по секрету",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2021",
@@ -18544,6 +18731,7 @@
         {
             "author": "Люси Даймонд",
             "book": "Обещание",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2022",
@@ -18552,6 +18740,7 @@
         {
             "author": "Лиз Тэлли",
             "book": "Битва свадеб",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2021",
@@ -18571,6 +18760,7 @@
         {
             "author": "Сьюзи Кроуз",
             "book": "Прости, но я скучаю",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2022",
@@ -18579,6 +18769,7 @@
         {
             "author": "Рони Лорен",
             "book": "Тысячу раз «да»",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2022",
@@ -18587,6 +18778,7 @@
         {
             "author": "Софи Ренальд",
             "book": "Извините, что мне не жаль",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2022",
@@ -18595,6 +18787,7 @@
         {
             "author": "Кейт Клейборн",
             "book": "Любовь с чистого листа",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2022",
@@ -18603,6 +18796,7 @@
         {
             "author": "Сарая Уилсон",
             "book": "Вот так соседка",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2022",
@@ -18611,6 +18805,7 @@
         {
             "author": "Кейт Стейман-Лондон",
             "book": "Холостячка",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2022",
@@ -18648,6 +18843,7 @@
         {
             "author": "Сьюзен Мэллери",
             "book": "Сезон прогулок босиком",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2022",
@@ -18664,6 +18860,7 @@
         {
             "author": "Фиона Гибсон",
             "book": "Когда жизнь подкидывает тебе лимоны",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2022",
@@ -18807,6 +19004,7 @@
         {
             "author": "Франсуаза Бурден",
             "book": "Обещание океана",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel burden wishlist 2020",
@@ -18815,6 +19013,7 @@
         {
             "author": "Франсуаза Бурден",
             "book": "Райское место",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel burden wishlist 2021",
@@ -18823,6 +19022,7 @@
         {
             "author": "Франсуаза Бурден",
             "book": "Чужой выбор",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel burden wishlist 2021",
@@ -18831,6 +19031,7 @@
         {
             "author": "Франсуаза Бурден",
             "book": "Глядя на море",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel burden wishlist 2022",
@@ -18854,6 +19055,7 @@
         {
             "author": "Э. Дж. Пирс",
             "book": "Дорогая миссис Бёрд...",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2020",
@@ -18862,6 +19064,7 @@
         {
             "author": "Имоджен Кили",
             "book": "Белая мышь",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2020",
@@ -18870,6 +19073,7 @@
         {
             "author": "Стефания Аучи",
             "book": "Львы Сицилии. Сага о Флорио",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2020",
@@ -18878,6 +19082,7 @@
         {
             "author": "Клэр Кэмерон",
             "book": "Последняя из древних",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2020",
@@ -18886,6 +19091,7 @@
         {
             "author": "Стейси Холлс",
             "book": "Госпиталь брошенных детей",
+            "web": "mp3",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel holls wishlist 2020",
@@ -18894,6 +19100,7 @@
         {
             "author": "Кристиан Беркель",
             "book": "Яблоневое дерево",
+            "web": "mp3",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -18902,6 +19109,7 @@
         {
             "author": "Жан-Жак Фельштейн",
             "book": "В оркестре Аушвица",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -18910,6 +19118,7 @@
         {
             "author": "Рэйчел Бинленд",
             "book": "Флоренс Адлер плавает вечно",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -18940,6 +19149,7 @@
         {
             "author": "Элизабет Гиффорд",
             "book": "Добрый доктор из Варшавы",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -18948,6 +19158,7 @@
         {
             "author": "Чинция Джорджо",
             "book": "Пять сестер",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
@@ -18964,6 +19175,7 @@
         {
             "author": "Стейси Холлс",
             "book": "Миссис Ингланд",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel holls wishlist 2022",
@@ -18986,6 +19198,7 @@
         {
             "author": "Люсинда Райли",
             "book": "Полуночная роза",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel raily wishlist 2020",
@@ -18994,6 +19207,7 @@
         {
             "author": "Люсинда Райли",
             "book": "Комната бабочек",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel raily wishlist 2021",
@@ -19002,6 +19216,7 @@
         {
             "author": "Люсинда Райли",
             "book": "Лавандовый сад",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel raily wishlist 2022",
@@ -19010,6 +19225,7 @@
         {
             "author": "Люсинда Райли",
             "book": "Оливковое дерево",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel raily wishlist 2022",
@@ -19058,6 +19274,7 @@
         {
             "author": "Лейла Аттар",
             "book": "Бумажный лебедь",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel attar wishlist 2020",
@@ -19066,22 +19283,25 @@
         {
             "author": "Лейла Аттар",
             "book": "Дорога солнца и тумана",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel attar wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1005795865/o/ca6f/Lejla_Attar__Doroga_solntsa_i_tumana.jpeg"
         },
         {
-            "author": "Калия Рид",
+            "author": "Калья Рид",
             "book": "Разгадка",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel rid wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1005618946/o/d8c9/Kaliya_Rid__Razgadka.jpeg"
         },
         {
-            "author": "Калия Рид",
+            "author": "Калья Рид",
             "book": "Мое безумие",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel rid wishlist 2021",
@@ -19090,6 +19310,7 @@
         {
             "author": "Лейла Аттар",
             "book": "Пятьдесят три письма моему любимому",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel attar wishlist 2022",
@@ -19098,6 +19319,7 @@
         {
             "author": "Трейси Гарвис-Грейвс",
             "book": "Девушка из его прошлого",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19106,7 +19328,7 @@
         {
             "author": "Патрик Федра",
             "book": "Библиотека утрат и находок",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "2/3/21",
             "price": "297.31",
@@ -19128,6 +19350,7 @@
         {
             "author": "Тара Конклин",
             "book": "Последний романтик",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel konklin wishlist 2020",
@@ -19136,6 +19359,7 @@
         {
             "author": "Тара Конклин",
             "book": "Рабыня",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel konklin wishlist 2021",
@@ -19144,6 +19368,7 @@
         {
             "author": "Эмма Страуб",
             "book": "Здесь все взрослые",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19152,6 +19377,7 @@
         {
             "author": "Кирсти Мэннинг",
             "book": "Потерянные сокровища",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19160,6 +19386,7 @@
         {
             "author": "Шанель Клитон",
             "book": "Следующий год в Гаване",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel kliton wishlist 2020",
@@ -19168,6 +19395,7 @@
         {
             "author": "Шанель Клитон",
             "book": "Когда мы покинули Кубу",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel kliton wishlist 2021",
@@ -19176,6 +19404,7 @@
         {
             "author": "Шанель Клитон",
             "book": "Последний поезд на Ки-Уэст",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel kliton wishlist 2022",
@@ -19184,6 +19413,7 @@
         {
             "author": "Тейлор Дженкинс Рейд",
             "book": "Дейзи Джонс & The Six",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2020",
@@ -19192,6 +19422,7 @@
         {
             "author": "Элис Хоффман",
             "book": "Верная",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19200,6 +19431,7 @@
         {
             "author": "Тереза Энн Фаулер",
             "book": "Хорошее соседство",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19208,6 +19440,7 @@
         {
             "author": "Тереза Энн Фаулер",
             "book": "Порядочная женщина",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19216,6 +19449,7 @@
         {
             "author": "Вера Арье",
             "book": "Весна умирает осенью",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19224,6 +19458,7 @@
         {
             "author": "Тейлор Дженкинс Рейд",
             "book": "Семь мужей Эвелин Хьюго",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
@@ -19232,6 +19467,7 @@
         {
             "author": "Джанис Парьят",
             "book": "Девять камер ее сердца",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2020",
@@ -19248,6 +19484,7 @@
         {
             "author": "Теа Обрехт",
             "book": "Без воды",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19256,6 +19493,7 @@
         {
             "author": "Анна Соломон",
             "book": "Утерянная Книга В.",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19264,6 +19502,7 @@
         {
             "author": "Мэгги О'Фаррелл",
             "book": "Хамнет",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19272,6 +19511,7 @@
         {
             "author": "Артуро Перес-Реверте",
             "book": "Боевые псы не пляшут",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19280,6 +19520,7 @@
         {
             "author": "Румаан Алам",
             "book": "Оставь мир позади",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19296,6 +19537,7 @@
         {
             "author": "Алекс Шульман",
             "book": "Выжившие",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19315,6 +19557,7 @@
         {
             "author": "Алка Джоши",
             "book": "Художница из Джайпура",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19323,6 +19566,7 @@
         {
             "author": "Сара Пеннер",
             "book": "Тайная лавка ядов",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19331,6 +19575,7 @@
         {
             "author": "Дженнифер Робсон",
             "book": "Платье королевы",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19347,6 +19592,7 @@
         {
             "author": "Дженнифер Робсон",
             "book": "Письма из Лондона",
+            "web": "mp3",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
@@ -19378,6 +19624,7 @@
         {
             "author": "Тиа Уильямс",
             "book": "Семь дней в июне",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
@@ -19402,6 +19649,7 @@
         {
             "author": "Синтия Д'априкс Суини",
             "book": "Гнездо",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19410,6 +19658,7 @@
         {
             "author": "Синтия Д'априкс Суини",
             "book": "Хорошая компания",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
@@ -19418,6 +19667,7 @@
         {
             "author": "Хэзер Уэббер",
             "book": "Полночь в кафе «Черный дрозд»",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel-magic wishlist 2021",
@@ -19426,6 +19676,7 @@
         {
             "author": "Хэзер Уэббер",
             "book": "К югу от платана",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel-magic wishlist 2021",
@@ -19434,6 +19685,7 @@
         {
             "author": "Мелисса Пейн",
             "book": "Тайны утерянных камней",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel-magic wishlist 2021",
@@ -19442,6 +19694,7 @@
         {
             "author": "Элис Хоффман",
             "book": "Уроки магии",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel-magic wishlist 2021",
@@ -19466,6 +19719,7 @@
         {
             "author": "Шарлотта Линк",
             "book": "Обманутая",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel-germany link wishlist 2021",
@@ -19474,6 +19728,7 @@
         {
             "author": "Шарлотта Линк",
             "book": "Дом сестер",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel-germany link wishlist 2021",
@@ -19482,6 +19737,7 @@
         {
             "author": "Эбби Гривз",
             "book": "Игра в молчанку",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel grivs wishlist 2021",
@@ -19498,6 +19754,7 @@
         {
             "author": "Аманда Эйр Уорд",
             "book": "Семейный круиз",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19506,6 +19763,7 @@
         {
             "author": "Нэнси Тайер",
             "book": "Девочки лета",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
@@ -19514,6 +19772,7 @@
         {
             "author": "Карма Браун",
             "book": "Рецепт идеальной жены",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19530,6 +19789,7 @@
         {
             "author": "Аннабел Эббс",
             "book": "На кухне мисс Элизы",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
@@ -19538,6 +19798,7 @@
         {
             "author": "Дженнифер Уайнер",
             "book": "Миссис Всё на свете",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19546,6 +19807,7 @@
         {
             "author": "Сара Паборн",
             "book": "Колючий мед",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19554,6 +19816,7 @@
         {
             "author": "Люси Скоур",
             "book": "Притворись, что ты моя",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19562,6 +19825,7 @@
         {
             "author": "Люси Скоур",
             "book": "Защити свою любовь",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19570,6 +19834,7 @@
         {
             "author": "Киран Миллвуд Харгрейв",
             "book": "Милосердные",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19578,6 +19843,7 @@
         {
             "author": "Мишель Грирсон",
             "book": "Становясь Лейдой",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
@@ -19593,6 +19859,7 @@
         {
             "author": "Элизабет Ли",
             "book": "Ведуньи",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19601,6 +19868,7 @@
         {
             "author": "Барбара Дэвис",
             "book": "Последняя из Лунных Дев",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19626,6 +19894,7 @@
         {
             "author": "Рейчел Джойс",
             "book": "Золотой жук мисс Бенсон",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19634,6 +19903,7 @@
         {
             "author": "Рейчел Джойс",
             "book": "Невероятное паломничество Гарольда Фрая",
+            "web": "mp3",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19642,6 +19912,7 @@
         {
             "author": "Элизабет Берг",
             "book": "История Артура Трулава",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19650,6 +19921,7 @@
         {
             "author": "Джессика Фрэнсис Кейн",
             "book": "Как Мэй ходила в гости",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
@@ -19658,6 +19930,7 @@
         {
             "author": "Сьюзи Кроуз",
             "book": "Валенсия и Валентайн",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
@@ -19906,6 +20179,7 @@
         {
             "author": "Эмма Чейз",
             "book": "Принц Николас",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria pink-room wishlist 2020",
@@ -19914,6 +20188,7 @@
         {
             "author": "Эмма Чейз",
             "book": "Принц Генри",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria pink-room wishlist 2021",
@@ -19922,6 +20197,7 @@
         {
             "author": "Эмма Чейз",
             "book": "Принцесса Элли",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria pink-room wishlist 2022",
@@ -19930,6 +20206,7 @@
         {
             "author": "Меган Брэнди",
             "book": "Парни из старшей школы",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria pink-room brandy wishlist 2021",
@@ -19938,6 +20215,7 @@
         {
             "author": "Меган Брэнди",
             "book": "Неприятности в старшей школе",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria pink-room brandy wishlist 2021",
@@ -19946,6 +20224,7 @@
         {
             "author": "Меган Брэнди",
             "book": "Короли старшей школы",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria pink-room brandy wishlist 2022",
@@ -19954,6 +20233,7 @@
         {
             "author": "Рейчел Линн Соломон",
             "book": "Подкаст бывших",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria pink-room wishlist 2021",
@@ -19962,6 +20242,7 @@
         {
             "author": "Айви Смоук",
             "book": "Соблазн",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria pink-room wishlist 2021",
@@ -19970,6 +20251,7 @@
         {
             "author": "Айви Смоук",
             "book": "Зависимость",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria pink-room wishlist 2022",
@@ -19986,6 +20268,7 @@
         {
             "author": "Патрик Несс",
             "book": "Освобождение",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum wishlist 2020",
@@ -19994,6 +20277,7 @@
         {
             "author": "Лия Арден",
             "book": "Золото в тёмной ночи",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum arden wishlist 2020",
@@ -20002,6 +20286,7 @@
         {
             "author": "Лия Арден",
             "book": "Достойный высший суд",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum arden wishlist 2021",
@@ -20010,6 +20295,7 @@
         {
             "author": "Лия Арден",
             "book": "Безупречная луна",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum arden wishlist 2021",
@@ -20018,10 +20304,349 @@
         {
             "author": "Лия Арден",
             "book": "Илос. Начало",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum arden wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007304604/o/6348/Liya_Arden__Ilos._Nachalo.jpeg"
+        },
+        {
+            "author": "Сара Гэйли",
+            "book": "Магия лжецов",
+            "web": "fb2",
+            "year": "2020",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1004147470/o/58d1/Sara_Gejli__Magiya_lzhetsov.jpeg"
+        },
+        {
+            "author": "Джули МакЭлвен",
+            "book": "Убийство во времени",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005579568/o/7006/Dzhuli_MakElven__Ubijstvo_vo_vremeni.jpeg"
+        },
+        {
+            "author": "Терри Пратчетт",
+            "book": "Мор, ученик Смерти",
+            "year": "2020",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum pratchett wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1005079960/o/b72c/Terri_Pratchett__Mor_uchenik_Smerti.jpeg"
+        },
+        {
+            "author": "Терри Пратчетт",
+            "book": "Мрачный Жнец",
+            "year": "2020",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum pratchett wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1005079969/o/c056/Terri_Pratchett__Mrachnyj_Zhnets.jpeg"
+        },
+        {
+            "author": "Терри Пратчетт",
+            "book": "Стража! Стража!",
+            "year": "2020",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum pratchett wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1005447712/o/38a4/Terri_Pratchett__Strazha_Strazha.jpeg"
+        },
+        {
+            "author": "Терри Пратчетт",
+            "book": "К оружию! К оружию!",
+            "year": "2020",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum pratchett wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1005550528/o/d90e/Terri_Pratchett__K_oruzhiyu_K_oruzhiyu.jpeg"
+        },
+        {
+            "author": "Терри Пратчетт",
+            "book": "Вещие сестрички",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum pratchett wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005622942/o/b36f/Terri_Pratchett__Veschie_sestrichki.jpeg"
+        },
+        {
+            "author": "Терри Пратчетт",
+            "book": "Ведьмы за границей",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum pratchett wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005964642/o/7d14/Terri_Pratchett__Vedmy_za_granitsej.jpeg"
+        },
+        {
+            "author": "Терри Пратчетт",
+            "book": "Ноги из глины",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum pratchett wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006307689/o/e329/Terri_Pratchett__Nogi_iz_gliny.jpeg"
+        },
+        {
+            "author": "Ширин Шафиева",
+            "book": "Не спи под инжировым деревом",
+            "web": "fb2",
+            "year": "2020",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum shafieva wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1005396418/o/41fc/Shirin_Shafieva__Ne_spi_pod_inzhirovym_derevom.jpeg"
+        },
+        {
+            "author": "Ширин Шафиева",
+            "book": "Сны Ocimum Basilicum",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum shafieva wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005629299/o/efb6/Shirin_Shafieva__Sny_Ocimum_Basilicum.jpeg"
+        },
+        {
+            "author": "Шон Хэмилл",
+            "book": "Космология монстров",
+            "web": "fb2",
+            "year": "2020",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1005396421/o/419d/Shon_Hemill__Kosmologiya_monstrov.jpeg"
+        },
+        {
+            "author": "Стивен Грэм Джонс",
+            "book": "Только хорошие индейцы",
+            "web": "fb2",
+            "year": "2020",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1005465295/o/8574/__Tolko_horoshie_indejtsy.jpeg"
+        },
+        {
+            "author": "Тим Леббон",
+            "book": "Безмолвие",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005632656/o/7414/Tim_Lebbon__Bezmolvie.jpeg"
+        },
+        {
+            "author": "Джонатан Симс",
+            "book": "Тринадцать этажей",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005902689/o/a052/Dzhonatan_Sims__Trinadtsat_etazhej.jpeg"
+        },
+        {
+            "author": "Джо Хилл",
+            "book": "Пожарный",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005710152/o/88d3/Dzho_Hill__Pozharnyj.jpeg"
+        },
+        {
+            "author": "Джо Хилл",
+            "book": "Полный газ",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005986353/o/ad89/Dzho_Hill__Polnyj_gaz.jpeg"
+        },
+        {
+            "author": "Алма Катсу",
+            "book": "Голод",
+            "web": "mp3 fb2",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006773919/o/3417/Alma_Katsu__Golod.jpeg"
+        },
+        {
+            "author": "Алма Катсу",
+            "book": "Глубина",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1006993870/o/c339/Alma_Katsu__Glubina.jpeg"
+        },
+        {
+            "author": "Кит Томас",
+            "book": "Далия Блэк. Хроника Вознесения",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005705418/o/5a04/Kit_Tomas__Daliya_Blek._Hronika_Vozneseniya.jpeg"
+        },
+        {
+            "author": "Крейг Дилуи",
+            "book": "Один из нас",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005775594/o/a15a/Krejg_Dilui__Odin_iz_nas.jpeg"
+        },
+        {
+            "author": "Эмили Сент-Джон Мандел",
+            "book": "Станция одиннадцать",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005948847/o/6f2b/Emili_SentDzhon_Mandel__Stantsiya_odinnadtsat.jpeg"
+        },
+        {
+            "author": "Кристина Далчер",
+            "book": "Мастер-класс",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005961354/o/26cd/Kristina_Dalcher__Masterklass.jpeg"
+        },
+        {
+            "author": "Констанс Сэйерс",
+            "book": "Четыре жизни Хелен Ламберт",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005671644/o/dc7b/Konstans_Sejers__Chetyre_zhizni_Helen_Lambert.jpeg"
+        },
+        {
+            "author": "Констанс Сэйерс",
+            "book": "Дамы тайного цирка",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007423503/o/7b9b/Konstans_Sejers__Damy_tajnogo_tsirka.jpeg"
+        },
+        {
+            "author": "Шеннон Майер",
+            "book": "Охотница за головами",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2022"
+        },
+        {
+            "author": "Яна Летт",
+            "book": "Отсутствие Анны",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006114360/o/8833/Yana_Lett__Otsutstvie_Anny.jpeg"
+        },
+        {
+            "author": "Нора Робертс",
+            "book": "Год первый",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005700492/o/4b2d/Nora_Roberts__God_pervyj.jpeg"
+        },
+        {
+            "author": "Нора Робертс",
+            "book": "От плоти и крови",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006225846/o/8492/Nora_Roberts__Ot_ploti_i_krovi.jpeg"
+        },
+        {
+            "author": "Нора Робертс",
+            "book": "Расцвет магии",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1006993828/o/fc62/Nora_Roberts__Rastsvet_magii.jpeg"
+        },
+        {
+            "author": "Виктория Шваб",
+            "book": "Незримая жизнь Адди Ларю",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006221901/o/f645/Viktoriya_Shvab__Nezrimaya_zhizn_Addi_Laryu.jpeg"
+        },
+        {
+            "author": "Виктория Шваб",
+            "book": "Галлант",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007453470/o/fd26/Viktoriya_Shvab__Gallant.jpeg"
+        },
+        {
+            "book": "Вперед",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006271923/o/b742/__Vpered_sbornik.jpeg"
+        },
+        {
+            "author": "Лорен Бьюкес",
+            "book": "Земля матерей",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006844326/o/de2a/Loren_Byukes__Zemlya_materej.jpeg"
+        },
+        {
+            "author": "Рена Баррон",
+            "book": "Королевство душ",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006861042/o/0771/Rena_Barron__Korolevstvo_dush.jpeg"
+        },
+        {
+            "author": "Уна Харт",
+            "book": "Когда запоют мертвецы",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006847527/o/e1b6/Una_Hart__Kogda_zapoyut_mertvetsy.jpeg"
+        },
+        {
+            "author": "Женевьева Горничек",
+            "book": "Сердце Ведьмы",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006896931/o/074a/Zheneveva_Gornichek__Serdtse_Vedmy.jpeg"
+        },
+        {
+            "author": "М. Джон Харрисон",
+            "book": "Затонувшая земля поднимается вновь",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1006950031/o/884e/M._Dzhon_Harrison__Zatonuvshaya_zemlya_podnimaetsya_vnov.jpeg"
+        },
+        {
+            "author": "Лора Мэйлин Уолтер",
+            "book": "Созвездия тел",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007282905/o/f0bb/Lora_Mejlin_Uolter__Sozvezdiya_tel.jpeg"
+        },
+        {
+            "author": "Ирина Кавинская",
+            "book": "Партия жертвы",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007420503/o/01c9/Irina_Kavinskaya__Partiya_zhertvy.jpeg"
         },
         {
             "author": "Ксения Буржская",
@@ -20036,30 +20661,6 @@
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria wishlist 2022"
-        },
-        {
-            "author": "Эмили Грей Тедроу",
-            "book": "Талантливая мисс Фаруэлл",
-            "year": "2020",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria wishlist 2020",
-            "img": "https://s1.livelib.ru/boocover/1006361860/o/0df2/Emili_Grej_Tedrou__Talantlivaya_miss_Faruell.jpeg"
-        },
-        {
-            "author": "Корен Зайлцкас",
-            "book": "Мама, мама",
-            "year": "2020",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria wishlist 2020",
-            "img": "https://s1.livelib.ru/boocover/1005521410/o/1b90/Koren_Zajltskas__Mama_mama.jpeg"
-        },
-        {
-            "author": "Корен Зайлцкас",
-            "book": "Учитель драмы",
-            "year": "2021",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria wishlist 2021",
-            "img": "https://s1.livelib.ru/boocover/1005793045/o/675c/Koren_Zajltskas__Uchitel_dramy.jpeg"
         },
         {
             "author": "Андреас Грубер",
