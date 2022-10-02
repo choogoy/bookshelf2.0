@@ -1,4 +1,4 @@
-﻿{
+{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -12559,8 +12559,8 @@
             "author": "Одед Галор",
             "book": "Путь человечества. Истоки богатства и неравенства",
             "year": "2022",
-            "buyDate": "10/15/22",
-            "price": "562",
+            "buyDate": "10/6/22",
+            "price": "594",
             "publisher": "Corpus",
             "shelf": "corpus 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-galor.jpg"
@@ -12821,8 +12821,8 @@
             "author": "Юлия Бедерова, Лев Ганкин, Анна Сокольская и Максима Семеляка",
             "book": "Книга о музыке",
             "year": "2022",
-            "buyDate": "10/15/22",
-            "price": "1786",
+            "buyDate": "10/6/22",
+            "price": "1855",
             "publisher": "Corpus",
             "shelf": "corpus music 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-muzika.jpg"
@@ -16356,7 +16356,7 @@
         {
             "author": "Сорен Свейструп",
             "book": "Каштановый человечек",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "10/18/21",
             "price": "317",
@@ -16522,7 +16522,7 @@
         {
             "author": "Алексей Поляринов",
             "book": "Риф",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern-moment polyarinov wishlist 2020",
@@ -16539,7 +16539,7 @@
         {
             "author": "Сергей Самсонов",
             "book": "Высокая кровь",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern-moment wishlist 2020",
@@ -16548,7 +16548,7 @@
         {
             "author": "Мршавко Штапич",
             "book": "Плейлист волонтера",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern-moment wishlist 2020",
@@ -16557,6 +16557,7 @@
         {
             "author": "Алексей Поляринов",
             "book": "Центр тяжести",
+            "web": "mp3",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern-moment polyarinov wishlist 2020",
@@ -16565,7 +16566,7 @@
         {
             "author": "Ксения Буржская",
             "book": "Мой белый",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern-moment burzhuiskaya wishlist 2021",
@@ -16574,7 +16575,7 @@
         {
             "author": "Анаит Григорян",
             "book": "Осьминог",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern-moment wishlist 2021",
@@ -16583,6 +16584,7 @@
         {
             "author": "Наталия Репина",
             "book": "Жизнеописание Льва",
+            "web": "mp3",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern-moment wishlist 2021",
@@ -16624,6 +16626,7 @@
         {
             "author": "Сергей Вересков",
             "book": "В краю молочных рек",
+            "web": "mp3",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern-moment wishlist 2022",
@@ -16664,7 +16667,7 @@
         {
             "author": "Рейчел Инглз",
             "book": "Миссис Калибан",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2020",
@@ -16673,7 +16676,7 @@
         {
             "author": "Эмили Сент-Джон Мандел",
             "book": "Стеклянный отель",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2020",
@@ -16682,6 +16685,7 @@
         {
             "author": "Анджела Картер",
             "book": "Любовь",
+            "web": "mp3",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2020",
@@ -16690,6 +16694,7 @@
         {
             "author": "Чигозие Обиома",
             "book": "Оркестр меньшинств",
+            "web": "mp3",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2020",
@@ -16698,7 +16703,7 @@
         {
             "author": "Джонатан Сафран Фоер",
             "book": "Погода - это мы",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2020",
@@ -16707,7 +16712,7 @@
         {
             "author": "Юн Фоссе",
             "book": "Трилогия",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern fosse wishlist 2020",
@@ -16716,7 +16721,7 @@
         {
             "author": "Арто Паасилинна",
             "book": "Тысяча Чертей пастора Хуусконена",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern paasilinna wishlist 2021",
@@ -16725,6 +16730,7 @@
         {
             "author": "Томми Ориндж",
             "book": "Там мы стали другими",
+            "web": "mp3",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2021",
@@ -16733,6 +16739,7 @@
         {
             "author": "Джонатан Литэм",
             "book": "Помутнение",
+            "web": "mp3",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2021",
@@ -16741,7 +16748,7 @@
         {
             "author": "Элизабет Уэтмор",
             "book": "Валентайн",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2021",
@@ -16750,7 +16757,7 @@
         {
             "author": "Эмма Донохью",
             "book": "Притяжение звезд",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2021",
@@ -16759,6 +16766,7 @@
         {
             "author": "Лана Басташич",
             "book": "Поймать зайца",
+            "web": "mp3",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2021",
@@ -16767,7 +16775,7 @@
         {
             "author": "Рейчел Йодер",
             "book": "Ночная сучка",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2021",
@@ -16776,6 +16784,7 @@
         {
             "author": "Джейн Боулз",
             "book": "Две серьезные дамы",
+            "web": "mp3",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2021",
@@ -16810,7 +16819,7 @@
         {
             "author": "Леони Росс",
             "book": "Один день ясного неба",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2022",
@@ -17006,7 +17015,7 @@
             "book": "Обещание",
             "year": "2022",
             "buyDate": "10/14/22",
-            "price": "425",
+            "price": "353",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-buker 2022",
             "img": "https://s1.livelib.ru/boocover/1007507050/o/1da0/Dejmon_Gelgut__Obeschanie.jpeg"
@@ -17140,6 +17149,7 @@
         {
             "author": "Ань Юй",
             "book": "Тушеная свинина",
+            "web": "mp3",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-east wishlist 2020",
@@ -17148,7 +17158,7 @@
         {
             "author": "Ширшенду Мухопадхай",
             "book": "Тетушка, которая не умирает",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-east wishlist 2020",
@@ -20634,7 +20644,7 @@
         {
             "author": "Лора Мэйлин Уолтер",
             "book": "Созвездия тел",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum wishlist 2022",
@@ -20643,6 +20653,7 @@
         {
             "author": "Ирина Кавинская",
             "book": "Партия жертвы",
+            "web": "mp3",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum wishlist 2022",
