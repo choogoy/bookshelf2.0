@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -2346,6 +2346,7 @@
         {
             "author": "Мишель Уэльбек",
             "book": "Остаться живым",
+            "web": "fb2",
             "year": "1991",
             "buyDate": "6/21/20",
             "price": "495",
@@ -2355,12 +2356,14 @@
         {
             "author": "Мишель Уэльбек",
             "book": "Г. Ф. Лавкрафт. Против человечества, против прогресса",
+            "web": "fb2",
             "shelf": "houellebecq wishlist",
             "img": "https://s1.livelib.ru/boocover/1000159780/o/d948/Mishel_Uelbek__G._F._Lavkraft._Protiv_chelovechestva_protiv_progressa.jpeg"
         },
         {
             "author": "Мишель Уэльбек",
             "book": "Расширение пространства борьбы",
+            "web": "fb2",
             "year": "1994",
             "buyDate": "7/21/14",
             "price": "162",
@@ -2370,6 +2373,7 @@
         {
             "author": "Мишель Уэльбек",
             "book": "Мир как супермаркет",
+            "web": "fb2",
             "year": "1998",
             "buyDate": "6/21/20",
             "price": "445",
@@ -2379,6 +2383,7 @@
         {
             "author": "Мишель Уэльбек",
             "book": "Элементарные частицы",
+            "web": "fb2",
             "year": "1998",
             "buyDate": "6/21/20",
             "price": "495",
@@ -2388,6 +2393,7 @@
         {
             "author": "Мишель Уэльбек",
             "book": "Лансароте",
+            "web": "fb2",
             "buyDate": "6/21/20",
             "price": "530",
             "shelf": "houellebecq inostranka",
@@ -2406,12 +2412,14 @@
         {
             "author": "Мишель Уэльбек",
             "book": "Возможность острова",
+            "web": "fb2",
             "shelf": "houellebecq inostranka",
             "img": "https://s1.livelib.ru/boocover/1000310888/o/e19a/Mishel_Uelbek__Vozmozhnost_ostrova.jpeg"
         },
         {
             "author": "Мишель Уэльбек",
             "book": "Враги общества",
+            "web": "fb2",
             "buyDate": "7/23/14",
             "price": "227",
             "shelf": "houellebecq",
@@ -2420,6 +2428,7 @@
         {
             "author": "Мишель Уэльбек",
             "book": "Человечество. Стадия 2",
+            "web": "fb2",
             "buyDate": "7/23/14",
             "price": "221",
             "shelf": "houellebecq",
@@ -2628,7 +2637,7 @@
             "readDate": "10/2/21",
             "price": "379",
             "publisher": "Синдбад",
-            "shelf": "runi sindbad",
+            "shelf": "runi sindbad 2020",
             "img": "https://s1.livelib.ru/boocover/1004112313/o/03d6/Salli_Runi__Razgovory_s_druzyami.jpeg"
         },
         {
@@ -2640,7 +2649,7 @@
             "readDate": "10/5/21",
             "price": "331",
             "publisher": "Синдбад",
-            "shelf": "runi sindbad",
+            "shelf": "runi sindbad 2020",
             "img": "https://s1.livelib.ru/boocover/1003635319/o/d7f5/Salli_Runi__Normalnye_lyudi.jpeg"
         },
         {
@@ -2809,6 +2818,7 @@
         {
             "author": "Джеймс Боуэн",
             "book": "Тайна уличного кота",
+            "year": "2019",
             "buyDate": "11/14/19",
             "price": "254",
             "shelf": "animals bowen",
@@ -2821,7 +2831,7 @@
             "year": "2020",
             "buyDate": "8/23/20",
             "price": "289",
-            "shelf": "animals ebbott",
+            "shelf": "animals ebbott 2020",
             "img": "https://s1.livelib.ru/boocover/1003637738/o/3e62/Mildred_Ebbott__Zhestokie_vkusnyashki.jpeg"
         },
         {
@@ -2831,7 +2841,7 @@
             "year": "2020",
             "buyDate": "8/23/20",
             "price": "287.45",
-            "shelf": "animals ebbott",
+            "shelf": "animals ebbott 2020",
             "img": "https://s1.livelib.ru/boocover/1004116615/o/16b9/Mildred_Ebbott__Kovarnye_igrushki.jpeg"
         },
         {
@@ -2840,7 +2850,7 @@
             "year": "2020",
             "buyDate": "11/26/20",
             "price": "396",
-            "shelf": "animals ebbott",
+            "shelf": "animals ebbott 2020",
             "img": "https://s1.livelib.ru/boocover/1005446344/o/b452/Mildred_Ebbott__Korgidetektiv_svarlivye_ptashki.jpeg"
         },
         {
@@ -2877,7 +2887,7 @@
             "year": "2020",
             "buyDate": "12/6/20",
             "price": "161.11",
-            "shelf": "animals",
+            "shelf": "animals 2020",
             "img": "https://cdn1.ozone.ru/multimedia/wc1200/1026567710.jpg"
         },
         {
@@ -3068,6 +3078,7 @@
             "author": "Трэвис Баркер",
             "book": "Между панк-роком и смертью. Автобиография барабанщика легендарной группы BLINK-182",
             "web": "mp3 fb2",
+            "year": "2019",
             "buyDate": "1/20/20",
             "price": "452",
             "publisher": "Бомбора",
@@ -4294,7 +4305,7 @@
             "buyDate": "11/3/20",
             "price": "667",
             "publisher": "АСТ",
-            "shelf": "sport",
+            "shelf": "ast sport",
             "img": "https://s1.livelib.ru/boocover/1001059086/o/9b97/Aleks_Fergyuson__Avtobiografiya.jpeg"
         },
         {
@@ -4955,89 +4966,179 @@
         },
         {
             "author": "Мэтт Хейг",
-            "book": "Полночная библиотека",
+            "book": "Тенистый лес",
             "web": "fb2",
-            "buyDate": "2/3/21",
-            "readDate": "7/12/21",
-            "price": "297.31",
-            "shelf": "heig bookstore",
-            "img": "https://s1.livelib.ru/boocover/1005540079/o/7c5f/Mett_Hejg__Polnochnaya_biblioteka.jpeg"
+            "year": "2011",
+            "publisher": "АСТ",
+            "shelf": "ast heig wishlist",
+            "img": "https://cdn.ast.ru/v2/AST000000000084879/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Мэтт Хейг",
+            "book": "Тенистый лес",
+            "web": "fb2",
+            "year": "2015",
+            "publisher": "АСТ",
+            "shelf": "ast heig wishlist",
+            "img": "https://cdn.ast.ru/v2/ASE000000000709676/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Мэтт Хейг",
+            "book": "Сбежавший Тролль",
+            "web": "fb2",
+            "year": "2012",
+            "publisher": "АСТ",
+            "shelf": "ast heig wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000506258/o/e64f/Mett_Hejg__Sbezhavshij_Troll.jpeg"
+        },
+        {
+            "author": "Мэтт Хейг",
+            "book": "Сбежавший Тролль",
+            "web": "fb2",
+            "year": "2015",
+            "publisher": "АСТ",
+            "shelf": "ast heig wishlist",
+            "img": "https://cdn.ast.ru/v2/ASE000000000709680/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Мэтт Хейг",
+            "book": "Тенистый лес. Сбежавший тролль",
+            "web": "fb2",
+            "year": "2018",
+            "publisher": "АСТ",
+            "shelf": "ast heig wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002737155/o/5514/Mett_Hejg__Tenistyj_les._Sbezhavshij_troll_sbornik.jpeg"
+        },
+        {
+            "author": "Мэтт Хейг",
+            "book": "Приключения Сэмюэля Блинка. Тенистый лес. Сбежавший тролль",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "АСТ",
+            "shelf": "ast heig wishlist 2021",
+            "img": "https://cdn.ast.ru/v2/ASE000000000861511/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Мэтт Хейг",
+            "book": "Быть котом",
+            "web": "fb2",
+            "year": "2013",
+            "publisher": "АСТ",
+            "shelf": "ast heig wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000585927/o/cdb4/Mett_Hejg__Byt_kotom.jpeg"
+        },
+        {
+            "author": "Мэтт Хейг",
+            "book": "Быть котом",
+            "web": "fb2",
+            "year": "2016",
+            "publisher": "АСТ",
+            "shelf": "ast heig wishlist",
+            "img": "https://s1.livelib.ru/boocover/1001236408/o/4d67/Mett_Hejg__Byt_kotom.jpeg"
         },
         {
             "author": "Мэтт Хейг",
             "book": "Эхобой",
             "web": "fb2",
+            "year": "2015",
             "buyDate": "7/16/21",
             "price": "285",
-            "shelf": "heig",
+            "publisher": "АСТ",
+            "shelf": "ast heig",
             "img": "https://s1.livelib.ru/boocover/1001317890/o/d837/Mett_Hejg__Ehoboj.jpeg"
         },
         {
             "author": "Мэтт Хейг",
-            "book": "Трудно быть человеком",
+            "book": "Мальчик по имени Рождество",
             "web": "fb2",
-            "buyDate": "7/16/21",
-            "readDate": "10/24/21",
-            "price": "372",
-            "publisher": "Синдбад",
-            "shelf": "heig sindbad",
-            "img": "https://s1.livelib.ru/boocover/1002884725/o/99a2/Mett_Hejg__Trudno_byt_chelovekom.jpeg"
+            "year": "2016",
+            "publisher": "АСТ",
+            "shelf": "ast heig wishlist",
+            "img": "https://cdn.ast.ru/v2/ASE000000000724232/COVER/cover1__w600.jpg"
         },
         {
             "author": "Мэтт Хейг",
-            "book": "Как остановить время",
+            "book": "Мальчик по имени Рождество",
             "web": "fb2",
-            "buyDate": "7/16/21",
-            "price": "448",
-            "publisher": "Синдбад",
-            "shelf": "heig sindbad",
-            "img": "https://s1.livelib.ru/boocover/1002891308/o/2309/Mett_Hejg__Kak_ostanovit_vremya.jpeg"
+            "year": "2021",
+            "publisher": "АСТ",
+            "shelf": "ast heig wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006847665/o/d780/Mett_Hejg__Malchik_po_imeni_Rozhdestvo.jpeg"
         },
         {
             "author": "Мэтт Хейг",
-            "book": "Планета нервных. Как жить в мире процветающей паники",
+            "book": "Девочка, которая спасла Рождество",
             "web": "fb2",
-            "buyDate": "7/16/21",
-            "readDate": "8/17/21",
-            "price": "337",
-            "shelf": "heig",
-            "img": "https://s1.livelib.ru/boocover/1003237221/o/309f/Mett_Hejg__Planeta_nervnyh_Kak_zhit_v_mire_protsvetayuschej_paniki.jpeg"
+            "year": "2017",
+            "publisher": "АСТ",
+            "shelf": "ast heig wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002485658/o/55b3/Mett_Hejg__Devochka_kotoraya_spasla_Rozhdestvo.jpeg"
         },
         {
             "author": "Мэтт Хейг",
-            "book": "Последнее семейство в Англии",
+            "book": "Отец Рождество и Я",
             "web": "fb2",
-            "buyDate": "7/16/21",
-            "readDate": "10/27/21",
-            "price": "344",
-            "shelf": "heig animals",
-            "img": "https://s1.livelib.ru/boocover/1003277092/o/7afa/Mett_Hejg__Poslednee_semejstvo_v_Anglii.jpeg"
+            "year": "2018",
+            "publisher": "АСТ",
+            "shelf": "ast heig wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002858131/o/fc63/Mett_Hejg__Otets_Rozhdestvo_i_Ya.jpeg"
         },
         {
             "author": "Мэтт Хейг",
-            "book": "Собственность мистера Кейва",
-            "buyDate": "7/16/21",
-            "price": "337",
-            "shelf": "heig",
-            "img": "https://s1.livelib.ru/boocover/1003625321/o/e444/Mett_Hejg__Sobstvennost_mistera_Kejva.jpeg"
+            "book": "Пикси Правды",
+            "year": "2019",
+            "publisher": "АСТ",
+            "shelf": "ast heig wishlist",
+            "img": "https://s1.livelib.ru/boocover/1003192020/o/922d/Mett_Hejg__Piksi_Pravdy.jpeg"
         },
         {
             "author": "Мэтт Хейг",
-            "book": "Клуб призрачных отцов",
-            "web": "fb2",
-            "buyDate": "7/16/21",
-            "price": "437",
-            "shelf": "heig",
-            "img": "https://media.b-stock.ru/gallery/3323576.jpeg"
+            "book": "Эви и животные",
+            "year": "2020",
+            "publisher": "АСТ",
+            "shelf": "ast heig wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1003635129/o/5592/Mett_Hejg__Evi_i_zhivotnye.jpeg"
+        },
+        {
+            "author": "Мэтт Хейг",
+            "book": "The Truth Pixie Goes to School",
+            "shelf": "heig wishlist",
+            "img": "https://www.logobook.ru/bi/14646983/14646983_37186.jpg"
+        },
+        {
+            "author": "Мэтт Хейг",
+            "book": "Evie in the Jungle",
+            "shelf": "heig wishlist",
+            "img": "https://www.logobook.ru/bi/14963668/14963668_93186.jpg"
+        },
+        {
+            "author": "Мэтт Хейг",
+            "book": "Выдающиеся брэнды",
+            "shelf": "heig wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000153842/o/b343/Mett_Hejg__Vydayuschiesya_brendy.jpeg"
         },
         {
             "author": "Мэтт Хейг",
             "book": "Влюбиться в жизнь. Как научиться жить снова, когда ты почти уничтожен депрессией",
             "web": "fb2",
+            "year": "2017",
             "buyDate": "8/9/21",
             "price": "317",
-            "shelf": "heig",
+            "publisher": "Эксмо",
+            "shelf": "eksmo heig",
             "img": "https://s1.livelib.ru/boocover/1002574235/o/0bd8/Mett_Hejg__Vlyubitsya_v_zhizn._Kak_nauchitsya_zhit_snova_kogda_ty_pochti_unichto.jpeg"
+        },
+        {
+            "author": "Мэтт Хейг",
+            "book": "Планета нервных. Как жить в мире процветающей паники",
+            "web": "fb2",
+            "year": "2021",
+            "buyDate": "7/16/21",
+            "readDate": "8/17/21",
+            "price": "337",
+            "publisher": "Livebook",
+            "shelf": "heig livebook 2021",
+            "img": "https://s1.livelib.ru/boocover/1003237221/o/309f/Mett_Hejg__Planeta_nervnyh_Kak_zhit_v_mire_protsvetayuschej_paniki.jpeg"
         },
         {
             "author": "Мэтт Хейг",
@@ -5050,6 +5151,90 @@
             "publisher": "Livebook",
             "shelf": "heig livebook 2022",
             "img": "https://s1.livelib.ru/boocover/1007126536/o/66bf/Mett_Hejg__Komfortnaya_kniga.jpeg"
+        },
+        {
+            "author": "Мэтт Хейг",
+            "book": "Последнее семейство в Англии",
+            "web": "fb2",
+            "year": "2020",
+            "buyDate": "7/16/21",
+            "readDate": "10/27/21",
+            "price": "344",
+            "publisher": "Livebook",
+            "shelf": "heig livebook animals 2020",
+            "img": "https://s1.livelib.ru/boocover/1003277092/o/7afa/Mett_Hejg__Poslednee_semejstvo_v_Anglii.jpeg"
+        },
+        {
+            "author": "Мэтт Хейг",
+            "book": "Клуб призрачных отцов",
+            "web": "fb2",
+            "year": "2021",
+            "buyDate": "7/16/21",
+            "price": "437",
+            "publisher": "Livebook",
+            "shelf": "heig livebook 2021",
+            "img": "https://media.b-stock.ru/gallery/3323576.jpeg"
+        },
+        {
+            "author": "Мэтт Хейг",
+            "book": "Собственность мистера Кейва",
+            "year": "2020",
+            "buyDate": "7/16/21",
+            "price": "337",
+            "publisher": "Livebook",
+            "shelf": "heig livebook 2020",
+            "img": "https://s1.livelib.ru/boocover/1003625321/o/e444/Mett_Hejg__Sobstvennost_mistera_Kejva.jpeg"
+        },
+        {
+            "author": "Мэтт Хейг",
+            "book": "Люди и я",
+            "web": "fb2",
+            "year": "2014",
+            "publisher": "Синдбад",
+            "shelf": "heig sindbad wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000989463/o/fcf5/Mett_Hejg__Lyudi_i_ya.jpeg"
+        },
+        {
+            "author": "Мэтт Хейг",
+            "book": "Трудно быть человеком",
+            "web": "fb2",
+            "year": "2018",
+            "buyDate": "7/16/21",
+            "readDate": "10/24/21",
+            "price": "372",
+            "publisher": "Синдбад",
+            "shelf": "heig sindbad",
+            "img": "https://s1.livelib.ru/boocover/1002884725/o/99a2/Mett_Hejg__Trudno_byt_chelovekom.jpeg"
+        },
+        {
+            "author": "Мэтт Хейг",
+            "book": "Как остановить время",
+            "web": "fb2",
+            "year": "2019",
+            "buyDate": "7/16/21",
+            "price": "448",
+            "publisher": "Синдбад",
+            "shelf": "heig sindbad",
+            "img": "https://s1.livelib.ru/boocover/1002891308/o/2309/Mett_Hejg__Kak_ostanovit_vremya.jpeg"
+        },
+        {
+            "author": "Мэтт Хейг",
+            "book": "Полночная библиотека",
+            "web": "fb2",
+            "year": "2020",
+            "buyDate": "2/3/21",
+            "readDate": "7/12/21",
+            "price": "297.31",
+            "publisher": "Livebook",
+            "shelf": "heig livebook bookstore 2020",
+            "img": "https://s1.livelib.ru/boocover/1005540079/o/7c5f/Mett_Hejg__Polnochnaya_biblioteka.jpeg"
+        },
+        {
+            "author": "Мэтт Хейг",
+            "book": "Tales of Connection",
+            "year": "2021",
+            "shelf": "heig wishlist",
+            "img": "https://assets.lastdodo.com/image/ld_large/plain/assets/catalog/assets/2021/12/3/f/2/9/pdf_f292890e-545a-11ec-97f7-8d4ee5fcda5f.jpg"
         },
         {
             "author": "Кэтти Гласс",
@@ -6002,6 +6187,7 @@
             "id": "50",
             "author": "Джона Лерер",
             "book": "Как мы принимаем решения",
+            "web": "fb2",
             "year": "2010",
             "buyDate": "11/20/20",
             "price": "387.67",
@@ -7261,6 +7447,7 @@
             "id": "178",
             "author": "Джастин Халперн",
             "book": "Пи*ец, сказал отец",
+            "web": "fb2",
             "year": "2012",
             "readDate": "6/22/21",
             "publisher": "Corpus",
@@ -7491,6 +7678,7 @@
             "id": "201",
             "author": "Давид Фонкинос",
             "book": "Леннон",
+            "web": "fb2",
             "year": "2012",
             "buyDate": "8/3/20",
             "readDate": "9/14/21",
@@ -8010,6 +8198,7 @@
             "id": "255",
             "author": "Ася Казанцева",
             "book": "Кто бы мог подумать! Как мозг заставляет нас делать глупости",
+            "web": "fb2",
             "year": "2014",
             "buyDate": "7/22/14",
             "price": "390",
@@ -8157,6 +8346,7 @@
             "id": "270",
             "author": "Аньес Мартен-Люган",
             "book": "Счастливые люди читают книжки и пьют кофе",
+            "web": "fb2",
             "year": "2014",
             "buyDate": "7/22/14",
             "readDate": "11/24/21",
@@ -8256,6 +8446,7 @@
             "id": "280",
             "author": "Евгений Морозов",
             "book": "Интернет как иллюзия. Обратная сторона сети",
+            "web": "fb2",
             "year": "2014",
             "buyDate": "7/27/20",
             "price": "96",
@@ -8294,6 +8485,7 @@
             "id": "284",
             "author": "Паоло Джордано",
             "book": "Одиночество простых чисел",
+            "web": "fb2",
             "year": "2014",
             "buyDate": "7/29/20",
             "price": "286",
@@ -8466,6 +8658,7 @@
             "id": "301",
             "author": "Донна Тартт",
             "book": "Тайная история",
+            "web": "mp3 fb2",
             "year": "2014",
             "buyDate": "9/19/20",
             "readDate": "2/11/22",
@@ -8478,6 +8671,7 @@
             "id": "302",
             "author": "Донна Тартт",
             "book": "Щегол",
+            "web": "mp3 fb2",
             "year": "2014",
             "buyDate": "9/19/20",
             "readDate": "3/17/22",
@@ -8933,7 +9127,7 @@
             "id": "348",
             "author": "Донна Тартт",
             "book": "Маленький друг",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2015",
             "buyDate": "9/21/20",
             "readDate": "2/28/22",
@@ -8957,6 +9151,7 @@
             "id": "350",
             "author": "Дэниел Гоулман",
             "book": "Фокус. О внимании, рассеянности и жизненном успехе",
+            "web": "fb2",
             "year": "2015",
             "buyDate": "11/9/15",
             "price": "481",
@@ -9028,6 +9223,7 @@
             "id": "357",
             "author": "Жан-Поль Дидьелоран",
             "book": "Утренний чтец",
+            "web": "mp3 fb2",
             "year": "2016",
             "buyDate": "7/23/20",
             "readDate": "2/23/22",
@@ -9076,6 +9272,7 @@
             "id": "362",
             "author": "Ася Казанцева",
             "book": "В интернете кто-то неправ! Научные исследования спорных вопросов",
+            "web": "fb2",
             "year": "2016",
             "publisher": "Corpus",
             "shelf": "corpus elements evolution kazantseva",
@@ -9612,6 +9809,7 @@
             "id": "418",
             "author": "Аньес Мартен-Люган",
             "book": "Извини, меня ждут...",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "2/9/17",
             "readDate": "12/6/21",
@@ -10046,6 +10244,7 @@
             "id": "462",
             "author": "Аньес Мартен-Люган",
             "book": "Ты слышишь нашу музыку?",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "12/24/17",
             "readDate": "12/10/21",
@@ -10521,6 +10720,7 @@
             "id": "509",
             "author": "Франсуа-Анри Дезерабль",
             "book": "Некий господин Пекельный",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "9/29/20",
             "readDate": "12/25/20",
@@ -10686,6 +10886,7 @@
             "id": "526",
             "author": "Аньес Мартен-Люган",
             "book": "Однажды я станцую для тебя",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "7/22/19",
             "readDate": "12/14/21",
@@ -11145,6 +11346,7 @@
             "id": "573",
             "author": "Роджер Мурхаус",
             "book": "Дьявольский союз. Пакт Гитлера - Сталина 1939-1941",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Corpus",
             "shelf": "corpus wishlist 2020",
@@ -11154,6 +11356,7 @@
             "id": "574",
             "author": "Ханс Рослинг",
             "book": "Фактологичность. Десять причин наших заблуждений о мире - и почему все не так плохо, как кажется",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "9/29/20",
             "price": "480",
@@ -11165,6 +11368,7 @@
             "id": "575",
             "author": "Мартин О Кайнь",
             "book": "Грязь кладбищенская",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Corpus",
             "shelf": "corpus wishlist 2020",
@@ -11174,6 +11378,7 @@
             "id": "576",
             "author": "Джеффри Миллер",
             "book": "Соблазняющий разум. Как выбор сексуального партнера повлиял на эволюцию человеческой природы",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Corpus",
             "shelf": "corpus evolution wishlist 2020",
@@ -11193,6 +11398,7 @@
             "id": "578",
             "author": "Эрик Хобсбаум",
             "book": "Эпоха крайностей. Короткий двадцатый век (1914-1991)",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Corpus",
             "shelf": "corpus wishlist 2020",
@@ -11202,6 +11408,7 @@
             "id": "579",
             "author": "Аньес Мартен-Люган",
             "book": "Мы не могли разминуться",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "6/15/20",
             "readDate": "12/18/21",
@@ -11342,6 +11549,7 @@
             "id": "594",
             "author": "Виталий Шкляров и Анджей Беловранин",
             "book": "Мир, поставленный на паузу",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "7/12/20",
             "readDate": "7/15/20",
@@ -11819,6 +12027,7 @@
             "id": "637",
             "author": "Крис Фрит",
             "book": "Мозг и душа. Как нервная деятельность формирует наш внутренний мир",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus elements2 zimin frit wishlist 2021",
@@ -12559,7 +12768,7 @@
             "author": "Одед Галор",
             "book": "Путь человечества. Истоки богатства и неравенства",
             "year": "2022",
-            "buyDate": "10/6/22",
+            "buyDate": "10/3/22",
             "price": "594",
             "publisher": "Corpus",
             "shelf": "corpus 2022",
@@ -12821,7 +13030,7 @@
             "author": "Юлия Бедерова, Лев Ганкин, Анна Сокольская и Максима Семеляка",
             "book": "Книга о музыке",
             "year": "2022",
-            "buyDate": "10/6/22",
+            "buyDate": "10/3/22",
             "price": "1855",
             "publisher": "Corpus",
             "shelf": "corpus music 2022",
@@ -14823,6 +15032,7 @@
             "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "9/28/22",
+            "readDate": "10/5/22",
             "price": "253",
             "publisher": "Азбука",
             "shelf": "azbuka 2022",
@@ -14877,6 +15087,32 @@
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif rodki 2022",
             "img": "https://s1.livelib.ru/boocover/1007389384/o/5985/Dzheff_Rodki__Nezemlyane.jpeg"
+        },
+        {
+            "author": "Tracy Dobmeier, Wendy Katzman",
+            "book": "Girl with Bright Futures",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist new 2022",
+            "img": "https://media1.popsugar-assets.com/files/thumbor/pq_HtP6yPMA5iF1Fw8QrVbW6CSU/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2021/01/23/233/n/43611095/3ce29f84576ed74d_81qvGHnjvsL/i/Girls-With-Bright-Futures-by-Tracy-Dobmeier-Wendy-Katzman.jpg"
+        },
+        {
+            "author": "Али Новак",
+            "book": "Моя жизнь с мальчиками Уолтер",
+            "year": "2022",
+            "buyDate": "11/30/22",
+            "price": "499",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif 2022",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/38/27938/1.00x-thumb.png"
+        },
+        {
+            "book": "Вы найдете это в библиотеке",
+            "year": "2022",
+            "buyDate": "11/30/22",
+            "price": "543",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif bookstore 2022"
         },
         {
             "author": "Шон Байтелл",
@@ -15018,6 +15254,7 @@
         {
             "author": "Джейсон Фанг",
             "book": "Код ожирения. Глобальное медицинское исследование о том, как подсчет калорий, увеличение активности",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "7/21/20",
             "readDate": "8/2/20",
@@ -15874,7 +16111,7 @@
             "book": "Канцлер. История жизни Ангелы Меркель",
             "year": "2022",
             "publisher": "Бомбора",
-            "shelf": "bombora merkel politics wishlist new 2022",
+            "shelf": "bombora merkel politics wishlist 2022",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001260737/COVER/cover1__w820.jpg"
         },
         {
@@ -16190,6 +16427,14 @@
             "publisher": "АСТ",
             "shelf": "ast puzzle 2022",
             "img": "https://s1.livelib.ru/boocover/1007316397/o/fab9/Sara_Denzil__Bezmolvnoe_ditya.jpeg"
+        },
+        {
+            "author": "Эйми Моллой",
+            "book": "Спокойной ночи, красавчик",
+            "year": "2022",
+            "publisher": "АСТ",
+            "shelf": "ast puzzle wishlist new 2022",
+            "img": "https://s1.livelib.ru/boocover/1007545645/o/3198/Ejmi_Molloj__Spokojnoj_nochi_krasavchik.jpeg"
         },
         {
             "author": "Карен Дюкесс",
@@ -20067,7 +20312,8 @@
             "book": "Айзек и яйцо",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria novel wishlist 2022"
+            "shelf": "eksmo inspiria novel wishlist 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001140231/COVER/cover1__w820.jpg"
         },
         {
             "author": "Долли Ольдертон",
@@ -21258,32 +21504,6 @@
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif mcdonnell wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007086306/o/343a/Kuiv_Makdonnell__Angelskaya_rabotjonka.jpeg"
-        },
-        {
-            "author": "Tracy Dobmeier, Wendy Katzman",
-            "book": "Girl with Bright Futures",
-            "year": "2022",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist new 2022",
-            "img": "https://media1.popsugar-assets.com/files/thumbor/pq_HtP6yPMA5iF1Fw8QrVbW6CSU/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2021/01/23/233/n/43611095/3ce29f84576ed74d_81qvGHnjvsL/i/Girls-With-Bright-Futures-by-Tracy-Dobmeier-Wendy-Katzman.jpg"
-        },
-        {
-            "author": "Али Новак",
-            "book": "Моя жизнь с мальчиками Уолтер",
-            "year": "2022",
-            "buyDate": "11/30/22",
-            "price": "499",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif 2022",
-            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/38/27938/1.00x-thumb.png"
-        },
-        {
-            "book": "Вы найдете это в библиотеке",
-            "year": "2022",
-            "buyDate": "11/30/22",
-            "price": "543",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif bookstore 2022"
         },
         {
             "author": "Карина Ян Глейзер",
