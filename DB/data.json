@@ -88,6 +88,7 @@
         {
             "author": "Евгений Гришковец",
             "book": "151 эпиод ЖЖизни",
+            "web": "fb2",
             "year": "2011",
             "shelf": "grishkovets",
             "img": "https://cv9.litres.ru/pub/c/elektronnaya-kniga/cover_415/606995--.jpg"
@@ -886,7 +887,7 @@
             "book": "Библиотека выживания",
             "year": "2022",
             "buyDate": "10/31/22",
-            "price": "531",
+            "price": "429",
             "publisher": "Metamorphoses",
             "shelf": "begbeder 2022",
             "img": "https://s1.livelib.ru/boocover/1007489332/o/b221/Frederik_Begbeder__Biblioteka_vyzhivaniya.jpeg"
@@ -2459,7 +2460,7 @@
             "buyDate": "12/24/20",
             "price": "279",
             "publisher": "Азбука",
-            "shelf": "fonkinos",
+            "shelf": "azbuka fonkinos",
             "img": "https://img-gorod.ru/27/859/2785911_detail.jpg"
         },
         {
@@ -2469,7 +2470,7 @@
             "buyDate": "12/21/20",
             "price": "218.68",
             "publisher": "Азбука",
-            "shelf": "fonkinos",
+            "shelf": "azbuka fonkinos",
             "img": "https://cdn1.ozone.ru/multimedia/wc1200/1029313981.jpg"
         },
         {
@@ -2480,7 +2481,8 @@
             "buyDate": "5/14/21",
             "readDate": "5/19/21",
             "price": "266",
-            "shelf": "fonkinos",
+            "publisher": "Азбука",
+            "shelf": "azbuka fonkinos",
             "img": "https://s1.livelib.ru/boocover/1001516643/o/8908/David_Fonkinos__Sharlotta.jpeg"
         },
         {
@@ -2491,7 +2493,8 @@
             "buyDate": "5/4/21",
             "readDate": "5/16/21",
             "price": "422",
-            "shelf": "fonkinos bookstore",
+            "publisher": "Азбука",
+            "shelf": "azbuka fonkinos bookstore",
             "img": "https://s1.livelib.ru/boocover/1002591684/o/900b/David_Fonkinos__Tajna_Anri_Pika.jpeg"
         },
         {
@@ -2502,7 +2505,7 @@
             "readDate": "5/3/22",
             "price": "330",
             "publisher": "Азбука",
-            "shelf": "fonkinos 2022",
+            "shelf": "azbuka fonkinos 2022",
             "img": "https://cdn.azbooka.ru/cv/w1100/21689978-8494-44c2-a66c-3ccb5bc20362.jpg"
         },
         {
@@ -4026,6 +4029,59 @@
             "img": "https://s1.livelib.ru/boocover/1007539522/o/c980/Masha_Traub__Kot_Tihon_ili_Pohischenie_Gollandtsa.jpeg"
         },
         {
+            "book": "Истории любви",
+            "year": "2008",
+            "buyDate": "4/20/12",
+            "price": "149",
+            "shelf": "traub",
+            "img": "https://s1.livelib.ru/boocover/1001477802/o/a546/__Istorii_lyubvi_sbornik.jpeg"
+        },
+        {
+            "book": "Современные рассказы о любви. Привычка жениться",
+            "buyDate": "7/1/15",
+            "price": "181",
+            "shelf": "traub",
+            "img": "https://s1.livelib.ru/boocover/1000999215/o/fec6/__Sovremennye_rasskazy_o_lyubvi._Privychka_zhenitsya_sbornik.jpeg"
+        },
+        {
+            "book": "Современные рассказы о любви. Адюльтер",
+            "buyDate": "7/1/15",
+            "price": "164",
+            "shelf": "traub",
+            "img": "https://s1.livelib.ru/boocover/1000999971/o/d870/__Sovremennye_rasskazy_o_lyubvi._Adyulter_sbornik.jpeg"
+        },
+        {
+            "book": "Современные рассказы о любви. Уж замуж",
+            "buyDate": "7/1/15",
+            "price": "164",
+            "shelf": "traub",
+            "img": "https://s1.livelib.ru/boocover/1001046845/o/44d7/__Sovremennye_rasskazy_o_lyubvi._Uzh_zamuzh_sbornik.jpeg"
+        },
+        {
+            "book": "Мама тебя любит, а ты её бесишь!",
+            "year": "2016",
+            "buyDate": "11/28/16",
+            "price": "157",
+            "shelf": "traub",
+            "img": "https://cv3.litres.ru/pub/c/elektronnaya-kniga/cover_415/21163933-mariya-metlickaya-mama-tebya-lubit-a-ty-ee-besish.jpg"
+        },
+        {
+            "book": "Любовь, или Моя семья",
+            "year": "2015",
+            "buyDate": "10/13/15",
+            "price": "193",
+            "shelf": "traub",
+            "img": "https://s1.livelib.ru/boocover/1001419200/o/6a9d/Antologiya__Lyubov_ili_Moya_semya.jpeg"
+        },
+        {
+            "book": "Первая любовь",
+            "year": "2015",
+            "buyDate": "11/26/15",
+            "price": "223",
+            "shelf": "traub",
+            "img": "https://cv8.litres.ru/pub/c/elektronnaya-kniga/cover_415/11293888-mariya-metlickaya-pervaya-lubov.jpg"
+        },
+        {
             "author": "Маша Трауб",
             "book": "Русский язык с Машей Трауб",
             "year": "2020",
@@ -4107,59 +4163,6 @@
             "img": "https://cdn.ast.ru/v2/ASE000000000865277/COVER/cover1__w600.jpg"
         },
         {
-            "book": "Истории любви",
-            "year": "2008",
-            "buyDate": "4/20/12",
-            "price": "149",
-            "shelf": "traub",
-            "img": "https://s1.livelib.ru/boocover/1001477802/o/a546/__Istorii_lyubvi_sbornik.jpeg"
-        },
-        {
-            "book": "Современные рассказы о любви. Привычка жениться",
-            "buyDate": "7/1/15",
-            "price": "181",
-            "shelf": "traub",
-            "img": "https://s1.livelib.ru/boocover/1000999215/o/fec6/__Sovremennye_rasskazy_o_lyubvi._Privychka_zhenitsya_sbornik.jpeg"
-        },
-        {
-            "book": "Современные рассказы о любви. Адюльтер",
-            "buyDate": "7/1/15",
-            "price": "164",
-            "shelf": "traub",
-            "img": "https://s1.livelib.ru/boocover/1000999971/o/d870/__Sovremennye_rasskazy_o_lyubvi._Adyulter_sbornik.jpeg"
-        },
-        {
-            "book": "Современные рассказы о любви. Уж замуж",
-            "buyDate": "7/1/15",
-            "price": "164",
-            "shelf": "traub",
-            "img": "https://s1.livelib.ru/boocover/1001046845/o/44d7/__Sovremennye_rasskazy_o_lyubvi._Uzh_zamuzh_sbornik.jpeg"
-        },
-        {
-            "book": "Мама тебя любит, а ты её бесишь!",
-            "year": "2016",
-            "buyDate": "11/28/16",
-            "price": "157",
-            "shelf": "traub",
-            "img": "https://cv3.litres.ru/pub/c/elektronnaya-kniga/cover_415/21163933-mariya-metlickaya-mama-tebya-lubit-a-ty-ee-besish.jpg"
-        },
-        {
-            "book": "Любовь, или Моя семья",
-            "year": "2015",
-            "buyDate": "10/13/15",
-            "price": "193",
-            "shelf": "traub",
-            "img": "https://s1.livelib.ru/boocover/1001419200/o/6a9d/Antologiya__Lyubov_ili_Moya_semya.jpeg"
-        },
-        {
-            "book": "Первая любовь",
-            "year": "2015",
-            "buyDate": "11/26/15",
-            "price": "223",
-            "shelf": "traub",
-            "img": "https://cv8.litres.ru/pub/c/elektronnaya-kniga/cover_415/11293888-mariya-metlickaya-pervaya-lubov.jpg"
-        },
-        {
             "author": "Евгений Чеширко",
             "book": "Дневник домового",
             "buyDate": "1/16/17",
@@ -4194,7 +4197,7 @@
         },
         {
             "author": "Алексей Леонов",
-            "book": "Время первых. Судьба моя – я сам…",
+            "book": "Время первых. Судьба моя - я сам…",
             "web": "fb2",
             "year": "2017",
             "buyDate": "4/28/17",
@@ -8201,6 +8204,7 @@
             "web": "fb2",
             "year": "2014",
             "buyDate": "7/22/14",
+            "readDate": "10/7/22",
             "price": "390",
             "publisher": "Corpus",
             "shelf": "corpus elements kazantseva",
@@ -8220,6 +8224,7 @@
             "id": "257",
             "author": "Курт Ауст",
             "book": "Судный день",
+            "web": "fb2",
             "year": "2014",
             "publisher": "Corpus",
             "shelf": "corpus secret-corpus wishlist",
@@ -8294,6 +8299,7 @@
             "id": "265",
             "author": "Алексис Лекей",
             "book": "Червонная дама",
+            "web": "fb2",
             "year": "2014",
             "publisher": "Corpus",
             "shelf": "corpus secret-corpus wishlist",
@@ -8368,6 +8374,7 @@
             "id": "272",
             "author": "Курт Ауст",
             "book": "Второй после Бога",
+            "web": "fb2",
             "year": "2014",
             "publisher": "Corpus",
             "shelf": "corpus secret-corpus wishlist",
@@ -8417,6 +8424,7 @@
             "id": "277",
             "author": "Алексис Лекей",
             "book": "Дама пик",
+            "web": "fb2",
             "year": "2014",
             "publisher": "Corpus",
             "shelf": "corpus secret-corpus wishlist",
@@ -8598,6 +8606,7 @@
             "id": "295",
             "author": "Доминик Сильвен",
             "book": "Грязная война",
+            "web": "fb2",
             "year": "2014",
             "buyDate": "7/24/20",
             "price": "170",
@@ -9075,7 +9084,7 @@
             "buyDate": "7/23/20",
             "price": "188",
             "publisher": "Corpus",
-            "shelf": "corpus",
+            "shelf": "corpus sorrentino",
             "img": "https://www.corpus.ru/picts/products/sorrentino-1000.jpg"
         },
         {
@@ -9932,6 +9941,7 @@
             "id": "430",
             "author": "Доминик Сильвен",
             "book": "Тени и солнце",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "7/27/20",
             "price": "96",
@@ -10308,7 +10318,7 @@
             "book": "Не самое главное",
             "year": "2018",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
+            "shelf": "corpus sorrentino wishlist",
             "img": "https://www.corpus.ru/picts/products/Sorrentino-Ne-samoe-vazhnoe-1000.jpg"
         },
         {
@@ -11888,7 +11898,7 @@
             "readDate": "3/17/21",
             "price": "346",
             "publisher": "Corpus",
-            "shelf": "corpus 2021",
+            "shelf": "corpus boman 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-agatha.jpg"
         },
         {
@@ -12076,7 +12086,7 @@
             "buyDate": "6/26/21",
             "price": "419",
             "publisher": "Corpus",
-            "shelf": "corpus 2021",
+            "shelf": "corpus tuile 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-tuil.jpg"
         },
         {
@@ -13050,7 +13060,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus elements2 graims wishlist 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000868951/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-grimes-new.jpg"
         },
         {
             "author": "Гвидо Тонелли",
@@ -13066,7 +13076,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000862025/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-hodasevich.jpg"
         },
         {
             "author": "Амели Нотомб",
@@ -13074,15 +13084,55 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus notomb wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000864306/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover-aerostaty.jpg"
         },
         {
+            "author": "Анне Катрине Боман",
+            "book": "Агата",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus boman wishlist 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000869241/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Ниал Фергюсон",
+            "book": "Восхождение денег",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus nial wishlist 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000869242/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Паоло Соррентино",
+            "book": "Молодость",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus sorrentino wishlist 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000869243/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Карин Тюиль",
+            "book": "Дела человеческие",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus tuile wishlist new 2022"
+        },
+        {
+            "author": "Уолтер Айзексон",
+            "book": "Взломавшая код",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus izakson wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000860083/COVER/cover1__w600.jpg"
+        },
+        {
+            "id": "741",
             "author": "Дженнифер Сэйнт",
             "book": "Ариадна",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist new 2022",
-            "img": "https://www.corpus.ru/picts/news/93_20211102225137ariadne-31.jpg"
+            "img": "https://cdn.ast.ru/v2/ASE000000000860081/COVER/cover1__w600.jpg"
         },
         {
             "author": "Джон Ле Карре",
@@ -13204,12 +13254,25 @@
         },
         {
             "id": "n",
-            "author": "Тьерри Янсен",
-            "book": "Испытание болезнью. Как победить рак груди",
+            "author": "Виктор Шендерович",
+            "book": "Операция «Остров»",
             "year": "2010",
+            "buyDate": "8/5/20",
+            "price": "212",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
-            "img": "https://s1.livelib.ru/boocover/1000433668/o/8f36/Terri_Yansen__Ispytanie_boleznyu._Kak_pobedit_rak_grudi.jpeg"
+            "shelf": "corpus shenderovich",
+            "img": "https://www.corpus.ru/picts/products/Shenderovich-Ostrov-1000.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Виктор Шендерович",
+            "book": "Евроремонт",
+            "year": "2012",
+            "buyDate": "11/25/20",
+            "price": "327.71",
+            "publisher": "Corpus",
+            "shelf": "corpus shenderovich",
+            "img": "https://www.corpus.ru/picts/products/shenderovich-evroremont-1000.jpg"
         },
         {
             "id": "n",
@@ -13496,28 +13559,6 @@
         },
         {
             "id": "n",
-            "author": "Виктор Шендерович",
-            "book": "Операция «Остров»",
-            "year": "2010",
-            "buyDate": "8/5/20",
-            "price": "212",
-            "publisher": "Corpus",
-            "shelf": "corpus shenderovich",
-            "img": "https://www.corpus.ru/picts/products/Shenderovich-Ostrov-1000.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Виктор Шендерович",
-            "book": "Евроремонт",
-            "year": "2012",
-            "buyDate": "11/25/20",
-            "price": "327.71",
-            "publisher": "Corpus",
-            "shelf": "corpus shenderovich",
-            "img": "https://www.corpus.ru/picts/products/shenderovich-evroremont-1000.jpg"
-        },
-        {
-            "id": "n",
             "author": "Софи Оксанен",
             "book": "Когда исчезли Голуби",
             "year": "2014",
@@ -13529,6 +13570,18 @@
         },
         {
             "id": "n",
+            "author": "Арнальд Индридасон",
+            "book": "Пересыхающее озеро",
+            "web": "fb2",
+            "year": "2013",
+            "buyDate": "11/23/20",
+            "price": "289",
+            "publisher": "Corpus",
+            "shelf": "corpus indridason detective",
+            "img": "https://www.corpus.ru/picts/products/Indridason-Ozero-1000.jpg"
+        },
+        {
+            "id": "n",
             "author": "Роман Канушкин",
             "book": "Мальчик Пого",
             "year": "2012",
@@ -13537,17 +13590,6 @@
             "publisher": "Corpus",
             "shelf": "corpus children",
             "img": "https://www.corpus.ru/picts/products/Kanushkin-Pogo-1000.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Арнальд Индридасон",
-            "book": "Пересыхающее озеро",
-            "year": "2013",
-            "buyDate": "11/23/20",
-            "price": "289",
-            "publisher": "Corpus",
-            "shelf": "corpus indridason detective",
-            "img": "https://www.corpus.ru/picts/products/Indridason-Ozero-1000.jpg"
         },
         {
             "id": "n",
@@ -13579,28 +13621,6 @@
             "publisher": "Corpus",
             "shelf": "corpus children",
             "img": "https://www.corpus.ru/picts/products/Benni-Sirano-1000.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Ричард Докинз",
-            "book": "Расплетая радугу. Наука, заблуждения и потребность изумляться",
-            "year": "2020",
-            "buyDate": "9/29/20",
-            "price": "554",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/tnw239-cover-dawkins-raduga.jpg"
-        },
-        {
-            "id": "n",
-            "author": "Ричард Докинз",
-            "book": "Самое грандиозное шоу на Земле: доказательства эволюции",
-            "year": "2014",
-            "buyDate": "11/25/20",
-            "price": "449",
-            "publisher": "Corpus",
-            "shelf": "corpus",
-            "img": "https://www.corpus.ru/picts/products/dawkins-show-1000.jpg"
         },
         {
             "id": "n",
@@ -13683,6 +13703,7 @@
             "id": "n",
             "author": "Ричард Коэн",
             "book": "В погоне за Солнцем",
+            "web": "fb2",
             "year": "2013",
             "buyDate": "3/20/21",
             "price": "384.04",
@@ -15107,12 +15128,14 @@
             "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/38/27938/1.00x-thumb.png"
         },
         {
+            "author": "Митико Аояма",
             "book": "Вы найдете это в библиотеке",
             "year": "2022",
             "buyDate": "11/30/22",
             "price": "543",
             "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif bookstore 2022"
+            "shelf": "mif bookstore 2022",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/82/28382/1.00x-thumb.png"
         },
         {
             "author": "Шон Байтелл",
@@ -15462,9 +15485,35 @@
             "author": "Джон Дуглас и Джонни Додд",
             "book": "Проникнуть в мысли BTK. Подлинная история тридцатилетней охоты на жесточайшего серийного убийцу из Уичито",
             "web": "fb2",
+            "year": "2022",
             "publisher": "Бомбора",
-            "shelf": "bombora wishlist 2022",
+            "shelf": "bombora duglas btk wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007131735/o/3e41/__Proniknut_v_mysli_BTK._Podlinnaya_istoriya_tridtsatiletnej_ohoty_na_zhestochaj.jpeg"
+        },
+        {
+            "author": "Джон Дуглас и Марк Олшейкер",
+            "book": "Тень убийцы. Охота профайлера ФБР на серийного убийцу-расиста",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo duglas wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007142205/o/fc0d/__Ten_ubijtsy._Ohota_profajlera_FBR_na_serijnogo_ubijtsurasista.jpeg"
+        },
+        {
+            "author": "Джон Дуглас и Марк Олшейкер",
+            "book": "Почему они убивают. Как ФБР вычисляет серийных убийц",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo duglas wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007348549/o/0c61/__Pochemu_oni_ubivayut._Kak_FBR_vychislyaet_serijnyh_ubijts.jpeg"
+        },
+        {
+            "author": "Джон Дуглас и Марк Олшейкер",
+            "book": "Когда звонит убийца. Легендарный профайлер ФБР вычисляет маньяка в маленьком городке",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo duglas wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007431168/o/91c1/__Kogda_zvonit_ubijtsa._Legendarnyj_profajler_FBR_vychislyaet_manyaka_v_malenkom.jpeg"
         },
         {
             "author": "Билл Сэмюэл",
@@ -16023,6 +16072,15 @@
             "img": "https://cdn.azbooka.ru/cv/w1100/df64b7d7-243c-4004-bd36-1d6613df3163.jpg"
         },
         {
+            "author": "Осне Сейерстад",
+            "book": "Книготорговец из Кабула",
+            "web": "fb2",
+            "year": "2007",
+            "publisher": "Амфора",
+            "shelf": "booktore wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000272247/o/b2e6/Osne_Sejerstad__Knigotorgovets_iz_Kabula.jpeg"
+        },
+        {
             "author": "Карен Джой Фаулер",
             "book": "Книжный клуб Джейн Остен",
             "web": "fb2",
@@ -16099,6 +16157,7 @@
         {
             "author": "Кэти Мартон",
             "book": "Канцлер. История жизни Ангелы Меркель",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "9/11/22",
             "price": "650",
@@ -16437,14 +16496,70 @@
             "img": "https://s1.livelib.ru/boocover/1007545645/o/3198/Ejmi_Molloj__Spokojnoj_nochi_krasavchik.jpeg"
         },
         {
+            "author": "Уильям Крюгер",
+            "book": "Эта ласковая земля",
+            "year": "2021",
+            "publisher": "АСТ",
+            "shelf": "ast labirints wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005619600/o/038d/Uilyam_Kryuger__Eta_laskovaya_zemlya.jpeg"
+        },
+        {
+            "author": "Эрика Бауэрмайстер",
+            "book": "Хранительница ароматов",
+            "year": "2021",
+            "publisher": "АСТ",
+            "shelf": "ast labirints wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005654235/o/dc57/Erika_Bauermajster__Hranitelnitsa_aromatov.jpeg"
+        },
+        {
+            "author": "Джесс Лури",
+            "book": "Когда деревья молчат",
+            "year": "2021",
+            "publisher": "АСТ",
+            "shelf": "ast labirints wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005712636/o/a63f/Dzhess_Luri__Kogda_derevya_molchat.jpeg"
+        },
+        {
             "author": "Карен Дюкесс",
             "book": "Последняя книжная вечеринка",
             "year": "2021",
             "buyDate": "6/18/21",
             "price": "303",
             "publisher": "АСТ",
-            "shelf": "bookstore ast 2021",
+            "shelf": "bookstore ast labirints 2021",
             "img": "https://s1.livelib.ru/boocover/1005948199/o/6a34/Karen_Dyukess__Poslednyaya_knizhnaya_vecherinka.jpeg"
+        },
+        {
+            "author": "Бо Уокер",
+            "book": "Красная гора",
+            "year": "2021",
+            "publisher": "АСТ",
+            "shelf": "ast labirints wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006166404/o/86e1/Bo_Uoker__Krasnaya_gora.jpeg"
+        },
+        {
+            "author": "Чарльз Табб",
+            "book": "Ветви на воде",
+            "year": "2021",
+            "publisher": "АСТ",
+            "shelf": "ast labirints tabb wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006166410/o/44fc/Charlz_Tabb__Vetvi_na_vode.jpeg"
+        },
+        {
+            "author": "Дэвид Биро",
+            "book": "Волшебное пестрое море",
+            "year": "2021",
+            "publisher": "АСТ",
+            "shelf": "ast labirints wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006214605/o/8d40/Devid_Biro__Volshebnoe_pestroe_more.jpeg"
+        },
+        {
+            "author": "Чарльз Табб",
+            "book": "Найденные ветви",
+            "year": "2022",
+            "publisher": "АСТ",
+            "shelf": "ast labirints tabb wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007420545/o/03b3/Charlz_Tabb__Najdennye_vetvi.jpeg"
         },
         {
             "author": "Ким Мишель Ричардсон",
@@ -16814,7 +16929,7 @@
             "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria loft-modern-moment burzhuiskaya wishlist 2021",
+            "shelf": "eksmo inspiria loft-modern-moment burzhskaya wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1005634453/o/ad16/Kseniya_Burzhskaya__Moj_belyj.jpeg"
         },
         {
@@ -16853,11 +16968,11 @@
             "img": "https://s1.livelib.ru/boocover/1006841074/o/0624/Valerij_Pechejkin__Steklyannyj_chelovek_sbornik.jpeg"
         },
         {
-            "author": "Ксения Буржская",
+            "author": "eksmo inspiria loft-modern-moment burzhskaya wishlist 2021",
             "book": "Зверобой",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria loft-modern-moment burzhuiskaya wishlist 2022",
+            "shelf": "eksmo inspiria loft-modern-moment burzhskaya wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1006978102/o/a153/Kseniya_Burzhskaya__Zveroboj.jpeg"
         },
         {
@@ -17082,6 +17197,7 @@
         {
             "author": "Роберт Джонс",
             "book": "Пророки",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2022",
@@ -17116,7 +17232,8 @@
             "book": "Мой дорогой питомец",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria loft-modern wishlist 2022"
+            "shelf": "eksmo inspiria loft-modern reineveld wishlist 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001199842/COVER/cover1__w820.jpg"
         },
         {
             "author": "Калеб Азума Нельсон",
@@ -17135,12 +17252,12 @@
             "img": "https://s1.livelib.ru/boocover/1005524107/o/95e6/Bernardin_Evaristo__Devushka_zhenschina_inaya.jpeg"
         },
         {
-            "author": "Марике Рейневелд",
+            "author": "Марике Лукас Рейневелд",
             "book": "Неловкий вечер",
             "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria loft-buker wishlist 2020",
+            "shelf": "eksmo inspiria loft-buker reineveld wishlist 2020",
             "img": "https://s1.livelib.ru/boocover/1005524104/o/a156/Marike_Lukas_Rejneveld__Nelovkij_vecher.jpeg"
         },
         {
@@ -17164,7 +17281,7 @@
         {
             "author": "Авни Доши",
             "book": "Жженый сахар",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-buker wishlist 2021",
@@ -17193,6 +17310,7 @@
         {
             "author": "Цици Дангарембга",
             "book": "Безутешная плоть",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-buker wishlist 2021",
@@ -17241,6 +17359,7 @@
         {
             "author": "Софи Уорд",
             "book": "Любовь и другие мысленные эксперименты",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-buker wishlist 2022",
@@ -17259,7 +17378,7 @@
             "author": "Дэймон Гэлгут",
             "book": "Обещание",
             "year": "2022",
-            "buyDate": "10/14/22",
+            "buyDate": "10/7/22",
             "price": "353",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-buker 2022",
@@ -17286,7 +17405,8 @@
             "book": "Вечный свет",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria loft-buker wishlist 2022"
+            "shelf": "eksmo inspiria loft-buker wishlist 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001252116/COVER/cover1__w820.jpg"
         },
         {
             "author": "Жаклин Вудсон",
@@ -17505,6 +17625,7 @@
         },
         {
             "book": "Новый Декамерон. 29 новелл времен пандемии",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-culture wishlist 2022",
@@ -18326,6 +18447,7 @@
         {
             "author": "Лин Йоварт",
             "book": "Молчаливая слушательница",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria wishlist tok-crime-fiction 2022",
@@ -18447,7 +18569,8 @@
             "book": "Осколки прошлого",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok wishlist sloter 2022"
+            "shelf": "eksmo inspiria tok wishlist sloter 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001204951/COVER/cover1__w820.jpg"
         },
         {
             "author": "Натали Дэниелс",
@@ -18550,6 +18673,7 @@
         {
             "author": "Дебби Херберт",
             "book": "Не лги мне",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2022",
@@ -18592,6 +18716,7 @@
         {
             "author": "Джей Ди Кирк",
             "book": "Куча костей",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2022",
@@ -18632,6 +18757,7 @@
         {
             "author": "Тереза Дрисколл",
             "book": "Ужас по средам",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-britain driskoll wishlist 2022",
@@ -18685,6 +18811,7 @@
             "book": "Единственный ребенок",
             "web": "mp3 fb2",
             "year": "2021",
+            "readDate": "9/11/22",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-korea wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1005668347/o/9e67/So_Mie__Edinstvennyj_rebenok.jpeg"
@@ -18803,6 +18930,7 @@
             "book": "Хищный зверь",
             "web": "mp3 fb2",
             "year": "2022",
+            "readDate": "10/9/22",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-italy wishlist 2022",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001214074/COVER/cover1__w820.jpg"
@@ -18833,7 +18961,7 @@
         {
             "author": "Луи Байяр",
             "book": "Всевидящее око",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "8/4/22",
             "price": "385",
@@ -19295,6 +19423,7 @@
         {
             "author": "Франсуаза Бурден",
             "book": "Лед и пламя",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel burden wishlist 2022",
@@ -19422,6 +19551,7 @@
         {
             "author": "Джой Джордан-Лейк",
             "book": "Позолоченная луна",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
@@ -19574,7 +19704,7 @@
         {
             "author": "Трейси Гарвис-Грейвс",
             "book": "Девушка из его прошлого",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19605,7 +19735,7 @@
         {
             "author": "Тара Конклин",
             "book": "Последний романтик",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel konklin wishlist 2020",
@@ -19623,7 +19753,7 @@
         {
             "author": "Эмма Страуб",
             "book": "Здесь все взрослые",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19632,7 +19762,7 @@
         {
             "author": "Кирсти Мэннинг",
             "book": "Потерянные сокровища",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19668,7 +19798,7 @@
         {
             "author": "Тейлор Дженкинс Рейд",
             "book": "Дейзи Джонс & The Six",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2020",
@@ -19686,7 +19816,7 @@
         {
             "author": "Тереза Энн Фаулер",
             "book": "Хорошее соседство",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19695,7 +19825,7 @@
         {
             "author": "Тереза Энн Фаулер",
             "book": "Порядочная женщина",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19704,7 +19834,7 @@
         {
             "author": "Вера Арье",
             "book": "Весна умирает осенью",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19784,6 +19914,7 @@
         {
             "author": "Нэнси Чжуён Ким",
             "book": "Последняя история Мины Ли",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19801,7 +19932,7 @@
         {
             "author": "Марьян Камали",
             "book": "Маленький книжный магазинчик в Тегеране",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "10/3/21",
             "price": "355",
@@ -19812,7 +19943,7 @@
         {
             "author": "Алка Джоши",
             "book": "Художница из Джайпура",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19821,7 +19952,7 @@
         {
             "author": "Сара Пеннер",
             "book": "Тайная лавка ядов",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -19896,6 +20027,7 @@
         {
             "author": "Сьюзен Стокс-Чепмен",
             "book": "Пандора",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
@@ -20258,6 +20390,7 @@
         {
             "author": "Тина Макерети",
             "book": "Воображаемые жизни Джеймса Понеке",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
@@ -20334,7 +20467,8 @@
             "book": "Лето в Провансе",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria novel wishlist 2022"
+            "shelf": "eksmo inspiria novel wishlist 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001234143/COVER/cover1__w820.webp"
         },
         {
             "author": "Пис Аджо Медие",
@@ -20749,6 +20883,24 @@
             "img": "https://s1.livelib.ru/boocover/1005775594/o/a15a/Krejg_Dilui__Odin_iz_nas.jpeg"
         },
         {
+            "author": "Кристина Далчер",
+            "book": "Голос",
+            "web": "fb2",
+            "year": "2019",
+            "publisher": "Эксмо",
+            "shelf": "eksmo dalcher",
+            "img": "https://s1.livelib.ru/boocover/1002933495/o/f028/Kristina_Dalcher__Golos.jpeg"
+        },
+        {
+            "author": "Кристина Далчер",
+            "book": "Мастер-класс",
+            "web": "mp3 fb2",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum dalcher wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005961354/o/26cd/Kristina_Dalcher__Masterklass.jpeg"
+        },
+        {
             "author": "Эмили Сент-Джон Мандел",
             "book": "Станция одиннадцать",
             "web": "fb2",
@@ -20756,14 +20908,6 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1005948847/o/6f2b/Emili_SentDzhon_Mandel__Stantsiya_odinnadtsat.jpeg"
-        },
-        {
-            "author": "Кристина Далчер",
-            "book": "Мастер-класс",
-            "year": "2021",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria universum wishlist 2021",
-            "img": "https://s1.livelib.ru/boocover/1005961354/o/26cd/Kristina_Dalcher__Masterklass.jpeg"
         },
         {
             "author": "Констанс Сэйерс",
@@ -20777,6 +20921,7 @@
         {
             "author": "Констанс Сэйерс",
             "book": "Дамы тайного цирка",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum wishlist 2022",
@@ -20792,6 +20937,7 @@
         {
             "author": "Яна Летт",
             "book": "Отсутствие Анны",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum wishlist 2021",
@@ -20800,6 +20946,7 @@
         {
             "author": "Нора Робертс",
             "book": "Год первый",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum wishlist 2021",
@@ -20808,6 +20955,7 @@
         {
             "author": "Нора Робертс",
             "book": "От плоти и крови",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum wishlist 2021",
@@ -20816,6 +20964,7 @@
         {
             "author": "Нора Робертс",
             "book": "Расцвет магии",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum wishlist 2022",
@@ -20841,6 +20990,7 @@
         },
         {
             "book": "Вперед",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum wishlist 2021",
@@ -20849,6 +20999,7 @@
         {
             "author": "Лорен Бьюкес",
             "book": "Земля матерей",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum wishlist 2021",
@@ -20857,6 +21008,7 @@
         {
             "author": "Рена Баррон",
             "book": "Королевство душ",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum wishlist 2021",
@@ -20865,6 +21017,7 @@
         {
             "author": "Уна Харт",
             "book": "Когда запоют мертвецы",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum wishlist 2021",
@@ -20873,6 +21026,7 @@
         {
             "author": "Женевьева Горничек",
             "book": "Сердце Ведьмы",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum wishlist 2021",
@@ -20899,7 +21053,7 @@
         {
             "author": "Ирина Кавинская",
             "book": "Партия жертвы",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum wishlist 2022",
@@ -20910,14 +21064,15 @@
             "book": "Шлюзы",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria wishlist 2022"
+            "shelf": "eksmo inspiria air burzhskaya wishlist 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001292787/COVER/cover1__w820.jpg"
         },
         {
             "author": "Сильвия Плат",
             "book": "Ариэль",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria wishlist 2022"
+            "shelf": "eksmo inspiria air wishlist 2022"
         },
         {
             "author": "Андреас Грубер",
@@ -21104,6 +21259,7 @@
         {
             "author": "Элиф Шафак",
             "book": "Ученик архитектора",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Азбука",
             "shelf": "azbuka shafak wishlist 2022",
