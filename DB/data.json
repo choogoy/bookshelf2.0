@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -886,7 +886,7 @@
             "author": "Фредерик Бегбедер",
             "book": "Библиотека выживания",
             "year": "2022",
-            "buyDate": "10/31/22",
+            "buyDate": "10/12/22",
             "price": "429",
             "publisher": "Metamorphoses",
             "shelf": "begbeder 2022",
@@ -13135,6 +13135,13 @@
             "img": "https://cdn.ast.ru/v2/ASE000000000860081/COVER/cover1__w600.jpg"
         },
         {
+            "author": "Владимир Набоков",
+            "book": "Поэмы 1918-1947",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus nabokov wishlist new 2022"
+        },
+        {
             "author": "Джон Ле Карре",
             "book": "Silverview",
             "year": "2022",
@@ -16766,6 +16773,7 @@
         {
             "author": "Уильям Крюгер",
             "book": "Эта ласковая земля",
+            "web": "fb2",
             "year": "2021",
             "publisher": "АСТ",
             "shelf": "ast labirints wishlist 2021",
@@ -16782,6 +16790,7 @@
         {
             "author": "Джесс Лури",
             "book": "Когда деревья молчат",
+            "web": "fb2",
             "year": "2021",
             "publisher": "АСТ",
             "shelf": "ast labirints wishlist 2021",
@@ -16800,6 +16809,7 @@
         {
             "author": "Бо Уокер",
             "book": "Красная гора",
+            "web": "fb2",
             "year": "2021",
             "publisher": "АСТ",
             "shelf": "ast labirints wishlist 2021",
@@ -16808,6 +16818,7 @@
         {
             "author": "Чарльз Табб",
             "book": "Ветви на воде",
+            "web": "fb2",
             "year": "2021",
             "publisher": "АСТ",
             "shelf": "ast labirints tabb wishlist 2021",
@@ -17236,7 +17247,7 @@
             "img": "https://s1.livelib.ru/boocover/1006841074/o/0624/Valerij_Pechejkin__Steklyannyj_chelovek_sbornik.jpeg"
         },
         {
-            "author": "eksmo inspiria loft-modern-moment burzhskaya wishlist 2021",
+            "author": "Ксения Буржская",
             "book": "Зверобой",
             "year": "2022",
             "publisher": "Эксмо",
@@ -18350,7 +18361,7 @@
             "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok mystic-thriller 2022",
+            "shelf": "eksmo inspiria tok mystic-thriller wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1006553884/o/5142/Adam_Simkoks__Otryad_mjortvyh.jpeg"
         },
         {
@@ -18359,7 +18370,7 @@
             "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok mystic-thriller 2022",
+            "shelf": "eksmo inspiria tok mystic-thriller wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007141698/o/e1dd/Vivian_Barts__Zabytye_kosti.jpeg"
         },
         {
@@ -18368,7 +18379,7 @@
             "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok mystic-thriller 2022",
+            "shelf": "eksmo inspiria tok mystic-thriller wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007412517/o/55f4/Vendi_Vebb__Docheri_ozera.jpeg"
         },
         {
@@ -18376,7 +18387,7 @@
             "book": "Книга о бесценной субстанции",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok mystic-thriller 2022"
+            "shelf": "eksmo inspiria tok mystic-thriller wishlist 2022"
         },
         {
             "author": "Риа Фрай",
@@ -19242,6 +19253,7 @@
         {
             "author": "Стейси Уиллингхэм",
             "book": "Мерцание во тьме",
+            "web": "mp3",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-usa wishlist 2022",
@@ -19259,6 +19271,7 @@
             "book": "Чумной остров",
             "web": "mp3 fb2",
             "year": "2022",
+            "readDate": "10/14/22",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-sweden wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007106334/o/5500/Mari_Hermanson__Chumnoj_ostrov.jpeg"
