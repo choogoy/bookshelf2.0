@@ -14957,7 +14957,7 @@
             "author": "Мона Кастен",
             "book": "Снова мечтай. Книга 5",
             "year": "2022",
-            "buyDate": "10/31/22",
+            "buyDate": "10/16/22",
             "price": "275",
             "publisher": "Like Book",
             "shelf": "like-book kasten 2022",
@@ -15418,7 +15418,7 @@
             "author": "Али Новак",
             "book": "Моя жизнь с мальчиками Уолтер",
             "year": "2022",
-            "buyDate": "11/30/22",
+            "buyDate": "10/16/22",
             "price": "499",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif 2022",
@@ -17929,7 +17929,7 @@
         {
             "author": "Дэниел Киз",
             "book": "Элджернон, Чарли и я",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft kiz wishlist",
             "img": "https://s1.livelib.ru/boocover/1005622468/o/6d97/Deniel_Kiz__Eldzhernon_Charli_i_ya.jpeg"
@@ -17961,7 +17961,7 @@
         {
             "author": "Дэниел Киз",
             "book": "Цветы для Элджернона",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "publisher": "Эксмо",
             "shelf": "eksmo kiz wishlist",
             "img": "https://s1.livelib.ru/boocover/1007030176/o/ea47/Deniel_Kiz__Tsvety_dlya_Eldzhernona.jpeg"
@@ -18735,13 +18735,6 @@
             "img": "https://s1.livelib.ru/boocover/1007460829/o/29f9/Lin_Jovart__Molchalivaya_slushatelnitsa.jpeg"
         },
         {
-            "author": "Джейсон Мосберг",
-            "book": "Моя грязная Калифорния",
-            "year": "2022",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria wishlist tok-crime-fiction 2022"
-        },
-        {
             "author": "Иван Филиппов",
             "book": "Тень",
             "web": "mp3",
@@ -19193,6 +19186,7 @@
             "book": "Безмолвная",
             "web": "mp3 fb2",
             "year": "2021",
+            "readDate": "10/18/22",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-poland wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1006002439/o/00bd/Remigiush_Mruz__Bezmolvnaya.jpeg"
@@ -19262,6 +19256,14 @@
         {
             "author": "Алекс Финли",
             "book": "Все до последнего страхи",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria tok-usa wishlist 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001239240/COVER/cover1__w820.webp"
+        },
+        {
+            "author": "Джейсон Мосберг",
+            "book": "Моя грязная Калифорния",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-usa wishlist 2022"
