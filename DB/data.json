@@ -1,4 +1,4 @@
-﻿{
+{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -2659,8 +2659,10 @@
             "author": "Салли Руни",
             "book": "Прекрасный мир, где же ты",
             "year": "2022",
+            "buyDate": "11/30/22",
+            "price": "618",
             "publisher": "Синдбад",
-            "shelf": "runi sindbad wishlist new 2022",
+            "shelf": "runi sindbad 2022",
             "img": "https://s1.livelib.ru/boocover/1006912807/o/a419/Salli_Runi__Prekrasnyj_mir_gde_zhe_ty.jpeg"
         },
         {
@@ -5724,6 +5726,7 @@
             "id": "4",
             "author": "Хуан Рульфо",
             "book": "Педро Парамо. Равнина в огне",
+            "web": "fb2",
             "year": "2009",
             "publisher": "Corpus",
             "shelf": "corpus wishlist",
@@ -6033,6 +6036,7 @@
             "id": "35",
             "author": "Крез",
             "book": "Я - аферист. Признания банкира",
+            "web": "fb2",
             "year": "2010",
             "buyDate": "7/23/20",
             "price": "182",
@@ -10184,7 +10188,7 @@
             "id": "455",
             "author": "Ханья Янагихара",
             "book": "Люди среди деревьев",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2017",
             "buyDate": "9/23/20",
             "price": "446.5",
@@ -10487,6 +10491,7 @@
             "id": "486",
             "author": "Гаэль Фай",
             "book": "Маленькая страна",
+            "web": "fb2",
             "year": "2018",
             "buyDate": "8/28/20",
             "price": "231",
@@ -10550,6 +10555,7 @@
             "id": "492",
             "author": "Кристин Фере-Флери",
             "book": "Девушка, которая читала в метро",
+            "web": "fb2",
             "year": "2018",
             "buyDate": "2/25/19",
             "readDate": "2/20/22",
@@ -10836,6 +10842,7 @@
             "id": "520",
             "author": "Орели Валонь",
             "book": "У нас все дома",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "7/23/20",
             "price": "341",
@@ -10856,6 +10863,7 @@
             "id": "522",
             "author": "Сергей Плохий",
             "book": "Человек, стрелявший ядом История одного шпиона времен холодной войны",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "5/26/21",
             "price": "574",
@@ -10885,6 +10893,7 @@
             "id": "525",
             "author": "Петр Талантов",
             "book": "0,05. Доказательная медицина от магии до поисков бессмертия",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "9/29/20",
             "price": "501",
@@ -10909,6 +10918,7 @@
             "id": "527",
             "author": "Майкл Каннингем",
             "book": "Дом на краю света",
+            "web": "fb2",
             "year": "2019",
             "publisher": "Corpus",
             "shelf": "corpus cunningem wishlist",
@@ -10918,6 +10928,7 @@
             "id": "528",
             "author": "Маттиас Фалдбаккен",
             "book": "Ресторан «Хиллс»",
+            "web": "fb2",
             "year": "2019",
             "buyDate": "7/21/20",
             "price": "388",
@@ -10929,7 +10940,7 @@
             "id": "529",
             "author": "Ася Казанцева",
             "book": "Мозг материален",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2019",
             "buyDate": "7/22/19",
             "price": "420",
@@ -11708,7 +11719,7 @@
             "readDate": "10/16/21",
             "price": "259",
             "publisher": "Corpus",
-            "shelf": "corpus 2020",
+            "shelf": "corpus lebedev 2020",
             "img": "https://www.corpus.ru/picts/products/cover1-lebedev.jpg"
         },
         {
@@ -13092,7 +13103,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus boman wishlist 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000869241/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-agatha-new.jpg"
         },
         {
             "author": "Ниал Фергюсон",
@@ -13132,7 +13143,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000860081/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-ariadna.jpg"
         },
         {
             "author": "Владимир Набоков",
@@ -13140,6 +13151,14 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus nabokov wishlist new 2022"
+        },
+        {
+            "author": "Сергей Лебедев",
+            "book": "Титан",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus lebedev wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000868534/COVER/cover1__w600.jpg"
         },
         {
             "author": "Джон Ле Карре",
@@ -15073,7 +15092,7 @@
             "buyDate": "9/20/22",
             "price": "393",
             "publisher": "Individuum",
-            "shelf": "2022",
+            "shelf": "individuum 2022",
             "img": "https://s1.livelib.ru/boocover/1007358469/o/d41c/Ti_Dzhej_Nyuman__Padenie.jpeg"
         },
         {
@@ -15126,14 +15145,6 @@
             "img": "https://s1.livelib.ru/boocover/1006759984/o/f386/Liv_Konstantin__Neznakomka_v_zerkale.jpeg"
         },
         {
-            "author": "Делайла Доусон",
-            "book": "Я - ярость",
-            "year": "2022",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1007503258/o/03fd/Delajla_S._Douson__Ya__yarost.jpeg"
-        },
-        {
             "author": "Мэтт Уиттен",
             "book": "Ожерелье",
             "web": "fb2",
@@ -15152,6 +15163,14 @@
             "img": "https://s1.livelib.ru/boocover/1007454106/o/3b78/Dzhek_Dzhordan__Ne_navredi_emu.jpeg"
         },
         {
+            "author": "Делайла Доусон",
+            "book": "Я - ярость",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007503258/o/03fd/Delajla_S._Douson__Ya__yarost.jpeg"
+        },
+        {
             "author": "Им Сон Сун",
             "book": "Консультант",
             "year": "2022",
@@ -15165,14 +15184,6 @@
             "year": "2022",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif wishlist 2022"
-        },
-        {
-            "author": "Габриэль Зевин",
-            "book": "Завтра, завтра, завтра",
-            "year": "2022",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1007541424/o/8ed4/Gabriel_Zevin__Zavtra_zavtra_zavtra.jpeg"
         },
         {
             "author": "Линда Грин",
@@ -15200,6 +15211,14 @@
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1006892749/o/c1a7/Rebekka_Sjorl__Cherez_pyat_let.jpeg"
+        },
+        {
+            "author": "Габриэль Зевин",
+            "book": "Завтра, завтра, завтра",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007541424/o/8ed4/Gabriel_Zevin__Zavtra_zavtra_zavtra.jpeg"
         },
         {
             "author": "Никки Эрлик",
@@ -15314,7 +15333,7 @@
             "book": "Чисто шведские убийства. Отпуск в раю",
             "year": "2022",
             "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2022",
+            "shelf": "mif de-la-mott wishlist 2022",
             "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/88/27888/1.00x-thumb.png"
         },
         {
@@ -15407,14 +15426,6 @@
             "img": "https://s1.livelib.ru/boocover/1007297191/o/b9e1/Kris_Bohdzhalyan__Chas_vedmy.jpeg"
         },
         {
-            "author": "Tracy Dobmeier, Wendy Katzman",
-            "book": "Girl with Bright Futures",
-            "year": "2022",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist new 2022",
-            "img": "https://media1.popsugar-assets.com/files/thumbor/pq_HtP6yPMA5iF1Fw8QrVbW6CSU/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2021/01/23/233/n/43611095/3ce29f84576ed74d_81qvGHnjvsL/i/Girls-With-Bright-Futures-by-Tracy-Dobmeier-Wendy-Katzman.jpg"
-        },
-        {
             "author": "Али Новак",
             "book": "Моя жизнь с мальчиками Уолтер",
             "year": "2022",
@@ -15433,6 +15444,14 @@
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif bookstore 2022",
             "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/82/28382/1.00x-thumb.png"
+        },
+        {
+            "author": "Tracy Dobmeier, Wendy Katzman",
+            "book": "Girl with Bright Futures",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist new 2022",
+            "img": "https://media1.popsugar-assets.com/files/thumbor/pq_HtP6yPMA5iF1Fw8QrVbW6CSU/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2021/01/23/233/n/43611095/3ce29f84576ed74d_81qvGHnjvsL/i/Girls-With-Bright-Futures-by-Tracy-Dobmeier-Wendy-Katzman.jpg"
         },
         {
             "author": "Шон Байтелл",
@@ -16352,7 +16371,7 @@
             "web": "fb2",
             "year": "2007",
             "publisher": "Амфора",
-            "shelf": "booktore wishlist",
+            "shelf": "bookstore wishlist",
             "img": "https://s1.livelib.ru/boocover/1000272247/o/b2e6/Osne_Sejerstad__Knigotorgovets_iz_Kabula.jpeg"
         },
         {
@@ -16362,7 +16381,8 @@
             "year": "2006",
             "buyDate": "10/29/21",
             "price": "250",
-            "shelf": "fauler bookstore osten",
+            "publisher": "Эксмо",
+            "shelf": "eksmo fauler bookstore osten",
             "img": "https://img4.labirint.ru/rc/9032c317657e7db8439a83839db0b5b7/594x918/books13/121988/cover.jpg?1280394613"
         },
         {
@@ -16443,6 +16463,7 @@
         {
             "author": "Кэти Мартон",
             "book": "Канцлер. История жизни Ангелы Меркель",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Бомбора",
             "shelf": "bombora merkel politics wishlist 2022",
@@ -16606,7 +16627,8 @@
             "year": "2020",
             "buyDate": "12/25/20",
             "price": "548",
-            "shelf": "2020",
+            "publisher": "Individuum",
+            "shelf": "individuum 2020",
             "img": "https://s1.livelib.ru/boocover/1005578212/o/5b55/Deniel_Sasskind__Buduschee_bez_raboty._Tehnologii_avtomatizatsiya_i_stoit_li_ih_.jpeg"
         },
         {
@@ -19196,7 +19218,7 @@
             "book": "Безмолвная",
             "web": "mp3 fb2",
             "year": "2021",
-            "readDate": "10/18/22",
+            "readDate": "10/17/22",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-poland wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1006002439/o/00bd/Remigiush_Mruz__Bezmolvnaya.jpeg"
@@ -21180,10 +21202,11 @@
         {
             "author": "Кристина Далчер",
             "book": "Голос",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2019",
+            "readDate": "10/21/22",
             "publisher": "Эксмо",
-            "shelf": "eksmo dalcher",
+            "shelf": "eksmo dalcher wishlist",
             "img": "https://s1.livelib.ru/boocover/1002933495/o/f028/Kristina_Dalcher__Golos.jpeg"
         },
         {
@@ -21940,7 +21963,8 @@
             "book": "Однажды в Голливуде",
             "web": "fb2",
             "year": "2021",
-            "shelf": "wishlist 2021",
+            "publisher": "Individuum",
+            "shelf": "individuum wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1006767091/o/b171/Kventin_Tarantino__Odnazhdy_v_Gollivude.jpeg"
         },
         {
