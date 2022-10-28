@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -2659,7 +2659,7 @@
             "author": "Салли Руни",
             "book": "Прекрасный мир, где же ты",
             "year": "2022",
-            "buyDate": "11/30/22",
+            "buyDate": "10/28/22",
             "price": "618",
             "publisher": "Синдбад",
             "shelf": "runi sindbad 2022",
@@ -2721,6 +2721,7 @@
         {
             "author": "Дженин Камминс",
             "book": "Американская грязь",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Синдбад",
             "shelf": "sindbad wishlist kammins 2020",
@@ -13120,7 +13121,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus sorrentino wishlist 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000869243/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-molodost-new.jpg"
         },
         {
             "author": "Карин Тюиль",
@@ -13128,7 +13129,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus tuile wishlist 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000868531/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-dela-tuil-kino.jpg"
         },
         {
             "author": "Уолтер Айзексон",
@@ -13162,7 +13163,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus lebedev wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000868534/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-titan.jpg"
         },
         {
             "author": "Джон Ле Карре",
@@ -15443,7 +15444,7 @@
             "author": "Митико Аояма",
             "book": "Вы найдете это в библиотеке",
             "year": "2022",
-            "buyDate": "11/30/22",
+            "buyDate": "10/29/22",
             "price": "405",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif bookstore 2022",
@@ -16115,8 +16116,10 @@
             "author": "Клэр Пули",
             "book": "Люди с платформы № 5",
             "year": "2022",
+            "buyDate": "11/5/22",
+            "price": "392",
             "publisher": "Азбука",
-            "shelf": "azbuka puli wishlist new 2022",
+            "shelf": "azbuka puli 2022",
             "img": "https://cdn.azbooka.ru/cv/w1100/fcc1740d-691d-4198-887c-af4a735ebe36.jpg"
         },
         {
@@ -20263,7 +20266,7 @@
         {
             "author": "Артуро Перес-Реверте",
             "book": "Боевые псы не пляшут",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
