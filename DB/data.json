@@ -943,6 +943,7 @@
             "book": "Утраченный символ",
             "web": "mp3 fb2",
             "buyDate": "4/17/17",
+            "readDate": "11/2/22",
             "price": "447",
             "shelf": "braun",
             "img": "https://cdn.ast.ru/v2/AST000000000136285/COVER/cover1__w600.jpg"
@@ -13095,8 +13096,10 @@
             "author": "Амели Нотомб",
             "book": "Аэростаты. Первая кровь",
             "year": "2022",
+            "buyDate": "11/9/22",
+            "price": "372",
             "publisher": "Corpus",
-            "shelf": "corpus notomb wishlist new 2022",
+            "shelf": "corpus notomb 2022",
             "img": "https://www.corpus.ru/picts/products/cover-aerostaty.jpg"
         },
         {
@@ -14668,6 +14671,16 @@
             "img": "https://s1.livelib.ru/boocover/1002907803/o/17a7/Svetlana_Burlak__Proishozhdenie_yazyka._Fakty_issledovaniya_gipotezy.jpeg"
         },
         {
+            "author": "Рэйчел Свейби",
+            "book": "52 упрямые женщины: Ученые, которые изменили мир",
+            "year": "2022",
+            "buyDate": "11/9/22",
+            "price": "353",
+            "publisher": "Альпина нон-фикшн",
+            "shelf": "alpina 2022",
+            "img": "https://s1.livelib.ru/boocover/1007542726/o/1d4b/Rejchel_Svejbi__52_upryamye_zhenschiny._Uchenye_kotorye_izmenili_mir.jpeg"
+        },
+        {
             "author": "Иван Шипнигов",
             "book": "Нефть, метель и другие веселые боги",
             "web": "fb2",
@@ -14731,6 +14744,16 @@
             "publisher": "Редакция Елены Шубиной",
             "shelf": "prison 2022",
             "img": "https://s1.livelib.ru/boocover/1007172316/o/3396/Sergej_Lebedenko__nesvoboda.jpeg"
+        },
+        {
+            "author": "Даша Почекуева",
+            "book": "Квартира",
+            "year": "2022",
+            "buyDate": "11/9/22",
+            "price": "297",
+            "publisher": "Эксмо",
+            "shelf": "eksmo 2022",
+            "img": "https://s1.livelib.ru/boocover/1007473075/o/0e6f/Dasha_Pochekueva__Kvartira.jpeg"
         },
         {
             "author": "Дженни Колган",
@@ -15170,6 +15193,7 @@
         {
             "author": "Делайла Доусон",
             "book": "Я - ярость",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif wishlist 2022",
@@ -15178,6 +15202,7 @@
         {
             "author": "Им Сон Сун",
             "book": "Консультант",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif wishlist 2022",
@@ -15188,7 +15213,8 @@
             "book": "Никто не знает тебя",
             "year": "2022",
             "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2022"
+            "shelf": "mif wishlist 2022",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/69/27869/1.00x-thumb.png"
         },
         {
             "author": "Линда Грин",
@@ -16050,7 +16076,7 @@
             "author": "Джули Кэплин",
             "book": "Отель «Северное сияние»",
             "year": "2022",
-            "buyDate": "10/31/22",
+            "buyDate": "11/15/22",
             "price": "329",
             "publisher": "Эксмо",
             "shelf": "eksmo kaplin sentimental 2022",
@@ -16116,7 +16142,7 @@
             "author": "Клэр Пули",
             "book": "Люди с платформы № 5",
             "year": "2022",
-            "buyDate": "11/5/22",
+            "buyDate": "11/2/22",
             "price": "392",
             "publisher": "Азбука",
             "shelf": "azbuka puli 2022",
@@ -16311,6 +16337,16 @@
             "publisher": "КоЛибри",
             "shelf": "kolibri music beatles 2021",
             "img": "https://s1.livelib.ru/boocover/1006726699/o/9842/Krejg_Braun__One_Two_Three_Four_Bitlz_v_ritme_vremeni.jpeg"
+        },
+        {
+            "author": "Кеннет Уомак",
+            "book": "Джон Леннон. 1980. Последние дни жизни",
+            "year": "2022",
+            "buyDate": "11/9/22",
+            "price": "571",
+            "publisher": "АСТ",
+            "shelf": "ast music lennon 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000865665/COVER/cover1__w600.jpg"
         },
         {
             "author": "Крейг Маклей",
@@ -16735,7 +16771,7 @@
             "author": "Хелена Турстен",
             "book": "Фрекен Мод задумала что-то недоброе",
             "year": "2022",
-            "buyDate": "10/31/22",
+            "buyDate": "11/15/22",
             "price": "387",
             "publisher": "АСТ",
             "shelf": "ast miracle 2022",
@@ -16834,6 +16870,41 @@
             "publisher": "АСТ",
             "shelf": "ast puzzle wishlist new 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000848113/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Люси Фоли",
+            "book": "Список гостей",
+            "web": "mp3 fb2",
+            "year": "2021",
+            "publisher": "АСТ",
+            "shelf": "ast murder foli wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005746536/o/f237/Lyusi_Foli__Spisok_gostej.jpeg"
+        },
+        {
+            "author": "Эмма Хоутон",
+            "book": "Тьма",
+            "web": "mp3 fb2",
+            "year": "2021",
+            "publisher": "АСТ",
+            "shelf": "ast murder wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006755097/o/75da/Emma_Houton__Tma.jpeg"
+        },
+        {
+            "author": "Лиза Стоун",
+            "book": "Коттедж",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "АСТ",
+            "shelf": "ast murder wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007379157/o/e371/Liza_Stoun__Kottedzh.jpeg"
+        },
+        {
+            "author": "Люси Фоли",
+            "book": "Квартира в Париже",
+            "year": "2022",
+            "publisher": "АСТ",
+            "shelf": "ast murder foli wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007545633/o/0b75/Lyusi_Foli__Kvartira_v_Parizhe.jpeg"
         },
         {
             "author": "Уильям Крюгер",
@@ -17003,6 +17074,22 @@
             "publisher": "АСТ",
             "shelf": "ast lost-happiness 2022",
             "img": "https://s1.livelib.ru/boocover/1007503669/o/ced5/Uejna_Daj_Rendel__Poslednyaya_roza_Shanhaya.jpeg"
+        },
+        {
+            "author": "Эми Сью Натан",
+            "book": "Повороты судьбы",
+            "year": "2022",
+            "publisher": "АСТ",
+            "shelf": "ast lost-happiness new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000857695/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Кейт Хьюитт",
+            "book": "Сестры Эдельвейс",
+            "year": "2022",
+            "publisher": "АСТ",
+            "shelf": "ast lost-happiness new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000863844/COVER/cover1__w600.jpg"
         },
         {
             "author": "Пол Бейти",
@@ -17223,6 +17310,38 @@
             "publisher": "Эксмо",
             "shelf": "eksmo black wishlist 2022",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001289622/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Клас Бушманн",
+            "book": "Когда говорят мертвецы. 12 удивительных историй судмедэксперта",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo bad-karma wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1007376649/o/71d4/Klas_Bushmann__Kogda_govoryat_mertvetsy._12_udivitelnyh_istorij_sudmedeksperta.jpeg"
+        },
+        {
+            "author": "Фрэнсис Пол Вилсон",
+            "book": "BAD KARMA. История моей адской поездки в Мексику",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo bad-karma wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007415403/o/325a/Frensis_Pol_Vilson__BAD_KARMA._Istoriya_moej_adskoj_poezdki_v_Meksiku.jpeg"
+        },
+        {
+            "author": "Томас Кундт и Таркан Багджи",
+            "book": "Я прихожу после смерти. История профессионального уборщика мест преступлений",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo bad-karma wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007561728/o/5f06/__Ya_prihozhu_posle_smerti._Istoriya_professionalnogo_uborschika_mest_prestuplen.jpeg"
+        },
+        {
+            "author": "Тодд Харра и Кен Маккензи",
+            "book": "Тайная жизнь морга. Откровения гробовщиков",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo bad-karma wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007505202/o/dbbb/__Tajnaya_zhizn_morga._Otkroveniya_grobovschikov.jpeg"
         },
         {
             "author": "Алексей Поляринов",
@@ -19259,7 +19378,8 @@
             "book": "Кузнечик",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok-japan isaka wishlist new 2022"
+            "shelf": "eksmo inspiria tok-japan isaka wishlist new 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001295268/COVER/cover1__w820.jpg"
         },
         {
             "author": "Ремигиуш Мруз",
