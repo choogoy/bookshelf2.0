@@ -1,4 +1,4 @@
-﻿{
+{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -763,6 +763,7 @@
         {
             "author": "Фредерик Бегбедер",
             "book": "Воспоминания неблаговоспитанного молодого человека",
+            "web": "fb2",
             "buyDate": "8/22/16",
             "price": "224",
             "shelf": "begbeder",
@@ -771,6 +772,7 @@
         {
             "author": "Фредерик Бегбедер",
             "book": "Каникулы в коме",
+            "web": "fb2",
             "buyDate": "7/22/14",
             "price": "206",
             "shelf": "begbeder",
@@ -779,6 +781,7 @@
         {
             "author": "Фредерик Бегбедер",
             "book": "Любовь живёт три года",
+            "web": "fb2",
             "shelf": "begbeder",
             "img": "https://s1.livelib.ru/boocover/1000738198/o/1a4a/Frederik_Begbeder__Lyubov_zhivet_tri_goda.jpeg"
         },
@@ -795,12 +798,14 @@
         {
             "author": "Фредерик Бегбедер",
             "book": "99 франков",
+            "web": "fb2",
             "shelf": "begbeder",
             "img": "https://s1.livelib.ru/boocover/1002983777/o/77b0/Frederik_Begbeder__99_frankov.jpeg"
         },
         {
             "author": "Фредерик Бегбедер",
             "book": "Лучшие книги XX века. Последняя опись перед распродажей",
+            "web": "fb2",
             "buyDate": "7/8/20",
             "price": "300",
             "shelf": "begbeder",
@@ -809,12 +814,14 @@
         {
             "author": "Фредерик Бегбедер",
             "book": "Windows on the world",
+            "web": "fb2",
             "shelf": "begbeder",
             "img": "https://s1.livelib.ru/boocover/1000860190/o/da5d/Begbeder_Frederik__Windows_on_the_World.jpeg"
         },
         {
             "author": "Фредерик Бегбедер",
             "book": "Я верую - я тоже нет",
+            "web": "fb2",
             "buyDate": "7/13/20",
             "price": "300",
             "shelf": "begbeder",
@@ -823,24 +830,28 @@
         {
             "author": "Фредерик Бегбедер",
             "book": "Романтический эгоист",
+            "web": "fb2",
             "shelf": "begbeder",
             "img": "https://s1.livelib.ru/boocover/1000759825/o/1155/Frederik_Begbeder__Romanticheskij_egoist.jpeg"
         },
         {
             "author": "Фредерик Бегбедер",
             "book": "Идеаль",
+            "web": "fb2",
             "shelf": "begbeder",
             "img": "https://s1.livelib.ru/boocover/1000784487/o/ac4a/Begbeder_Frederik__Ideal.jpeg"
         },
         {
             "author": "Фредерик Бегбедер",
             "book": "Французский роман",
+            "web": "fb2",
             "shelf": "begbeder",
             "img": "https://s1.livelib.ru/boocover/1000924643/o/e9b9/Frederik_Begbeder__Frantsuzskij_roman.jpeg"
         },
         {
             "author": "Фредерик Бегбедер",
             "book": "Конец света. Первые итоги",
+            "web": "fb2",
             "year": "2014",
             "buyDate": "4/4/14",
             "price": "304",
@@ -850,6 +861,7 @@
         {
             "author": "Фредерик Бегбедер",
             "book": "Уна & Сэлинджер",
+            "web": "fb2",
             "year": "2015",
             "buyDate": "6/17/15",
             "price": "243",
@@ -859,6 +871,7 @@
         {
             "author": "Фредерик Бегбедер",
             "book": "Интервью сына века",
+            "web": "fb2",
             "buyDate": "12/22/18",
             "price": "250",
             "shelf": "begbeder",
@@ -867,6 +880,7 @@
         {
             "author": "Фредерик Бегбедер",
             "book": "Вечная жизнь",
+            "web": "fb2",
             "buyDate": "12/22/18",
             "price": "238",
             "shelf": "begbeder",
@@ -875,7 +889,7 @@
         {
             "author": "Фредерик Бегбедер",
             "book": "Человек, который плакал от смеха",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "10/13/20",
             "price": "618.2",
@@ -2512,6 +2526,7 @@
         {
             "author": "Фредрик Бакман",
             "book": "Вторая жизнь Уве",
+            "web": "mp3 fb2",
             "year": "2012",
             "buyDate": "12/28/20",
             "readDate": "2/1/21",
@@ -2523,6 +2538,7 @@
         {
             "author": "Фредрик Бакман",
             "book": "Бабушка велела кланяться и передать, что просит прощения",
+            "web": "mp3 fb2",
             "year": "2013",
             "buyDate": "12/28/20",
             "readDate": "3/5/21",
@@ -2534,6 +2550,7 @@
         {
             "author": "Фредрик Бакман",
             "book": "Здесь была Бритт-Мари",
+            "web": "mp3 fb2",
             "year": "2014",
             "buyDate": "12/28/20",
             "readDate": "2/18/21",
@@ -2545,6 +2562,7 @@
         {
             "author": "Фредрик Бакман",
             "book": "Что мой сын должен знать об устройстве этого мира",
+            "web": "mp3 fb2",
             "year": "2012",
             "buyDate": "12/11/20",
             "readDate": "1/3/21",
@@ -2556,6 +2574,7 @@
         {
             "author": "Фредрик Бакман",
             "book": "Медвежий угол",
+            "web": "mp3 fb2",
             "year": "2016",
             "buyDate": "12/11/20",
             "readDate": "3/23/21",
@@ -2567,6 +2586,7 @@
         {
             "author": "Фредрик Бакман",
             "book": "Мы против вас",
+            "web": "mp3 fb2",
             "year": "2017",
             "buyDate": "12/11/20",
             "readDate": "4/9/21",
@@ -2578,6 +2598,7 @@
         {
             "author": "Фредрик Бакман",
             "book": "Три новеллы",
+            "web": "mp3 fb2",
             "year": "2017",
             "buyDate": "12/11/20",
             "readDate": "1/2/21",
@@ -2589,6 +2610,7 @@
         {
             "author": "Фредрик Бакман",
             "book": "Тревожные люди",
+            "web": "mp3 fb2",
             "year": "2019",
             "buyDate": "12/11/20",
             "readDate": "4/22/21",
@@ -5688,6 +5710,7 @@
             "id": "n",
             "author": "Салман Рушди",
             "book": "Кишот",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus rushdi wishlist 2021",
@@ -15464,7 +15487,7 @@
             "price": "499",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif 2022",
-            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/38/27938/1.00x-thumb.png"
+            "img": "https://s1.livelib.ru/boocover/1007592265/o/2589/Ali_Novak__Moya_zhizn_s_malchikami_Uolter.jpeg"
         },
         {
             "author": "Митико Аояма",
@@ -15474,7 +15497,17 @@
             "price": "405",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif bookstore 2022",
-            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/82/28382/1.00x-thumb.png"
+            "img": "https://s1.livelib.ru/boocover/1007564878/o/711e/Mitiko_Aoyama__Vy_najdete_eto_v_biblioteke.jpeg"
+        },
+        {
+            "author": "Керри Мейер",
+            "book": "Книжный на левом берегу Сены",
+            "year": "2022",
+            "buyDate": "11/7/22",
+            "price": "622",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif bookstore 2022",
+            "img": "https://s1.livelib.ru/boocover/1007564887/o/75db/Kerri_Mejer__Knizhnyj_na_levom_beregu_Seny.jpeg"
         },
         {
             "author": "Tracy Dobmeier, Wendy Katzman",
@@ -16123,8 +16156,8 @@
             "buyDate": "2/1/21",
             "readDate": "7/3/22",
             "price": "258",
-            "publisher": "Иностранка",
-            "shelf": "inostranka puli 2020",
+            "publisher": "Азбука",
+            "shelf": "azbuka inostranka puli 2020",
             "img": "https://s1.livelib.ru/boocover/1005380905/o/2dbb/Kler_Puli__Pravdivaya_istoriya.jpeg"
         },
         {
@@ -16135,7 +16168,7 @@
             "readDate": "8/19/22",
             "price": "490",
             "publisher": "Портал",
-            "shelf": "puli 2022",
+            "shelf": "portal puli 2022",
             "img": "https://css.labirint.ru/t/25037/tild6432-6564-4539-b037-376165366438__--.jpg"
         },
         {
@@ -16145,7 +16178,7 @@
             "buyDate": "11/2/22",
             "price": "392",
             "publisher": "Азбука",
-            "shelf": "azbuka puli 2022",
+            "shelf": "azbuka inostranka puli 2022",
             "img": "https://cdn.azbooka.ru/cv/w1100/fcc1740d-691d-4198-887c-af4a735ebe36.jpg"
         },
         {
@@ -16431,8 +16464,10 @@
             "book": "Книготорговец из Кабула",
             "web": "fb2",
             "year": "2007",
+            "buyDate": "11/7/22",
+            "price": "288",
             "publisher": "Амфора",
-            "shelf": "bookstore wishlist",
+            "shelf": "bookstore",
             "img": "https://s1.livelib.ru/boocover/1000272247/o/b2e6/Osne_Sejerstad__Knigotorgovets_iz_Kabula.jpeg"
         },
         {
@@ -21801,6 +21836,7 @@
         {
             "author": "Джон Маррс",
             "book": "Последняя жертва",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo marrs wishlist 2022",
