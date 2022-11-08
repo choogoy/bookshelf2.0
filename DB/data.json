@@ -967,6 +967,7 @@
             "book": "Инферно",
             "web": "mp3 fb2",
             "buyDate": "9/27/13",
+            "readDate": "11/10/22",
             "price": "201",
             "shelf": "braun",
             "img": "https://cdn.ast.ru/v2/AST000000000125755/COVER/cover1__w600.jpg"
@@ -13181,7 +13182,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus nabokov wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000858740/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-pesn-supermena.jpg"
         },
         {
             "author": "Сергей Лебедев",
@@ -16806,8 +16807,8 @@
             "author": "Хелена Турстен",
             "book": "Фрекен Мод задумала что-то недоброе",
             "year": "2022",
-            "buyDate": "11/15/22",
-            "price": "387",
+            "buyDate": "11/10/22",
+            "price": "373",
             "publisher": "АСТ",
             "shelf": "ast miracle 2022",
             "img": "https://s1.livelib.ru/boocover/1007502397/o/fe23/Helena_Tursten__Freken_Mod_zadumala_chtoto_nedobroe.jpeg"
@@ -16894,8 +16895,10 @@
             "author": "Эйми Моллой",
             "book": "Спокойной ночи, красавчик",
             "year": "2022",
+            "buyDate": "11/10/22",
+            "price": "485",
             "publisher": "АСТ",
-            "shelf": "ast puzzle wishlist new 2022",
+            "shelf": "ast puzzle 2022",
             "img": "https://s1.livelib.ru/boocover/1007545645/o/3198/Ejmi_Molloj__Spokojnoj_nochi_krasavchik.jpeg"
         },
         {
@@ -17111,20 +17114,22 @@
             "img": "https://s1.livelib.ru/boocover/1007503669/o/ced5/Uejna_Daj_Rendel__Poslednyaya_roza_Shanhaya.jpeg"
         },
         {
+            "author": "Кейт Хьюитт",
+            "book": "Сестры Эдельвейс",
+            "year": "2022",
+            "buyDate": "11/10/22",
+            "price": "453",
+            "publisher": "АСТ",
+            "shelf": "ast lost-happiness 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000863844/COVER/cover1__w600.jpg"
+        },
+        {
             "author": "Эми Сью Натан",
             "book": "Повороты судьбы",
             "year": "2022",
             "publisher": "АСТ",
-            "shelf": "ast lost-happiness new 2022",
+            "shelf": "ast lost-happiness wishlist new 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000857695/COVER/cover1__w600.jpg"
-        },
-        {
-            "author": "Кейт Хьюитт",
-            "book": "Сестры Эдельвейс",
-            "year": "2022",
-            "publisher": "АСТ",
-            "shelf": "ast lost-happiness new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000863844/COVER/cover1__w600.jpg"
         },
         {
             "author": "Пол Бейти",
