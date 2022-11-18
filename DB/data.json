@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -914,13 +914,38 @@
             "img": "https://m.media-amazon.com/images/I/41Iuf5OSO7L.jpg"
         },
         {
+            "author": "Эми Кауфман и Джей Кристофф",
+            "book": "Иллюминэ",
+            "year": "2018",
+            "publisher": "АСТ",
+            "shelf": "ast illumine wishilst",
+            "img": "https://s1.livelib.ru/boocover/1002844594/o/c464/Emi_Kaufman_Dzhej_Kristoff__Illyumine.jpeg"
+        },
+        {
+            "author": "Эми Кауфман и Джей Кристофф",
+            "book": "Гемина",
+            "year": "2020",
+            "publisher": "АСТ",
+            "shelf": "ast illumine wishilst 2020",
+            "img": "https://s1.livelib.ru/boocover/1003627842/o/a8d9/Emi_Kaufman_Dzhej_Kristoff__Gemina.jpeg"
+        },
+        {
+            "author": "Эми Кауфман и Джей Кристофф",
+            "book": "Обсидио",
+            "year": "2022",
+            "publisher": "АСТ",
+            "shelf": "ast illumine wishilst 2022",
+            "img": "https://s1.livelib.ru/boocover/1007482048/o/d037/Emi_Kaufman_Dzhej_Kristoff__Obsidio.jpeg"
+        },
+        {
             "author": "Дэн Браун",
             "book": "Цифровая крепость",
             "web": "mp3 fb2",
             "buyDate": "4/17/17",
             "readDate": "9/7/22",
             "price": "447",
-            "shelf": "braun",
+            "publisher": "АСТ",
+            "shelf": "ast braun",
             "img": "https://cdn.ast.ru/v2/AST000000000136265/COVER/cover1__w600.jpg"
         },
         {
@@ -930,7 +955,8 @@
             "buyDate": "4/17/17",
             "readDate": "9/21/22",
             "price": "447",
-            "shelf": "braun",
+            "publisher": "АСТ",
+            "shelf": "ast braun",
             "img": "https://cdn.ast.ru/v2/AST000000000136260/COVER/cover1__w600.jpg"
         },
         {
@@ -939,7 +965,8 @@
             "web": "mp3 fb2",
             "buyDate": "4/17/17",
             "price": "447",
-            "shelf": "braun",
+            "publisher": "АСТ",
+            "shelf": "ast braun",
             "img": "https://cdn.ast.ru/v2/AST000000000136663/COVER/cover1__w600.jpg"
         },
         {
@@ -949,7 +976,8 @@
             "buyDate": "4/17/17",
             "readDate": "9/29/22",
             "price": "447",
-            "shelf": "braun",
+            "publisher": "АСТ",
+            "shelf": "ast braun",
             "img": "https://cdn.ast.ru/v2/AST000000000136264/COVER/cover1__w600.jpg"
         },
         {
@@ -959,7 +987,8 @@
             "buyDate": "4/17/17",
             "readDate": "11/2/22",
             "price": "447",
-            "shelf": "braun",
+            "publisher": "АСТ",
+            "shelf": "ast braun",
             "img": "https://cdn.ast.ru/v2/AST000000000136285/COVER/cover1__w600.jpg"
         },
         {
@@ -969,7 +998,8 @@
             "buyDate": "9/27/13",
             "readDate": "11/9/22",
             "price": "201",
-            "shelf": "braun",
+            "publisher": "АСТ",
+            "shelf": "ast braun",
             "img": "https://cdn.ast.ru/v2/AST000000000125755/COVER/cover1__w600.jpg"
         },
         {
@@ -980,7 +1010,8 @@
             "buyDate": "1/15/18",
             "readDate": "11/16/22",
             "price": "475",
-            "shelf": "braun",
+            "publisher": "АСТ",
+            "shelf": "ast braun",
             "img": "https://cdn.ast.ru/v2/ASE000000000834003/COVER/cover1__w600.jpg"
         },
         {
@@ -2529,7 +2560,7 @@
             "author": "Фредрик Бакман",
             "book": "Вторая жизнь Уве",
             "web": "mp3 fb2",
-            "year": "2012",
+            "year": "2016",
             "buyDate": "12/28/20",
             "readDate": "2/1/21",
             "price": "281",
@@ -2541,31 +2572,31 @@
             "author": "Фредрик Бакман",
             "book": "Бабушка велела кланяться и передать, что просит прощения",
             "web": "mp3 fb2",
-            "year": "2013",
+            "year": "2020",
             "buyDate": "12/28/20",
             "readDate": "3/5/21",
             "price": "281",
             "publisher": "Синдбад",
-            "shelf": "bakman sindbad",
+            "shelf": "bakman sindbad 2020",
             "img": "https://s1.livelib.ru/boocover/1002697277/o/a90a/Fredrik_Bakman__Babushka_velela_klanyatsya_i_peredat_chto_prosit_proscheniya.jpeg"
         },
         {
             "author": "Фредрик Бакман",
             "book": "Здесь была Бритт-Мари",
             "web": "mp3 fb2",
-            "year": "2014",
+            "year": "2020",
             "buyDate": "12/28/20",
             "readDate": "2/18/21",
             "price": "282",
             "publisher": "Синдбад",
-            "shelf": "bakman sindbad",
+            "shelf": "bakman sindbad 2020",
             "img": "https://s1.livelib.ru/boocover/1002729882/o/fc3e/Fredrik_Bakman__Zdes_byla_BrittMari.jpeg"
         },
         {
             "author": "Фредрик Бакман",
             "book": "Что мой сын должен знать об устройстве этого мира",
             "web": "mp3 fb2",
-            "year": "2012",
+            "year": "2019",
             "buyDate": "12/11/20",
             "readDate": "1/3/21",
             "price": "236",
@@ -2577,7 +2608,7 @@
             "author": "Фредрик Бакман",
             "book": "Медвежий угол",
             "web": "mp3 fb2",
-            "year": "2016",
+            "year": "2018",
             "buyDate": "12/11/20",
             "readDate": "3/23/21",
             "price": "331",
@@ -2589,7 +2620,7 @@
             "author": "Фредрик Бакман",
             "book": "Мы против вас",
             "web": "mp3 fb2",
-            "year": "2017",
+            "year": "2019",
             "buyDate": "12/11/20",
             "readDate": "4/9/21",
             "price": "331",
@@ -2601,24 +2632,24 @@
             "author": "Фредрик Бакман",
             "book": "Три новеллы",
             "web": "mp3 fb2",
-            "year": "2017",
+            "year": "2020",
             "buyDate": "12/11/20",
             "readDate": "1/2/21",
             "price": "221",
             "publisher": "Синдбад",
-            "shelf": "bakman sindbad",
+            "shelf": "bakman sindbad 2020",
             "img": "https://img4.labirint.ru/rc/a2505e7fce405cadf4963eefb56715cb/220x340/books78/770464/cover.png?1602347141"
         },
         {
             "author": "Фредрик Бакман",
             "book": "Тревожные люди",
             "web": "mp3 fb2",
-            "year": "2019",
+            "year": "2020",
             "buyDate": "12/11/20",
             "readDate": "4/22/21",
             "price": "308",
             "publisher": "Синдбад",
-            "shelf": "bakman sindbad",
+            "shelf": "bakman sindbad 2020",
             "img": "https://s1.livelib.ru/boocover/1004631232/o/9827/Fredrik_Bakman__Trevozhnye_lyudi.jpeg"
         },
         {
@@ -13182,22 +13213,6 @@
             "img": "https://www.corpus.ru/picts/products/cover1-muzika.jpg"
         },
         {
-            "author": "Пол Оффит",
-            "book": "Смертельно опасный выбор. Чем борьба с прививками грозит нам всем",
-            "year": "2022",
-            "publisher": "Corpus",
-            "shelf": "corpus evolution elements2 offit wishlist 2022",
-            "img": "https://www.corpus.ru/picts/products/cover1-opasny-vybor.jpg"
-        },
-        {
-            "author": "Дэвид Граймс",
-            "book": "Неразумная обезьяна. Почему мы верим в дезинформацию, теории заговора и пропаганду",
-            "year": "2022",
-            "publisher": "Corpus",
-            "shelf": "corpus elements2 traektoria graims wishlist 2022",
-            "img": "https://www.corpus.ru/picts/products/cover1-grimes-new.jpg"
-        },
-        {
             "author": "Гвидо Тонелли",
             "book": "Книга бытия. Общая история происхождения",
             "year": "2022",
@@ -13208,12 +13223,31 @@
             "img": "https://www.corpus.ru/picts/products/cover1-tunelli.jpg"
         },
         {
+            "id": "731",
+            "author": "Дэвид Граймс",
+            "book": "Неразумная обезьяна. Почему мы верим в дезинформацию, теории заговора и пропаганду",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus elements2 traektoria graims wishlist 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-grimes-new.jpg"
+        },
+        {
+            "id": "732",
             "author": "Валерий Шубинский",
             "book": "Владислав Ходасевич. Чающий и говорящий",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus shubinsky wishlist 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-hodasevich.jpg"
+        },
+        {
+            "id": "733",
+            "author": "Пол Оффит",
+            "book": "Смертельно опасный выбор. Чем борьба с прививками грозит нам всем",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus evolution elements2 offit wishlist 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-opasny-vybor.jpg"
         },
         {
             "id": "734",
@@ -13262,8 +13296,10 @@
             "author": "Уолтер Айзексон",
             "book": "Взломавшая код. Дженнифер Даудна, редактирование генома и будущее человечества",
             "year": "2022",
+            "buyDate": "11/28/22",
+            "price": "1046",
             "publisher": "Corpus",
-            "shelf": "corpus izakson wishlist new 2022",
+            "shelf": "corpus izakson 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-aizekson-daudna.jpg"
         },
         {
@@ -13317,14 +13353,24 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus 100%doc shablowsky wishlist 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000852010/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-diktator-eda.jpg"
         },
         {
             "author": "Катя Москвич",
-            "book": "Нейтронные звезды",
+            "book": "Нейтронные звезды. Как понять зомби из космоса",
             "year": "2022",
             "publisher": "Corpus",
-            "shelf": "corpus elements2 wishlist 2022"
+            "shelf": "corpus elements2 zimin wishlist 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000858469/COVER/cover1__w600.jpg"
+        },
+        {
+            "id": "749",
+            "author": "Вика Ройтман",
+            "book": "Йерве из Асседо",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000862026/COVER/cover1__w600.jpg"
         },
         {
             "author": "Джон Ле Карре",
@@ -16227,6 +16273,38 @@
             "publisher": "Эксмо",
             "shelf": "eksmo marlow wishlist",
             "img": "https://s1.livelib.ru/boocover/1002993617/o/7f2f/Meri_Enn_Marlou__Sumasshedshaya_lyubov.jpeg"
+        },
+        {
+            "author": "Холли Мартин",
+            "book": "Счастье у моря",
+            "year": "2020",
+            "publisher": "Эксмо",
+            "shelf": "eksmo martin sentimental wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1005067327/o/a8e0/Holli_Martin__Schaste_u_morya.jpeg"
+        },
+        {
+            "author": "Холли Мартин",
+            "book": "Лето мечтаний",
+            "year": "2020",
+            "publisher": "Эксмо",
+            "shelf": "eksmo martin sentimental wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1005067339/o/edd2/Holli_Martin__Leto_mechtanij.jpeg"
+        },
+        {
+            "author": "Изабелль Брум",
+            "book": "Год и один день",
+            "year": "2020",
+            "publisher": "Эксмо",
+            "shelf": "eksmo brum sentimental wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1005067300/o/7600/Izabell_Brum__God_i_odin_den.jpeg"
+        },
+        {
+            "author": "Изабелль Брум",
+            "book": "Карта нашей любви",
+            "year": "2020",
+            "publisher": "Эксмо",
+            "shelf": "eksmo brum sentimental wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1003822691/o/a845/Izabell_Brum__Karta_nashej_lyubvi.jpeg"
         },
         {
             "author": "Джули Кэплин",
