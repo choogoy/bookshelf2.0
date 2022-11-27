@@ -1,4 +1,4 @@
-﻿{
+{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -916,9 +916,10 @@
         {
             "author": "Эми Кауфман и Джей Кристофф",
             "book": "Иллюминэ",
+            "web": "pdf",
             "year": "2018",
             "publisher": "АСТ",
-            "shelf": "ast illumine wishilst",
+            "shelf": "ast illumine wishlist",
             "img": "https://s1.livelib.ru/boocover/1002844594/o/c464/Emi_Kaufman_Dzhej_Kristoff__Illyumine.jpeg"
         },
         {
@@ -926,7 +927,7 @@
             "book": "Гемина",
             "year": "2020",
             "publisher": "АСТ",
-            "shelf": "ast illumine wishilst 2020",
+            "shelf": "ast illumine wishlist 2020",
             "img": "https://s1.livelib.ru/boocover/1003627842/o/a8d9/Emi_Kaufman_Dzhej_Kristoff__Gemina.jpeg"
         },
         {
@@ -934,7 +935,7 @@
             "book": "Обсидио",
             "year": "2022",
             "publisher": "АСТ",
-            "shelf": "ast illumine wishilst 2022",
+            "shelf": "ast illumine wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007482048/o/d037/Emi_Kaufman_Dzhej_Kristoff__Obsidio.jpeg"
         },
         {
@@ -964,6 +965,7 @@
             "book": "Точка обмана",
             "web": "mp3 fb2",
             "buyDate": "4/17/17",
+            "readDate": "11/22/22",
             "price": "447",
             "publisher": "АСТ",
             "shelf": "ast braun",
@@ -1062,7 +1064,7 @@
         {
             "author": "Слава Сэ",
             "book": "Ева",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "buyDate": "7/3/20",
             "price": "300",
             "shelf": "slava",
@@ -1071,7 +1073,7 @@
         {
             "author": "Слава Сэ",
             "book": "Сантехник, его кот, жена и другие подробности",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "buyDate": "12/27/16",
             "price": "221",
             "shelf": "slava",
@@ -1080,7 +1082,7 @@
         {
             "author": "Слава Сэ",
             "book": "Сантехник. Твоё моё колено",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "buyDate": "12/27/16",
             "price": "221",
             "shelf": "slava",
@@ -1089,7 +1091,7 @@
         {
             "author": "Слава Сэ",
             "book": "Последний сантехник",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "buyDate": "12/27/16",
             "price": "237",
             "shelf": "slava",
@@ -1098,7 +1100,7 @@
         {
             "author": "Слава Сэ",
             "book": "Когда утонет черепаха",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "buyDate": "9/21/18",
             "price": "297",
             "shelf": "slava",
@@ -1107,7 +1109,7 @@
         {
             "author": "Слава Сэ",
             "book": "Сантехник с пылу и с жаром",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "buyDate": "9/23/18",
             "price": "268",
             "shelf": "slava",
@@ -1116,7 +1118,7 @@
         {
             "author": "Слава Сэ",
             "book": "Разводы",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "buyDate": "3/6/20",
             "price": "350",
             "shelf": "slava",
@@ -1125,7 +1127,7 @@
         {
             "author": "Славы Сэ",
             "book": "Маленькая опера",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "3/31/21",
             "price": "313",
@@ -1135,7 +1137,7 @@
         {
             "author": "Дуглас Коупленд",
             "book": "Generation Икс",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "1991",
             "shelf": "kouplend alternative",
             "img": "https://s1.livelib.ru/boocover/1000210801/o/61f6/Duglas_Kouplend__Generation_Iks.jpeg"
@@ -1161,7 +1163,7 @@
         {
             "author": "Дуглас Коупленд",
             "book": "Рабы «Майкрософта»",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "1995",
             "buyDate": "6/24/14",
             "price": "255",
@@ -1864,7 +1866,7 @@
         {
             "author": "Харуки Мураками",
             "book": "От первого лица",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "3/4/22",
             "readDate": "3/23/22",
@@ -2890,7 +2892,7 @@
         {
             "author": "Милдред Эбботт",
             "book": "Корги-детектив. Жестокие вкусняшки",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "8/23/20",
             "price": "289",
@@ -3662,6 +3664,7 @@
         {
             "author": "Маша Трауб",
             "book": "Вся la vie",
+            "web": "mp3",
             "year": "2007",
             "buyDate": "5/30/11",
             "price": "152",
@@ -3671,6 +3674,7 @@
         {
             "author": "Маша Трауб",
             "book": "Чужой",
+            "web": "mp3",
             "year": "2008",
             "buyDate": "4/20/12",
             "price": "159",
@@ -3689,6 +3693,7 @@
         {
             "author": "Маша Трауб",
             "book": "Дневник мамы первоклассника",
+            "web": "mp3",
             "year": "2008",
             "shelf": "traub",
             "img": "https://s1.livelib.ru/boocover/1000315053/o/b139/Masha_Traub__Dnevnik_mamy_pervoklassnika.jpeg"
@@ -3712,6 +3717,7 @@
         {
             "author": "Маша Трауб",
             "book": "Плохая мать",
+            "web": "mp3",
             "year": "2010",
             "buyDate": "12/17/12",
             "price": "193",
@@ -3721,6 +3727,7 @@
         {
             "author": "Маша Трауб",
             "book": "Про улитку и черепаху",
+            "web": "mp3",
             "year": "2010",
             "buyDate": "4/30/14",
             "price": "185",
@@ -3755,6 +3762,7 @@
         {
             "author": "Маша Трауб",
             "book": "Замочная скважина",
+            "web": "mp3",
             "year": "2012",
             "buyDate": "9/28/12",
             "price": "206",
@@ -3832,6 +3840,7 @@
         {
             "author": "Маша Трауб",
             "book": "Плюс один стул",
+            "web": "mp3",
             "year": "2014",
             "buyDate": "12/10/14",
             "price": "210",
@@ -3851,7 +3860,16 @@
         },
         {
             "author": "Маша Трауб",
+            "book": "Чужой ребенок",
+            "year": "2015",
+            "publisher": "Эксмо",
+            "shelf": "traub eksmo wishlist",
+            "img": "https://s1.livelib.ru/boocover/1001132667/o/db6f/Masha_Traub__Chuzhoj_rebenok.jpeg"
+        },
+        {
+            "author": "Маша Трауб",
             "book": "История момей мамы",
+            "web": "mp3",
             "year": "2015",
             "buyDate": "8/28/15",
             "price": "212",
@@ -3862,6 +3880,7 @@
         {
             "author": "Маша Трауб",
             "book": "Наша девочка",
+            "web": "mp3",
             "year": "2015",
             "buyDate": "11/26/15",
             "price": "222",
@@ -3872,6 +3891,7 @@
         {
             "author": "Маша Трауб",
             "book": "Шушана, Жужуна и другие родственники",
+            "web": "mp3",
             "year": "2016",
             "publisher": "Эксмо",
             "shelf": "traub eksmo",
@@ -3890,6 +3910,7 @@
         {
             "author": "Маша Трауб",
             "book": "Продается дом с дедушкой",
+            "web": "mp3",
             "year": "2016",
             "buyDate": "12/7/16",
             "price": "285",
@@ -3900,6 +3921,7 @@
         {
             "author": "Маша Трауб",
             "book": "Уважаемые отдыхающие!",
+            "web": "mp3",
             "year": "2017",
             "buyDate": "4/4/17",
             "price": "198",
@@ -3910,6 +3932,7 @@
         {
             "author": "Маша Трауб",
             "book": "Второй раз в первый класс",
+            "web": "mp3",
             "year": "2017",
             "buyDate": "9/20/17",
             "price": "261",
@@ -3930,6 +3953,7 @@
         {
             "author": "Маша Трауб",
             "book": "Моя бабушка - Лермонтов",
+            "web": "mp3",
             "year": "2018",
             "buyDate": "3/26/18",
             "price": "209",
@@ -3940,6 +3964,7 @@
         {
             "author": "Маша Трауб",
             "book": "Клоун Леша",
+            "web": "mp3",
             "year": "2018",
             "buyDate": "3/26/18",
             "price": "203",
@@ -3950,6 +3975,7 @@
         {
             "author": "Маша Трауб",
             "book": "Любовь со странностями и без",
+            "web": "mp3",
             "year": "2018",
             "buyDate": "9/21/18",
             "price": "221",
@@ -3960,6 +3986,7 @@
         {
             "author": "Маша Трауб",
             "book": "Миллиграммы счастья",
+            "web": "mp3",
             "year": "2018",
             "buyDate": "12/4/18",
             "price": "205",
@@ -3970,6 +3997,7 @@
         {
             "author": "Маша Трауб",
             "book": "На грани развода",
+            "web": "mp3",
             "year": "2019",
             "buyDate": "4/5/19",
             "price": "255",
@@ -3980,6 +4008,7 @@
         {
             "author": "Маша Трауб",
             "book": "Лишние дети",
+            "web": "mp3",
             "year": "2019",
             "buyDate": "7/22/19",
             "price": "221",
@@ -3990,6 +4019,7 @@
         {
             "author": "Маша Трауб",
             "book": "Бедабеда",
+            "web": "mp3",
             "year": "2019",
             "buyDate": "11/20/19",
             "price": "221",
@@ -4000,6 +4030,7 @@
         {
             "author": "Маша Трауб",
             "book": "Или я сейчас умру от счастья",
+            "web": "mp3",
             "year": "2020",
             "buyDate": "3/12/20",
             "price": "209",
@@ -4010,6 +4041,7 @@
         {
             "author": "Маша Трауб",
             "book": "Полное оZOOMление",
+            "web": "mp3",
             "year": "2020",
             "buyDate": "9/3/20",
             "price": "248",
@@ -4040,7 +4072,7 @@
         {
             "author": "Маша Трауб",
             "book": "Суп, второе и компот",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "8/18/21",
             "price": "284",
@@ -4062,23 +4094,24 @@
         {
             "author": "Маша Трауб",
             "book": "Когда мама - это ты",
+            "web": "mp3",
             "year": "2022",
             "buyDate": "3/23/22",
             "price": "317",
             "publisher": "Эксмо",
             "shelf": "traub eksmo 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001244250/COVER/cover1__w820.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007056744/o/1952/Masha_Traub__Kogda_mama__eto_ty.jpeg"
         },
         {
             "author": "Маша Трауб",
             "book": "Невозвратный билет",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "7/13/22",
             "price": "341",
             "publisher": "Эксмо",
             "shelf": "traub eksmo 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001244535/COVER/cover1__w820.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007417374/o/1575/Masha_Traub__Nevozvratnyj_bilet.jpeg"
         },
         {
             "author": "Маша Трауб",
@@ -4087,6 +4120,14 @@
             "publisher": "АСТ",
             "shelf": "traub ast wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007539522/o/c980/Masha_Traub__Kot_Tihon_ili_Pohischenie_Gollandtsa.jpeg"
+        },
+        {
+            "author": "Маша Трауб",
+            "book": "Кольцо из фольги",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "traub eksmo wishlist new 2022",
+            "img": "https://s1.livelib.ru/boocover/1007656474/o/9146/Masha_Traub__Koltso_iz_folgi.jpeg"
         },
         {
             "book": "Истории любви",
@@ -4144,6 +4185,7 @@
         {
             "author": "Маша Трауб",
             "book": "Русский язык с Машей Трауб",
+            "web": "pdf",
             "year": "2020",
             "buyDate": "11/18/20",
             "price": "273",
@@ -4153,6 +4195,7 @@
         {
             "author": "Маша Трауб и Василий Колесников",
             "book": "Физика с Машей Трауб и Василием Колесниковым",
+            "web": "pdf",
             "year": "2021",
             "buyDate": "5/2/21",
             "price": "278",
@@ -4171,6 +4214,7 @@
         {
             "author": "Владимир Сурдин",
             "book": "Астрономия с Владимиром Сурдиным",
+            "web": "pdf",
             "year": "2021",
             "buyDate": "8/13/21",
             "price": "301",
@@ -4198,6 +4242,7 @@
         {
             "author": "Дмитрий Быков",
             "book": "Литература с Дмитрием Быковым",
+            "web": "pdf",
             "year": "2022",
             "buyDate": "4/17/22",
             "price": "332",
@@ -4207,6 +4252,7 @@
         {
             "author": "Марк Кьюбан",
             "book": "Бизнес с миллиардером Марком Кьюбаном",
+            "web": "pdf",
             "year": "2022",
             "buyDate": "6/8/22",
             "price": "360",
@@ -4314,7 +4360,7 @@
         {
             "author": "Джон Стейнбек",
             "book": "О мышах и людях. Жемчужина",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "buyDate": "10/21/18",
             "price": "215",
             "img": "https://s1.livelib.ru/boocover/1002680579/o/99e7/Dzhon_Stejnbek__O_myshah_i_lyudyah._Zhemchuzhina_sbornik.jpeg"
@@ -4700,7 +4746,7 @@
         {
             "author": "Эшли Вэнс",
             "book": "Илон Маск: Tesla, SpaceX и дорога в будущее",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "buyDate": "7/3/20",
             "price": "620",
             "shelf": "elon-musk space",
@@ -4725,7 +4771,7 @@
         {
             "author": "Мэй Маск",
             "book": "Женщина, у которой есть план. Правила счастливой жизни",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "3/31/21",
             "price": "408",
@@ -5177,6 +5223,7 @@
         {
             "author": "Мэтт Хейг",
             "book": "Выдающиеся брэнды",
+            "web": "pdf",
             "shelf": "heig wishlist",
             "img": "https://s1.livelib.ru/boocover/1000153842/o/b343/Mett_Hejg__Vydayuschiesya_brendy.jpeg"
         },
@@ -5251,7 +5298,7 @@
         {
             "author": "Мэтт Хейг",
             "book": "Люди и я",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2014",
             "publisher": "Синдбад",
             "shelf": "heig sindbad wishlist",
@@ -5272,7 +5319,7 @@
         {
             "author": "Мэтт Хейг",
             "book": "Как остановить время",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2019",
             "buyDate": "7/16/21",
             "price": "448",
@@ -5283,7 +5330,7 @@
         {
             "author": "Мэтт Хейг",
             "book": "Полночная библиотека",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "2/3/21",
             "readDate": "7/12/21",
@@ -9155,6 +9202,7 @@
             "id": "343",
             "author": "Гилберт К. Честертон",
             "book": "Бэзил Хоу. Наши перспективы",
+            "web": "fb2",
             "year": "2015",
             "publisher": "Corpus",
             "shelf": "corpus wishlist",
@@ -9182,6 +9230,7 @@
             "id": "346",
             "author": "Энн Эпплбаум",
             "book": "ГУЛАГ",
+            "web": "fb2",
             "year": "2015",
             "publisher": "Corpus",
             "shelf": "corpus wishlist",
@@ -9191,6 +9240,7 @@
             "id": "347",
             "author": "Сергей Плохий",
             "book": "Последняя империя. Падение Советского Союза",
+            "web": "fb2",
             "year": "2015",
             "publisher": "Corpus",
             "shelf": "corpus plokhy wishlist",
@@ -10263,6 +10313,7 @@
             "web": "mp3 fb2",
             "year": "2017",
             "buyDate": "9/23/20",
+            "readDate": "11/28/22",
             "price": "446.5",
             "publisher": "Corpus",
             "shelf": "ianagihara corpus",
@@ -12321,7 +12372,7 @@
             "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus shubin elements2 zimin wishlist 2022",
+            "shelf": "corpus shubin elements2 zimin wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/cover-vnutr-ryba-new.jpg"
         },
         {
@@ -13285,14 +13336,6 @@
             "img": "https://www.corpus.ru/picts/products/cover1-molodost-new.jpg"
         },
         {
-            "author": "Карин Тюиль",
-            "book": "Дела человеческие",
-            "year": "2022",
-            "publisher": "Corpus",
-            "shelf": "corpus tuile wishlist 2022",
-            "img": "https://www.corpus.ru/picts/products/cover1-dela-tuil-kino.jpg"
-        },
-        {
             "author": "Уолтер Айзексон",
             "book": "Взломавшая код. Дженнифер Даудна, редактирование генома и будущее человечества",
             "year": "2022",
@@ -13335,8 +13378,10 @@
             "author": "Сергей Лебедев",
             "book": "Титан",
             "year": "2022",
+            "buyDate": "11/29/22",
+            "price": "499",
             "publisher": "Corpus",
-            "shelf": "corpus lebedev wishlist new 2022",
+            "shelf": "corpus lebedev 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-titan.jpg"
         },
         {
@@ -13371,6 +13416,22 @@
             "publisher": "Corpus",
             "shelf": "corpus wishlist new 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000862026/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Мигель Николелис",
+            "book": "Истинный творец всего. Как человеческий мозг сформировал вселенную в том виде, в котором мы ее воспринимаем",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus elements2 zimin wishlist 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000853265/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Аньес Мартен-Люган",
+            "book": "Дом на берегу океана, где мы были счастливы",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist martin-lugand new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000866809/COVER/cover1__w600.jpg"
         },
         {
             "author": "Джон Ле Карре",
@@ -13996,6 +14057,15 @@
             "publisher": "Corpus",
             "shelf": "corpus morgenstern wishlist",
             "img": "https://www.corpus.ru/picts/products/Morgenstern-Circus-obl.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Карин Тюиль",
+            "book": "Дела человеческие",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus tuile wishlist 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-dela-tuil-kino.jpg"
         },
         {
             "id": "n",
@@ -19747,6 +19817,7 @@
         {
             "author": "Алекс Финли",
             "book": "Все до последнего страхи",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-usa wishlist 2022",
@@ -19982,7 +20053,7 @@
         {
             "author": "Стефани Эванович",
             "book": "Любовь без размера",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2022",
@@ -20064,6 +20135,7 @@
         {
             "author": "Ребекка Рейсин",
             "book": "Чайный фургончик Рози",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake reisin wishlist 2022",
@@ -21182,6 +21254,7 @@
         {
             "author": "Линда Сауле",
             "book": "Водомерка",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
@@ -21198,6 +21271,7 @@
         {
             "author": "Вирджиния Фейто",
             "book": "Миссис Марч",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
@@ -21234,6 +21308,24 @@
             "shelf": "eksmo inspiria novel wishlist 2022"
         },
         {
+            "author": "Пис Аджо Медие",
+            "book": "Новая Афи",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria novel wishlist 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001249950/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Люси Колман",
+            "book": "Лето в Провансе",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria novel wishlist 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001234143/COVER/cover1__w820.webp"
+        },
+        {
             "author": "Долли Ольдертон",
             "book": "Фантомы",
             "year": "2022",
@@ -21248,24 +21340,9 @@
             "shelf": "eksmo inspiria novel wishlist 2022"
         },
         {
-            "author": "Люси Колман",
-            "book": "Лето в Провансе",
-            "year": "2022",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria novel wishlist 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001234143/COVER/cover1__w820.webp"
-        },
-        {
-            "author": "Пис Аджо Медие",
-            "book": "Новая Афи",
-            "year": "2022",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria novel wishlist 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001249950/COVER/cover1__w820.jpg"
-        },
-        {
             "author": "А. К. Блэйкмор",
             "book": "Ведьмы графства Эссекс",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
