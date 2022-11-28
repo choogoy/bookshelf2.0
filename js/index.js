@@ -113,6 +113,15 @@ document.addEventListener('DOMContentLoaded', () => {
                     } else if (category === 'Прочитанные') {
                         const readBooks = response.filter(item => item.readDate);
                         pagination(readBooks.length, 12, 1, readBooks);
+                    } else if (category === 'Только бумажные книги') {
+                        console.log(response);
+                        const paperBooks = response.filter(item => {
+                            if (item.web.length === 0 & !item.shelf.includes('wishlist')) {
+                                return item;
+                            }
+                        });
+                        console.log(paperBooks);
+                        pagination(paperBooks.length, 12, 1, paperBooks);
                     } else if (category === 'Без категории') {
                         const booksNoTags = response.filter(item => item.shelf == '');
                         pagination(booksNoTags.length, 12, 1, booksNoTags);                 
