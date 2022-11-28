@@ -10313,7 +10313,7 @@
             "web": "mp3 fb2",
             "year": "2017",
             "buyDate": "9/23/20",
-            "readDate": "11/28/22",
+            "readDate": "11/27/22",
             "price": "446.5",
             "publisher": "Corpus",
             "shelf": "ianagihara corpus",
@@ -13194,6 +13194,7 @@
             "id": "722",
             "author": "Бен Макинтайр",
             "book": "Агент Соня. Любовница, мать, шпионка, боец",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "8/22/22",
             "price": "665",
@@ -13267,7 +13268,7 @@
             "author": "Гвидо Тонелли",
             "book": "Книга бытия. Общая история происхождения",
             "year": "2022",
-            "buyDate": "11/28/22",
+            "buyDate": "11/29/22",
             "price": "449",
             "publisher": "Corpus",
             "shelf": "corpus elements2 zimin 2022",
@@ -13304,6 +13305,7 @@
             "id": "734",
             "author": "Амели Нотомб",
             "book": "Аэростаты. Первая кровь",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "11/8/22",
             "price": "372",
@@ -13328,6 +13330,7 @@
             "img": "https://www.corpus.ru/picts/products/cover1-voshozdenie-deneg.jpg"
         },
         {
+            "id": "739",
             "author": "Паоло Соррентино",
             "book": "Молодость",
             "year": "2022",
@@ -13350,7 +13353,7 @@
             "author": "Дженнифер Сэйнт",
             "book": "Ариадна",
             "year": "2022",
-            "buyDate": "11/28/22",
+            "buyDate": "11/29/22",
             "price": "411",
             "publisher": "Corpus",
             "shelf": "corpus 2022",
@@ -13378,7 +13381,7 @@
             "author": "Сергей Лебедев",
             "book": "Титан",
             "year": "2022",
-            "buyDate": "11/29/22",
+            "buyDate": "11/30/22",
             "price": "499",
             "publisher": "Corpus",
             "shelf": "corpus lebedev 2022",
@@ -13406,7 +13409,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus elements2 zimin wishlist 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000858469/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-neutron-zvezdy.jpg"
         },
         {
             "id": "749",
@@ -13415,7 +13418,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000862026/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-erve.jpg"
         },
         {
             "author": "Мигель Николелис",
@@ -14968,6 +14971,7 @@
         {
             "author": "Рэйчел Свейби",
             "book": "52 упрямые женщины: Ученые, которые изменили мир",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "11/8/22",
             "price": "353",
@@ -15032,6 +15036,7 @@
         {
             "author": "Сергей Лебеденко",
             "book": "(не)свобода",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "6/28/22",
             "readDate": "8/15/22",
@@ -15411,6 +15416,7 @@
         {
             "author": "Ти Джей Ньюман",
             "book": "Падение",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "9/20/22",
             "price": "393",
@@ -15431,6 +15437,7 @@
         {
             "author": "Саяка Мурата",
             "book": "Земляноиды",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Popcorn Books",
             "shelf": "murata wishlist 2022",
@@ -15541,6 +15548,7 @@
         {
             "author": "Габриэль Зевин",
             "book": "Завтра, завтра, завтра",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif wishlist 2022",
@@ -15549,10 +15557,11 @@
         {
             "author": "Никки Эрлик",
             "book": "Когда порвется нить",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif wishlist 2022",
-            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/98/29798/1.00x-thumb.png"
+            "img": "https://s1.livelib.ru/boocover/1007570479/o/a3a2/Nikki_Erlik__Kogda_porvetsya_nit.jpeg"
         },
         {
             "author": "Санта Монтефиоре",
@@ -15674,6 +15683,7 @@
         {
             "author": "Джон Гвинн",
             "book": "Тень богов",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif wishlist 2022",
@@ -15765,6 +15775,7 @@
         {
             "author": "Митико Аояма",
             "book": "Вы найдете это в библиотеке",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "10/29/22",
             "price": "405",
@@ -15775,6 +15786,7 @@
         {
             "author": "Керри Мейер",
             "book": "Книжный на левом берегу Сены",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "11/7/22",
             "price": "622",
@@ -16146,6 +16158,7 @@
         {
             "author": "Джон Дуглас и Марк Олшейкер",
             "book": "Тень убийцы. Охота профайлера ФБР на серийного убийцу-расиста",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo duglas wishlist 2022",
@@ -16163,6 +16176,7 @@
         {
             "author": "Джон Дуглас и Марк Олшейкер",
             "book": "Когда звонит убийца. Легендарный профайлер ФБР вычисляет маньяка в маленьком городке",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo duglas wishlist 2022",
@@ -16347,6 +16361,7 @@
         {
             "author": "Холли Мартин",
             "book": "Счастье у моря",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo martin sentimental wishlist 2020",
@@ -16355,6 +16370,7 @@
         {
             "author": "Холли Мартин",
             "book": "Лето мечтаний",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo martin sentimental wishlist 2020",
@@ -16363,6 +16379,7 @@
         {
             "author": "Изабелль Брум",
             "book": "Год и один день",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Эксмо",
             "shelf": "eksmo brum sentimental wishlist 2020",
@@ -16811,6 +16828,7 @@
         {
             "author": "Джилл Байден",
             "book": "Там, где свет. История первой леди США",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "11/29/21",
             "price": "317",
@@ -16821,6 +16839,7 @@
         {
             "author": "Омид Скоби и Кэролин Дюран",
             "book": "Гарри и Меган. Выбирая свободу",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "8/14/22",
             "price": "348",
@@ -16995,6 +17014,7 @@
         {
             "author": "Мэри Тернер Томсон",
             "book": "Муж под прикрытием. Шесть жизней мистера Джордана",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "7/23/22",
             "price": "369",
@@ -17015,6 +17035,7 @@
         {
             "author": "Райан Уилсон",
             "book": "Дневник учителя. Истории о школьной жизни, которые обычно держат в секрете",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "10/24/22",
             "price": "251",
@@ -17974,6 +17995,7 @@
         {
             "author": "Син Кёнсук",
             "book": "Прошу, найди маму",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2021",
@@ -18027,6 +18049,7 @@
         {
             "author": "Арто Паасилинна",
             "book": "Лес повешенных лисиц",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern paasilinna wishlist 2022",
@@ -18200,6 +18223,7 @@
         {
             "author": "Луиза Эрдрич",
             "book": "Ночной сторож",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-buker wishlist 2022",
@@ -18410,6 +18434,7 @@
         {
             "author": "Джессика Ау",
             "book": "Скоро пойдет снег",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft wishlist 2022",
@@ -18467,7 +18492,8 @@
             "book": "Новое Будущее",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria loft-culture wishlist 2022"
+            "shelf": "eksmo inspiria loft-culture wishlist 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001294474/COVER/cover1__w820.jpg"
         },
         {
             "author": "Дэниел Киз",
@@ -20070,6 +20096,7 @@
         {
             "author": "Фири Макфолен",
             "book": "Если бы я не встретила тебя",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2022",
@@ -20111,6 +20138,7 @@
         {
             "author": "Сьюзен Мэллери",
             "book": "Три судьбы под солнцем",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2022",
@@ -20119,7 +20147,7 @@
         {
             "author": "Кей Джей Дель’Антониа",
             "book": "Кулинарная битва",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2022",
@@ -21935,7 +21963,8 @@
             "book": "Ариэль",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria air wishlist 2022"
+            "shelf": "eksmo inspiria air wishlist 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001049356/COVER/cover1__w820.jpg"
         },
         {
             "author": "Андреас Грубер",
