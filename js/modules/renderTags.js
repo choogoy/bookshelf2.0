@@ -18,6 +18,9 @@ const renderTags = data => {
             <div class="nav-category">Прочитанные</div>          
         </li>
         <li class="categories__item">        
+            <div class="nav-category">Только бумажные книги</div>          
+        </li>
+        <li class="categories__item">        
             <div class="nav-category">Без категории</div>          
         </li>`);
 
