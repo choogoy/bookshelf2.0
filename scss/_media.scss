@@ -100,6 +100,38 @@
       }
     }
 
+    .item-pdf::after {
+      content: "pdf";
+      position: absolute;
+      font-size: 12px;
+      bottom: 5px;
+      left: 5px;
+    }
+  
+    .item-mp3::after {
+      content: "audio";
+      position: absolute;
+      font-size: 12px;
+      bottom: 5px;
+      left: 5px;
+    }
+  
+    .item-fb2::after {
+      content: "e-book";
+      position: absolute;
+      font-size: 12px;
+      bottom: 5px;
+      left: 5px;
+    }
+  
+    .item-fb2.item-mp3::after {
+      content: "e-book/audio";
+      position: absolute;
+      font-size: 12px;
+      bottom: 5px;
+      left: 5px;
+    }
+
     .book-name {
       padding: 0 5px;
       min-height: 20px;
@@ -108,6 +140,11 @@
     .book-footer {
       margin-bottom: 0;
     }
+
+    .book-readdate {
+      margin-bottom: 20px;
+    }
+
     .book-add-to-cart {
       right: 5px;
     }
