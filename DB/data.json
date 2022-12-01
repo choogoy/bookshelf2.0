@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -3997,7 +3997,7 @@
         {
             "author": "Маша Трауб",
             "book": "На грани развода",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2019",
             "buyDate": "4/5/19",
             "price": "255",
@@ -4008,7 +4008,7 @@
         {
             "author": "Маша Трауб",
             "book": "Лишние дети",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2019",
             "buyDate": "7/22/19",
             "price": "221",
@@ -4019,7 +4019,7 @@
         {
             "author": "Маша Трауб",
             "book": "Бедабеда",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2019",
             "buyDate": "11/20/19",
             "price": "221",
@@ -4030,7 +4030,7 @@
         {
             "author": "Маша Трауб",
             "book": "Или я сейчас умру от счастья",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "3/12/20",
             "price": "209",
@@ -4041,7 +4041,7 @@
         {
             "author": "Маша Трауб",
             "book": "Полное оZOOMление",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "9/3/20",
             "price": "248",
@@ -4052,6 +4052,7 @@
         {
             "author": "Маша Трауб",
             "book": "Плохая дочь",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "12/4/20",
             "price": "261",
@@ -4062,6 +4063,7 @@
         {
             "author": "Маша Трауб",
             "book": "Не мамкай!",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "5/2/21",
             "price": "302",
@@ -4125,8 +4127,10 @@
             "author": "Маша Трауб",
             "book": "Кольцо из фольги",
             "year": "2022",
+            "buyDate": "12/2/22",
+            "price": "311",
             "publisher": "Эксмо",
-            "shelf": "traub eksmo wishlist new 2022",
+            "shelf": "traub eksmo 2022",
             "img": "https://s1.livelib.ru/boocover/1007656474/o/9146/Masha_Traub__Koltso_iz_folgi.jpeg"
         },
         {
@@ -4353,6 +4357,7 @@
         {
             "author": "Джордж Оруэлл",
             "book": "1984",
+            "web": "mp3 fb2",
             "buyDate": "10/21/18",
             "price": "215",
             "img": "https://s1.livelib.ru/boocover/1003634811/o/d070/Dzhordzh_Oruell__1984.jpeg"
@@ -4362,6 +4367,7 @@
             "book": "О мышах и людях. Жемчужина",
             "web": "mp3 fb2",
             "buyDate": "10/21/18",
+            "readDate": "11/29/22",
             "price": "215",
             "img": "https://s1.livelib.ru/boocover/1002680579/o/99e7/Dzhon_Stejnbek__O_myshah_i_lyudyah._Zhemchuzhina_sbornik.jpeg"
         },
@@ -5322,6 +5328,7 @@
             "web": "mp3 fb2",
             "year": "2019",
             "buyDate": "7/16/21",
+            "readDate": "12/2/22",
             "price": "448",
             "publisher": "Синдбад",
             "shelf": "heig sindbad",
@@ -5462,6 +5469,7 @@
         {
             "author": "Кристин Анго",
             "book": "Почему Бразилия?",
+            "web": "fb2",
             "buyDate": "10/13/20",
             "price": "83",
             "shelf": "inostranka",
@@ -5470,6 +5478,7 @@
         {
             "author": "Тим Лотт",
             "book": "Любовные секреты Дон Жуана",
+            "web": "fb2",
             "buyDate": "11/17/20",
             "price": "72",
             "shelf": "inostranka",
@@ -5478,6 +5487,7 @@
         {
             "author": "Джозеф О'Коннор",
             "book": "Ковбои и индейцы",
+            "web": "fb2",
             "year": "2002",
             "buyDate": "11/23/20",
             "price": "260",
@@ -5485,17 +5495,9 @@
             "img": "https://s1.livelib.ru/boocover/1000020139/o/f4cd/Dzhozef_Oampamp039Konnor__Kovboi_i_indejtsy.jpeg"
         },
         {
-            "author": "Амели Нотомб",
-            "book": "Антихриста",
-            "year": "2005",
-            "buyDate": "11/28/20",
-            "price": "250",
-            "shelf": "inostranka notomb",
-            "img": "https://s1.livelib.ru/boocover/1000107708/o/1823/Ameli_Notomb__Antihrista.jpeg"
-        },
-        {
             "author": "Януш Гловацкий",
             "book": "Последний сторож",
+            "web": "fb2",
             "year": "2004",
             "buyDate": "11/28/20",
             "price": "300",
@@ -5505,6 +5507,7 @@
         {
             "author": "Ник Хорнби",
             "book": "Мой мальчик",
+            "web": "fb2",
             "buyDate": "2/13/21",
             "price": "249",
             "shelf": "inostranka",
@@ -5513,6 +5516,7 @@
         {
             "author": "Ник Хорнби",
             "book": "Hi-Fi",
+            "web": "fb2",
             "buyDate": "2/13/21",
             "price": "335",
             "shelf": "inostranka",
@@ -5521,10 +5525,323 @@
         {
             "author": "Уилл Селф",
             "book": "Обезьяны",
+            "web": "fb2",
             "buyDate": "11/18/21",
             "price": "284",
             "shelf": "inostranka",
             "img": "https://s1.livelib.ru/boocover/1000113323/o/d02a/Uill_Self__Obezyany.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Гигиена убийцы",
+            "web": "fb2",
+            "year": "2005",
+            "publisher": "Symposium",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000115009/o/0a7a/Ameli_Notomb__Gigiena_ubijtsy.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Гигиена убийцы",
+            "web": "fb2",
+            "year": "2011",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000456497/o/33e8/Ameli_Notomb__Gigiena_ubijtsy.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Гигиена убийцы. Ртуть",
+            "web": "fb2",
+            "year": "2014",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000966306/o/d537/Ameli_Notomb__Gigiena_ubijtsy._Rtut_sbornik.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Катилинарии. Пеплум. Топливо",
+            "web": "fb2",
+            "year": "2011",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000475263/o/5e0f/Ameli_Notomb__Katilinarii._Peplum._Toplivo_sbornik.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Преступление. Ртуть",
+            "web": "fb2",
+            "year": "2003",
+            "shelf": "notomb inostranka wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000261627/o/c94f/Ameli_Notomb__Prestuplenie._Rtut_sbornik.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Страх и трепет",
+            "web": "mp3 fb2",
+            "year": "2002",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000448117/o/0f09/Ameli_Notomb__Strah_i_trepet.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Страх и трепет",
+            "web": "mp3 fb2",
+            "year": "2006",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000182286/o/d24b/Ameli_Notomb__Strah_i_trepet.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Страх и трепет",
+            "web": "mp3 fb2",
+            "year": "2010",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000456495/o/33e8/Ameli_Notomb__Strah_i_trepet.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Страх и трепет. Токийская невеста",
+            "web": "fb2",
+            "year": "2014",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000926841/o/6fe3/Ameli_Notomb__Strah_i_trepet._Tokijskaya_nevesta_sbornik.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Страх и трепет. Токийская невеста",
+            "web": "fb2",
+            "year": "2015",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1001281256/o/f608/Ameli_Notomb__Strah_i_trepet._Tokijskaya_nevesta_sbornik.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Страх и трепет. Токийская невеста",
+            "web": "fb2",
+            "year": "2015",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1001458526/o/c5b6/Ameli_Notomb__Strah_i_trepet._Tokijskaya_nevesta_sbornik.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Метафизика труб. Косметика врага",
+            "year": "2003",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000334662/o/cca2/Ameli_Notomb__Metafizika_trub._Kosmetika_vraga_sbornik.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Метафизика труб",
+            "web": "mp3 fb2",
+            "year": "2009",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002369682/o/23b1/Ameli_Notomb__Metafizika_trub.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Метафизика труб",
+            "web": "mp3 fb2",
+            "year": "2010",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000308273/o/4550/Ameli_Notomb__Metafizika_trub.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Косметика врага",
+            "web": "fb2",
+            "year": "2009",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000314387/o/4657/Ameli_Notomb__Kosmetika_vraga.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Косметика врага. Серная кислота",
+            "year": "2017",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002652985/o/0fd7/Ameli_Notomb__Kosmetika_vraga._Sernaya_kislota_sbornik.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Словарь имён собственных",
+            "web": "mp3 fb2",
+            "year": "2004",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000093764/o/86e9/Ameli_Notomb__Slovar_imen_sobstvennyh.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Словарь имён собственных",
+            "web": "mp3 fb2",
+            "year": "2007",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000319685/o/3de0/Ameli_Notomb__Slovar_imen_sobstvennyh.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Словарь имен собственных. Метафизика труб",
+            "web": "fb2",
+            "year": "2015",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1001420429/o/93c2/Ameli_Notomb__Slovar_imen_sobstvennyh._Metafizika_trub_sbornik.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Антихриста",
+            "web": "mp3 fb2",
+            "year": "2005",
+            "buyDate": "11/28/20",
+            "price": "250",
+            "shelf": "inostranka notomb",
+            "img": "https://s1.livelib.ru/boocover/1000107708/o/1823/Ameli_Notomb__Antihrista.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Антихриста",
+            "web": "mp3 fb2",
+            "year": "2007",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000273095/o/b9b8/Ameli_Notomb__Antihrista.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Антихриста",
+            "web": "mp3 fb2",
+            "year": "2011",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000526660/o/6616/Ameli_Notomb__Antihrista.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Биография голода. Любовный саботаж",
+            "web": "fb2",
+            "year": "2006",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000169200/o/8e4b/Ameli_Notomb__Biografiya_goloda._Lyubovnyj_sabotazh_sbornik.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Биография голода. Любовный саботаж",
+            "web": "fb2",
+            "year": "2011",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000598387/o/bc16/Ameli_Notomb__Biografiya_goloda._Lyubovnyj_sabotazh_sbornik.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Серная кислота. Дневник Ласточки",
+            "web": "fb2",
+            "year": "2008",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000306913/o/1091/Ameli_Notomb__Sernaya_kislota._Dnevnik_Lastochki_sbornik.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Токийская невеста",
+            "web": "fb2",
+            "year": "2010",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000328131/o/34dd/Ameli_Notomb__Tokijskaya_nevesta.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Токийская невеста",
+            "web": "fb2",
+            "year": "2011",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000495719/o/a9a1/Ameli_Notomb__Tokijskaya_nevesta.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Кодекс принца",
+            "web": "fb2",
+            "year": "2010",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002924254/o/48ea/Ameli_Notomb__Kodeks_printsa.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Кодекс принца. Антихриста",
+            "web": "fb2",
+            "year": "2014",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1001004750/o/dd4f/Ameli_Notomb__Kodeks_printsa._Antihrista_sbornik.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Зимний путь",
+            "web": "mp3 fb2",
+            "year": "2010",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000440404/o/e4e0/Ameli_Notomb__Zimnij_put.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Форма жизни",
+            "web": "fb2",
+            "year": "2011",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000474788/o/5e0f/Ameli_Notomb__Forma_zhizni.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Форма жизни. Катилинарии",
+            "year": "2017",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002693332/o/f246/Ameli_Notomb__Forma_zhizni._Katilinarii_sbornik.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Человек огня",
+            "web": "fb2",
+            "year": "2012",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000569111/o/17fc/Ameli_Notomb__Chelovek_ognya.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Синяя Борода",
+            "web": "mp3 fb2",
+            "year": "2013",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000668679/o/3c08/Ameli_Notomb__Sinyaya_Boroda.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Синяя Борода",
+            "web": "mp3 fb2",
+            "year": "2013",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000777529/o/b8ea/Ameli_Notomb__Sinyaya_Boroda.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Счастливая ностальгия. Петронилла",
+            "web": "fb2",
+            "year": "2015",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1001295652/o/7360/Ameli_Notomb__Schastlivaya_nostalgiya._Petronilla_sbornik.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Счастливая ностальгия. Петронилла",
+            "web": "fb2",
+            "year": "2017",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002326949/o/c14c/Ameli_Notomb__Schastlivaya_nostalgiya._Petronilla.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Преступление графа Невиля. Рике с Хохолком",
+            "web": "fb2",
+            "year": "2017",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002709553/o/8ed6/Ameli_Notomb__Prestuplenie_grafa_Nevilya._Rike_s_Hoholkom_sbornik.jpeg"
+        },
+        {
+            "author": "Амели Нотомб",
+            "book": "Тайны сердца. Загадка имени",
+            "web": "fb2",
+            "year": "2019",
+            "shelf": "notomb wishlist",
+            "img": "https://s1.livelib.ru/boocover/1003022403/o/4232/Ameli_Notomb__Tajny_serdtsa._Zagadka_imeni_sbornik.jpeg"
         },
         {
             "id": "n",
@@ -11212,7 +11529,7 @@
             "web": "fb2",
             "year": "2019",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist",
+            "shelf": "corpus aramburu wishlist",
             "img": "https://www.corpus.ru/picts/products/Aramburu-Rodina-1000.jpg"
         },
         {
@@ -13268,7 +13585,7 @@
             "author": "Гвидо Тонелли",
             "book": "Книга бытия. Общая история происхождения",
             "year": "2022",
-            "buyDate": "11/29/22",
+            "buyDate": "12/1/22",
             "price": "449",
             "publisher": "Corpus",
             "shelf": "corpus elements2 zimin 2022",
@@ -13353,7 +13670,7 @@
             "author": "Дженнифер Сэйнт",
             "book": "Ариадна",
             "year": "2022",
-            "buyDate": "11/29/22",
+            "buyDate": "12/1/22",
             "price": "411",
             "publisher": "Corpus",
             "shelf": "corpus 2022",
@@ -13381,7 +13698,7 @@
             "author": "Сергей Лебедев",
             "book": "Титан",
             "year": "2022",
-            "buyDate": "11/30/22",
+            "buyDate": "12/2/22",
             "price": "499",
             "publisher": "Corpus",
             "shelf": "corpus lebedev 2022",
@@ -13391,8 +13708,10 @@
             "author": "Владимир Набоков",
             "book": "Истинная жизнь Севастьяна Найта",
             "year": "2022",
+            "buyDate": "12/12/22",
+            "price": "1",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new 2022",
+            "shelf": "corpus nabokov 2022",
             "img": "https://www.corpus.ru/picts/products/sover1-sebastian.jpg"
         },
         {
@@ -13435,6 +13754,14 @@
             "publisher": "Corpus",
             "shelf": "corpus wishlist martin-lugand new 2022",
             "img": "https://cdn.ast.ru/v2/ASE000000000866809/COVER/cover1__w600.jpg"
+        },
+        {
+            "author": "Фернандо Арамбуру",
+            "book": "Стрижи",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus aramburu wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000862588/COVER/cover1__w600.jpg"
         },
         {
             "author": "Джон Ле Карре",
@@ -16431,11 +16758,355 @@
             "author": "Джули Кэплин",
             "book": "Отель «Северное сияние»",
             "year": "2022",
-            "buyDate": "11/30/22",
+            "buyDate": "12/25/22",
             "price": "329",
             "publisher": "Эксмо",
             "shelf": "eksmo kaplin sentimental 2022",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001249975/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Сара Джио",
+            "book": "Фиалки в марте",
+            "year": "2015",
+            "publisher": "Эксмо",
+            "shelf": "eksmo jio wishlist",
+            "img": "https://s1.livelib.ru/boocover/1001118035/o/bb10/Sara_Dzhio__Fialki_v_marte.jpeg"
+        },
+        {
+            "author": "Сара Джио",
+            "book": "Солёный ветер",
+            "year": "2015",
+            "publisher": "Эксмо",
+            "shelf": "eksmo jio wishlist",
+            "img": "https://s1.livelib.ru/boocover/1001292515/o/bfef/Sara_Dzhio__Solenyj_veter.jpeg"
+        },
+        {
+            "author": "Сара Джио",
+            "book": "Ежевичная зима",
+            "year": "2014",
+            "publisher": "Эксмо",
+            "shelf": "eksmo jio wishlist",
+            "img": "https://s1.livelib.ru/boocover/1001000408/o/f8a0/Sara_Dzhio__Ezhevichnaya_zima.jpeg"
+        },
+        {
+            "author": "Сара Джио",
+            "book": "Последняя камелия",
+            "year": "2015",
+            "publisher": "Эксмо",
+            "shelf": "eksmo jio wishlist",
+            "img": "https://s1.livelib.ru/boocover/1001432554/o/d30f/Sara_Dzhio__Poslednyaya_kameliya.jpeg"
+        },
+        {
+            "author": "Сара Джио",
+            "book": "Утреннее сияние",
+            "year": "2016",
+            "publisher": "Эксмо",
+            "shelf": "eksmo jio wishlist",
+            "img": "https://s1.livelib.ru/boocover/1001504276/o/dc95/Sara_Dzhio__Utrennee_siyanie.jpeg"
+        },
+        {
+            "author": "Сара Джио",
+            "book": "Лунная тропа",
+            "year": "2016",
+            "publisher": "Эксмо",
+            "shelf": "eksmo jio wishlist",
+            "img": "https://s1.livelib.ru/boocover/1001597844/o/f4af/Sara_Dzhio__Lunnaya_tropa.jpeg"
+        },
+        {
+            "author": "Сара Джио",
+            "book": "Тихие слова любви",
+            "year": "2017",
+            "publisher": "Эксмо",
+            "shelf": "eksmo jio wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002097801/o/ded3/Sara_Dzhio__Tihie_slova_lyubvi.jpeg"
+        },
+        {
+            "author": "Сара Джио",
+            "book": "Среди тысячи лиц",
+            "year": "2017",
+            "publisher": "Эксмо",
+            "shelf": "eksmo jio wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002586248/o/7a52/Sara_Dzhio__Sredi_tysyachi_lits.jpeg"
+        },
+        {
+            "author": "Сара Джио",
+            "book": "Назад к тебе",
+            "year": "2018",
+            "publisher": "Эксмо",
+            "shelf": "eksmo jio wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002803058/o/86bf/Sara_Dzhio__Nazad_k_tebe.jpeg"
+        },
+        {
+            "author": "Сара Джио",
+            "book": "Все цветы Парижа",
+            "year": "2019",
+            "publisher": "Эксмо",
+            "shelf": "eksmo jio wishlist",
+            "img": "https://s1.livelib.ru/boocover/1003272121/o/b7d1/Sara_Dzhio__Vse_tsvety_Parizha.jpeg"
+        },
+        {
+            "author": "Сара Джио",
+            "book": "With Love from London: A Novel",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo jio wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007047018/o/430e/Sara_Dzhio__With_Love_from_London_A_Novel.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "In the Shadow of the Moon",
+            "year": "2000",
+            "shelf": "karen-white wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006087999/o/ec52/Karen_Uajt__In_the_Shadow_of_the_Moon.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "Whispers of Goodbye",
+            "year": "2001",
+            "shelf": "karen-white wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006087993/o/a175/Karen_Uajt__Whispers_of_Goodbye.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "Колыбельная звезд",
+            "year": "2018",
+            "publisher": "Эксмо",
+            "shelf": "eksmo karen-white wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002762345/o/56d1/Karen_Uajt__Kolybelnaya_zvezd.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "Pieces of the Heart",
+            "year": "2006",
+            "shelf": "karen-white wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002133568/o/a6a4/Karen_White__Pieces_of_the_Heart.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "Learning to Breathe",
+            "year": "2007",
+            "shelf": "karen-white wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002133570/o/983b/Karen_White__Learning_to_Breathe.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "The Memory of Water",
+            "year": "2008",
+            "shelf": "karen-white wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002133559/o/1612/Karen_White__The_Memory_of_Water.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "The Lost Hours",
+            "year": "2009",
+            "shelf": "karen-white wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002133562/o/1922/Karen_White__The_Lost_Hours.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "Рапсодия ветреного острова",
+            "year": "2016",
+            "publisher": "Эксмо",
+            "shelf": "eksmo karen-white wishlist",
+            "img": "https://s1.livelib.ru/boocover/1001559744/o/4e2b/Karen_Uajt__Rapsodiya_vetrenogo_ostrova.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "The Beach Trees",
+            "year": "2011",
+            "shelf": "karen-white wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000510370/o/c9f0/Karen_White__The_Beach_Trees.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "Танцующая на гребне волны",
+            "year": "2016",
+            "publisher": "Эксмо",
+            "shelf": "eksmo karen-white wishlist",
+            "img": "https://s1.livelib.ru/boocover/1001948998/o/6fa7/Karen_Uajt__Tantsuyuschaya_na_grebne_volny.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "Между прошлым и будущим",
+            "year": "2017",
+            "publisher": "Эксмо",
+            "shelf": "eksmo karen-white wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002414276/o/9566/Karen_Uajt__Mezhdu_proshlym_i_buduschim.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "Одна среди туманов",
+            "year": "2017",
+            "publisher": "Эксмо",
+            "shelf": "eksmo karen-white wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002682532/o/6302/Karen_Uajt__Odna_sredi_tumanov.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "Музыка ветра",
+            "year": "2018",
+            "publisher": "Эксмо",
+            "shelf": "eksmo karen-white wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002854946/o/73b9/Karen_Uajt__Muzyka_vetra.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "Траектория полета",
+            "year": "2019",
+            "publisher": "Эксмо",
+            "shelf": "eksmo karen-white wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002951220/o/4b7c/Karen_Uajt__Traektoriya_poleta.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "Spinning the moon",
+            "year": "2016",
+            "shelf": "karen-white wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006087975/o/5c86/Karen_Uajt__Spinning_the_moon.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "Ночь, когда огни погасли",
+            "year": "2020",
+            "publisher": "Эксмо",
+            "shelf": "eksmo karen-white wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1004069233/o/29de/Karen_Uajt__Noch_kogda_ogni_pogasli.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "Когда я падаю во сне",
+            "year": "2020",
+            "publisher": "Эксмо",
+            "shelf": "eksmo karen-white wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1003627865/o/9a5d/Karen_Uajt__Kogda_ya_padayu_vo_sne.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "Последний вечер в Лондоне",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo karen-white wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006237915/o/0993/Karen_Uajt__Poslednij_vecher_v_Londone.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "Особняк на Трэдд-стрит",
+            "year": "2019",
+            "publisher": "Эксмо",
+            "shelf": "eksmo karen-white tredd-street wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002998332/o/610e/Karen_Uajt__Osobnyak_na_Treddstrit.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "Девушка с Легар-стрит",
+            "year": "2019",
+            "publisher": "Эксмо",
+            "shelf": "eksmo karen-white tredd-street wishlist",
+            "img": "https://s1.livelib.ru/boocover/1003162640/o/7dd8/Karen_Uajt__Devushka_s_Legarstrit.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "Незнакомцы на Монтегю-стрит",
+            "year": "2020",
+            "publisher": "Эксмо",
+            "shelf": "eksmo karen-white tredd-street wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1005265066/o/761e/Karen_Uajt__Neznakomtsy_na_Montegyustrit.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "Возвращение на Трэдд-Стрит",
+            "year": "2021",
+            "publisher": "Эксмо",
+            "shelf": "eksmo karen-white tredd-street wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006018753/o/8d13/Karen_Uajt__Vozvraschenie_na_TreddStrit.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "Гости на Саут-Бэттери",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo karen-white tredd-street wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007056765/o/c7a6/Karen_Uajt__Gosti_na_SautBetteri.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "Духи Рождества на Трэдд-стрит",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo karen-white tredd-street wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007483962/o/7d86/Karen_Uajt__Duhi_Rozhdestva_na_Treddstrit.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "The Attic on Queen Street",
+            "year": "2022",
+            "shelf": "karen-white tredd-street wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1006087969/o/9464/Karen_Uajt__The_Attic_on_Queen_Street.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "The Shop on Royal Street",
+            "year": "2023",
+            "shelf": "karen-white tredd-street wishlist 2023",
+            "img": "https://s1.livelib.ru/boocover/1006916821/o/4f85/Karen_Uajt__The_Shop_on_Royal_Street.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "The House on Prytania",
+            "year": "2023",
+            "shelf": "karen-white tredd-street wishlist 2023",
+            "img": "https://s1.livelib.ru/boocover/1007551900/o/2664/Karen_Uajt__The_House_on_Prytania.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "Falling Home",
+            "year": "2002",
+            "shelf": "karen-white wishlist",
+            "img": "https://s1.livelib.ru/boocover/1000510362/o/c9f0/Karen_White__Falling_Home.jpeg"
+        },
+        {
+            "author": "Карен Уайт",
+            "book": "After the Rain",
+            "year": "2003",
+            "shelf": "karen-white wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002133574/o/a342/Karen_White__After_the_Rain.jpeg"
+        },
+        {
+            "book": "Blessings of Mossy Creek",
+            "year": "2004",
+            "shelf": "karen-white wishlist",
+            "img": "https://s1.livelib.ru/boocover/1006088023/o/69ad/Karen_Uajt__Blessings_of_Mossy_Creek.jpeg"
+        },
+        {
+            "book": "Место встреч и расставаний",
+            "year": "2020",
+            "publisher": "Эксмо",
+            "shelf": "eksmo jio karen-white wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1005521167/o/ff2c/__Mesto_vstrech_i_rasstavanij.jpeg"
+        },
+        {
+            "book": "The Forgotten Room",
+            "year": "2016",
+            "shelf": "karen-white wishlist",
+            "img": "https://s1.livelib.ru/boocover/1001589925/o/ebbb/__The_Forgotten_Room.jpeg"
+        },
+        {
+            "book": "The Glass Ocean",
+            "year": "2018",
+            "shelf": "karen-white wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002954067/o/7f55/__The_Glass_Ocean.jpeg"
+        },
+        {
+            "book": "All the Ways We Said Goodbye",
+            "year": "2020",
+            "shelf": "karen-white wishlist",
+            "img": "https://s1.livelib.ru/boocover/1004099710/o/2373/__All_the_Ways_We_Said_Goodbye_A_Novel_of_the_Ritz_Paris.jpeg"
+        },
+        {
+            "book": "The Lost Summers of Newport",
+            "year": "2022",
+            "shelf": "karen-white wishlist",
+            "img": "https://s1.livelib.ru/boocover/1007126737/o/a473/Karen_Uajt__The_Lost_Summers_of_Newport.jpeg"
         },
         {
             "author": "Лидия Сальвер",
@@ -19764,9 +20435,11 @@
             "author": "Котаро Исака",
             "book": "Кузнечик",
             "year": "2022",
+            "buyDate": "12/2/22",
+            "price": "380",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok-japan isaka wishlist new 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001295268/COVER/cover1__w820.jpg"
+            "shelf": "eksmo inspiria tok-japan isaka 2022",
+            "img": "https://s1.livelib.ru/boocover/1007642230/o/5f5a/Kotaro_Isaka__Kuznechik.jpeg"
         },
         {
             "author": "Ремигиуш Мруз",
