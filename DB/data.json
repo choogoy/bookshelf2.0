@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -2325,11 +2325,13 @@
         {
             "id": "n",
             "author": "Леонид Парфенов",
-            "book": "Намедни. Наша эра. 1961-1970",
+            "book": "Намедни. Наша эра. 1961-1970. Новое издание. Переработанное и дополненное",
             "year": "2022",
+            "buyDate": "1/5/23",
+            "price": "2695",
             "publisher": "Corpus",
-            "shelf": "namedni corpus wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000844628/COVER/cover1__w600.jpg"
+            "shelf": "namedni corpus 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-namedni-1961.jpg"
         },
         {
             "id": "n",
@@ -2400,7 +2402,7 @@
             "book": "Намедни. Наша эра. 2016-2020",
             "year": "2023",
             "publisher": "Corpus",
-            "shelf": "namedni corpus wishlist"
+            "shelf": "namedni corpus wishlist new 2023"
         },
         {
             "author": "Мишель Уэльбек",
@@ -13721,8 +13723,10 @@
             "author": "Владимир Набоков",
             "book": "Поэмы 1918-1947. Жалобная песнь Супермен",
             "year": "2022",
+            "buyDate": "12/20/22",
+            "price": "416",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new 2022",
+            "shelf": "corpus nabokov 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-pesn-supermena.jpg"
         },
         {
@@ -13764,7 +13768,7 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist martin-lugand new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000866809/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-dom-ocean.jpg"
         },
         {
             "author": "Фернандо Арамбуру",
@@ -13772,7 +13776,15 @@
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus aramburu wishlist new 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000862588/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-aramburu-strizhi.jpg"
+        },
+        {
+            "author": "Андрей Сахаров",
+            "book": "Объект наблюдения. КГБ против Сахарова",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist new 2022",
+            "img": "https://cdn.ast.ru/v2/ASE000000000870227/COVER/cover1__w600.jpg"
         },
         {
             "author": "Джон Ле Карре",
@@ -15804,6 +15816,140 @@
             "img": "https://s1.livelib.ru/boocover/1007389384/o/5985/Dzheff_Rodki__Nezemlyane.jpeg"
         },
         {
+            "author": "Ричард Осман",
+            "book": "Клуб убийств по четвергам",
+            "web": "mp3 fb2",
+            "year": "2021",
+            "buyDate": "10/9/21",
+            "price": "441",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif osman 2021",
+            "img": "https://s1.livelib.ru/boocover/1006238035/o/08a6/Richard_Osman__Klub_ubijstv_po_chetvergam.jpeg"
+        },
+        {
+            "author": "Ричард Осман",
+            "book": "Человек, который умер дважды",
+            "web": "mp3 fb2",
+            "year": "2022",
+            "buyDate": "3/21/22",
+            "price": "430",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif osman 2022",
+            "img": "https://s1.livelib.ru/boocover/1006866829/o/aa02/Richard_Osman__Chelovek_kotoryj_umer_dvazhdy.jpeg"
+        },
+        {
+            "author": "Ричард Осман",
+            "book": "Выстрел мимо цели",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif osman wishlist new 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/49/29749/1.00x-thumb.png"
+        },
+        {
+            "author": "Роберт Торогуд",
+            "book": "Смерть на Темзе",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007046334/o/2405/Robert_Torogud__Smert_na_Temze.jpeg"
+        },
+        {
+            "author": "Андерс де ла Мотт и Монс Нильссон",
+            "book": "Чисто шведские убийства. Отпуск в раю",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif de-la-mott wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007595409/o/d29a/__Chisto_shvedskie_ubijstva._Otpusk_v_rayu.jpeg"
+        },
+        {
+            "author": "Андерс де ла Мотт и Монс Нильссон",
+            "book": "The Österlen Murders 2",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif de-la-mott wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/media/book-images3/the-osterlen-murders-2/the-osterlen-murders-2-b.png"
+        },
+        {
+            "author": "IAN MOORE",
+            "book": "DEATH & CROISSANTS",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif moore wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/68/29668/1.00x-thumb.png"
+        },
+        {
+            "author": "IAN MOORE",
+            "book": "DEATH & FROMAGE",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif moore wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/69/29669/1.00x-thumb.png"
+        },
+        {
+            "author": "Куив Макдоннелл",
+            "book": "Человек с одним из многих лиц",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif mcdonnell wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006849483/o/fd2e/Kuiv_Makdonnell__Chelovek_s_odnim_iz_mnogih_lits.jpeg"
+        },
+        {
+            "author": "Куив Макдоннелл",
+            "book": "День, который никогда не настанет",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif mcdonnell wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006849489/o/0a7c/Kuiv_Makdonnell__Den_kotoryj_nikogda_ne_nastanet.jpeg"
+        },
+        {
+            "author": "Куив Макдоннелл",
+            "book": "Странные времена. Предвиденные происшествия с бессмертными",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif mcdonnell wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1007038330/o/c980/__Strannye_vremena.jpeg"
+        },
+        {
+            "author": "Куив Макдоннелл",
+            "book": "«Ангельская» работёнка",
+            "web": "mp3 fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif mcdonnell wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007086306/o/343a/Kuiv_Makdonnell__Angelskaya_rabotjonka.jpeg"
+        },
+        {
+            "author": "Элина Бакман",
+            "book": "Когда умирает король",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006817812/o/0fae/Elina_Bakman__Kogda_umiraet_korol.jpeg"
+        },
+        {
+            "author": "Элина Бакман",
+            "book": "Когда исчезают следы",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007286604/o/87f8/Elina_Bakman__Kogda_ischezayut_sledy.jpeg"
+        },
+        {
+            "author": "Фредерик Винтер",
+            "book": "Барсук",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1006817818/o/e6e2/Frederik_Vinter__Barsuk.jpeg"
+        },
+        {
             "author": "Лив Константин",
             "book": "Незнакомка в зеркале",
             "web": "fb2",
@@ -15854,7 +16000,15 @@
             "year": "2022",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif wishlist 2022",
-            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/69/27869/1.00x-thumb.png"
+            "img": "https://s1.livelib.ru/boocover/1007579641/o/993f/Brianna_Labuskes__Nikto_ne_znaet_tebya.jpeg"
+        },
+        {
+            "author": "Джеймс МакБрайд",
+            "book": "Дьякон Кинг-Конг",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1006076875/o/ba7a/Dzhejms_Makbrajd__Dyakon_KingKong.jpeg"
         },
         {
             "author": "Линда Грин",
@@ -15909,33 +16063,6 @@
             "shelf": "mif wishlist 2022"
         },
         {
-            "author": "Элина Бакман",
-            "book": "Когда умирает король",
-            "web": "fb2",
-            "year": "2021",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2021",
-            "img": "https://s1.livelib.ru/boocover/1006817812/o/0fae/Elina_Bakman__Kogda_umiraet_korol.jpeg"
-        },
-        {
-            "author": "Элина Бакман",
-            "book": "Когда исчезают следы",
-            "web": "fb2",
-            "year": "2022",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1007286604/o/87f8/Elina_Bakman__Kogda_ischezayut_sledy.jpeg"
-        },
-        {
-            "author": "Фредерик Винтер",
-            "book": "Барсук",
-            "web": "fb2",
-            "year": "2022",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1006817818/o/e6e2/Frederik_Vinter__Barsuk.jpeg"
-        },
-        {
             "author": "Кэйитиро Хирано",
             "book": "Незнакомец",
             "web": "fb2",
@@ -15968,158 +16095,14 @@
             "year": "2022",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif wishlist 2022",
-            "img": "https://img3.labirint.ru/rc/fc9903955cba4fb605c47de6c527649d/363x561q80/books88/873949/cover.jpg?1664454308"
+            "img": "https://s1.livelib.ru/boocover/1007608345/o/64df/Sandzhiv_Sahota__Farforovaya_komnata.jpeg"
         },
         {
-            "author": "Ричард Осман",
-            "book": "Клуб убийств по четвергам",
-            "web": "mp3 fb2",
-            "year": "2021",
-            "buyDate": "10/9/21",
-            "price": "441",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif osman 2021",
-            "img": "https://s1.livelib.ru/boocover/1006238035/o/08a6/Richard_Osman__Klub_ubijstv_po_chetvergam.jpeg"
-        },
-        {
-            "author": "Ричард Осман",
-            "book": "Человек, который умер дважды",
-            "web": "mp3 fb2",
-            "year": "2022",
-            "buyDate": "3/21/22",
-            "price": "430",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif osman 2022",
-            "img": "https://s1.livelib.ru/boocover/1006866829/o/aa02/Richard_Osman__Chelovek_kotoryj_umer_dvazhdy.jpeg"
-        },
-        {
-            "author": "Роберт Торогуд",
-            "book": "Смерть на Темзе",
-            "web": "fb2",
+            "author": "Hila Blum",
+            "book": "How to Love Your Daughter",
             "year": "2022",
             "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1007046334/o/2405/Robert_Torogud__Smert_na_Temze.jpeg"
-        },
-        {
-            "author": "Андерс де ла Мотт и Монс Нильссон",
-            "book": "Чисто шведские убийства. Отпуск в раю",
-            "year": "2022",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif de-la-mott wishlist 2022",
-            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/88/27888/1.00x-thumb.png"
-        },
-        {
-            "author": "Паола Перетти",
-            "book": "Под цикадным деревом",
-            "web": "fb2",
-            "year": "2022",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1007427718/o/b7cd/Paola_Peretti__Pod_tsikadnym_derevom.jpeg"
-        },
-        {
-            "author": "Джон Гвинн",
-            "book": "Тень богов",
-            "web": "fb2",
-            "year": "2022",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1007528752/o/ed2d/Dzhon_Gvinn__Ten_bogov.jpeg"
-        },
-        {
-            "author": "Куив Макдоннелл",
-            "book": "Человек с одним из многих лиц",
-            "web": "fb2",
-            "year": "2021",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif mcdonnell wishlist 2021",
-            "img": "https://s1.livelib.ru/boocover/1006849483/o/fd2e/Kuiv_Makdonnell__Chelovek_s_odnim_iz_mnogih_lits.jpeg"
-        },
-        {
-            "author": "Куив Макдоннелл",
-            "book": "День, который никогда не настанет",
-            "web": "fb2",
-            "year": "2021",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif mcdonnell wishlist 2021",
-            "img": "https://s1.livelib.ru/boocover/1006849489/o/0a7c/Kuiv_Makdonnell__Den_kotoryj_nikogda_ne_nastanet.jpeg"
-        },
-        {
-            "author": "Куив Макдоннелл",
-            "book": "Странные времена. Предвиденные происшествия с бессмертными",
-            "web": "fb2",
-            "year": "2021",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif mcdonnell wishlist 2021",
-            "img": "https://s1.livelib.ru/boocover/1007038330/o/c980/__Strannye_vremena.jpeg"
-        },
-        {
-            "author": "Куив Макдоннелл",
-            "book": "«Ангельская» работёнка",
-            "web": "mp3 fb2",
-            "year": "2022",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif mcdonnell wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1007086306/o/343a/Kuiv_Makdonnell__Angelskaya_rabotjonka.jpeg"
-        },
-        {
-            "author": "Элоди Харпер",
-            "book": "Дом волчиц",
-            "web": "fb2",
-            "year": "2022",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1007299996/o/f91f/Elodi_Harper__Dom_volchits.jpeg"
-        },
-        {
-            "author": "Элин Хильдербранд",
-            "book": "28 лет, каждое лето",
-            "web": "fb2",
-            "year": "2021",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2021",
-            "img": "https://s1.livelib.ru/boocover/1006181299/o/0ca4/Elin_Hilderbrand__28_let_kazhdoe_leto.jpeg"
-        },
-        {
-            "author": "Элин Хильдербранд",
-            "book": "Лето 1969",
-            "web": "fb2",
-            "year": "2022",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1007332105/o/f2dd/Elin_Hilderbrand__Leto_1969.jpeg"
-        },
-        {
-            "author": "Крис Бохджалян",
-            "book": "Час ведьмы",
-            "web": "fb2",
-            "year": "2022",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1007297191/o/b9e1/Kris_Bohdzhalyan__Chas_vedmy.jpeg"
-        },
-        {
-            "author": "Али Новак",
-            "book": "Моя жизнь с мальчиками Уолтер",
-            "web": "fb2",
-            "year": "2022",
-            "buyDate": "10/16/22",
-            "price": "499",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif 2022",
-            "img": "https://s1.livelib.ru/boocover/1007592265/o/2589/Ali_Novak__Moya_zhizn_s_malchikami_Uolter.jpeg"
-        },
-        {
-            "author": "Митико Аояма",
-            "book": "Вы найдете это в библиотеке",
-            "web": "fb2",
-            "year": "2022",
-            "buyDate": "10/29/22",
-            "price": "405",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif bookstore 2022",
-            "img": "https://s1.livelib.ru/boocover/1007564878/o/711e/Mitiko_Aoyama__Vy_najdete_eto_v_biblioteke.jpeg"
+            "shelf": "mif wishlist 2022"
         },
         {
             "author": "Керри Мейер",
@@ -16133,12 +16116,202 @@
             "img": "https://s1.livelib.ru/boocover/1007564887/o/75db/Kerri_Mejer__Knizhnyj_na_levom_beregu_Seny.jpeg"
         },
         {
-            "author": "Tracy Dobmeier, Wendy Katzman",
-            "book": "Girl with Bright Futures",
+            "author": "Карстен Себастиан Хенн",
+            "book": "Служба доставки книг",
+            "web": "fb2",
+            "year": "2022",
+            "buyDate": "8/7/22",
+            "readDate": "9/1/22",
+            "price": "278",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif bookstore 2022",
+            "img": "https://s1.livelib.ru/boocover/1007355955/o/618a/Karsten_Sebastian_Henn__Sluzhba_dostavki_knig.jpeg"
+        },
+        {
+            "author": "Митико Аояма",
+            "book": "Вы найдете это в библиотеке",
+            "web": "fb2",
+            "year": "2022",
+            "buyDate": "10/29/22",
+            "price": "405",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif bookstore 2022",
+            "img": "https://s1.livelib.ru/boocover/1007564878/o/711e/Mitiko_Aoyama__Vy_najdete_eto_v_biblioteke.jpeg"
+        },
+        {
+            "author": "Паола Перетти",
+            "book": "Под цикадным деревом",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist new 2022",
-            "img": "https://media1.popsugar-assets.com/files/thumbor/pq_HtP6yPMA5iF1Fw8QrVbW6CSU/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2021/01/23/233/n/43611095/3ce29f84576ed74d_81qvGHnjvsL/i/Girls-With-Bright-Futures-by-Tracy-Dobmeier-Wendy-Katzman.jpg"
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007427718/o/b7cd/Paola_Peretti__Pod_tsikadnym_derevom.jpeg"
+        },
+        {
+            "author": "Annie Lyons",
+            "book": "THE BRILLIANT LIFE OF EUDORA HONEYSETT",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/49/29049/1.00x-thumb.png"
+        },
+        {
+            "author": "Трейси Добмейр и Венди Кацман",
+            "book": "Девочки с блестящим будущим",
+            "year": "2022",
+            "buyDate": "12/20/22",
+            "price": "568",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif 2022",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/media/book-images3/girl-with-bright-futures/GirlwithBrightFutures-b.png"
+        },
+        {
+            "author": "Вирджиния Хартман",
+            "book": "Хозяйка болот",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/92/28892/1.00x-thumb.png"
+        },
+        {
+            "author": "Jenny Jackson",
+            "book": "Pineapple street",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/84/30484/1.00x-thumb.png"
+        },
+        {
+            "author": "Элоди Харпер",
+            "book": "Дом волчиц",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif harper wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007299996/o/f91f/Elodi_Harper__Dom_volchits.jpeg"
+        },
+        {
+            "author": "Элоди Харпер",
+            "book": "Дом с золотой дверью",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif harper wishlist 2023"
+        },
+        {
+            "author": "Элин Хильдебранд",
+            "book": "28 лет, каждое лето",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif hildebrand wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006181299/o/0ca4/Elin_Hilderbrand__28_let_kazhdoe_leto.jpeg"
+        },
+        {
+            "author": "Элин Хильдебранд",
+            "book": "Лето 1969",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif hildebrand wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007332105/o/f2dd/Elin_Hilderbrand__Leto_1969.jpeg"
+        },
+        {
+            "author": "Элин Хильдебранд",
+            "book": "Золотая девочка",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif hildebrand wishlist 2022",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/94/27994/1.00x-thumb.png"
+        },
+        {
+            "author": "Крис Бохджалян",
+            "book": "Час ведьмы",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007297191/o/b9e1/Kris_Bohdzhalyan__Chas_vedmy.jpeg"
+        },
+        {
+            "author": "Джеймс Гулд-Борн",
+            "book": "Что мы знаем друг о друге",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1005937567/o/9ed1/Dzhejms_GuldBorn__Chto_my_znaem_drug_o_druge.jpeg"
+        },
+        {
+            "author": "Сара Морган",
+            "book": "Наше худшее Рождество",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1006911001/o/b948/Sara_Morgan__Nashe_hudshee_Rozhdestvo.jpeg"
+        },
+        {
+            "author": "Стефани Стори",
+            "book": "Камень Дуччо",
+            "web": "fb2",
+            "year": "2020",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1003273463/o/388a/Stefani_Stori__Kamen_Duchcho.jpeg"
+        },
+        {
+            "book": "Однажды темной зимней ночью...",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007539087/o/e935/__Odnazhdy_tjomnoj_zimnej_nochyu....jpeg"
+        },
+        {
+            "author": "Гвен Купер",
+            "book": "Правила счастья кота Гомера. Трогательные приключения слепого кота и его хозяйки",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007578192/o/2295/Gven_Kuper__Pravila_schastya_kota_Gomera._Trogatelnye_priklyucheniya_slepogo_kot.jpeg"
+        },
+        {
+            "author": "Яап Роббен",
+            "book": "Летний брат",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007503255/o/359f/Yaap_Robben__Letnij_brat.jpeg"
+        },
+        {
+            "author": "Джон Гвинн",
+            "book": "Тень богов",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007528752/o/ed2d/Dzhon_Gvinn__Ten_bogov.jpeg"
+        },
+        {
+            "author": "Элис Келлен",
+            "book": "Всё, что мы потеряли",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007593735/o/069e/Elis_Kellen__Vsjo_chto_my_poteryali.jpeg"
+        },
+        {
+            "author": "Али Новак",
+            "book": "Моя жизнь с мальчиками Уолтер",
+            "web": "fb2",
+            "year": "2022",
+            "buyDate": "10/16/22",
+            "price": "499",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif 2022",
+            "img": "https://s1.livelib.ru/boocover/1007592265/o/2589/Ali_Novak__Moya_zhizn_s_malchikami_Uolter.jpeg"
         },
         {
             "author": "Шон Байтелл",
@@ -16640,18 +16813,6 @@
             "publisher": "Подписные издания",
             "shelf": "bookstore 2021",
             "img": "https://cdn1.ozone.ru/s3/multimedia-y/wc1200/6228033754.jpg"
-        },
-        {
-            "author": "Карстен Себастиан Хенн",
-            "book": "Служба доставки книг",
-            "web": "fb2",
-            "year": "2022",
-            "buyDate": "8/7/22",
-            "readDate": "9/1/22",
-            "price": "278",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif bookstore 2022",
-            "img": "https://s1.livelib.ru/boocover/1007355955/o/618a/Karsten_Sebastian_Henn__Sluzhba_dostavki_knig.jpeg"
         },
         {
             "author": "Пенелопа Фицджеральд",
@@ -19399,6 +19560,7 @@
         {
             "author": "Лайза Родман и Дженнифер Джордан",
             "book": "Нянька. Меня воспитывал серийный убийца",
+            "web": "mp3",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist true-crime-story 2022",
@@ -19683,11 +19845,8 @@
             "book": "Пациент",
             "web": "mp3 fb2",
             "year": "2022",
-            "buyDate": "4/5/22",
-            "readDate": "4/8/22",
-            "price": "309",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok mystic-thriller devitt 2022",
+            "shelf": "eksmo inspiria tok mystic-thriller devitt wishlist 2022",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001118295/COVER/cover1__w820.jpg"
         },
         {
@@ -20227,8 +20386,11 @@
             "book": "Пациент",
             "web": "mp3 fb2",
             "year": "2022",
+            "buyDate": "4/5/22",
+            "readDate": "4/8/22",
+            "price": "309",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok psycho-thriller devitt wishlist 2022",
+            "shelf": "eksmo inspiria tok psycho-thriller devitt 2022",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001250977/COVER/cover1__w820.jpg"
         },
         {
@@ -22094,7 +22256,7 @@
         {
             "author": "Линда Сауле",
             "book": "Водомерка",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
@@ -22903,7 +23065,15 @@
             "year": "2022",
             "publisher": "АСТ",
             "shelf": "ast makmanus wishlist 2022",
-            "img": "https://cdn.ast.ru/v2/ASE000000000862358/COVER/cover1__w600.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007391946/o/4ef9/Karen_M._Makmanus__Vy_stanete_moej_smertyu.jpeg"
+        },
+        {
+            "author": "Карен М. Макманус",
+            "book": "Ни слова больше!",
+            "year": "2022",
+            "publisher": "АСТ",
+            "shelf": "ast makmanus wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007669152/o/15c2/Karen_M._Makmanus__Ni_slova_bolshe.jpeg"
         },
         {
             "author": "Ингар Йонсруд",
