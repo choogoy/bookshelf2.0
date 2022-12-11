@@ -1,4 +1,4 @@
-﻿{
+{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -629,6 +629,7 @@
             "book": "Тихие дни в Перемешках",
             "web": "fb2",
             "year": "2009",
+            "readDate": "12/10/22",
             "shelf": "erlend-lou",
             "img": "https://s1.livelib.ru/boocover/1000438025/o/9e7e/Erlend_Lu__Tihie_dni_v_Peremeshkah.jpeg"
         },
@@ -13721,10 +13722,10 @@
         {
             "id": "746",
             "author": "Владимир Набоков",
-            "book": "Поэмы 1918-1947. Жалобная песнь Супермен",
+            "book": "Поэмы 1918-1947. Жалобная песнь Супермена",
             "year": "2022",
-            "buyDate": "12/20/22",
-            "price": "416",
+            "buyDate": "12/11/22",
+            "price": "421",
             "publisher": "Corpus",
             "shelf": "corpus nabokov 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-pesn-supermena.jpg"
@@ -13789,9 +13790,9 @@
         {
             "author": "Джон Ле Карре",
             "book": "Silverview",
-            "year": "2022",
+            "year": "2023",
             "publisher": "Corpus",
-            "shelf": "le-karre corpus wishlist new 2022",
+            "shelf": "le-karre corpus wishlist new 2023",
             "img": "https://www.logobook.ru/bi/15527616/15527616_102662.jpg"
         },
         {
@@ -14583,8 +14584,10 @@
             "author": "Марк Левинсон",
             "book": "Ящик. Как грузовой контейнер сделал мир меньше, а мировую экономику больше",
             "year": "2022",
+            "buyDate": "12/11/22",
+            "price": "636",
             "publisher": "Бомбора",
-            "shelf": "bombora wishlist new 2022",
+            "shelf": "bombora 2022",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001072841/COVER/cover1__w820.jpg"
         },
         {
@@ -16001,6 +16004,24 @@
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007579641/o/993f/Brianna_Labuskes__Nikto_ne_znaet_tebya.jpeg"
+        },
+        {
+            "author": "Кармен Мария Мачадо",
+            "book": "Дом иллюзий",
+            "web": "fb2",
+            "year": "2021",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2021",
+            "img": "https://s1.livelib.ru/boocover/1006016479/o/c5aa/Karmen_Mariya_Machado__Dom_illyuzij.jpeg"
+        },
+        {
+            "author": "Уильямс Пип",
+            "book": "Потерянные слова",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1006102258/o/3b58/Pip_Uilyams__Poteryannye_slova.jpeg"
         },
         {
             "author": "Джеймс МакБрайд",
@@ -17595,7 +17616,7 @@
         {
             "author": "Крейг Маклей",
             "book": "Киноклуб",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2016",
             "buyDate": "2/16/21",
             "price": "483",
@@ -18134,7 +18155,7 @@
         {
             "author": "Лиза Стоун",
             "book": "Коттедж",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "АСТ",
             "shelf": "ast murder wishlist 2022",
@@ -18143,6 +18164,7 @@
         {
             "author": "Люси Фоли",
             "book": "Квартира в Париже",
+            "web": "mp3",
             "year": "2022",
             "publisher": "АСТ",
             "shelf": "ast murder foli wishlist 2022",
@@ -19331,7 +19353,7 @@
         {
             "author": "Бергсвейн Биргиссон",
             "book": "Ответ на письмо Хельги",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft wishlist 2022",
@@ -19372,6 +19394,7 @@
         {
             "author": "Эмили Сент-Джон Мандел",
             "book": "Море спокойствия",
+            "web": "mp3",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft wishlist 2022",
@@ -19551,7 +19574,7 @@
         {
             "author": "Брайан Мастерс",
             "book": "Алтарь смерти. История маньяка-каннибала Джеффри Дамера",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist masters true-crime-story 2022",
@@ -19773,6 +19796,7 @@
         {
             "author": "Сара Пирс",
             "book": "Скала Жнеца",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2022",
@@ -20422,7 +20446,7 @@
         {
             "author": "Дарби Кейн",
             "book": "Милая женушка",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-passion wishlist 2022",
@@ -20483,7 +20507,7 @@
         {
             "author": "Лиза Ангер",
             "book": "Экспресс на 19:45",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2022",
@@ -20492,6 +20516,7 @@
         {
             "author": "Хилари Дэвидсон",
             "book": "Значит, я умерла",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2022",
@@ -20518,7 +20543,7 @@
         {
             "author": "Джей Ди Кирк",
             "book": "Куча костей",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2022",
@@ -20707,6 +20732,7 @@
         {
             "author": "Котаро Исака",
             "book": "Кузнечик",
+            "web": "mp3",
             "year": "2022",
             "buyDate": "12/2/22",
             "price": "380",
@@ -20789,7 +20815,7 @@
         {
             "author": "Алекс Финли",
             "book": "Все до последнего страхи",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-usa wishlist 2022",
@@ -20823,7 +20849,7 @@
         {
             "author": "Рафаэль Монтес",
             "book": "Карнавал смерти",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-brazil wishlist 2022",
@@ -20936,7 +20962,7 @@
         {
             "author": "Люси Даймонд",
             "book": "Обещание",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2022",
@@ -21271,6 +21297,7 @@
         {
             "author": "Франсуаза Бурден",
             "book": "Пламя и кровь",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel burden wishlist 2022",
@@ -22289,6 +22316,7 @@
         {
             "author": "Бобби Палмер",
             "book": "Айзек и яйцо",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
@@ -22442,7 +22470,7 @@
         {
             "author": "Эмма Чейз",
             "book": "Принцесса Элли",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria pink-room wishlist 2022",
@@ -22496,7 +22524,7 @@
         {
             "author": "Айви Смоук",
             "book": "Зависимость",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria pink-room wishlist 2022",
@@ -22804,7 +22832,7 @@
         {
             "author": "Констанс Сэйерс",
             "book": "Дамы тайного цирка",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum wishlist 2022",
