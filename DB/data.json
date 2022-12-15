@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -649,6 +649,7 @@
             "web": "fb2",
             "year": "2013",
             "buyDate": "10/20/14",
+            "readDate": "12/14/22",
             "price": "230",
             "shelf": "erlend-lou",
             "img": "https://s1.livelib.ru/boocover/1000984175/o/bb56/Erlend_Lu__Pereuchet.jpeg"
@@ -1541,6 +1542,23 @@
             "publisher": "Эксмо",
             "shelf": "verber eksmo 2022",
             "img": "https://cdn.book24.ru/v2/ITD000000001174207/COVER/cover13d__w410.webp"
+        },
+        {
+            "author": "Бернар Вербер",
+            "book": "Пророчество о пчелах",
+            "year": "2022",
+            "buyDate": "12/26/22",
+            "price": "458",
+            "publisher": "Эксмо",
+            "shelf": "verber eksmo 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001249032/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Бернар Вербер",
+            "book": "La Diagonale des Reines",
+            "year": "2023",
+            "shelf": "verber wishlist new 2023",
+            "img": "https://m.media-amazon.com/images/I/416gzS7QFtL._SX343_BO1,204,203,200_.jpg"
         },
         {
             "author": "Харуки Мураками",
@@ -2668,9 +2686,9 @@
         {
             "author": "Фредрик Бакман",
             "book": "Победители",
-            "year": "2022",
+            "year": "2023",
             "publisher": "Синдбад",
-            "shelf": "bakman sindbad wishlist new 2022",
+            "shelf": "bakman sindbad wishlist new 2023",
             "img": "https://www.salomonssonagency.se/wp-content/uploads/2021/09/SE-FB-Vinnarna-cover-649x1024.jpg"
         },
         {
@@ -3347,6 +3365,7 @@
         {
             "author": "Пауло Коэльо",
             "book": "Вероника решает умереть",
+            "web": "mp3 fb2",
             "year": "1998",
             "readDate": "1/2/22",
             "shelf": "koelho",
@@ -3362,6 +3381,7 @@
         {
             "author": "Пауло Коэльо",
             "book": "Одиннадцать минут",
+            "web": "mp3 fb2",
             "year": "2003",
             "readDate": "1/6/22",
             "shelf": "koelho",
@@ -4129,6 +4149,7 @@
         {
             "author": "Маша Трауб",
             "book": "Кот Тихон, или Похищение Голландца",
+            "web": "fb2",
             "year": "2022",
             "publisher": "АСТ",
             "shelf": "traub ast wishlist 2022",
@@ -8307,15 +8328,6 @@
             "img": "https://www.corpus.ru/picts/products/Binchy-Serdtse-1000.jpg"
         },
         {
-            "id": "221",
-            "author": "Хелен Саймонсон",
-            "book": "Последний бой майора Петтигрю",
-            "year": "2013",
-            "publisher": "Corpus",
-            "shelf": "corpus wishlist",
-            "img": "https://www.corpus.ru/picts/products/simonson-pettigrew-1000.jpg"
-        },
-        {
             "id": "222",
             "author": "Вуди Аллен",
             "book": "Побочные эффекты",
@@ -8335,6 +8347,14 @@
         },
         {
             "id": "224",
+            "author": "Хелен Саймонсон",
+            "book": "Последний бой майора Петтигрю",
+            "year": "2013",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist",
+            "img": "https://www.corpus.ru/picts/products/simonson-pettigrew-1000.jpg"
+        },
+        {
             "author": "Джеффри Евгенидис",
             "book": "Девственницы-самоубийцы",
             "year": "2013",
@@ -10190,6 +10210,7 @@
             "book": "Поправки",
             "year": "2017",
             "buyDate": "2/9/17",
+            "readDate": "12/16/22",
             "price": "417",
             "publisher": "Corpus",
             "shelf": "franzen corpus",
@@ -13651,6 +13672,26 @@
             "img": "https://www.corpus.ru/picts/products/cover1-agatha-new.jpg"
         },
         {
+            "id": "736",
+            "author": "Витольд Шабловский",
+            "book": "Как накормить диктатора",
+            "year": "2022",
+            "publisher": "Corpus",
+            "shelf": "corpus 100%doc shablowsky wishlist 2022",
+            "img": "https://www.corpus.ru/picts/products/cover1-diktator-eda.jpg"
+        },
+        {
+            "id": "737",
+            "author": "Владимир Набоков",
+            "book": "Истинная жизнь Севастьяна Найта",
+            "year": "2022",
+            "buyDate": "12/12/22",
+            "price": "1",
+            "publisher": "Corpus",
+            "shelf": "corpus nabokov 2022",
+            "img": "https://www.corpus.ru/picts/products/sover1-sebastian.jpg"
+        },
+        {
             "author": "Ниал Фергюсон",
             "book": "Восхождение денег. Финансовая история мира",
             "year": "2022",
@@ -13666,16 +13707,6 @@
             "publisher": "Corpus",
             "shelf": "corpus sorrentino wishlist 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-molodost-new.jpg"
-        },
-        {
-            "author": "Владимир Набоков",
-            "book": "Истинная жизнь Севастьяна Найта",
-            "year": "2022",
-            "buyDate": "12/12/22",
-            "price": "1",
-            "publisher": "Corpus",
-            "shelf": "corpus nabokov 2022",
-            "img": "https://www.corpus.ru/picts/products/sover1-sebastian.jpg"
         },
         {
             "id": "741",
@@ -13729,14 +13760,6 @@
             "publisher": "Corpus",
             "shelf": "corpus nabokov 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-pesn-supermena.jpg"
-        },
-        {
-            "author": "Витольд Шабловский",
-            "book": "Как накормить диктатора",
-            "year": "2022",
-            "publisher": "Corpus",
-            "shelf": "corpus 100%doc shablowsky wishlist 2022",
-            "img": "https://www.corpus.ru/picts/products/cover1-diktator-eda.jpg"
         },
         {
             "author": "Катя Москвич",
@@ -16179,11 +16202,11 @@
         {
             "author": "Трейси Добмейр и Венди Кацман",
             "book": "Девочки с блестящим будущим",
-            "year": "2022",
-            "buyDate": "12/20/22",
+            "year": "2023",
+            "buyDate": "1/10/23",
             "price": "568",
             "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif 2022",
+            "shelf": "mif 2023",
             "img": "https://www.mann-ivanov-ferber.ru/assets/media/book-images3/girl-with-bright-futures/GirlwithBrightFutures-b.png"
         },
         {
@@ -18128,7 +18151,7 @@
             "author": "Уэнди Уокер",
             "book": "Ночь накануне",
             "year": "2022",
-            "buyDate": "12/15/22",
+            "buyDate": "12/14/22",
             "price": "443",
             "publisher": "АСТ",
             "shelf": "ast puzzle 2022",
@@ -18353,7 +18376,7 @@
             "author": "Эми Сью Натан",
             "book": "Повороты судьбы",
             "year": "2022",
-            "buyDate": "12/15/22",
+            "buyDate": "12/14/22",
             "price": "443",
             "publisher": "АСТ",
             "shelf": "ast lost-happiness 2022",
@@ -18598,20 +18621,21 @@
             "img": "https://s1.livelib.ru/boocover/1007415403/o/325a/Frensis_Pol_Vilson__BAD_KARMA._Istoriya_moej_adskoj_poezdki_v_Meksiku.jpeg"
         },
         {
+            "author": "Тодд Харра и Кен Маккензи",
+            "book": "Тайная жизнь морга. Откровения гробовщиков",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo bad-karma wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007505202/o/dbbb/__Tajnaya_zhizn_morga._Otkroveniya_grobovschikov.jpeg"
+        },
+        {
             "author": "Томас Кундт и Таркан Багджи",
             "book": "Я прихожу после смерти. История профессионального уборщика мест преступлений",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo bad-karma wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007561728/o/5f06/__Ya_prihozhu_posle_smerti._Istoriya_professionalnogo_uborschika_mest_prestuplen.jpeg"
-        },
-        {
-            "author": "Тодд Харра и Кен Маккензи",
-            "book": "Тайная жизнь морга. Откровения гробовщиков",
-            "year": "2022",
-            "publisher": "Эксмо",
-            "shelf": "eksmo bad-karma wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1007505202/o/dbbb/__Tajnaya_zhizn_morga._Otkroveniya_grobovschikov.jpeg"
         },
         {
             "author": "Алексей Поляринов",
@@ -19389,7 +19413,8 @@
             "book": "Богоматерь Нильская",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria loft wishlist 2022"
+            "shelf": "eksmo inspiria loft wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007673055/o/5f91/Skolastik_Mukazonga__Bogomater_Nilskaya.jpeg"
         },
         {
             "author": "Эмили Сент-Джон Мандел",
@@ -19719,7 +19744,8 @@
             "book": "Поэзия зла",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok psycho-thriller wishlist 2022"
+            "shelf": "eksmo inspiria tok psycho-thriller wishlist 2022",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001246797/COVER/cover1__w820.jpg"
         },
         {
             "author": "Эр Джей Джейкобс",
