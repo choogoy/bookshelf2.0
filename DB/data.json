@@ -1,4 +1,4 @@
-{
+﻿{
     "books": [
         {
             "author": "Евгений Гришковец",
@@ -914,8 +914,8 @@
         {
             "author": "Фредерик Бегбедер",
             "book": "Un barrage contre l'Atlantique",
-            "year": "2022",
-            "shelf": "begbeder wishlist new 2022",
+            "year": "2023",
+            "shelf": "begbeder wishlist new 2023",
             "img": "https://m.media-amazon.com/images/I/41Iuf5OSO7L.jpg"
         },
         {
@@ -1544,16 +1544,16 @@
             "price": "370",
             "publisher": "Эксмо",
             "shelf": "verber eksmo 2022",
-            "img": "https://cdn.book24.ru/v2/ITD000000001174207/COVER/cover13d__w410.webp"
+            "img": "https://s1.livelib.ru/boocover/1007056030/o/6f7a/Bernar_Verber__Planeta_koshek.jpeg"
         },
         {
             "author": "Бернар Вербер",
             "book": "Пророчество о пчелах",
-            "year": "2023",
-            "buyDate": "1/10/23",
-            "price": "458",
+            "year": "2022",
+            "buyDate": "1/17/23",
+            "price": "261",
             "publisher": "Эксмо",
-            "shelf": "verber eksmo 2023",
+            "shelf": "verber eksmo 2022",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001249032/COVER/cover1__w820.jpg"
         },
         {
@@ -2273,8 +2273,8 @@
         {
             "author": "Януш Леон Вишневский и Эвелина Войдыло",
             "book": "Предсвадебное путешествие по Новой Зеландии",
-            "year": "2022",
-            "shelf": "wishnewski wishlist new 2022"
+            "year": "2023",
+            "shelf": "wishnewski wishlist new 2023"
         },
         {
             "author": "Януш Леон Вишневский",
@@ -2349,7 +2349,7 @@
             "author": "Леонид Парфенов",
             "book": "Намедни. Наша эра. 1961-1970. Новое издание. Переработанное и дополненное",
             "year": "2022",
-            "buyDate": "1/5/23",
+            "buyDate": "12/28/22",
             "price": "2445",
             "publisher": "Corpus",
             "shelf": "namedni corpus 2022",
@@ -2812,11 +2812,11 @@
         {
             "author": "Мохамед Мбугар Сарр",
             "book": "В тайниках памяти",
-            "year": "2023",
-            "buyDate": "3/3/23",
+            "year": "2022",
+            "buyDate": "12/29/22",
             "price": "618",
             "publisher": "Синдбад",
-            "shelf": "sindbad goncur 2023",
+            "shelf": "sindbad goncur 2022",
             "img": "https://s1.livelib.ru/boocover/1007905423/o/bb75/Mohamed_Mbugar_Sarr__V_tajnikah_pamyati.jpeg"
         },
         {
@@ -3283,7 +3283,7 @@
         },
         {
             "author": "Ульяна Труханова",
-            "book": "catharsis четверть века без саундчека",
+            "book": "CATHARSIS. ЧЕТВЕРТЬ ВЕКА БЕЗ САУНДЧЕКА. Непридуманная история о неслучайных случайностях..",
             "year": "2023",
             "shelf": "music wishlist new 2023"
         },
@@ -15934,7 +15934,7 @@
             "web": "fb2",
             "year": "2022",
             "buyDate": "9/20/22",
-            "readDate": "12/29/22",
+            "readDate": "12/28/22",
             "price": "393",
             "publisher": "Individuum",
             "shelf": "individuum 2022",
@@ -19326,10 +19326,10 @@
         {
             "author": "Арто Паасилинна",
             "book": "Очаровательное массовое самоубийство",
-            "year": "2022",
+            "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria loft paasilinna wishlist 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001252154/COVER/cover1__w820.jpg"
+            "shelf": "eksmo inspiria loft paasilinna wishlist 2023",
+            "img": "https://s1.livelib.ru/boocover/1007749006/o/77e3/Arto_Paasilinna__Ocharovatelnoe_massovoe_samoubijstvo.jpeg"
         },
         {
             "author": "Бернадин Эваристо",
@@ -19760,10 +19760,10 @@
         },
         {
             "book": "Новое Будущее",
-            "year": "2023",
+            "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria loft-culture wishlist 2023",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001294474/COVER/cover1__w820.jpg"
+            "shelf": "eksmo inspiria loft-culture wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007678467/o/495f/__Novoe_buduschee.jpeg"
         },
         {
             "author": "Дэниел Киз",
@@ -20339,14 +20339,14 @@
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok familty-thriller wishlist 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001244153/COVER/cover1__w820.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007595412/o/04ae/Kimberli_Makkrejt__Udachnyj_brak.jpeg"
         },
         {
             "author": "Кэти Сайс",
             "book": "Покушение на Каррингтон-роуд",
-            "year": "2022",
+            "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok familty-thriller wishlist 2022",
+            "shelf": "eksmo inspiria tok familty-thriller wishlist 2023",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001246319/COVER/cover1__w820.jpg"
         },
         {
@@ -20436,7 +20436,7 @@
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001295555/COVER/cover1__w820.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007566831/o/bd35/Katriona_Uord__Strashnye_istorii_Sandajla.jpeg"
         },
         {
             "author": "Ибон Мартин",
@@ -20630,9 +20630,9 @@
         {
             "author": "Пола Маклейн",
             "book": "Когда звезды чернеют",
-            "year": "2022",
+            "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria wishlist tok-crime-fiction 2022",
+            "shelf": "eksmo inspiria wishlist tok-crime-fiction 2023",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001263826/COVER/cover1__w820.jpg"
         },
         {
@@ -20705,14 +20705,14 @@
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001105487/COVER/cover1__w820.jpg"
+            "img": "https://s1.livelib.ru/boocover/1006993825/o/9c08/Magnus_Jonsson__Odinokaya_ohota.jpeg"
         },
         {
             "author": "Туве Альстердаль",
             "book": "Буревал",
-            "year": "2022",
+            "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok wishlist 2022"
+            "shelf": "eksmo inspiria tok wishlist 2023"
         },
         {
             "author": "Софи Саренбрант",
@@ -20726,9 +20726,9 @@
         {
             "author": "Ане Риэль",
             "book": "Смола",
-            "year": "2022",
+            "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok wishlist 2022"
+            "shelf": "eksmo inspiria tok wishlist 2023"
         },
         {
             "author": "Карин Слотер",
@@ -20746,7 +20746,7 @@
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist sloter 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001204951/COVER/cover1__w820.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007565406/o/b06f/Karin_Sloter__Oskolki_proshlogo.jpeg"
         },
         {
             "author": "Натали Дэниелс",
@@ -20793,9 +20793,9 @@
         {
             "author": "Салли Энн Мартин",
             "book": "Клиника",
-            "year": "2022",
+            "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok psycho-thriller wishlist 2022",
+            "shelf": "eksmo inspiria tok psycho-thriller wishlist 2023",
             "img": "https://s1.livelib.ru/boocover/1007831107/o/0874/Salli_Enn_Martin__Klinika.jpeg"
         },
         {
@@ -20840,7 +20840,7 @@
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-passion wishlist 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001267092/COVER/cover1__w820.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007648500/o/5dbf/Dzhennifer_Hiller__Malenkie_gryaznye_sekrety.jpeg"
         },
         {
             "author": "Кайра Руда",
@@ -21172,7 +21172,7 @@
             "year": "2023",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-usa wishlist 2023",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001242642/COVER/cover1__w820.jpg"
+            "img": "https://s1.livelib.ru/boocover/1008060349/o/05ff/__Beglyanka.jpeg"
         },
         {
             "author": "Мари Хермансон",
@@ -21187,9 +21187,9 @@
         {
             "author": "София Рутбёк Эрикссон и Маттиас Бустрём",
             "book": "Ночь убийства, тихо-тихо в доме",
-            "year": "2022",
+            "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok-sweden wishlist 2022"
+            "shelf": "eksmo inspiria tok-sweden wishlist 2023"
         },
         {
             "author": "Рафаэль Монтес",
@@ -21233,7 +21233,7 @@
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-spain wishlist 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001294732/COVER/cover1__w820.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007591812/o/cd7e/Dolores_Redondo__Severnaya_storona_serdtsa.jpeg"
         },
         {
             "author": "Эмили Грей Тедроу",
@@ -21265,17 +21265,17 @@
         {
             "author": "Ане Риэль",
             "book": "Зверь",
-            "year": "2022",
+            "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok wishlist 2022",
+            "shelf": "eksmo inspiria tok wishlist 2023",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001124609/COVER/cover1__w820.jpg"
         },
         {
             "author": "Хейли Кришер",
             "book": "С Эли Гринлиф что-то случилось",
-            "year": "2022",
+            "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok wishlist 2022"
+            "shelf": "eksmo inspiria tok wishlist 2023"
         },
         {
             "author": "Ричард Галлахер",
@@ -21310,7 +21310,7 @@
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001227626/COVER/cover1__w820.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007591797/o/5c86/Bella_Maki__Kak_ubit_svoyu_semyu.jpeg"
         },
         {
             "author": "Сара Хогл",
@@ -21440,14 +21440,14 @@
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake mills wishlist 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001246552/COVER/cover1__w820.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007548318/o/a8ea/Lilak_Mills__Malenkaya_konditerskaya_v_Tanglvude.jpeg"
         },
         {
             "author": "Лилак Миллс",
             "book": "Цветочный магазинчик в Танглвуде",
-            "year": "2022",
+            "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria cupcake mills wishlist 2022",
+            "shelf": "eksmo inspiria cupcake mills wishlist 2023",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001249991/COVER/cover1__w820.jpg"
         },
         {
