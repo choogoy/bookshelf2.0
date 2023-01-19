@@ -2649,6 +2649,7 @@
         {
             "author": "Давид Фонкинос",
             "book": "Семья как семья",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "4/13/22",
             "readDate": "5/3/22",
@@ -2906,6 +2907,7 @@
         {
             "author": "Виктория Уолтерс",
             "book": "Вторая любовь всей моей жизни",
+            "web": "fb2",
             "year": "2016",
             "shelf": "walters wishlist",
             "img": "https://s1.livelib.ru/boocover/1001667326/o/2e72/Viktoriya_Uolters__Vtoraya_lyubov_vsej_moej_zhizni.jpeg"
@@ -2913,6 +2915,7 @@
         {
             "author": "Виктория Уолтерс",
             "book": "Убийство в доме на холме",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Рипол Классик",
             "shelf": "walters wishlist 2022",
@@ -2921,6 +2924,7 @@
         {
             "author": "Виктория Уолтерс",
             "book": "Убийство на летнем фестивале",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Рипол Классик",
             "shelf": "walters wishlist 2022",
@@ -2929,6 +2933,7 @@
         {
             "author": "Лорен А. Форри",
             "book": "Они делали плохие вещи",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Рипол Классик",
             "shelf": "best-thriller wishlist 2022",
@@ -2937,6 +2942,7 @@
         {
             "author": "Ребекка Эдгрен Альден",
             "book": "Убей моего босса",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Рипол Классик",
             "shelf": "best-thriller wishlist 2022",
@@ -3008,12 +3014,6 @@
             "year": "2023",
             "publisher": "Синдбад",
             "shelf": "sindbad wishlist new 2023"
-        },
-        {
-            "author": "Селеста Инг",
-            "book": "Наши потерянные сердца",
-            "year": "2023",
-            "shelf": "wishlist new 2023"
         },
         {
             "author": "Лидия Милле",
@@ -3114,6 +3114,7 @@
         {
             "author": "Милдред Эбботт",
             "book": "Корги-детектив. Сварливые пташки",
+            "web": "fb2",
             "year": "2020",
             "buyDate": "11/26/20",
             "price": "396",
@@ -3123,6 +3124,7 @@
         {
             "author": "Милдред Эбботт",
             "book": "Корги-детектив. Запутанные крошки",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "6/16/21",
             "price": "365",
@@ -3132,6 +3134,7 @@
         {
             "author": "Милдред Эбботт",
             "book": "Корги-детектив. Хрустящие печенюшки",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "6/16/21",
             "price": "458",
@@ -3141,6 +3144,7 @@
         {
             "author": "Милдред Эбботт",
             "book": "Корги-детектив. Хитрые мордашки",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "2/12/22",
             "price": "426",
@@ -12633,7 +12637,7 @@
             "web": "fb2",
             "year": "2021",
             "publisher": "Corpus",
-            "shelf": "corpus 100%doc wishlist 2021",
+            "shelf": "corpus 100%doc shott wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-aibolit.jpg"
         },
         {
@@ -12828,6 +12832,7 @@
             "id": "638",
             "author": "Юнас Юнассон",
             "book": "Неграмотная, которая спасла короля и королевство в придачу",
+            "web": "fb2",
             "year": "2021",
             "buyDate": "6/19/21",
             "readDate": "7/3/21",
@@ -13083,7 +13088,7 @@
             "id": "661",
             "author": "Владимир Набоков",
             "book": "Отчаяние",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "9/23/21",
             "price": "300",
@@ -13390,7 +13395,7 @@
             "id": "688",
             "author": "Владимир Набоков",
             "book": "Другие берега",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "3/23/22",
             "price": "355",
@@ -13569,6 +13574,7 @@
             "id": "704",
             "author": "Одед Галор",
             "book": "Путь человечества. Истоки богатства и неравенства",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "10/3/22",
             "price": "594",
@@ -13793,6 +13799,7 @@
             "id": "724",
             "author": "Франсуа-Анри Дезерабль",
             "book": "Властитель мой и господин",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "9/11/22",
             "readDate": "9/24/22",
@@ -13845,6 +13852,7 @@
             "id": "729",
             "author": "Юлия Бедерова, Лев Ганкин, Анна Сокольская и Максима Семеляка",
             "book": "Книга о музыке",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "10/3/22",
             "price": "1855",
@@ -13856,6 +13864,7 @@
             "id": "730",
             "author": "Гвидо Тонелли",
             "book": "Книга бытия. Общая история происхождения",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "12/1/22",
             "price": "449",
@@ -13906,6 +13915,7 @@
             "id": "736",
             "author": "Витольд Шабловский",
             "book": "Как накормить диктатора",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus 100%doc shablowsky wishlist 2022",
@@ -13915,6 +13925,7 @@
             "id": "737",
             "author": "Владимир Набоков",
             "book": "Истинная жизнь Севастьяна Найта",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "12/12/22",
             "price": "1",
@@ -13941,9 +13952,19 @@
             "img": "https://www.corpus.ru/picts/products/cover1-molodost-new.jpg"
         },
         {
+            "id": "740",
+            "author": "Вика Ройтман",
+            "book": "Йерве из Асседо",
+            "year": "2023",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist new 2023",
+            "img": "https://www.corpus.ru/picts/products/cover1-erve.jpg"
+        },
+        {
             "id": "741",
             "author": "Дженнифер Сэйнт",
             "book": "Ариадна",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "12/1/22",
             "price": "411",
@@ -13955,6 +13976,7 @@
             "id": "742",
             "author": "Сергей Лебедев",
             "book": "Титан",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "12/1/22",
             "price": "499",
@@ -13966,6 +13988,7 @@
             "id": "743",
             "author": "Кэтрин Зубович",
             "book": "Москва монументальная. Высотки и городская жизнь в эпоху сталинизма",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Corpus",
             "shelf": "corpus wishlist 2022",
@@ -13995,6 +14018,7 @@
             "id": "746",
             "author": "Владимир Набоков",
             "book": "Поэмы 1918-1947. Жалобная песнь Супермена",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "12/11/22",
             "price": "421",
@@ -14021,32 +14045,6 @@
             "img": "https://www.corpus.ru/picts/products/cover1-aramburu-strizhi.jpg"
         },
         {
-            "id": "749",
-            "author": "Вика Ройтман",
-            "book": "Йерве из Асседо",
-            "year": "2023",
-            "publisher": "Corpus",
-            "shelf": "corpus wishlist new 2023",
-            "img": "https://www.corpus.ru/picts/products/cover1-erve.jpg"
-        },
-        {
-            "author": "Аньес Мартен-Люган",
-            "book": "Дом на берегу океана, где мы были счастливы",
-            "year": "2023",
-            "publisher": "Corpus",
-            "shelf": "corpus wishlist martin-lugand new 2023",
-            "img": "https://www.corpus.ru/picts/products/cover1-dom-ocean.jpg"
-        },
-        {
-            "id": "751",
-            "author": "Владимир Набоков",
-            "book": "Пнин",
-            "year": "2023",
-            "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new 2023",
-            "img": "https://cdn.ast.ru/v2/ASE000000000858728/COVER/cover1__w600.jpg"
-        },
-        {
             "book": "Объект наблюдения. КГБ против Сахарова",
             "year": "2023",
             "publisher": "Corpus",
@@ -14062,14 +14060,33 @@
             "img": "https://cdn.ast.ru/v2/ASE000000000853268/COVER/cover1__w600.jpg"
         },
         {
+            "id": "751",
+            "author": "Владимир Набоков",
+            "book": "Пнин",
+            "year": "2023",
+            "publisher": "Corpus",
+            "shelf": "corpus nabokov wishlist new 2023",
+            "img": "https://www.corpus.ru/picts/products/cover1-pnin.jpg"
+        },
+        {
+            "id": "752",
+            "author": "Аньес Мартен-Люган",
+            "book": "Дом на берегу океана, где мы были счастливы",
+            "year": "2023",
+            "publisher": "Corpus",
+            "shelf": "corpus martin-lugand wishlist new 2023",
+            "img": "https://www.corpus.ru/picts/products/cover1-dom-ocean.jpg"
+        },
+        {
             "author": "Саймон Купер",
             "book": "Счастливый предатель. Необыкновенная история Джорджа Блейка: ложь, шпионаж и побег в Россию",
             "year": "2023",
             "publisher": "Corpus",
             "shelf": "corpus razvedcorpus wishlist new 2023",
-            "img": "https://cdn.ast.ru/v2/ASE000000000862145/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-kuper.jpg"
         },
         {
+            "id": "754",
             "author": "Лейла Слимани",
             "book": "Страна других. Книга вторая. Смотрите, как мы танцуем",
             "year": "2023",
@@ -14086,12 +14103,12 @@
             "img": "https://www.corpus.ru/picts/products/cover1-gen.jpg"
         },
         {
-            "author": "Джон Ле Карре",
-            "book": "Silverview",
+            "author": "Филипп Шотт",
+            "book": "Как обследовать росомаху",
             "year": "2023",
             "publisher": "Corpus",
-            "shelf": "le-karre corpus wishlist new 2023",
-            "img": "https://www.logobook.ru/bi/15527616/15527616_102662.jpg"
+            "shelf": "corpus 100%doc shott wishlist 2023",
+            "img": "https://cdn.ast.ru/v2/ASE000000000863946/COVER/cover1__w600.jpg"
         },
         {
             "author": "Ханья Янагихара",
@@ -14100,6 +14117,14 @@
             "publisher": "Corpus",
             "shelf": "ianagihara corpus wishlist new 2023",
             "img": "https://coollib.net/i/52/553552/img_0.webp"
+        },
+        {
+            "author": "Джон Ле Карре",
+            "book": "Silverview",
+            "year": "2023",
+            "publisher": "Corpus",
+            "shelf": "le-karre corpus wishlist new 2023",
+            "img": "https://www.logobook.ru/bi/15527616/15527616_102662.jpg"
         },
         {
             "author": "Мишель Уэльбек",
@@ -16173,6 +16198,12 @@
             "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/69/29669/1.00x-thumb.png"
         },
         {
+            "book": "Death Comes to Marlow",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
+        },
+        {
             "author": "Куив Макдоннелл",
             "book": "Человек с одним из многих лиц",
             "web": "mp3 fb2",
@@ -16505,6 +16536,13 @@
             "shelf": "mif harper wishlist 2023"
         },
         {
+            "book": "Поражение Федры",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif harper wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/85/30485/1.00x-thumb.png"
+        },
+        {
             "author": "Элин Хильдебранд",
             "book": "28 лет, каждое лето",
             "web": "mp3 fb2",
@@ -16575,6 +16613,459 @@
             "img": "https://s1.livelib.ru/boocover/1007539087/o/e935/__Odnazhdy_tjomnoj_zimnej_nochyu....jpeg"
         },
         {
+            "author": "Сиран Джей Чжао",
+            "book": "Закари Ин и Император-Дракон",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007571991/o/56bf/Siran_Dzhej_Chzhao__Zakari_In_i_ImperatorDrakon.jpeg"
+        },
+        {
+            "author": "Сиран Джей Чжао",
+            "book": "ZACHARY YING AND THE SKY-MENDING GODDESS",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
+        },
+        {
+            "author": "Виктория Ли",
+            "book": "Урок возмездия",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007370073/o/8d43/Viktoriya_Li__Urok_vozmezdiya.jpeg"
+        },
+        {
+            "author": "Арина Цимеринг",
+            "book": "Правила выживания в Джакарте",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/12/27112/1.00x-thumb.png"
+        },
+        {
+            "book": "Магазинчик времени",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
+        },
+        {
+            "book": "Агриппина. Младшая сестра Смерти",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
+        },
+        {
+            "book": "Меч в ножнах из дикой сливы",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
+        },
+        {
+            "book": "THE PEARL HUNTER",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/73/29673/1.00x-thumb.png"
+        },
+        {
+            "book": "Злодейский путь!.. Том 1",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
+        },
+        {
+            "book": "Голос моря",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/57/29057/1.00x-thumb.png"
+        },
+        {
+            "author": "Джазмин Дарзник",
+            "book": "Голос пойманной птицы",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/53/29053/1.00x-thumb.png"
+        },
+        {
+            "book": "Девочки Гарсиа",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/15/30515/1.00x-thumb.png"
+        },
+        {
+            "book": "The end: A novel",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/55/29055/1.00x-thumb.png"
+        },
+        {
+            "author": "Александр Тилни",
+            "book": "Ожидания Бена Уикса",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007528524/o/c123/Aleksandr_Tilni__Ozhidaniya_Bena_Uiksa.jpeg"
+        },
+        {
+            "book": "Змеиное гнездо",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/54/29054/1.00x-thumb.png"
+        },
+        {
+            "book": "Моя безумная бывшая",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
+        },
+        {
+            "author": "Джим Керри и Дана Вачон",
+            "book": "Только правда и ничего кроме вымысла",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007644117/o/c980/Dzhim_Kerri__Tolko_pravda_i_nichego_krome_vymysla.jpeg"
+        },
+        {
+            "book": "De goede zoon",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/74/29074/1.00x-thumb.png"
+        },
+        {
+            "book": "Пороки и наваждения",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/86/28886/1.00x-thumb.png"
+        },
+        {
+            "book": "Птицы все знают",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/68/29068/1.00x-thumb.png"
+        },
+        {
+            "book": "Сто братьев",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
+        },
+        {
+            "author": "Кристина Робер",
+            "book": "Полусолнце",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007224234/o/e593/Kristina_Rober__Polusolntse.jpeg"
+        },
+        {
+            "author": "Сиран Джей Чжао",
+            "book": "Железная вдова",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1006866928/o/9ea2/Siran_Dzhej_Chzhao__Zheleznaya_vdova.jpeg"
+        },
+        {
+            "author": "Кайли Ли Бейкер",
+            "book": "Ночь шинигами",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007281336/o/88dc/Kajli_Li_Bejker__Noch_shinigami.jpeg"
+        },
+        {
+            "author": "Нги Во",
+            "book": "Когда тигр спустился с горы",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007427760/o/d2a0/Ngi_Vo__Kogda_tigr_spustilsya_s_gory.jpeg"
+        },
+        {
+            "author": "Нги Во",
+            "book": "Императрица Соли и Жребия",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007289448/o/0f90/Ngi_Vo__Imperatritsa_Soli_i_Zhrebiya.jpeg"
+        },
+        {
+            "author": "Нги Во",
+            "book": "Избранные и прекрасные",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007563153/o/4caa/Ngi_Vo__Izbrannye_i_prekrasnye.jpeg"
+        },
+        {
+            "author": "Сью Линн Тань",
+            "book": "Дочь Лунной богини",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007474455/o/542e/Syu_Linn_Tan__Doch_Lunnoj_bogini.jpeg"
+        },
+        {
+            "author": "Чхве Сагю",
+            "book": "Река, где восходит луна. Юная принцесса",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007396803/o/81ac/Sagyu_Chhve__Reka_gde_voshodit_luna._Yunaya_printsessa.jpeg"
+        },
+        {
+            "book": "War Arts Saga #1",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/98/30498/1.00x-thumb.png"
+        },
+        {
+            "book": "War Arts Saga #2",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
+        },
+        {
+            "book": "War Arts Saga #3",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
+        },
+        {
+            "book": "Iron widow 2",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
+        },
+        {
+            "author": "Олег Яковлев и Владимир Торин",
+            "book": "Мистер Вечный Канун. Уэлихолн. Часть первая",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007440216/o/9651/Vladimir_Torin_Oleg_Yakovlev__Mister_Vechnyj_Kanun._Ueliholn.jpeg"
+        },
+        {
+            "author": "Владимир Торин и Олег Яковлев",
+            "book": "Мистер Вечный Канун. Город Полуночи. Часть вторая",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007485342/o/8a89/Vladimir_Torin_Oleg_Yakovlev__Mister_Vechnyj_Kanun._Gorod_Polunochi.jpeg"
+        },
+        {
+            "author": "Анви Рид",
+            "book": "Пир теней",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007505151/o/a33a/Anvi_Rid__Pir_tenej.jpeg"
+        },
+        {
+            "author": "Ксения Власова",
+            "book": "Рок и Кара",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007529094/o/0d0e/Kseniya_Vlasova__Rok_i_Kara.jpeg"
+        },
+        {
+            "author": "Кристина Робер",
+            "book": "Преданные. Лабиринты памяти",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
+        },
+        {
+            "author": "Кристина Робер",
+            "book": "Преданные. Книга 2",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
+        },
+        {
+            "book": "Песни радости, песни печали",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/67/29667/1.00x-thumb.png"
+        },
+        {
+            "book": "Обыкновенные монстры",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/62/29062/1.00x-thumb.png"
+        },
+        {
+            "book": "LIGHTLARK",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/75/29675/1.00x-thumb.png"
+        },
+        {
+            "book": "LIGHTLARK 2",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
+        },
+        {
+            "book": "DANCE OF THE STARLIT SEA",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
+        },
+        {
+            "book": "LIES WE SING TO THE SEA",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
+        },
+        {
+            "author": "Наталья Ильина",
+            "book": "Пока ты здесь",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007331601/o/47f7/Natalya_Ilina__Poka_ty_zdes.jpeg"
+        },
+        {
+            "author": "Наталья Способина",
+            "book": "Многогранники",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007150440/o/04b0/Natalya_Sposobina__Mnogogranniki.jpeg"
+        },
+        {
+            "author": "Марико Тамаки",
+            "book": "Нежный холод",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007525902/o/ff1e/Mariko_Tamaki__Nezhnyj_holod.jpeg"
+        },
+        {
+            "author": "Бонни-Сью Хичкок",
+            "book": "Запахи чужих домов",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007368255/o/3eaf/BonniSyu_Hichkok__Zapahi_chuzhih_domov.jpeg"
+        },
+        {
+            "author": "Люси Кристофер",
+            "book": "Словно птица",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007427748/o/b9fc/Lyusi_Kristofer__Slovno_ptitsa.jpeg"
+        },
+        {
+            "author": "Люси Кристофер",
+            "book": "Взаперти",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/05/30205/1.00x-thumb.png"
+        },
+        {
+            "author": "Андреа Маджи",
+            "book": "Метеориты",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://s1.livelib.ru/boocover/1008027007/o/ccfe/Andrea_Madzhi__Meteority.jpeg"
+        },
+        {
+            "author": "Наталья Способина",
+            "book": "Магниты",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
+        },
+        {
+            "book": "IF HE HAD BEEN WITH ME",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
+        },
+        {
+            "book": "IF ONLY I HAD TOLD HER",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
+        },
+        {
+            "author": "Лорен Блэквуд",
+            "book": "Среди проклятых стен",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007425012/o/4bde/Loren_Blekvud__Sredi_proklyatyh_sten.jpeg"
+        },
+        {
+            "author": "Кристина Тэ",
+            "book": "Моя темная королева",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007024758/o/fd85/Kristina_Te__Moya_temnaya_koroleva.jpeg"
+        },
+        {
+            "author": "Лесли Веддер",
+            "book": "Костяное веретено",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007352505/o/1b75/Lesli_Vedder__Kostyanoe_vereteno.jpeg"
+        },
+        {
+            "author": "Ханна Линн",
+            "book": "Дитя Афины",
+            "web": "fb2",
+            "year": "2022",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007564899/o/95e6/Hanna_Linn__Ditya_Afiny.jpeg"
+        },
+        {
+            "book": "THREADS THAT BIND",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
+        },
+        {
             "author": "Гвен Купер",
             "book": "Правила счастья кота Гомера. Трогательные приключения слепого кота и его хозяйки",
             "web": "mp3 fb2",
@@ -16593,6 +17084,14 @@
             "img": "https://s1.livelib.ru/boocover/1007503255/o/359f/Yaap_Robben__Letnij_brat.jpeg"
         },
         {
+            "author": "Кайли Ли Бейкер",
+            "book": "The Empress of Time",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/85/30785/1.00x-thumb.png"
+        },
+        {
             "author": "Джон Гвинн",
             "book": "Тень богов",
             "web": "mp3 fb2",
@@ -16604,10 +17103,19 @@
         {
             "author": "Элис Келлен",
             "book": "Всё, что мы потеряли",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007593735/o/069e/Elis_Kellen__Vsjo_chto_my_poteryali.jpeg"
+        },
+        {
+            "author": "Элис Келлен",
+            "book": "Todo lo que somos juntos",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/84/30784/1.00x-thumb.png"
         },
         {
             "author": "Фил Стэмпер",
@@ -16670,6 +17178,22 @@
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif wishlist 2023",
             "img": "https://s1.livelib.ru/boocover/1007579296/o/9df4/Kuro_Diana__Chego_hotyat....jpeg"
+        },
+        {
+            "author": "Бонни-Сью Хичкок",
+            "book": "Запахи чужих домов",
+            "year": "2020",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif mif-proza wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1004381257/o/588a/BonniSyu_Hichkok__Zapahi_chuzhih_domov.jpeg"
+        },
+        {
+            "author": "Люси Кристофер",
+            "book": "Взаперти",
+            "year": "2020",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif mif-proza wishlist 2020",
+            "img": "https://s1.livelib.ru/boocover/1003469951/o/5d26/Lyusi_Kristofer__Vzaperti.jpeg"
         },
         {
             "author": "Шон Байтелл",
@@ -18330,6 +18854,7 @@
         {
             "author": "Кристин Ханна",
             "book": "Соловей",
+            "web": "fb2",
             "year": "2016",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press hanna wishlist",
@@ -18338,6 +18863,7 @@
         {
             "author": "Кристин Ханна",
             "book": "С жизнью наедине",
+            "web": "fb2",
             "year": "2018",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press hanna wishlist",
@@ -18346,6 +18872,7 @@
         {
             "author": "Кристин Ханна",
             "book": "Четыре ветра",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press hanna wishlist 2021",
@@ -18354,6 +18881,7 @@
         {
             "author": "Кристин Ханна",
             "book": "Улица светлячков",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press hanna wishlist 2022",
@@ -18450,6 +18978,7 @@
         {
             "author": "Эллисон Пирсон",
             "book": "Что же тут сложного?",
+            "web": "fb2",
             "year": "2019",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press pirson wishlist",
@@ -18477,6 +19006,7 @@
         {
             "author": "Нина Стиббе",
             "book": "Человек у руля",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press wishlist 2020",
@@ -18494,6 +19024,7 @@
         {
             "author": "Бенджамин Вуд",
             "book": "Станция на пути туда, где лучше",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press wishlist 2020",
@@ -18510,6 +19041,7 @@
         {
             "author": "Амитав Гош",
             "book": "Маковое море",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press gosh wishlist 2021",
@@ -18518,6 +19050,7 @@
         {
             "author": "Амитав Гош",
             "book": "Дымная река",
+            "web": "fb2",
             "year": "2021",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press gosh wishlist 2021",
@@ -18526,7 +19059,7 @@
         {
             "author": "Амитав Гош",
             "book": "Огненный поток",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press gosh wishlist 2022",
@@ -19417,6 +19950,7 @@
         {
             "author": "Наоми Алдерман",
             "book": "Сила",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press wishlist 2020",
@@ -19645,7 +20179,7 @@
         {
             "author": "Абир Мукерджи",
             "book": "Неизбежное зло",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press wishlist 2022",
@@ -19661,11 +20195,10 @@
         },
         {
             "author": "Альберт Бертран Бас",
-            "book": "Памать - это ты",
+            "book": "Память - это ты",
             "year": "2023",
             "publisher": "Фантом Пресс",
-            "shelf": "fantom-press wishlist 2023",
-            "img": "https://s1.livelib.ru/boocover/1007070454/o/84f1/Herri_Metyuz__Sigarety.jpeg"
+            "shelf": "fantom-press wishlist 2023"
         },
         {
             "author": "Меган Нолан",
@@ -20088,12 +20621,21 @@
         {
             "author": "Сюзанна Кэхалан",
             "book": "Великий притворщик. Миссия под прикрытием, которая изменила наше представление о безумии",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "7/25/22",
             "price": "415",
             "publisher": "Бомбора",
             "shelf": "bombora 2022",
             "img": "https://s1.livelib.ru/boocover/1007017945/o/c552/Syuzanna_Kehalan__Velikij_pritvorschik._Missiya_pod_prikrytiem_kotoraya_izmenila.jpeg"
+        },
+        {
+            "author": "Кэтрин Гилдинер",
+            "book": "Доброе утро, монстр! Хватит ли у тебя смелости вспомнить о своем прошлом?",
+            "year": "2022",
+            "publisher": "Бомбора",
+            "shelf": "bombora wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1007577731/o/bf3a/Ketrin_Gildiner__Dobroe_utro_monstr_Hvatit_li_u_tebya_smelosti_vspomnit_o_svoem_.jpeg"
         },
         {
             "author": "Клас Бушманн",
@@ -20125,6 +20667,7 @@
         {
             "author": "Томас Кундт и Таркан Багджи",
             "book": "Я прихожу после смерти. История профессионального уборщика мест преступлений",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Бомбора",
             "shelf": "bombora bad-karma wishlist 2022",
@@ -20223,6 +20766,7 @@
             "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "6/23/22",
+            "readDate": "1/11/23",
             "price": "412",
             "publisher": "АСТ",
             "shelf": "ast miracle 2022",
@@ -20231,7 +20775,7 @@
         {
             "author": "Хелена Турстен",
             "book": "Фрекен Мод задумала что-то недоброе",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "11/10/22",
             "readDate": "1/2/23",
@@ -20370,7 +20914,7 @@
         {
             "author": "Люси Фоли",
             "book": "Квартира в Париже",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "АСТ",
             "shelf": "ast murder foli wishlist 2022",
@@ -20535,6 +21079,7 @@
         {
             "author": "Келли Риммер",
             "book": "Вещи, о которых мы не можем рассказать",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "8/22/22",
             "price": "403",
@@ -20545,6 +21090,7 @@
         {
             "author": "Виена Дэй Рэндел",
             "book": "Последняя роза Шанхая",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "9/27/22",
             "price": "404",
@@ -20555,6 +21101,7 @@
         {
             "author": "Кейт Хьюитт",
             "book": "Сестры Эдельвейс",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "11/10/22",
             "price": "453",
@@ -21467,7 +22014,7 @@
         {
             "author": "Рахул Райна",
             "book": "Украсть богача",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft wishlist 2021",
@@ -21672,6 +22219,7 @@
         {
             "author": "Схоластик Мукасонга",
             "book": "Богоматерь Нильская",
+            "web": "fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft wishlist 2022",
@@ -21680,7 +22228,7 @@
         {
             "author": "Эмили Сент-Джон Мандел",
             "book": "Море спокойствия",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft wishlist 2022",
@@ -21714,7 +22262,7 @@
         },
         {
             "book": "Новое Будущее",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-culture wishlist 2022",
@@ -21918,7 +22466,8 @@
             "book": "Кровавая любовь. История девушки, убившей семью ради мужчины вдвое старше нее",
             "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok wishlist true-crime-story 2023"
+            "shelf": "eksmo inspiria tok wishlist true-crime-story 2023",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001241674/COVER/cover1__w820.jpg"
         },
         {
             "author": "Майк Омер",
@@ -21984,7 +22533,8 @@
             "book": "Гибельное влияние",
             "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok psycho-thriller omer wishlist 2023"
+            "shelf": "eksmo inspiria tok psycho-thriller omer wishlist 2023",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001287849/COVER/cover1__w820.jpg"
         },
         {
             "author": "Мэри Бёртон",
@@ -23356,7 +23906,8 @@
             "book": "Книга несчастных случаев",
             "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok wishlist 2023"
+            "shelf": "eksmo inspiria tok wishlist 2023",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001295265/COVER/cover1__w820.jpg"
         },
         {
             "author": "Сара Хогл",
@@ -23881,13 +24432,6 @@
             "img": "https://s1.livelib.ru/boocover/1007425846/o/0bf0/Stejsi_Holls__Missis_Ingland.jpeg"
         },
         {
-            "author": "Дженнифер Е. Смит",
-            "book": "Непотопляемая Грета Джеймс",
-            "year": "2023",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria novel wishlist 2023"
-        },
-        {
             "author": "Люсинда Райли",
             "book": "Полуночная роза",
             "web": "mp3 fb2",
@@ -24082,6 +24626,14 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1006765357/o/472a/Kirsti_Menning__Poteryannye_sokrovischa.jpeg"
+        },
+        {
+            "author": "Дженнифер Е. Смит",
+            "book": "Непотопляемая Грета Джеймс",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria novel wishlist 2023",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001309251/COVER/cover1__w820.jpg"
         },
         {
             "author": "Шанель Клитон",
@@ -24829,7 +25381,7 @@
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001234143/COVER/cover1__w820.webp"
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001234143/COVER/cover1__w820.jpg"
         },
         {
             "author": "Марьян Камали",
@@ -24877,7 +25429,8 @@
             "book": "Лили. Сказка о мести",
             "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria novel wishlist 2023"
+            "shelf": "eksmo inspiria novel wishlist 2023",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001207008/COVER/cover1__w820.jpg"
         },
         {
             "author": "Келли Боуэн",
@@ -24901,13 +25454,6 @@
             "shelf": "eksmo inspiria novel wishlist 2023"
         },
         {
-            "author": "Долли Ольдертон",
-            "book": "Мои нереальные парни",
-            "year": "2023",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria novel wishlist 2023"
-        },
-        {
             "author": "Армандо Лукас Корреа",
             "book": "Девушка из Германии",
             "year": "2023",
@@ -24921,7 +25467,7 @@
             "year": "2023",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2023",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001268291/COVER/cover1__w820.webp"
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001268291/COVER/cover1__w820.jpg"
         },
         {
             "author": "Джулианна Маклин",
@@ -24942,7 +25488,8 @@
             "book": "Мои нереальные парни",
             "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria novel wishlist 2023"
+            "shelf": "eksmo inspiria novel wishlist 2023",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001252629/COVER/cover1__w820.jpg"
         },
         {
             "author": "Лиза Кросс-Смит",
@@ -25098,6 +25645,13 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria pink-room brandy wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007384041/o/2e51/Megan_Brendi__Koroli_starshej_shkoly.jpeg"
+        },
+        {
+            "author": "Меган Брэнди",
+            "book": "Будь моей Брейшо",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria pink-room brandy wishlist 2023"
         },
         {
             "author": "Рейчел Линн Соломон",
@@ -25592,6 +26146,14 @@
             "img": "https://cdn.eksmo.ru/v2/ITD000000001304466/COVER/cover1__w820.jpg"
         },
         {
+            "author": "Кристал Маркис",
+            "book": "Дэйвенпорты",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2023",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001309300/COVER/cover1__w820.jpg"
+        },
+        {
             "author": "Андреас Грубер",
             "book": "Смерть с уведомлением",
             "web": "mp3 fb2",
@@ -25973,7 +26535,7 @@
         {
             "author": "Кристин Хармель",
             "book": "Книга утраченных имен",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Синдбад",
             "shelf": "sindbad harmel wishlist 2022",
