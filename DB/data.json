@@ -6290,6 +6290,14 @@
         },
         {
             "id": "n",
+            "author": "Умберто Эко",
+            "book": "О телевидении",
+            "year": "2023",
+            "publisher": "Corpus",
+            "shelf": "corpus eko wishlist 2023"
+        },
+        {
+            "id": "n",
             "author": "Салман Рушди",
             "book": "Джозеф Антон",
             "year": "2012",
@@ -13945,6 +13953,7 @@
             "book": "Как накормить диктатора",
             "web": "fb2",
             "year": "2022",
+            "readDate": "1/28/23",
             "publisher": "Corpus",
             "shelf": "corpus 100%doc shablowsky wishlist 2022",
             "img": "https://www.corpus.ru/picts/products/cover1-diktator-eda.jpg"
@@ -14159,6 +14168,55 @@
             "img": "https://cdn.ast.ru/v2/ASE000000000862361/COVER/cover1__w600.jpg"
         },
         {
+            "author": "Тоби Орд",
+            "book": "На краю пропасти",
+            "year": "2023",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist 2023"
+        },
+        {
+            "author": "Лорен Грофф",
+            "book": "Мать-настоятельница",
+            "year": "2023",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist 2023"
+        },
+        {
+            "author": "Ниал Фергюсон",
+            "book": "Рок. Политика катастроф",
+            "year": "2023",
+            "publisher": "Corpus",
+            "shelf": "corpus nial wishlist 2023"
+        },
+        {
+            "author": "Мишель Уэльбек",
+            "book": "Реплики 2020",
+            "year": "2023",
+            "publisher": "Corpus",
+            "shelf": "houellebecq corpus wishlist new 2023"
+        },
+        {
+            "author": "Карло Чиполла",
+            "book": "Фундаментальные законы человеческой глупости",
+            "year": "2023",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist 2023"
+        },
+        {
+            "author": "Сергей Гандлевский",
+            "book": "Незримый рой",
+            "year": "2023",
+            "publisher": "Corpus",
+            "shelf": "corpus wishlist 2023"
+        },
+        {
+            "author": "Владимир Набоков",
+            "book": "Взгляни на арлекинов!",
+            "year": "2023",
+            "publisher": "Corpus",
+            "shelf": "corpus nabokov wishlist new 2023"
+        },
+        {
             "author": "Джон Ле Карре",
             "book": "Silverview",
             "year": "2023",
@@ -14202,13 +14260,6 @@
             "publisher": "Corpus",
             "shelf": "corpus nabokov wishlist",
             "img": "https://s1.livelib.ru/boocover/1002108810/o/9b92/Vladimir_Nabokov__Pod_znakom_nezakonnorozhdennyh.jpeg"
-        },
-        {
-            "author": "Владимир Набоков",
-            "book": "Взгляни на арлекинов!",
-            "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist",
-            "img": "https://s1.livelib.ru/boocover/1003326334/o/34c2/Vladimir_Nabokov__Vzglyani_na_arlekinov.jpeg"
         },
         {
             "author": "Владимир Набоков",
@@ -15076,6 +15127,14 @@
             "publisher": "Corpus",
             "shelf": "corpus dawkins wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-dawkins.jpg"
+        },
+        {
+            "id": "n",
+            "author": "Ричард Докинз",
+            "book": "Полеты фантазии",
+            "year": "2023",
+            "publisher": "Corpus",
+            "shelf": "corpus dawkins wishlist 2023"
         },
         {
             "id": "n",
@@ -16546,6 +16605,7 @@
         {
             "author": "Трейси Добмайер и Венди Кацман",
             "book": "Девочки с блестящим будущим",
+            "web": "fb2",
             "year": "2023",
             "buyDate": "1/27/23",
             "price": "458",
@@ -22648,6 +22708,7 @@
             "book": "Тринадцатая карта",
             "web": "fb2",
             "year": "2022",
+            "readDate": "1/29/23",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok psycho-thriller omer wishlist 2022",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001308265/COVER/cover1__w820.jpg"
@@ -22704,6 +22765,7 @@
         {
             "author": "Изабелла Мальдонадо",
             "book": "Високосный убийца",
+            "web": "fb2",
             "year": "2023",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok psycho-thriller maldonado wishlist new 2023",
@@ -22803,7 +22865,7 @@
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001287756/COVER/cover1__w820.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007591803/o/e428/Sara_Pirs__Skala_Zhnetsa.jpeg"
         },
         {
             "author": "Элли Рейнолдс",
@@ -22865,7 +22927,7 @@
             "year": "2023",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist new 2023",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001296685/COVER/cover1__w820.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007748838/o/5bf8/Dzhenis_Hallett__Kod_Tvajford.jpeg"
         },
         {
             "author": "Дженис Халлетт",
@@ -25829,7 +25891,8 @@
             "book": "Будь моей Брейшо",
             "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria pink-room brandy wishlist 2023"
+            "shelf": "eksmo inspiria pink-room brandy wishlist 2023",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001310758/COVER/cover1__w820.jpg"
         },
         {
             "author": "Рейчел Линн Соломон",
@@ -26333,6 +26396,13 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria wishlist 2023",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001309300/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Надифа Мохамед",
+            "book": "Люди удачи",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2023"
         },
         {
             "author": "Андреас Грубер",
