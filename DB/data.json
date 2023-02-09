@@ -3987,6 +3987,7 @@
         {
             "author": "Маша Трауб",
             "book": "Семейная кухня",
+            "web": "mp3",
             "year": "2012",
             "buyDate": "12/17/12",
             "price": "189",
@@ -10400,6 +10401,7 @@
             "web": "mp3 fb2",
             "year": "2016",
             "buyDate": "9/23/20",
+            "readDate": "2/6/23",
             "price": "446.5",
             "publisher": "Corpus",
             "shelf": "ianagihara corpus",
@@ -11076,6 +11078,15 @@
             "publisher": "Corpus",
             "shelf": "corpus",
             "img": "https://www.corpus.ru/picts/products/Hill-Nix-1000.jpg"
+        },
+        {
+            "id": "471",
+            "author": "Петр Вайль и Александр Генис",
+            "book": "60-е. Мир советского человека",
+            "year": "2018",
+            "publisher": "Corpus",
+            "shelf": "corpus vail wishlist",
+            "img": "https://s1.livelib.ru/boocover/1002770079/o/e3d7/Petr_Vajl_Aleksandr_Genis__60e._Mir_sovetskogo_cheloveka.jpeg"
         },
         {
             "id": "472",
@@ -13993,7 +14004,7 @@
             "author": "Вика Ройтман",
             "book": "Йерве из Асседо",
             "year": "2023",
-            "buyDate": "2/6/23",
+            "buyDate": "2/1/23",
             "price": "501",
             "publisher": "Corpus",
             "shelf": "corpus 2023",
@@ -14096,7 +14107,7 @@
             "year": "2023",
             "publisher": "Corpus",
             "shelf": "corpus elements2 traektoria wishlist 2023",
-            "img": "https://cdn.ast.ru/v2/ASE000000000853268/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-marshall.jpg"
         },
         {
             "id": "751",
@@ -14112,7 +14123,7 @@
             "author": "Аньес Мартен-Люган",
             "book": "Дом на берегу океана, где мы были счастливы",
             "year": "2023",
-            "buyDate": "2/6/23",
+            "buyDate": "2/1/23",
             "price": "237",
             "publisher": "Corpus",
             "shelf": "corpus martin-lugand 2023",
@@ -14133,7 +14144,7 @@
             "year": "2023",
             "publisher": "Corpus",
             "shelf": "corpus slimani wishlist new 2023",
-            "img": "https://cdn.ast.ru/v2/ASE000000000863484/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-slimani-tantsy.jpg"
         },
         {
             "author": "Сиддхартха Мукерджи",
@@ -14161,11 +14172,11 @@
         },
         {
             "author": "Бет Шапиро",
-            "book": "Жизнь, которую мы создали. Как 50000 лет рукотворных инноваций усовершенствовали и преобразили природу",
+            "book": "Жизнь, которую мы создали. Как пятьдесят тысяч лет рукотворных инноваций усовершенствовали и преобразили природу",
             "year": "2023",
             "publisher": "Corpus",
             "shelf": "corpus elements2 zimin wishlist 2023",
-            "img": "https://cdn.ast.ru/v2/ASE000000000862361/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover1-zhizn.jpg"
         },
         {
             "author": "Тоби Орд",
@@ -15107,7 +15118,7 @@
             "buyDate": "9/29/20",
             "price": "554",
             "publisher": "Corpus",
-            "shelf": "corpus dawkins 2020",
+            "shelf": "corpus dawkins wishlist 2020",
             "img": "https://www.corpus.ru/picts/products/tnw239-cover-dawkins-raduga.jpg"
         },
         {
@@ -16302,7 +16313,8 @@
             "book": "Death Comes to Marlow",
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2023"
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/87/30787/1.00x-thumb.png"
         },
         {
             "author": "Куив Макдоннелл",
@@ -16647,6 +16659,7 @@
             "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/84/29684/1.00x-thumb.png"
         },
         {
+            "author": "Лора Шепперсон",
             "book": "Поражение Федры",
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
@@ -16757,12 +16770,6 @@
             "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/12/27112/1.00x-thumb.png"
         },
         {
-            "book": "Магазинчик времени",
-            "year": "2023",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2023"
-        },
-        {
             "book": "Агриппина. Младшая сестра Смерти",
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
@@ -16833,7 +16840,27 @@
             "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/54/29054/1.00x-thumb.png"
         },
         {
+            "author": "Мин Чихён",
             "book": "Моя безумная бывшая",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/20/28320/1.00x-thumb.png"
+        },
+        {
+            "book": "Магазинчик времени",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
+        },
+        {
+            "book": "EXTRAORDINARY ATTORNEY WOO Vol.1",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
+        },
+        {
+            "book": "EXTRAORDINARY ATTORNEY WOO Vol.2",
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif wishlist 2023"
@@ -16954,6 +16981,14 @@
             "img": "https://s1.livelib.ru/boocover/1008201115/o/29ab/Uesli_Chu__Voin_pyati_Podnebesnyh_Prorochestvo.jpeg"
         },
         {
+            "author": "Сиран Джей Чжао",
+            "book": "Iron widow 2",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/46/30546/1.00x-thumb.png"
+        },
+        {
             "book": "War Arts Saga #2",
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
@@ -16961,12 +16996,6 @@
         },
         {
             "book": "War Arts Saga #3",
-            "year": "2023",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2023"
-        },
-        {
-            "book": "Iron widow 2",
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif wishlist 2023"
@@ -17121,19 +17150,22 @@
             "book": "Магниты",
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2023"
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/74/30174/1.00x-thumb.png"
         },
         {
             "book": "IF HE HAD BEEN WITH ME",
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2023"
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/56/30156/1.00x-thumb.png"
         },
         {
             "book": "IF ONLY I HAD TOLD HER",
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2023"
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/57/30157/1.00x-thumb.png"
         },
         {
             "author": "Лорен Блэквуд",
@@ -18381,7 +18413,7 @@
             "price": "392",
             "publisher": "Азбука",
             "shelf": "azbuka inostranka puli 2022",
-            "img": "https://cdn.azbooka.ru/cv/w1100/fcc1740d-691d-4198-887c-af4a735ebe36.jpg"
+            "img": "https://s1.livelib.ru/boocover/1007538934/o/1d46/Kler_Puli__Lyudi_s_platformy_No_5.jpeg"
         },
         {
             "author": "Джоджо Мойес",
@@ -19082,7 +19114,8 @@
             "book": "Сеть Алисы",
             "year": "2023",
             "publisher": "Фантом Пресс",
-            "shelf": "fantom-press quinn wishlist 2023"
+            "shelf": "fantom-press quinn wishlist 2023",
+            "img": "https://img4.labirint.ru/rc/cada119c6763cc75f789008b1cfee733/363x561q80/books93/927236/cover.jpg?1675333529"
         },
         {
             "author": "Элизабет Страут",
@@ -21578,6 +21611,7 @@
         {
             "author": "Виктория Селман",
             "book": "От самого темного сердца",
+            "web": "mp3",
             "year": "2023",
             "publisher": "Эксмо",
             "shelf": "eksmo stillhouse-lake selman wishlist new 2023",
@@ -22346,6 +22380,7 @@
             "book": "Великий Годден",
             "web": "fb2",
             "year": "2022",
+            "readDate": "2/8/23",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-cult wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007109784/o/23eb/Meg_Rozoff__Velikij_Godden.jpeg"
@@ -22657,6 +22692,7 @@
             "author": "Майк Омер",
             "book": "Внутри убийцы",
             "web": "mp3 fb2",
+            "readDate": "2/4/23",
             "publisher": "Эксмо",
             "shelf": "eksmo tok psycho-thriller omer wishlist",
             "img": "https://cdn.eksmo.ru/v2/ITD000000000996146/COVER/cover1__w820.jpg"
@@ -22758,6 +22794,7 @@
             "author": "Изабелла Мальдонадо",
             "book": "Шифр",
             "web": "mp3 fb2",
+            "readDate": "2/9/23",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok psycho-thriller maldonado wishlist",
             "img": "https://s1.livelib.ru/boocover/1006950412/o/63af/Izabella_Maldonado__Shifr.jpeg"
@@ -22996,7 +23033,8 @@
             "book": "Как быть съеденной",
             "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok mystic-thriller wishlist 2023"
+            "shelf": "eksmo inspiria tok mystic-thriller wishlist 2023",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001295244/COVER/cover1__w820.jpg"
         },
         {
             "author": "Риа Фрай",
@@ -23197,10 +23235,11 @@
         },
         {
             "author": "Кейтлин Бараш",
-            "book": "Особое умение (у.н.)",
+            "book": "Одержимость романами",
             "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok wishlist 2023"
+            "shelf": "eksmo inspiria tok wishlist 2023",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001135914/COVER/cover1__w820.jpg"
         },
         {
             "author": "Лайза Джуэлл",
@@ -23748,13 +23787,6 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-korea wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1005668347/o/9e67/So_Mie__Edinstvennyj_rebenok.jpeg"
-        },
-        {
-            "author": "Ким Сочжин",
-            "book": "Обыкновенное зло",
-            "year": "2023",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok-korea wishlist 2023"
         },
         {
             "author": "Чжоу Хаохуэй",
@@ -25605,7 +25637,7 @@
         {
             "author": "Кристиан Беркель",
             "book": "Яблоневое дерево",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -25731,6 +25763,14 @@
             "year": "2023",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2023"
+        },
+        {
+            "author": "Ким Сочжин",
+            "book": "Обыкновенное зло",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria novel wishlist 2023",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001287660/COVER/cover1__w820.jpg"
         },
         {
             "author": "Кэрол Мэттьюс",
@@ -26545,6 +26585,13 @@
             "publisher": "АСТ",
             "shelf": "ast ingar wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007331793/o/42be/Ingar_Jonsrud__Krest.jpeg"
+        },
+        {
+            "author": "Ингар Йонсруд",
+            "book": "Gudmoren",
+            "year": "2023",
+            "publisher": "АСТ",
+            "shelf": "ast ingar wishlist 2023"
         },
         {
             "author": "Рагнар Йонассон",
