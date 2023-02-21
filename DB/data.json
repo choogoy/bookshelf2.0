@@ -13104,6 +13104,7 @@
             "web": "mp3",
             "year": "2021",
             "buyDate": "9/30/21",
+            "readDate": "2/19/23",
             "price": "326",
             "publisher": "Corpus",
             "shelf": "corpus 2021",
@@ -13514,6 +13515,7 @@
             "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "3/16/22",
+            "readDate": "2/20/23",
             "price": "419",
             "publisher": "Corpus",
             "shelf": "corpus 2022",
@@ -14129,7 +14131,7 @@
             "year": "2023",
             "publisher": "Corpus",
             "shelf": "ianagihara corpus wishlist new 2023",
-            "img": "https://cdn.ast.ru/v2/ASE000000000861564/COVER/cover1__w600.jpg"
+            "img": "https://www.corpus.ru/picts/products/cover_1-yanagihara-rai.jpg"
         },
         {
             "author": "Майкл Маршалл",
@@ -14144,8 +14146,10 @@
             "author": "Владимир Набоков",
             "book": "Пнин",
             "year": "2023",
+            "buyDate": "24.02.0203",
+            "price": "300",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new 2023",
+            "shelf": "corpus nabokov 2023",
             "img": "https://www.corpus.ru/picts/products/cover1-pnin.jpg"
         },
         {
@@ -14870,8 +14874,10 @@
             "id": "n",
             "book": "Объект наблюдения. КГБ против Сахарова",
             "year": "2023",
+            "buyDate": "2/24/23",
+            "price": "1166",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist new 2023",
+            "shelf": "corpus 2023",
             "img": "https://www.corpus.ru/picts/products/obekt-nablyudeniya-kgb-protiv-saharova1.jpg"
         },
         {
@@ -17734,11 +17740,18 @@
         {
             "author": "Джон Дуглас и Джонни Додд",
             "book": "Проникнуть в мысли BTK. Подлинная история тридцатилетней охоты на жесточайшего серийного убийцу из Уичито",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Бомбора",
             "shelf": "bombora duglas btk wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007131735/o/3e41/__Proniknut_v_mysli_BTK._Podlinnaya_istoriya_tridtsatiletnej_ohoty_na_zhestochaj.jpeg"
+        },
+        {
+            "author": "Джон Дуглас и Марк Олшейкер",
+            "book": "Охотник за разумом: Особый отдел ФБР по расследованию серийных убийств",
+            "web": "mp3",
+            "publisher": "Эксмо",
+            "shelf": "eksmo duglas wishlist"
         },
         {
             "author": "Джон Дуглас и Марк Олшейкер",
@@ -18066,7 +18079,7 @@
         {
             "author": "Сара Джио",
             "book": "Тихие слова любви",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2017",
             "publisher": "Эксмо",
             "shelf": "eksmo jio wishlist",
@@ -22888,6 +22901,7 @@
             "book": "Последний ход",
             "web": "mp3 fb2",
             "year": "2021",
+            "readDate": "2/20/23",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok psycho-thriller berton wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1006257517/o/deba/Meri_Berton__Poslednij_hod.jpeg"
@@ -23546,6 +23560,7 @@
         {
             "author": "Пола Маклейн",
             "book": "Когда звезды чернеют",
+            "web": "mp3",
             "year": "2023",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria wishlist tok-crime-fiction new 2023",
@@ -24631,6 +24646,7 @@
         {
             "author": "Лиззи Дамилола Блэкберн",
             "book": "Когда замуж, Инка?",
+            "web": "mp3",
             "year": "2023",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2023",
@@ -25952,7 +25968,8 @@
             "book": "Наследство в Тоскане",
             "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria novel wishlist 2023"
+            "shelf": "eksmo inspiria novel wishlist 2023",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001308298/COVER/cover1__w820.jpg"
         },
         {
             "author": "Долли Ольдертон",
@@ -26208,7 +26225,7 @@
             "year": "2023",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria pink-room wishlist 2023",
-            "img": "https://s1.livelib.ru/boocover/1008088000/o/701a/__Malchishki_iz_Nikelya.jpeg"
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001275137/COVER/cover1__w820.jpg"
         },
         {
             "author": "Патрик Несс",
@@ -26940,6 +26957,7 @@
         {
             "author": "Джон Маррс",
             "book": "Когда ты исчез",
+            "web": "mp3",
             "year": "2023",
             "publisher": "Эксмо",
             "shelf": "eksmo marrs wishlist new 2023",
