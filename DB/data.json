@@ -3158,7 +3158,7 @@
             "buyDate": "2/12/22",
             "price": "426",
             "shelf": "animals ebbott 2022",
-            "img": "https://static.my-shop.ru/product/3/479/4782656.jpg"
+            "img": "https://ripol.ru/pic/news/9785386146375.jpg"
         },
         {
             "author": "Джорджи Кроули",
@@ -9344,6 +9344,7 @@
             "id": "297",
             "author": "Александр Горбачев и Илья Зинин",
             "book": "Песни в пустоту. Потерянное поколение русского рока 90-х",
+            "web": "fb2",
             "year": "2014",
             "buyDate": "10/24/21",
             "price": "380",
@@ -9687,6 +9688,7 @@
             "id": "331",
             "author": "Алисия Хименес Бартлетт",
             "book": "А собаку я возьму себе",
+            "web": "fb2",
             "year": "2015",
             "buyDate": "8/8/20",
             "price": "140.5",
@@ -9716,6 +9718,7 @@
             "id": "334",
             "author": "Алисия Хименес Бартлетт",
             "book": "Не зови меня больше в Рим",
+            "web": "fb2",
             "year": "2015",
             "buyDate": "7/27/20",
             "price": "188.9",
@@ -10266,6 +10269,7 @@
             "id": "391",
             "author": "Титью Лекок",
             "book": "Три стервы",
+            "web": "fb2",
             "year": "2016",
             "buyDate": "8/8/20",
             "price": "140.5",
@@ -10461,6 +10465,7 @@
             "id": "410",
             "author": "Анна Старобинец",
             "book": "Посмотри на него",
+            "web": "fb2",
             "year": "2017",
             "publisher": "Corpus",
             "shelf": "corpus 100%doc starobinets wishlist",
@@ -10483,6 +10488,7 @@
             "id": "412",
             "author": "Дон Делилло",
             "book": "Ноль К",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "7/27/20",
             "price": "199.89",
@@ -10494,6 +10500,7 @@
             "id": "413",
             "author": "Титью Лекок",
             "book": "Закон бутерброда",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "7/23/20",
             "price": "198",
@@ -10593,6 +10600,7 @@
             "id": "422",
             "author": "Карл Проффер",
             "book": "Без купюр. Первая публикация воспоминаний об Иосифе Бродском",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "7/27/20",
             "price": "77",
@@ -10604,6 +10612,7 @@
             "id": "423",
             "author": "Фред Варгас",
             "book": "Холодное время",
+            "web": "fb2",
             "year": "2017",
             "publisher": "Corpus",
             "shelf": "corpus master-detective vargas wishlist",
@@ -10645,6 +10654,7 @@
             "id": "427",
             "author": "Кшиштоф Занусси",
             "book": "Как нам жить? Мои стратегии",
+            "web": "fb2",
             "year": "2017",
             "publisher": "Corpus",
             "shelf": "corpus wishlist",
@@ -10654,6 +10664,7 @@
             "id": "428",
             "author": "Роберто Савьяно",
             "book": "Ноль ноль ноль",
+            "web": "fb2",
             "year": "2017",
             "publisher": "Corpus",
             "shelf": "corpus 100%doc wishlist",
@@ -10685,6 +10696,7 @@
             "id": "431",
             "author": "Алисия Хименес Бартлетт",
             "book": "Убийство на фоне глянца",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "7/27/20",
             "price": "99.95",
@@ -10696,6 +10708,7 @@
             "id": "432",
             "author": "Эрик Аксл Сунд",
             "book": "Стеклянные тела",
+            "web": "fb2",
             "year": "2017",
             "publisher": "Corpus",
             "shelf": "corpus sund wishlist",
@@ -10705,6 +10718,7 @@
             "id": "433",
             "author": "Чарльз Чаплин",
             "book": "Огни рампы. Мир «Огней рампы»",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "7/27/20",
             "price": "116",
@@ -10716,6 +10730,7 @@
             "id": "435",
             "author": "Рене Нюберг",
             "book": "Последний поезд в Москву",
+            "web": "fb2",
             "year": "2017",
             "buyDate": "10/5/20",
             "price": "215",
@@ -10737,6 +10752,7 @@
             "id": "437",
             "author": "Эрик Хобсбаум",
             "book": "Разломанное время. Культура и общество в XX веке",
+            "web": "fb2",
             "year": "2017",
             "publisher": "Corpus",
             "shelf": "corpus wishlist",
@@ -10868,6 +10884,7 @@
             "id": "449",
             "author": "Алексей Бородин",
             "book": "На берегах утопий. Разговоры о театре",
+            "web": "fb2",
             "year": "2017",
             "publisher": "Corpus",
             "shelf": "corpus wishlist",
@@ -12310,6 +12327,7 @@
             "id": "585",
             "author": "Джонатан Рауш",
             "book": "Добрые инквизиторы. Власть против свободы мысли",
+            "web": "fb2",
             "year": "2020",
             "publisher": "Corpus",
             "shelf": "corpus wishlist 2020",
@@ -13458,6 +13476,7 @@
             "id": "687",
             "author": "Клэр Чемберс",
             "book": "Простые радости",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "1/20/22",
             "price": "490",
@@ -14118,7 +14137,7 @@
             "id": "748",
             "author": "Фернандо Арамбуру",
             "book": "Стрижи",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2023",
             "publisher": "Corpus",
             "shelf": "corpus aramburu wishlist new 2023",
@@ -14146,7 +14165,7 @@
             "author": "Владимир Набоков",
             "book": "Пнин",
             "year": "2023",
-            "buyDate": "2/24/23",
+            "buyDate": "2/22/23",
             "price": "300",
             "publisher": "Corpus",
             "shelf": "corpus nabokov 2023",
@@ -14249,11 +14268,13 @@
             "shelf": "corpus wishlist 2023"
         },
         {
+            "id": "763",
             "author": "Владимир Набоков",
             "book": "Взгляни на арлекинов!",
             "year": "2023",
             "publisher": "Corpus",
-            "shelf": "corpus nabokov wishlist new 2023"
+            "shelf": "corpus nabokov wishlist new 2023",
+            "img": "https://cdn.ast.ru/v2/ASE000000000870186/COVER/cover1__w600.jpg"
         },
         {
             "author": "Джон Ле Карре",
@@ -14874,7 +14895,7 @@
             "id": "n",
             "book": "Объект наблюдения. КГБ против Сахарова",
             "year": "2023",
-            "buyDate": "2/24/23",
+            "buyDate": "2/22/23",
             "price": "1166",
             "publisher": "Corpus",
             "shelf": "corpus 2023",
@@ -15855,9 +15876,19 @@
             "img": "https://ndc.book24.ru/resize/820x1192/iblock/fc3/fc3ff911348b6c7e57ec818688ffdf5d/3792c5fe7b9f6a1cc3f2dcd3d95c39d0.jpg"
         },
         {
+            "author": "Евгений Водолазкин",
+            "book": "Чагин",
+            "web": "mp3",
+            "year": "2022",
+            "readDate": "2/21/23",
+            "publisher": "Редакция Елены Шубиной",
+            "shelf": "2022",
+            "img": "https://s1.livelib.ru/boocover/1007537842/o/43e4/Evgenij_Vodolazkin__Chagin.jpeg"
+        },
+        {
             "author": "Сергей Лебеденко",
             "book": "(не)свобода",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "6/28/22",
             "readDate": "8/15/22",
@@ -16258,7 +16289,7 @@
         {
             "author": "Джефф Родки",
             "book": "В Линкольнвуде гаснет свет",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "5/6/22",
             "readDate": "6/6/22",
@@ -16334,7 +16365,7 @@
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif de-la-mott wishlist 2023",
-            "img": "https://img4.labirint.ru/rc/498f7af4dfa8c97c36ce9988ef85c9e0/594x918q80/books93/921394/cover.jpg?1676291102"
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/89/27889/1.00x-thumb.png"
         },
         {
             "author": "IAN MOORE",
@@ -16814,7 +16845,7 @@
             "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/12/27112/1.00x-thumb.png"
         },
         {
-            "book": "Агриппина. Младшая сестра Смерти",
+            "book": "Младшая сестра Смерти",
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif wishlist 2023"
@@ -16839,19 +16870,21 @@
             "shelf": "mif wishlist 2023"
         },
         {
+            "author": "Джазмин Дарзник",
+            "book": "Голос пойманной птицы",
+            "web": "fb2",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/53/29053/1.00x-thumb.png"
+        },
+        {
+            "author": "Ивонн Адхиамбо Овуор",
             "book": "Голос моря",
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif wishlist 2023",
             "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/57/29057/1.00x-thumb.png"
-        },
-        {
-            "author": "Джазмин Дарзник",
-            "book": "Голос пойманной птицы",
-            "year": "2023",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2023",
-            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/53/29053/1.00x-thumb.png"
         },
         {
             "author": "Хулия Альварес",
@@ -16913,6 +16946,7 @@
         {
             "author": "Джим Керри и Дана Вачон",
             "book": "Только правда и ничего кроме вымысла",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif wishlist 2022",
@@ -16926,6 +16960,7 @@
             "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/74/29074/1.00x-thumb.png"
         },
         {
+            "author": "Викрам Паралкар",
             "book": "Пороки и наваждения",
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
@@ -17027,12 +17062,27 @@
             "img": "https://s1.livelib.ru/boocover/1008201115/o/29ab/Uesli_Chu__Voin_pyati_Podnebesnyh_Prorochestvo.jpeg"
         },
         {
+            "author": "Тань Сью Линн",
+            "book": "Сердце Солнечного воина",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://img4.labirint.ru/rc/f7ace0e576e742b5404d4fe8ba1e1765/363x561q80/books94/931768/cover.jpg?1676035517"
+        },
+        {
             "author": "Сиран Джей Чжао",
             "book": "Iron widow 2",
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif wishlist 2023",
             "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/46/30546/1.00x-thumb.png"
+        },
+        {
+            "author": "Чхве Сагю",
+            "book": "Река, где восходит луна. Пхёнган и Ондаль",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023"
         },
         {
             "book": "War Arts Saga #2",
@@ -17253,7 +17303,8 @@
             "book": "THREADS THAT BIND",
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2023"
+            "shelf": "mif wishlist 2023",
+            "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1331235098i/13514635.jpg"
         },
         {
             "author": "Гвен Купер",
@@ -17286,7 +17337,8 @@
             "book": "Fountain Overflows",
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2023"
+            "shelf": "mif wishlist 2023",
+            "img": "https://s1.livelib.ru/boocover/1000664747/o/f12e/Rebecca_West__The_Fountain_Overflows.jpeg"
         },
         {
             "author": "Джон Гвинн",
@@ -20578,6 +20630,7 @@
         {
             "author": "Кеннет Уомак",
             "book": "Джон Леннон. 1980. Последние дни жизни",
+            "web": "fb2",
             "year": "2022",
             "buyDate": "11/8/22",
             "price": "571",
@@ -21233,6 +21286,23 @@
             "img": "https://s1.livelib.ru/boocover/1007679835/o/9bed/Elis_Fini__Temnaya_Dejzi.jpeg"
         },
         {
+            "author": "Анна Йоханнсен",
+            "book": "Мертвец на пляже",
+            "web": "fb2",
+            "year": "2023",
+            "publisher": "АСТ",
+            "shelf": "ast island wishlist 2023",
+            "img": "https://s1.livelib.ru/boocover/1007655940/o/19dd/Anna_Johannsen__Mertvets_na_plyazhe.jpeg"
+        },
+        {
+            "author": "Анна Йоханнсен",
+            "book": "Убийство на острове Фёр",
+            "year": "2023",
+            "publisher": "АСТ",
+            "shelf": "ast island wishlist 2023",
+            "img": "https://s1.livelib.ru/boocover/1008336325/o/6946/Anna_Johannsen__Ubijstvo_na_ostrove_Fjor.jpeg"
+        },
+        {
             "author": "Уильям Крюгер",
             "book": "Эта ласковая земля",
             "web": "fb2",
@@ -21701,7 +21771,7 @@
         {
             "author": "Виктория Селман",
             "book": "От самого темного сердца",
-            "web": "mp3",
+            "web": "mp3 fb2",
             "year": "2023",
             "publisher": "Эксмо",
             "shelf": "eksmo stillhouse-lake selman wishlist new 2023",
@@ -21713,6 +21783,24 @@
             "year": "2023",
             "publisher": "Эксмо",
             "shelf": "eksmo stillhouse-lake wishlist 2023"
+        },
+        {
+            "author": "Тони Бранто",
+            "book": "Смерть на фуникулере",
+            "web": "fb2",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo branto wishlist 2023",
+            "img": "https://s1.livelib.ru/boocover/1008040327/o/8a0b/Toni_Branto__Smert_na_funikulere.jpeg"
+        },
+        {
+            "author": "Тони Бранто",
+            "book": "Дом с семью головами",
+            "web": "fb2",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo branto wishlist 2023",
+            "img": "https://s1.livelib.ru/boocover/1008040312/o/fa61/Toni_Branto__Dom_s_semyu_golovami.jpeg"
         },
         {
             "author": "Алексей Поляринов",
