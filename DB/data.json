@@ -12702,7 +12702,7 @@
             "id": "618",
             "author": "Витольд Шабловский",
             "book": "Танцующие медведи. Опыт обретения свободы",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Corpus",
             "shelf": "corpus 100%doc shablowsky wishlist 2021",
@@ -13083,6 +13083,7 @@
             "book": "Неразлучные",
             "web": "mp3 fb2",
             "year": "2021",
+            "readDate": "2/26/23",
             "publisher": "Corpus",
             "shelf": "corpus discovery wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-nerazluchnye.jpg"
@@ -13263,6 +13264,7 @@
             "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "10/18/21",
+            "readDate": "2/25/23",
             "price": "451",
             "publisher": "Corpus",
             "shelf": "corpus 2021",
@@ -13396,6 +13398,7 @@
             "web": "mp3",
             "year": "2021",
             "buyDate": "10/18/21",
+            "readDate": "2/24/23",
             "price": "470",
             "publisher": "Corpus",
             "shelf": "corpus 2021",
@@ -14140,7 +14143,7 @@
             "web": "mp3 fb2",
             "year": "2023",
             "publisher": "Corpus",
-            "shelf": "corpus aramburu wishlist new 2023",
+            "shelf": "corpus aramburu wishlist 2023",
             "img": "https://www.corpus.ru/picts/products/cover1-aramburu-strizhi.jpg"
         },
         {
@@ -16953,19 +16956,28 @@
             "img": "https://s1.livelib.ru/boocover/1007644117/o/c980/Dzhim_Kerri__Tolko_pravda_i_nichego_krome_vymysla.jpeg"
         },
         {
-            "book": "De goede zoon",
-            "year": "2023",
-            "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif wishlist 2023",
-            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/74/29074/1.00x-thumb.png"
-        },
-        {
             "author": "Викрам Паралкар",
             "book": "Пороки и наваждения",
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif wishlist 2023",
             "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/86/28886/1.00x-thumb.png"
+        },
+        {
+            "author": "Викрам Паралкар",
+            "book": "Ночной театр",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/75/26175/1.00x-thumb.png"
+        },
+        {
+            "author": "Rob van Essen",
+            "book": "De goede zoon",
+            "year": "2023",
+            "publisher": "Манн, Иванов и Фербер",
+            "shelf": "mif wishlist 2023",
+            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/74/29074/1.00x-thumb.png"
         },
         {
             "book": "Птицы все знают",
@@ -17236,6 +17248,7 @@
         {
             "author": "Андреа Маджи",
             "book": "Метеориты",
+            "web": "fb2",
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif wishlist 2023",
@@ -17423,6 +17436,7 @@
         {
             "author": "Диана Куро",
             "book": "Чего хотят...",
+            "web": "fb2",
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif wishlist 2023",
@@ -19176,6 +19190,7 @@
             "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "6/30/22",
+            "readDate": "2/24/23",
             "price": "386",
             "publisher": "Фантом Пресс",
             "shelf": "fantom-press russo 2020",
@@ -24385,6 +24400,7 @@
         {
             "author": "Чак Вендиг",
             "book": "Книга несчастных случаев",
+            "web": "fb2",
             "year": "2023",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2023",
