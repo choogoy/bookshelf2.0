@@ -22273,15 +22273,15 @@
             "img": "https://cdn.eksmo.ru/v2/ITD000000001247671/COVER/cover1__w820.jpg"
         },
         {
-            "author": "Калеб Азума Нельсон",
-            "book": "В омут с головой",
+            "author": "Сарей Уокер",
+            "book": "Вишневые воры",
             "year": "2023",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2023"
         },
         {
-            "author": "Сарей Уокер",
-            "book": "Вишневые воры",
+            "author": "Анжей Тихий",
+            "book": "Нищета",
             "year": "2023",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern wishlist 2023"
@@ -22486,6 +22486,13 @@
         {
             "author": "Ольга Равн",
             "book": "Персонал",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria loft-buker wishlist 2023"
+        },
+        {
+            "author": "Мэгги Шипстед",
+            "book": "Большой круг",
             "year": "2023",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-buker wishlist 2023"
@@ -22709,6 +22716,14 @@
             "book": "Даже если всему придет конец",
             "year": "2023",
             "publisher": "Эксмо",
+            "shelf": "eksmo inspiria loft wishlist 2023",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001253301/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Хлои Тиммс",
+            "book": "Морские женщины",
+            "year": "2023",
+            "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft wishlist 2023"
         },
         {
@@ -22728,6 +22743,13 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft wishlist 2022",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001263470/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Брендон Тейлор",
+            "book": "Грязные животные",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria loft wishlist 2023"
         },
         {
             "author": "Мариана Энрикес",
@@ -23070,6 +23092,13 @@
             "img": "https://cdn.eksmo.ru/v2/ITD000000001287849/COVER/cover1__w820.jpg"
         },
         {
+            "author": "Майк Омер",
+            "book": "Разрушенные намерения",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria tok psycho-thriller omer wishlist 2023"
+        },
+        {
             "author": "Мэри Бёртон",
             "book": "Последний ход",
             "web": "mp3 fb2",
@@ -23354,8 +23383,15 @@
             "book": "Последний дом на Никчемной улице",
             "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok wishlist 2023",
+            "shelf": "eksmo inspiria tok mystic-thriller wishlist 2023",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001317204/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Изабель Каньяс",
+            "book": "Асьенда",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria tok mystic-thriller wishlist 2023"
         },
         {
             "author": "Риа Фрай",
@@ -23677,6 +23713,13 @@
             "img": "https://cdn.eksmo.ru/v2/ITD000000001138709/COVER/cover1__w820.jpg"
         },
         {
+            "author": "Энн Кливз",
+            "book": "Комната из стекла",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria tok klivs wishlist 2023"
+        },
+        {
             "author": "Ким Слэйтер",
             "book": "Запертая в своем теле",
             "web": "mp3 fb2",
@@ -23875,6 +23918,13 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist sloter 2022",
             "img": "https://s1.livelib.ru/boocover/1007565406/o/b06f/Karin_Sloter__Oskolki_proshlogo.jpeg"
+        },
+        {
+            "author": "Карин Слотер",
+            "book": "Пропавшая девушка",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria tok wishlist sloter 2023"
         },
         {
             "author": "Натали Дэниелс",
@@ -24090,7 +24140,8 @@
             "book": "Тринадцать",
             "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok-britain wishlist 2023"
+            "shelf": "eksmo inspiria tok-britain wishlist 2023",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001317983/COVER/cover1__w820.jpg"
         },
         {
             "author": "Шарлотта Линк",
@@ -24230,6 +24281,13 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-japan isaka 2022",
             "img": "https://s1.livelib.ru/boocover/1007642230/o/5f5a/Kotaro_Isaka__Kuznechik.jpeg"
+        },
+        {
+            "author": "Кэйго Хигасино",
+            "book": "Черный шоумен и убийство в безымянном городе",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo tok-japan inspiria wishlist 2023"
         },
         {
             "author": "Ремигиуш Мруз",
@@ -24866,6 +24924,13 @@
             "shelf": "eksmo inspiria cupcake wishlist 2023"
         },
         {
+            "author": "Брук Берроуз",
+            "book": "Брачный код",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria cupcake wishlist 2023"
+        },
+        {
             "author": "Кристин Бейли",
             "book": "Ну и где моя личная жизнь? (усл. назв.)",
             "year": "2023",
@@ -24889,7 +24954,7 @@
         },
         {
             "author": "Хуан Анна",
-            "book": "Twisted Love. Непостижимая любовь",
+            "book": "Разрушительная любовь",
             "year": "2023",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2023"
@@ -25552,6 +25617,7 @@
             "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "1/27/22",
+            "readDate": "3/6/23",
             "price": "393",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel 2022",
@@ -25685,6 +25751,13 @@
             "img": "https://s1.livelib.ru/boocover/1006205776/o/b79e/Sharlotta_Link__Dom_sester.jpeg"
         },
         {
+            "author": "Долорес Редондо",
+            "book": "Откровение в Галисии",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria novel novel-spain wishlist 2023"
+        },
+        {
             "author": "Эбби Гривз",
             "book": "Игра в молчанку",
             "web": "mp3 fb2",
@@ -25748,13 +25821,28 @@
             "img": "https://s1.livelib.ru/boocover/1006147381/o/487a/Trejsi_GarvisGrejvs__Na_ostrove.jpeg"
         },
         {
-            "author": "Аннабел Эббс",
+            "author": "Кристина Клэнси",
+            "book": "Второй дом",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria novel wishlist 2023"
+        },
+        {
+            "author": "Аннабель Эббс",
             "book": "На кухне мисс Элизы",
             "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1007102173/o/ff6c/Annabel_Ebbs__Na_kuhne_miss_Elizy.jpeg"
+        },
+        {
+            "author": "Аннабель Эббс",
+            "book": "Фрида",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria novel wishlist 2023",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001248506/COVER/cover1__w820.jpg"
         },
         {
             "author": "Дженнифер Вайнер",
@@ -26001,24 +26089,17 @@
         },
         {
             "author": "Фрида Шибек",
-            "book": "Навсегда в моем сердце",
-            "year": "2023",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria novel shibek wishlist new 2023"
-        },
-        {
-            "author": "Фрида Шибек",
-            "book": "Bokskåpets hemlighet",
+            "book": "Секрет книжного шкафа",
             "year": "2023",
             "shelf": "shibek wishlist 2023",
             "img": "https://i0.wp.com/lbforlag.se/wp-content/uploads/2020/04/skyback_boksapets_hemlighet_omslag_inb.jpg?resize=960%2C1484&ssl=1"
         },
         {
-            "author": "Шейла Уильямс",
-            "book": "Женские тайны",
+            "author": "Фрида Шибек",
+            "book": "Навсегда в моем сердце",
             "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria novel wishlist 2023"
+            "shelf": "eksmo inspiria novel shibek wishlist new 2023"
         },
         {
             "author": "Бобби Палмер",
@@ -26134,8 +26215,16 @@
             "img": "https://cdn.eksmo.ru/v2/ITD000000001246857/COVER/cover1__w820.jpg"
         },
         {
-            "author": "Аннабель Эббс",
-            "book": "Фрида",
+            "author": "Наташа Лестер",
+            "book": "Швея из Парижа",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria novel wishlist 2023",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001195500/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Наташа Лестер",
+            "book": "Парижские секреты",
             "year": "2023",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2023"
@@ -26222,6 +26311,20 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2023",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001287660/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Лорена Хьюс",
+            "book": "Испанская дочь",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria novel wishlist 2023"
+        },
+        {
+            "author": "Мэгги О'Фаррелл",
+            "book": "Супружеский портрет",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria novel wishlist 2023"
         },
         {
             "author": "Кэрол Мэттьюс",
@@ -26384,6 +26487,13 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria pink-room brandy wishlist 2023",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001310758/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Меган Брэнди",
+            "book": "Сломай меня",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria pink-room brandy wishlist 2023"
         },
         {
             "author": "Рейчел Линн Соломон",
@@ -26889,6 +26999,22 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria wishlist 2023",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001247581/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Калеб Азума Нельсон",
+            "book": "В омут с головой",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2023",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001199903/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Амбер Медланд",
+            "book": "Дикие питомцы",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria wishlist 2023",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001199836/COVER/cover1__w820.jpg"
         },
         {
             "author": "Кристал Маркис",
