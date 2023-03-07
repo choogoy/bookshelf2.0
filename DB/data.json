@@ -3038,8 +3038,16 @@
             "book": "Микки-7",
             "year": "2023",
             "publisher": "Аркадия",
-            "shelf": "wishlist new 2023",
+            "shelf": "arkadia wishlist new 2023",
             "img": "https://s1.livelib.ru/boocover/1008326245/o/076b/Edvard_Eshton__Mikki7.jpeg"
+        },
+        {
+            "author": "Старк Холборн",
+            "book": "Десятка Лоу",
+            "year": "2023",
+            "publisher": "Аркадия",
+            "shelf": "arkadia wishlist new 2023",
+            "img": "https://s1.livelib.ru/boocover/1008326263/o/2b1e/Stark_Holborn__Desyatka_Lou.jpeg"
         },
         {
             "author": "Бернхард Шлинк",
@@ -14169,8 +14177,10 @@
             "author": "Ханья Янагихара",
             "book": "В сторону рая",
             "year": "2023",
+            "buyDate": "3/25/23",
+            "price": "889",
             "publisher": "Corpus",
-            "shelf": "ianagihara corpus wishlist new 2023",
+            "shelf": "ianagihara corpus 2023",
             "img": "https://www.corpus.ru/picts/products/cover_1-yanagihara-rai.jpg"
         },
         {
@@ -14255,8 +14265,9 @@
             "img": "https://www.corpus.ru/picts/products/cover1-ord.jpg"
         },
         {
+            "id": "759",
             "author": "Лорен Грофф",
-            "book": "Мать-настоятельница",
+            "book": "Аббатиса",
             "year": "2023",
             "publisher": "Corpus",
             "shelf": "corpus wishlist 2023"
@@ -15912,7 +15923,7 @@
             "year": "2022",
             "readDate": "2/21/23",
             "publisher": "Редакция Елены Шубиной",
-            "shelf": "2022",
+            "shelf": "2022 wishlist",
             "img": "https://s1.livelib.ru/boocover/1007537842/o/43e4/Evgenij_Vodolazkin__Chagin.jpeg"
         },
         {
@@ -16365,10 +16376,8 @@
             "author": "Ричард Осман",
             "book": "Выстрел мимо цели",
             "year": "2023",
-            "buyDate": "3/3/23",
-            "price": "485",
             "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif osman 2023",
+            "shelf": "mif osman wishlist new 2023",
             "img": "https://s1.livelib.ru/boocover/1008030898/o/71b0/Richard_Osman__Vystrel_mimo_tseli.jpeg"
         },
         {
@@ -21213,20 +21222,22 @@
             "img": "https://s1.livelib.ru/boocover/1007502397/o/fe23/Helena_Tursten__Freken_Mod_zadumala_chtoto_nedobroe.jpeg"
         },
         {
+            "author": "Хейзел Прайор",
+            "book": "Пингвины зовут",
+            "year": "2023",
+            "buyDate": "3/18/23",
+            "price": "413",
+            "publisher": "АСТ",
+            "shelf": "ast miracle prior 2023",
+            "img": "https://cdn.ast.ru/v2/ASE000000000865370/COVER/cover1__w600.jpg"
+        },
+        {
             "author": "Хелена Турстен",
             "book": "Фрекен Мод просила ее не беспокоить",
             "year": "2023",
             "publisher": "АСТ",
             "shelf": "ast miracle tursten wishlist new 2023",
             "img": "https://cdn.ast.ru/v2/ASE000000000867423/COVER/cover1__w600.jpg"
-        },
-        {
-            "author": "Хейзел Прайор",
-            "book": "Пингвины зовут",
-            "year": "2023",
-            "publisher": "АСТ",
-            "shelf": "ast miracle prior wishlist new 2023",
-            "img": "https://cdn.ast.ru/v2/ASE000000000865370/COVER/cover1__w600.jpg"
         },
         {
             "author": "Луанн Райс",
@@ -22021,6 +22032,7 @@
         {
             "author": "Люба Макаревская",
             "book": "Третья стадия",
+            "web": "mp3",
             "year": "2023",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria loft-modern-moment wishlist 2023",
@@ -23564,7 +23576,7 @@
         {
             "author": "Катриона Уорд",
             "book": "Страшные истории Сандайла",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok wishlist 2022",
@@ -24302,7 +24314,7 @@
         {
             "author": "Анита Шивакумаран",
             "book": "Холодное солнце",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok-india wishlist 2022",
@@ -24821,6 +24833,7 @@
         {
             "author": "Эмили Стоун",
             "book": "Всегда в декабре",
+            "web": "mp3",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2022",
@@ -24940,6 +24953,7 @@
         {
             "author": "Тесса Бейли",
             "book": "Что случилось этим летом",
+            "web": "mp3",
             "year": "2023",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2023",
@@ -25919,6 +25933,7 @@
         {
             "author": "Барбара Дэвис",
             "book": "Когда наступит никогда",
+            "web": "mp3",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
@@ -26042,7 +26057,8 @@
         },
         {
             "author": "Элизабет Фримантл",
-            "book": "Гамбит королевы (#1)",
+            "book": "Гамбит королевы",
+            "web": "mp3",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
@@ -26104,7 +26120,7 @@
         {
             "author": "Бобби Палмер",
             "book": "Айзек и яйцо",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2022",
@@ -26248,6 +26264,7 @@
         {
             "author": "Джоанна Куинн",
             "book": "Театр китового уса",
+            "web": "mp3",
             "year": "2023",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2023",
@@ -26750,7 +26767,7 @@
         {
             "author": "Кит Томас",
             "book": "Далия Блэк. Хроника Вознесения",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum wishlist 2021",
