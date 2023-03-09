@@ -12727,6 +12727,7 @@
             "book": "Танцующие медведи. Опыт обретения свободы",
             "web": "mp3 fb2",
             "year": "2021",
+            "readDate": "3/8/23",
             "publisher": "Corpus",
             "shelf": "corpus 100%doc shablowsky wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-shablovskiy.jpg"
@@ -12745,8 +12746,9 @@
             "id": "620",
             "author": "Филипп Шотт",
             "book": "Случайный ветеринар. Записки практикующего айболита",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
+            "readDate": "3/8/23",
             "publisher": "Corpus",
             "shelf": "corpus 100%doc shott wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/cover1-aibolit.jpg"
@@ -12811,7 +12813,7 @@
             "id": "626",
             "author": "Аньес Мартен-Люган",
             "book": "Мне надо кое в чем тебе признаться…",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "3/31/21",
             "readDate": "12/21/21",
@@ -12917,6 +12919,7 @@
             "book": "Год магического мышления",
             "web": "mp3 fb2",
             "year": "2021",
+            "readDate": "3/9/23",
             "publisher": "Corpus",
             "shelf": "corpus didion wishlist 2021",
             "img": "https://www.corpus.ru/picts/products/didion-new-cover.jpg"
@@ -12994,6 +12997,7 @@
             "web": "mp3 fb2",
             "year": "2021",
             "buyDate": "6/18/21",
+            "readDate": "3/7/23",
             "price": "386",
             "publisher": "Corpus",
             "shelf": "le-karre corpus 2021",
@@ -14175,7 +14179,7 @@
         {
             "id": "749",
             "author": "Ханья Янагихара",
-            "book": "В сторону рая",
+            "book": "До самого рая",
             "year": "2023",
             "buyDate": "3/25/23",
             "price": "889",
@@ -14270,7 +14274,8 @@
             "book": "Аббатиса",
             "year": "2023",
             "publisher": "Corpus",
-            "shelf": "corpus wishlist 2023"
+            "shelf": "corpus wishlist 2023",
+            "img": "https://cdn.ast.ru/v2/ASE000000000863496/COVER/cover1__w600.jpg"
         },
         {
             "author": "Ниал Фергюсон",
@@ -14278,13 +14283,6 @@
             "year": "2023",
             "publisher": "Corpus",
             "shelf": "corpus nial wishlist 2023"
-        },
-        {
-            "author": "Мишель Уэльбек",
-            "book": "Реплики 2020",
-            "year": "2023",
-            "publisher": "Corpus",
-            "shelf": "houellebecq corpus wishlist new 2023"
         },
         {
             "author": "Карло Чиполла",
@@ -14300,6 +14298,14 @@
             "year": "2023",
             "publisher": "Corpus",
             "shelf": "corpus wishlist 2023"
+        },
+        {
+            "id": "762",
+            "author": "Мишель Уэльбек",
+            "book": "Реплики 2020. Статьи, эссе, интервью",
+            "year": "2023",
+            "publisher": "Corpus",
+            "shelf": "houellebecq corpus wishlist new 2023"
         },
         {
             "id": "763",
@@ -16884,6 +16890,7 @@
             "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/12/27112/1.00x-thumb.png"
         },
         {
+            "author": "Елена Станиславская",
             "book": "Младшая сестра Смерти",
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
@@ -17185,11 +17192,12 @@
             "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/67/29667/1.00x-thumb.png"
         },
         {
+            "author": "Дж. М. Миро",
             "book": "Обыкновенные монстры",
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif wishlist 2023",
-            "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/62/29062/1.00x-thumb.png"
+            "img": "https://cdn.book24.ru/v2/MIF00034971/COVER/cover13d__w410.webp"
         },
         {
             "book": "LIGHTLARK",
@@ -24796,13 +24804,12 @@
             "img": "https://s1.livelib.ru/boocover/1006998136/o/c989/Kejt_StejmanLondon__Holostyachka.jpeg"
         },
         {
-            "author": "Фиона Гибсон",
-            "book": "Когда жизнь подкидывает тебе лимоны",
-            "web": "mp3 fb2",
+            "author": "Дебби Джонсон",
+            "book": "Может быть, однажды",
             "year": "2022",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2022",
-            "img": "https://s1.livelib.ru/boocover/1006998142/o/8d73/Fiona_Gibson__Kogda_zhizn_podkidyvaet_tebe_limony.jpeg"
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001202594/COVER/cover1__w820.jpg"
         },
         {
             "author": "Стефани Эванович",
@@ -24814,14 +24821,6 @@
             "img": "https://cdn.eksmo.ru/v2/ITD000000001234110/COVER/cover1__w820.jpg"
         },
         {
-            "author": "Дебби Джонсон",
-            "book": "Может быть, однажды",
-            "year": "2022",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria cupcake wishlist 2022",
-            "img": "https://cdn.eksmo.ru/v2/ITD000000001202594/COVER/cover1__w820.jpg"
-        },
-        {
             "author": "Фири Макфолен",
             "book": "Если бы я не встретила тебя",
             "web": "fb2",
@@ -24831,6 +24830,22 @@
             "img": "https://cdn.eksmo.ru/v2/ITD000000001252464/COVER/cover1__w820.jpg"
         },
         {
+            "author": "Фири Макфолен",
+            "book": "Помни меня",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria cupcake wishlist 2023"
+        },
+        {
+            "author": "Фиона Гибсон",
+            "book": "Когда жизнь подкидывает тебе лимоны",
+            "web": "mp3 fb2",
+            "year": "2022",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria cupcake wishlist 2022",
+            "img": "https://s1.livelib.ru/boocover/1006998142/o/8d73/Fiona_Gibson__Kogda_zhizn_podkidyvaet_tebe_limony.jpeg"
+        },
+        {
             "author": "Эмили Стоун",
             "book": "Всегда в декабре",
             "web": "mp3",
@@ -24838,13 +24853,6 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria cupcake wishlist 2022",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001252509/COVER/cover1__w820.jpg"
-        },
-        {
-            "author": "Фири Макфолен",
-            "book": "Помни меня",
-            "year": "2023",
-            "publisher": "Эксмо",
-            "shelf": "eksmo inspiria cupcake wishlist 2023"
         },
         {
             "author": "Кристоффер Хольст",
@@ -25346,7 +25354,7 @@
             "buyDate": "2/3/21",
             "price": "297.31",
             "publisher": "Эксмо",
-            "shelf": "inspiria fedra bookstore eksmo novel-books 2021",
+            "shelf": "inspiria fedra bookstore eksmo novel novel-books 2021",
             "img": "https://s1.livelib.ru/boocover/1005478291/o/4556/Fedra_Patrik__Biblioteka_utrat_i_nahodok.jpeg"
         },
         {
@@ -25357,7 +25365,7 @@
             "buyDate": "12/13/21",
             "price": "347",
             "publisher": "Эксмо",
-            "shelf": "bookstore eksmo inspiria novel-books 2021",
+            "shelf": "bookstore eksmo inspiria novel novel-books 2021",
             "img": "https://s1.livelib.ru/boocover/1006834942/o/0ffc/Aleks_Kristofi__Dostoevskij_in_love.jpeg"
         },
         {
@@ -25365,7 +25373,7 @@
             "book": "Женские тайны",
             "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria novel wishlist 2023"
+            "shelf": "eksmo inspiria novel novel-books wishlist 2023"
         },
         {
             "author": "Тара Конклин",
@@ -25512,6 +25520,7 @@
         {
             "author": "Джанис Парьят",
             "book": "Морской конек",
+            "web": "mp3",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria novel wishlist 2021",
@@ -25698,7 +25707,7 @@
             "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria novel-magic wishlist 2021",
+            "shelf": "eksmo inspiria novel novel-magic wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1005935242/o/6f11/Hezer_Uebber__Polnoch_v_kafe_ampquotChernyj_drozdampquot.jpeg"
         },
         {
@@ -25707,16 +25716,16 @@
             "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria novel-magic wishlist 2021",
+            "shelf": "eksmo inspiria novel novel-magic wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1006280590/o/10f8/Hezer_Uebber__K_yugu_ot_platana.jpeg"
         },
         {
             "author": "Мелисса Пейн",
             "book": "Тайны утерянных камней",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria novel-magic wishlist 2021",
+            "shelf": "eksmo inspiria novel novel-magic wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1006834921/o/e1c7/Melissa_Pejn__Tajny_uteryannyh_kamnej.jpeg"
         },
         {
@@ -25725,7 +25734,7 @@
             "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria novel-magic wishlist 2021",
+            "shelf": "eksmo inspiria novel novel-magic wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1006290355/o/78d4/Elis_Hoffman__Uroki_magii.jpeg"
         },
         {
@@ -25734,7 +25743,7 @@
             "web": "mp3",
             "year": "2021",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria novel-magic wishlist 2021",
+            "shelf": "eksmo inspiria novel novel-magic wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1006834924/o/0b1c/Elis_Hoffman__Prakticheskaya_magiya.jpeg"
         },
         {
@@ -25743,7 +25752,7 @@
             "web": "mp3",
             "year": "2022",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria novel-magic wishlist 2022",
+            "shelf": "eksmo inspiria novel novel-magic wishlist 2022",
             "img": "https://s1.livelib.ru/boocover/1006906096/o/0d38/Elis_Hoffman__Pravila_magii.jpeg"
         },
         {
@@ -25752,7 +25761,7 @@
             "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria novel-germany link wishlist 2021",
+            "shelf": "eksmo inspiria novel novel-germany link wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1006917514/o/a81b/Sharlotta_Link__Obmanutaya.jpeg"
         },
         {
@@ -25761,7 +25770,7 @@
             "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria novel-germany link wishlist 2021",
+            "shelf": "eksmo inspiria novel novel-germany link wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1006205776/o/b79e/Sharlotta_Link__Dom_sester.jpeg"
         },
         {
@@ -26250,7 +26259,7 @@
             "book": "Весенний роман",
             "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo novel wishlist 2023",
+            "shelf": "eksmo wishlist 2023",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001308243/COVER/cover1__w820.jpg"
         },
         {
@@ -26872,6 +26881,13 @@
             "img": "https://s1.livelib.ru/boocover/1006993828/o/fc62/Nora_Roberts__Rastsvet_magii.jpeg"
         },
         {
+            "author": "Нора Робертс",
+            "book": "Пробуждение",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2023"
+        },
+        {
             "author": "Виктория Шваб",
             "book": "Незримая жизнь Адди Ларю",
             "web": "mp3 fb2",
@@ -26891,7 +26907,7 @@
         },
         {
             "book": "Вперед",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2021",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum wishlist 2021",
@@ -26923,6 +26939,13 @@
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria universum wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1006847527/o/e1b6/Una_Hart__Kogda_zapoyut_mertvetsy.jpeg"
+        },
+        {
+            "author": "Уна Харт",
+            "book": "Хозяйка Шварцвальда",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria universum wishlist 2023"
         },
         {
             "author": "Женевьева Горничек",
@@ -27007,22 +27030,37 @@
             "book": "Люди удачи",
             "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria wishlist 2023"
+            "shelf": "eksmo inspiria perevedeno wishlist 2023",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001250982/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Мириам Тэйвз",
+            "book": "Говорят женщины",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria perevedeno wishlist 2023"
         },
         {
             "author": "Мег Мэйсон",
             "book": "И в горе, и в радости",
             "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria wishlist 2023",
+            "shelf": "eksmo inspiria perevedeno wishlist 2023",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001247581/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Дженнифер Хей",
+            "book": "Улица милосердия",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria perevedeno wishlist 2023"
         },
         {
             "author": "Калеб Азума Нельсон",
             "book": "В омут с головой",
             "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria wishlist 2023",
+            "shelf": "eksmo inspiria perevedeno wishlist 2023",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001199903/COVER/cover1__w820.jpg"
         },
         {
@@ -27030,8 +27068,15 @@
             "book": "Дикие питомцы",
             "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria wishlist 2023",
+            "shelf": "eksmo inspiria perevedeno wishlist 2023",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001199836/COVER/cover1__w820.jpg"
+        },
+        {
+            "author": "Бернадин Эваристо",
+            "book": "Девушка, женщина, иная",
+            "year": "2023",
+            "publisher": "Эксмо",
+            "shelf": "eksmo inspiria perevedeno wishlist 2023"
         },
         {
             "author": "Кристал Маркис",
