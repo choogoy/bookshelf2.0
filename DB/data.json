@@ -1557,6 +1557,7 @@
             "web": "mp3 fb2",
             "year": "2017",
             "buyDate": "4/28/17",
+            "readDate": "3/10/23",
             "price": "268",
             "shelf": "verber",
             "img": "https://s1.livelib.ru/boocover/1002211447/o/9106/Bernar_Verber__Zavtrashnij_den_koshki.jpeg"
@@ -1589,6 +1590,7 @@
             "web": "mp3 fb2",
             "year": "2020",
             "buyDate": "9/9/20",
+            "readDate": "3/12/23",
             "price": "322",
             "publisher": "Эксмо",
             "shelf": "verber eksmo 2020",
@@ -1600,6 +1602,7 @@
             "web": "mp3 fb2",
             "year": "2022",
             "buyDate": "2/26/22",
+            "readDate": "3/13/23",
             "price": "370",
             "publisher": "Эксмо",
             "shelf": "verber eksmo 2022",
@@ -12084,6 +12087,7 @@
             "web": "mp3 fb2",
             "year": "2019",
             "buyDate": "8/7/20",
+            "readDate": "3/12/23",
             "price": "290",
             "publisher": "Corpus",
             "shelf": "pikkolo corpus",
@@ -14305,7 +14309,8 @@
             "book": "Реплики 2020. Статьи, эссе, интервью",
             "year": "2023",
             "publisher": "Corpus",
-            "shelf": "houellebecq corpus wishlist new 2023"
+            "shelf": "houellebecq corpus wishlist new 2023",
+            "img": "https://cdn.ast.ru/v2/ASE000000000868187/COVER/cover1__w600.jpg"
         },
         {
             "id": "763",
@@ -16772,6 +16777,7 @@
         {
             "author": "Элоди Харпер",
             "book": "Дом с золотой дверью",
+            "web": "fb2",
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
             "shelf": "mif harper wishlist 2023",
@@ -16782,7 +16788,7 @@
             "book": "Поражение Федры",
             "year": "2023",
             "publisher": "Манн, Иванов и Фербер",
-            "shelf": "mif harper wishlist 2023",
+            "shelf": "mif wishlist 2023",
             "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/85/30485/1.00x-thumb.png"
         },
         {
@@ -21234,7 +21240,7 @@
             "book": "Пингвины зовут",
             "year": "2023",
             "buyDate": "3/18/23",
-            "price": "413",
+            "price": "384",
             "publisher": "АСТ",
             "shelf": "ast miracle prior 2023",
             "img": "https://cdn.ast.ru/v2/ASE000000000865370/COVER/cover1__w600.jpg"
@@ -23169,7 +23175,7 @@
         {
             "author": "Изабелла Мальдонадо",
             "book": "Високосный убийца",
-            "web": "fb2",
+            "web": "mp3 fb2",
             "year": "2023",
             "readDate": "2/12/23",
             "publisher": "Эксмо",
@@ -23181,6 +23187,7 @@
             "book": "Границы безумия",
             "web": "mp3 fb2",
             "year": "2021",
+            "readDate": "3/12/23",
             "publisher": "Эксмо",
             "shelf": "eksmo inspiria tok psycho-thriller selman wishlist 2021",
             "img": "https://s1.livelib.ru/boocover/1005948088/o/5294/Viktoriya_Selman__Granitsy_bezumiya.jpeg"
@@ -23333,15 +23340,16 @@
             "web": "mp3 fb2",
             "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok wishlist new 2023",
+            "shelf": "eksmo inspiria tok wishlist 2023",
             "img": "https://s1.livelib.ru/boocover/1007748838/o/5bf8/Dzhenis_Hallett__Kod_Tvajford.jpeg"
         },
         {
             "author": "Дженис Халлетт",
             "book": "Что написал убийца",
+            "web": "mp3 fb2",
             "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok wishlist new 2023",
+            "shelf": "eksmo inspiria tok wishlist 2023",
             "img": "https://cdn.eksmo.ru/v2/ITD000000001296686/COVER/cover1__w820.jpg"
         },
         {
@@ -23543,7 +23551,8 @@
             "book": "Смерть под ее кожей",
             "year": "2023",
             "publisher": "Эксмо",
-            "shelf": "eksmo inspiria tok wishlist 2023"
+            "shelf": "eksmo inspiria tok wishlist 2023",
+            "img": "https://cdn.eksmo.ru/v2/ITD000000001265801/COVER/cover1__w820.jpg"
         },
         {
             "author": "Меган Миранда",
