@@ -1,9 +1,10 @@
 const renderTags = data => {
+
     const categoriesList = document.querySelector('.categories__list');
     const shelfs = [];
 
-    data.forEach(item => {       
-        item.shelf.forEach(elem => {
+    data.forEach( ({ shelf }) => {   
+        shelf.forEach(elem => {
             if (shelfs.indexOf(elem) === -1 && elem != "") {
                 shelfs.push(elem);
             }
