@@ -22,6 +22,33 @@ const renderTags = data => {
             <div class="nav-category">Только бумажные книги</div>          
         </li>
         <li class="categories__item">        
+            <div class="nav-category">Нет в электронном виде</div>          
+        </li>
+        <li class="categories__item">        
+            <div class="nav-category">Нет в электронном виде-2022</div>          
+        </li>
+        <li class="categories__item">        
+            <div class="nav-category">Нет в электронном виде-2023</div>          
+        </li>
+        <li class="categories__item">        
+            <div class="nav-category">Только аудио</div>          
+        </li>
+        <li class="categories__item">        
+            <div class="nav-category">Только аудио-2022</div>          
+        </li>
+        <li class="categories__item">        
+            <div class="nav-category">Только аудио-2023</div>          
+        </li>
+        <li class="categories__item">        
+            <div class="nav-category">Только электронные</div>          
+        </li>
+        <li class="categories__item">        
+            <div class="nav-category">Только электронные-2022</div>          
+        </li>
+        <li class="categories__item">        
+            <div class="nav-category">Только электронные-2023</div>          
+        </li>
+        <li class="categories__item">        
             <div class="nav-category">Без категории</div>          
         </li>`);
 
