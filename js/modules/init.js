@@ -11,17 +11,20 @@ import prettify from './prettify.js';
 import renderCart from './renderCart.js';
 import orderModal from './orderModal.js';
 import hideSearch from './hideSearch.js';
+import renderFilter from './renderFilter.js';
 
 const init = response => {
 
     const modal = document.querySelector('.modal');
     const cart = document.querySelector('.cart');
+    const filterBtn = document.querySelector('.filter-btn');
 
     response.sort((a, b) => b.buyDate - a.buyDate);
 
     renderSlider(response);
     renderTags(response);
     searchBooks(response);
+    // console.log(renderFilters(response));
     checkStorage(response);
 
     const categoriesList = document.querySelector('.categories__list');
@@ -108,163 +111,83 @@ const init = response => {
             if (category === 'Все книги') {
                 renderContent(response);
                 pagination(response.length, 12, 1, response);
-            }
-            
-            else if (category === 'Прочитанные') {
+            } else if (category === 'Прочитанные') {
                 const readBooks = response.filter(item => item.readDate);
                 pagination(readBooks.length, 12, 1, readBooks);
-            }
-            
-            else if (category === 'Только бумажные книги') {
+            } else if (category === 'Только бумажные книги') {
                 const paperBooks = response.filter(item => {
                     if ((item.web.length === 0 || (item.web.length === 1 & item.web[0] === 'pdf')) & !item.shelf.includes('wishlist')) {
                         return item;
                     }
                 });
                 pagination(paperBooks.length, 12, 1, paperBooks);
-            }
-            
-            else if (category === 'Нет в электронном виде') {
+            } else if (category === 'Нет в электронном виде') {
                 const notBooks = response.filter(item => {
                     if (item.web.length === 0 & item.shelf.includes('wishlist')) {
                         return item;
                     }
                 });
                 pagination(notBooks.length, 12, 1, notBooks);
-            }
-
-            else if (category === 'Нет в электронном виде-2021') {
-                const notBooks2021 = response.filter(item => {
-                    if (item.shelf.includes('2021') & item.web.length === 0 & item.shelf.includes('wishlist')) {
-                        return item;
-                    }
-                });
-                pagination(notBooks2021.length, 12, 1, notBooks2021);
-            }
-
-            else if (category === 'Нет в электронном виде-2022') {
+            } else if (category === 'Нет в электронном виде-2022') {
                 const notBooks2022 = response.filter(item => {
                     if (item.shelf.includes('2022') & item.web.length === 0 & item.shelf.includes('wishlist')) {
                         return item;
                     }
                 });
                 pagination(notBooks2022.length, 12, 1, notBooks2022);
-            }
-            
-            else if (category === 'Нет в электронном виде-2023') {
+            } else if (category === 'Нет в электронном виде-2023') {
                 const notBooks2023 = response.filter(item => {
                     if (item.shelf.includes('2023') & item.web.length === 0 & item.shelf.includes('wishlist')) {
                         return item;
                     }
                 });
                 pagination(notBooks2023.length, 12, 1, notBooks2023);
-            }
-            
-            else if (category === 'Нет в электронном виде-2024') {
-                const notBooks2024 = response.filter(item => {
-                    if (item.shelf.includes('2024') & item.web.length === 0 & item.shelf.includes('wishlist')) {
-                        return item;
-                    }
-                });
-                pagination(notBooks2024.length, 12, 1, notBooks2024);
-            }
-
-            else if (category === 'Только аудио') {
+            } else if (category === 'Только аудио') {
                 const audioBooks = response.filter(item => {
                     if (item.web.length > 0 & item.web.includes('mp3') & !item.web.includes('fb2')) {
                         return item;
                     }
                 });
                 pagination(audioBooks.length, 12, 1, audioBooks);
-            }
-
-            else if (category === 'Только аудио-2021') {
-                const audioBooks2021 = response.filter(item => {
-                    if (item.shelf.includes('2021') & item.web.length > 0 & item.web.includes('mp3') & !item.web.includes('fb2')) {
-                        return item;
-                    }
-                });
-                pagination(audioBooks2021.length, 12, 1, audioBooks2021);
-            }
-
-            else if (category === 'Только аудио-2022') {
+            } else if (category === 'Только аудио-2022') {
                 const audioBooks2022 = response.filter(item => {
                     if (item.shelf.includes('2022') & item.web.length > 0 & item.web.includes('mp3') & !item.web.includes('fb2')) {
                         return item;
                     }
                 });
                 pagination(audioBooks2022.length, 12, 1, audioBooks2022);
-            }
-            
-            else if (category === 'Только аудио-2023') {
+            } else if (category === 'Только аудио-2023') {
                 const audioBooks2023 = response.filter(item => {
                     if (item.shelf.includes('2023') & item.web.length > 0 & item.web.includes('mp3') & !item.web.includes('fb2')) {
                         return item;
                     }
                 });
                 pagination(audioBooks2023.length, 12, 1, audioBooks2023);
-            }
-
-            else if (category === 'Только аудио-2024') {
-                const audioBooks2024 = response.filter(item => {
-                    if (item.shelf.includes('2024') & item.web.length > 0 & item.web.includes('mp3') & !item.web.includes('fb2')) {
-                        return item;
-                    }
-                });
-                pagination(audioBooks2024.length, 12, 1, audioBooks2024);
-            }
-            
-            else if (category === 'Только электронные') {
+            } else if (category === 'Только электронные') {
                 const fb2Books = response.filter(item => {
                     if (item.web.length > 0 & !item.web.includes('mp3') & item.web.includes('fb2')) {
                         return item;
                     }
                 });
                 pagination(fb2Books.length, 12, 1, fb2Books);
-            }
-
-            else if (category === 'Только электронные-2021') {
-                const fb2Books2021 = response.filter(item => {
-                    if (item.shelf.includes('2021') & item.web.length > 0 & !item.web.includes('mp3') & item.web.includes('fb2')) {
-                        return item;
-                    }
-                });
-                pagination(fb2Books2021.length, 12, 1, fb2Books2021);
-            }
-            
-            else if (category === 'Только электронные-2022') {
+            } else if (category === 'Только электронные-2022') {
                 const fb2Books2022 = response.filter(item => {
                     if (item.shelf.includes('2022') & item.web.length > 0 & !item.web.includes('mp3') & item.web.includes('fb2')) {
                         return item;
                     }
                 });
                 pagination(fb2Books2022.length, 12, 1, fb2Books2022);
-            }
-            
-            else if (category === 'Только электронные-2023') {
+            } else if (category === 'Только электронные-2023') {
                 const fb2Books2023 = response.filter(item => {
                     if (item.shelf.includes('2023') & item.web.length > 0 & !item.web.includes('mp3') & item.web.includes('fb2')) {
                         return item;
                     }
                 });
                 pagination(fb2Books2023.length, 12, 1, fb2Books2023);
-            }
-
-            else if (category === 'Только электронные-2024') {
-                const fb2Books2024 = response.filter(item => {
-                    if (item.shelf.includes('2024') & item.web.length > 0 & !item.web.includes('mp3') & item.web.includes('fb2')) {
-                        return item;
-                    }
-                });
-                pagination(fb2Books2024.length, 12, 1, fb2Books2024);
-            }
-            
-            else if (category === 'Без категории') {
+            } else if (category === 'Без категории') {
                 const booksNoTags = response.filter(item => item.shelf == '');
                 pagination(booksNoTags.length, 12, 1, booksNoTags);                 
-            }
-            
-            else {
+            } else {
                 const dataCategory = response.filter(item => item.shelf.includes(category));
                 pagination(dataCategory.length, 12, 1, dataCategory);      
             }
@@ -275,6 +198,11 @@ const init = response => {
         event.preventDefault();
         renderCart(response);
     };
+
+    filterBtn.onclick = event => {
+        event.preventDefault();
+        renderFilter(response);
+    }
 
     modal.onclick = event => {
 
