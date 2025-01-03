@@ -45,3 +45,25 @@
         background-color: #fff;
     }
 }
+
+.filter-btn {
+    width: 25px;
+    height: 25px;
+    margin-right: 25px;
+    & img {
+        width: 100%;
+    }
+}
+
+.filters__list.filter-list {
+    display: flex;
+    justify-content: center;
+}
+
+.filters-list__radio {
+    margin-right: 50px;
+}
+
+.filters-list__radio-item {
+    margin-bottom: 10px;
+}
