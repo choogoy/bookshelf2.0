@@ -14,7 +14,8 @@ const renderFilters = (data, obj) => {
                 const match = start.filter( el => arr[i+1].indexOf( el ) > -1 );
                 start = match;
             }
-        
+
+            // return start;
             return data.filter(elem => start.includes(elem.bookID));
         } else return []
 
@@ -32,7 +33,7 @@ const renderFilters = (data, obj) => {
             });
         }
 
-        return data.filter(elem => resultArr.includes(elem.bookID));
+        return resultArr;
     };
 
     filters.addEventListener('change', () => {
@@ -62,10 +63,24 @@ const renderFilters = (data, obj) => {
             checkArr.add(obj[checkList[i]]);
         }
 
-        console.log();
-            // console.log(filterArr([...radioArr, [...checkArr]]));
+        if ([...checkArr].length) {
+            filterArr([...radioArr, resultCheckArr([...checkArr])]);
+            pagination(filterArr([...radioArr, resultCheckArr([...checkArr])]).length, 12, 1, filterArr([...radioArr, resultCheckArr([...checkArr])]));
+        } else {
+            filterArr(radioArr);
+            pagination(filterArr(radioArr).length, 12, 1, filterArr(radioArr));
+        }
 
-        pagination(filterArr(radioArr.concat([...checkArr])).length, 12, 1, filterArr(radioArr.concat([...checkArr])));
+        // console.log(radioArr, filterArr(radioArr));
+        // console.log(checkArr, resultCheckArr([...checkArr]));
+
+        // filterArr([...radioArr, resultCheckArr([...checkArr])]);
+        // console.log();
+            // console.log([...radioArr.concat([...checkArr])]);
+
+            // console.log(radioArr);
+
+            // console.log(checkArr);
 
 
         // console.log(filterArr(radioArr), resultCheckArr([...checkArr]));
