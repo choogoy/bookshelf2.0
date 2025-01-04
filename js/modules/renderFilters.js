@@ -15,8 +15,8 @@ const renderFilters = (data, obj) => {
                 start = match;
             }
 
-            // return start;
             return data.filter(elem => start.includes(elem.bookID));
+            
         } else return []
 
     };
@@ -64,31 +64,11 @@ const renderFilters = (data, obj) => {
         }
 
         if ([...checkArr].length) {
-            filterArr([...radioArr, resultCheckArr([...checkArr])]);
             pagination(filterArr([...radioArr, resultCheckArr([...checkArr])]).length, 12, 1, filterArr([...radioArr, resultCheckArr([...checkArr])]));
         } else {
-            filterArr(radioArr);
             pagination(filterArr(radioArr).length, 12, 1, filterArr(radioArr));
         }
 
-        // console.log(radioArr, filterArr(radioArr));
-        // console.log(checkArr, resultCheckArr([...checkArr]));
-
-        // filterArr([...radioArr, resultCheckArr([...checkArr])]);
-        // console.log();
-            // console.log([...radioArr.concat([...checkArr])]);
-
-            // console.log(radioArr);
-
-            // console.log(checkArr);
-
-
-        // console.log(filterArr(radioArr), resultCheckArr([...checkArr]));
-
-
-        // console.log(radioArr, resultCheckArr([...checkArr]));
-
-    
     });
 
 };
