@@ -23,7 +23,8 @@ const renderFilter = data => {
         2022: [],
         2023: [],
         2024: [],
-        2025: []
+        2025: [],
+        2026: []
     };
 
     let html = `<form class="filters">
@@ -115,6 +116,10 @@ const renderFilter = data => {
                                     <input type="radio" name="year" value="2025">
                                     <label for="2025">2025</label>
                                 </li>
+                                <li class="filter-list__item">
+                                    <input type="radio" name="year" value="2026">
+                                    <label for="2026">2026</label>
+                                </li>
                             </ul>
                         </ul>
                         <ul class="filters-list__checkbox">
@@ -197,6 +202,9 @@ const renderFilter = data => {
             obj[2025].push(item.bookID);
         }
 
+        if (item.shelf.includes('2026')) {
+            obj[2026].push(item.bookID);
+        }
     });
 
     const createTags = data => {
@@ -243,5 +251,6 @@ const renderFilter = data => {
     createTags(data);
     renderFilters(data, obj);
 }
+
 
 export default renderFilter;
