@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }).then(() => {
             return  gapi.client.sheets.spreadsheets.values.get({
                         spreadsheetId: SPREADSHEET_ID,
-                        range: 'books!A1:L6900', // for example: List 1!A1:B6
+                        range: 'books!A1:L7900', // for example: List 1!A1:B6
                     });
         }).then(response => init(convertData(response.result.values)));
   
